@@ -160,6 +160,11 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
     transition: min-height 0.5s ease-in-out;
     height: inherit;
 }
+@media(max-width: 50000px) {
+    div.hero-image {
+        min-height: 28125px;
+    }
+}
 @media(max-width: 10000px) {
     div.hero-image {
         min-height: 5625px;
@@ -292,22 +297,22 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 }
 @media(max-width: 700px) {
     div.hero-image {
-        min-height: 393.75px;
+        min-height: 435px;
     }
 }
 @media(max-width: 600px) {
     div.hero-image {
-        min-height: 337.5px;
+        min-height: 420px;
     }
 }
 @media(max-width: 500px) {
     div.hero-image {
-        min-height: 281.25px;
+        min-height: 410px;
     }
 }
 @media(max-width: 400px) {
     div.hero-image {
-        min-height: 225px;
+        min-height: 400px;
     }
 }
 
