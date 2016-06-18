@@ -4,7 +4,12 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
   <title>{% if page.title %}{{ page.title }} | {{ site.title[page.lang] }} | escape }}{% else %}{{ site.title[page.lang] | escape }}{% endif %}</title>
-  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
+  <meta name="description" content="{% if page.headline %}{{ page.headline | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
+  <meta property="og:description" content="{% if page.headline %}{{ page.headline | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}" />
+  <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+  <meta property="og:title" content="{{ page.title }}"/ >
+  <meta property="og:type" content="article" />
+  <meta property="og:image" content="{{ page.hero-image }}" />
   <meta name="p:domain_verify" content="c6738f935e2b420ddb8cfdafea4b4b0b"/>
 
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
@@ -14,9 +19,12 @@
   {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}{% for page in pages %}
   <link rel="alternate" hreflang="{{ page.lang }}" href="{{ page.url }}" />{% endfor %}
   
+  <link rel="icon" href="https://s-media-cache-ak0.pinimg.com/originals/77/fd/9c/77fd9c04231cc9b026484e87e8c9c758.png" />
+  
   <!-- fonts -->
   <link href='https://fonts.googleapis.com/css?family=Alegreya+Sans' rel='stylesheet' type='text/css'>
   <link href='https://fonts.googleapis.com/css?family=Expletus+Sans' rel='stylesheet' type='text/css'>
   <!--<link href='https://fonts.googleapis.com/css?family=Teko:300' rel='stylesheet' type='text/css'>-->
   <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+  
 </head>

@@ -179,7 +179,7 @@ figure.hero-image {
     margin: 0;
     box-sizing: border-box;
     overflow: hidden;
-    background-image: url(https://s-media-cache-ak0.pinimg.com/originals/43/a8/a7/43a8a7399c2606696e90a5fe1d9bfb56.jpg);
+    background-color: grey;
     background-position: top left;
     background-repeat: no-repeat;
     background-size: cover;
