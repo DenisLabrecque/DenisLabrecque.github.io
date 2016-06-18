@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+headline: "This headline explains what this page is all about in a very quick way. The headline should consist of only two or three descriptive sentences."
+hero-image: "http://3.bp.blogspot.com/-bP1ehjAHC_E/UJpmrT8AnvI/AAAAAAAANZU/eHRpS7tfk5c/s1600/F+16+Fighter+Jet+Wallpapers+03.jpg"
 ref: welcome
 date:   2016-02-29 09:48:44 +0100
-categories: jekyll update
+categories: music
 lang: en
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.

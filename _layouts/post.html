@@ -2,13 +2,22 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  
+  <figure class="hero-image" style="background-image: url( {{ page.hero-image }} )">
+    <div class="hero-image">
+      <h1 class="title"><span>{{ page.title }}</span></h1>
+      <div>
+        <h1 class="subtitle"><span>{{ page.subtitle }}</span></h1>
+      </div>
+      <p class="image-headline">Image from author under <a href="http://creativecommons.org/licenses/by/4.0/" target="_new" rel="license">Attribution 4.0 International license.</a></p>
+    </div>
+  </figure>
 
-  <header class="post-header">
-    <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-    <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-  </header>
-
-  <div class="post-content" itemprop="articleBody">
+  <div class="page-feed" itemprop="articleBody">
+    <header class="post-header">
+      <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
+      <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
+    </header>
     {{ content }}
   </div>
 
