@@ -52,16 +52,46 @@ h6 {
     font-weight: bold;
 }
 
-p.headline, nav h3, footer h3 {
-    /*font-family: "Teko", sans-serif;*/
-    font-family: "Indie Flower", cursive;
+p.image-headline {
+    font-size: 20pt;
+    position: absolute;
+    height: auto;
+    display: inline-block;
+    right: 0;
+    bottom: 0;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-size: 12pt;
+    padding: 0 15pt 5pt 10pt;
+    max-width: 85%;
+    text-align: right;
+    line-height: 100%;
 }
 p.headline {
+    /*font-family: "Teko", sans-serif;*/
+    font-family: "Indie Flower", cursive;
     font-size: 20pt;
     line-height: 150%;
     letter-spacing: 1.2pt;
     font-weight: normal;
     line-height: 150%;
+}
+nav h3 {
+    line-height: 100%;
+    font-size: 17pt;
+    margin: 0;
+    padding: 30pt 12pt 15pt 12pt;
+}
+nav ul {
+    padding: 0;
+    margin: 0;
+}
+nav li {
+    display: block;
+    margin: 0;
+    padding: 6pt 12pt 6pt 12pt;
+    font-size: 15pt;
 }
 
 a:link {
@@ -136,11 +166,12 @@ input[type=checkbox].no-display:checked ~ nav.sandwitch-menu {
 }
 input[type=checkbox].no-display:checked ~ label.no-display {
     z-index: 16;
-    background: rgba(0,0,0,0.1);
+    background: rgba(0,0,0,0.3);
 }
 input[type=checkbox].no-display {
     display: none;
 }
+
 
 figure.hero-image {
     width: 100%;
@@ -162,6 +193,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 
     transition: min-height 0.5s ease-in-out;
     height: inherit;
+    position: relative;
 }
 @media(max-width: 50000px) {
     div.hero-image {
@@ -321,7 +353,10 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 
 h1.title {
     color: white;
-    margin: 15pt 0 0 0;
+    position: absolute;
+    margin: 0;
+    top: 15pt;
+    left: 0;
 }
 h1.subtitle {
     line-height: 41pt;
@@ -329,6 +364,9 @@ h1.subtitle {
     font-size: 25pt;
     margin: 0;
     transition: ease-in-out .3s;
+    position: absolute;
+    top: 80pt;
+    left: 0;
 }
 h1.title span {
     background: rgba(82, 72, 45, .8);
@@ -390,8 +428,95 @@ div.popdown {
     overflow: hidden;
     transition: max-height 0.5s ease-in-out;
     padding: 8pt 0 8pt 0;
+    color: transparent;
+    transition: ease-in-out .5s;
 }
 input[type=checkbox].no-display:checked ~ div.popdown {
     max-height: 400px;
     overflow-y: scroll;
+    color: black;
+}
+
+
+ul.post-stream-container {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+}
+ul.post-stream-container li {
+    margin: 0 0 0 0;
+    display: inline-block;
+    justify-content: space-between;
+    width: 100%;
+    margin-bottom: 20pt;
+}
+a.post-stream-card:link {
+   color: white;
+   display: block;
+   margin: 0 0 0 0;
+   padding: 0 0 0 0;
+    background: rgb(242, 242, 242);
+}
+a.post-stream-card:hover {
+    transform: scale(1.02);
+}
+a.post-stream-card:active {
+    transform: scale(.98);
+    opacity: .5;
+}
+
+div.hero-article-thumbnail {
+    width: 100%;
+    min-height: 260px;
+    background-size: cover;
+    background-position: center center;
+    position: relative;
+}
+
+strong.article-title {
+    font-family: "Expletus Sans", "Segoe UI", "Lucidia Grande", sans-serif;
+    font-weight: normal;
+    color: white;
+    font-size: 20pt;
+    display: inline-block;
+    box-sizing: border-box;
+    position: absolute;
+    top: 10pt;
+    left: 0;
+    max-width: 85%;
+    margin: 0;
+    letter-spacing: normal;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    background: rgba(82, 72, 45, .8);
+    padding: 7pt 10pt 7pt 10pt;
+}
+strong.article-title:hover {
+    letter-spacing: normal;
+}
+
+em.article-subtitle {
+    font-family: "Expletus Sans", "Segoe UI", "Lucidia Grande", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    color: white;
+    font-size: 16pt;
+    display: inline-block;
+    position: absolute;
+    top: 45pt;
+    left: 0;
+    max-width: 85%;
+    margin: 0;
+    background: rgba(51, 49, 43, .8);
+    padding: 4pt 10pt 4pt 10pt;
+}
+
+div.hero-article-headline {
+    color: black;
+    padding: 0 10pt 0 10pt;
+    letter-spacing: normal;
+}
+div.hero-article-headline:hover {
+    letter-spacing: normal;
+    color: black;
 }

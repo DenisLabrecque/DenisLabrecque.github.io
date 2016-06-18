@@ -14,30 +14,34 @@
       <small>Denis G. Labrecque has authored this document on June 12, 2016. It has not been modified yet.</small>
     </footer>
     
-        <span>
+    <span><!-- keeps labels from affecting each other -->
       <label class="sandwitch-menu" for="navigation-menu" title="Menu (access key = m)" accesskey="m">&#9776;</label>
       <input type="checkbox" id="navigation-menu" class="no-display" />
       <label class="no-display" for="navigation-menu" title="Close" accesskey="x"></label>
+      
       <nav class="sandwitch-menu">
-        <h3><a class="site-title" href="{{ site.baseurl }}/{{ site.index[page.lang] }}">{{ site.title[page.lang] }}</a></h3>
+        <h3>{{ site.title[page.lang] }}</h3>
           <ul>
-            <li>
-              <!-- single pages -->
-              {% assign pages=site.pages | where:"lang", page.lang %}
-              {% for my_page in pages %}
-                {% if my_page.title %}
-                <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-                {% endif %}
-              {% endfor %}
-            </li>
-            <li>
-              <!-- language options -->
-              {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-              {% for post in posts %} <a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a> {% endfor %}
+            <li><a class="site-title" href="{{ site.baseurl }}/{{ site.index[page.lang] }}">Home</a></li>
+            <!-- single pages -->
+            {% assign pages=site.pages | where:"lang", page.lang %}
+            {% for my_page in pages %}
+              {% if my_page.title %}
+              <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
+              {% endif %}
+            {% endfor %}
 
-              {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-              {% for page in pages %} <a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a> {% endfor %}
-            </li>
+            <!-- posts -->
+            {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+            {% for post in posts %}
+            <li><a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a></li>
+            {% endfor %}
+
+            <!-- languages -->
+            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+            {% for page in pages %}
+            <li><a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a></li>
+            {% endfor %}
           </ul>
       </nav>
     </span>
