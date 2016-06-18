@@ -26,3 +26,10 @@ github_username:  DenisLabrecque
 
 # Build settings
 markdown: kramdown
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      author: "Denis G. Labrecque"

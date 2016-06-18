@@ -17,23 +17,22 @@ layout: default
   
   <figure class="hero-image" style="background-image: url( {{ page.hero-image }} )">
     <div class="hero-image">
-      <h1 class="title"><span>{{ page.title }}</span></h1>
+      <h1 class="title"><span itemprop="name">{{ page.title }}</span></h1>
       <div>
-        <h1 class="subtitle"><span>{{ page.subtitle }}</span></h1>
+        <h1 class="subtitle"><span itemprop="alternateName">{{ page.subtitle }}</span></h1>
       </div>
       <p class="image-headline">Image from author under <a href="http://creativecommons.org/licenses/by/4.0/" target="_new" rel="license">Attribution 4.0 International license.</a></p>
     </div>
   </figure>
 
   <div class="page-feed" itemprop="articleBody">
-    <header class="post-header">
-      <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
-      <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
-    </header>
+    <p class="headline" itemprop="headline">{{ page.headline }}</p>
+
     {{ content }}
     
     <!-- facebook comments -->
     <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%" data-numposts="5"></div>
+    
   </div>
 
 </article>
