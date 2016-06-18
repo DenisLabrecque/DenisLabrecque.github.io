@@ -13,11 +13,10 @@ layout: default
 }(document, 'script', 'facebook-jssdk'));</script>
 
 
-<article class="post" itemscope itemtype="http://schema.org/BlogPosting">
-  
+<article class="post">
   <figure class="hero-image" style="background-image: url( {{ page.hero-image }} )">
     <div class="hero-image">
-      <h1 class="title"><span itemprop="name">{{ page.title }}</span></h1>
+      <h1 class="title"><span itemprop="name headline">{{ page.title }}</span></h1>
       <div>
         <h1 class="subtitle"><span itemprop="alternateName">{{ page.subtitle }}</span></h1>
       </div>
@@ -25,10 +24,12 @@ layout: default
     </div>
   </figure>
 
-  <div class="page-feed" itemprop="articleBody">
-    <p class="headline" itemprop="headline">{{ page.headline }}</p>
+  <div class="page-feed">
+    <p class="headline" itemprop="description">{{ page.headline }}</p>
 
-    {{ content }}
+    <span itemprop="articleBody">
+      {{ content }}
+    </span>
     
     <!-- facebook comments -->
     <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%" data-numposts="5"></div>

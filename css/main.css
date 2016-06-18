@@ -379,6 +379,12 @@ h1.subtitle {
     display: inline-block;
     max-width: 85%;
 }
+@media(max-width: 1600px) {
+    h1.subtitle {
+        font-size: 18pt;
+        line-height: 160%;
+    }
+}
 @media(max-width: 600px) {
     h1.title {
         font-size: 30pt;
@@ -387,12 +393,6 @@ h1.subtitle {
     h1.subtitle {
         top: 62pt;
         font-size: 14pt;
-    }
-}
-@media(max-width: 1600px) {
-    h1.subtitle {
-        font-size: 16pt;
-        line-height: 160%;
     }
 }
 
