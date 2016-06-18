@@ -6,7 +6,7 @@ headline: "This headline explains what this page is all about in a very quick wa
 hero-image: "http://3.bp.blogspot.com/-bP1ehjAHC_E/UJpmrT8AnvI/AAAAAAAANZU/eHRpS7tfk5c/s1600/F+16+Fighter+Jet+Wallpapers+03.jpg"
 ref: howareyou
 date:   2016-02-29 09:48:44 +0100
-categories: music
+categories: introduction
 lang: en
 ---
 This is yet another wonderful article with plenty of space for new text.

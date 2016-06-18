@@ -112,11 +112,59 @@ hero-image: "https://s-media-cache-ak0.pinimg.com/originals/43/a8/a7/43a8a7399c2
     <p class="headline">Another great thing I do is think biblically.</p>
     <h2>Bible Talk</h2>
     
+    <ul class="post-stream-container">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.bibletalk %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="hero-article-thumbnail"
+               style="background-image: url( {{ post.hero-image }} )">
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+          </div>
+          <div class="hero-article-headline">{{ post.headline }}</div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    
     <p class="headline">I also draw</p>
     <h2>Artwork</h2>
     
+    <ul class="post-stream-container">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.artwork %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="hero-article-thumbnail"
+               style="background-image: url( {{ post.hero-image }} )">
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+          </div>
+          <div class="hero-article-headline">{{ post.headline }}</div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    
     <p class="headline">And document other projects, thoughts, and activities.</p>
-    <h2>Blog</h2> 
+    <h2>Blog</h2>
+    
+    <ul class="post-stream-container">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.blog %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="hero-article-thumbnail"
+               style="background-image: url( {{ post.hero-image }} )">
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+          </div>
+          <div class="hero-article-headline">{{ post.headline }}</div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
 
   </div><!-- page-feed -->
 
