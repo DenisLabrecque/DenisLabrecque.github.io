@@ -3,7 +3,8 @@ layout: post
 title: "This is Junk"
 subtitle: "This post is for testing the site build"
 headline: "A charming chain of themes and motives which undulate with the calm of the wind and the assurance of the pattering rain."
-hero-image: "https://s-media-cache-ak0.pinimg.com/originals/4a/81/bb/4a81bbda1171ca2fdb74532998284449.jpg"
+hero-image: "https://s-media-cache-ak0.pinimg.com/originals/61/32/e9/6132e92a270aa971276d7d860dbf96c5.jpg"
+image-by: "Image from public domain."
 ref: pastelwhitesextrasix
 categories: music
 lang: en

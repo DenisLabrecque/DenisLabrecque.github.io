@@ -4,6 +4,7 @@ title: "Pastel Extra"
 subtitle: "Piano is in fact a very long title with much more to say than you would think"
 headline: "A charming chain of themes and motives which undulate with the calm of the wind and the assurance of the pattering rain."
 hero-image: "https://s-media-cache-ak0.pinimg.com/originals/4a/81/bb/4a81bbda1171ca2fdb74532998284449.jpg"
+image-by: "Image under public domain."
 ref: pastelwhitesextra
 categories: music
 lang: en
