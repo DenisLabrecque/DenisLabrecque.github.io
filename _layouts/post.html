@@ -12,11 +12,13 @@ layout: default
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-
 <article class="post">
-  <figure class="hero-image" style="background-image: url( {{ page.hero-image }} )">
+  <figure class="hero-image" style="background-image: url( {{ page.hero-image }} )" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+    <meta itemprop="url" content="{{ page.hero-image }}" />
+    <meta itemprop="width" content="1600">
+    <meta itemprop="height" content="900">
     <div class="hero-image">
-      <h1 class="title"><span itemprop="name headline">{{ page.title }}</span></h1>
+      <h1 class="title"><span itemprop="headline">{{ page.title }}</span></h1>
       <div>
         <h1 class="subtitle"><span itemprop="alternateName">{{ page.subtitle }}</span></h1>
       </div>

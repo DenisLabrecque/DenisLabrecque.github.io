@@ -2,6 +2,8 @@
 <html>
   {% include head.html %}
   <body itemscope itemtype="http://schema.org/BlogPosting">
+    <link itemprop="mainEntityOfPage" href="{{ site.url }}{{ page.url }}" />
+    <meta itemprop="headline" content="{{ page.title }}" />
     
     <section class="page-content">
       <div class="width-control">
@@ -12,19 +14,17 @@
     <footer class="site-footer">
       <small itemprop="license">Unless otherwise mentioned, this webpage and its content is licensed under <a href="http://creativecommons.org/licenses/by/4.0/" target="_new" rel="license" itemprop="url">Attribution 4.0 International license.</a> You may quote and copy this material if you give correct credit to the author and do not distort or otherwise change the original meaning of his words. <em>Copying any material on this website without giving correct credit to the author is both plagiarism and copyright infringment, and will be treated as such.</em></small>
       <small>
-        <span itemprop="publisher">
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
-            {% if page.author == "Denis G. Labrecque" %}
-            <a href="https://plus.google.com/+DenisGLabrecque" rel="author" target="_new" itemprop="url">{{ page.author }}</a>
+        <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
+          {% if page.author == "Denis G. Labrecque" %}
+          <a href="https://plus.google.com/+DenisGLabrecque" rel="author" target="_new" itemprop="url">{{ page.author }}</a>
+          {% else %}
+            {% if page.author-url %}
+            <a href="{{ page.author-url }}" rel="author" target="_new" itemprop="url">{{ page.author }}</a>
             {% else %}
-              {% if page.author-url %}
-              <a href="{{ page.author-url }}" rel="author" target="_new" itemprop="url">{{ page.author }}</a>
-              {% else %}
-              {{ page.author }}
-              {% endif %}
             {{ page.author }}
             {% endif %}
-          </span>
+          {{ page.author }}
+          {% endif %}
         </span>
       </span> published this document on <span itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%B %d, %Y' }}</span>. {% if page.lastmod %}It was last modified on <span itemprop="dateModified" datetime="{{ page.lastmod | date: '%Y-%m-%d' }}">{{ page.lastmod | date: '%B %d, %Y' }}</span>.{% endif %}</small>
     </footer>
@@ -33,9 +33,14 @@
       <label class="sandwitch-menu" for="navigation-menu" title="Menu (access key = m)" accesskey="m">&#9776;</label>
       <input type="checkbox" id="navigation-menu" class="no-display" />
       <label class="no-display" for="navigation-menu" title="Close" accesskey="x"></label>
-      
+
       <nav class="sandwitch-menu">
-        <h3>{{ site.title[page.lang] }}</h3>
+        <h3 itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
+          <span itemprop="name">{{ site.title[page.lang] }}</span>
+          <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
+            <meta itemprop="url" content="https://s-media-cache-ak0.pinimg.com/originals/77/fd/9c/77fd9c04231cc9b026484e87e8c9c758.png" />
+          </span>
+        </h3>
           <ul>
             <li><a class="site-title" href="{{ site.baseurl }}/{{ site.index[page.lang] }}">Home</a></li>
             <!-- single pages -->

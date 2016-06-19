@@ -8,7 +8,10 @@ hero-image: "https://s-media-cache-ak0.pinimg.com/originals/43/a8/a7/43a8a7399c2
 ---
 
 <div class="home">
-  <figure class="hero-image"  style="background-image: url( {{ page.hero-image }} );">
+  <figure class="hero-image"  style="background-image: url( {{ page.hero-image }} );" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+    <meta itemprop="url" content="{{ page.hero-image }}" />
+    <meta itemprop="width" content="1600">
+    <meta itemprop="height" content="900">
     <div class="hero-image">
       <h1 class="title"><span>Hi!</span></h1>
       <div>
