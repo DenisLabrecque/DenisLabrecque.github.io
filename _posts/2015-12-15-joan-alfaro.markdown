@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: artwork
 title: "Joan Alfaro"
 subtitle: "Pencil Drawing"
 headline: "Made at Pensacola Christian College for the requirements of Principles of Drawing."
