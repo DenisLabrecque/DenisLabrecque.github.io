@@ -437,17 +437,60 @@ label.popdown:active {
     transform: scale(.9);
 }
 div.popdown {
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.5s ease-in-out;
-    padding: 8pt 0 8pt 0;
-    color: transparent;
-    transition: ease-in-out .5s;
+    width: 300px;
+    display: block;
+    position: fixed;
+    top: 0;
+    left: -100vw;
+    padding: 15pt;
+    transition: ease-in-out .3s;
+    background: white;
+    z-index: 9;
+    height: 100vh;
+    box-sizing: border-box;
+}
+@media(min-width: 600px) {
+    div.popdown {
+        padding: 15pt 20% 15pt 15%;
+    }
+}
+label.x-button {
+    -webkit-user-select: none;  /* Chrome all / Safari all */
+    -moz-user-select: none;     /* Firefox all */
+    -ms-user-select: none;      /* IE 10+ */
+    user-select: none;          /* Likely future */      
+    position: fixed;
+    top: 15pt;
+    right: -100px;
+    height: 40pt;
+    width: 40pt;
+    transition: ease-in-out, .1s;
+    background: rgba(255,0,35,.8);
+    color: white;
+    line-height: 100%;
+    font-size: 18pt;
+    padding: 11pt;
+    border-radius: 20pt;
+    z-index: 32;
+    box-sizing: border-box;
+    text-align: center;
+    font-weight: bold;
+}
+label.x-button:hover {
+    background: rgba(255,0,35,.5);
+    transform: scale(1.1);
+}
+label.x-button:active {
+    transform: scale(.9);
 }
 input[type=checkbox].no-display:checked ~ div.popdown {
-    max-height: 400px;
+    left: 0px;
+    width: 100%;
     overflow-y: scroll;
-    color: black;
+    z-index: 30;
+}
+input[type=checkbox].no-display:checked ~ label.x-button {
+    right: 15pt;
 }
 
 
