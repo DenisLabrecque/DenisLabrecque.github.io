@@ -33,7 +33,7 @@ gallery:
       description: The Draken was not retired until 2005 by Austria. Due to cutbacks and high maintenance costs, the Draken was phased out of Swedish service in December 1998, replaced by the Saab 37 Viggen.
       by: <a href='https://www.flickr.com/photos/81952114@N06/15729982629/in/photolist-pY1gP4-bC7zup-r2QrEq-8sKjMM-qEPUBb-o4xEbe-nd3qy5-GDGoEt-aFgC7w-mWtNUC-n7sYbr-psLvbw-78stp9-ec9i1u-eBucoq-rjcniU-GYECvy-ueJpW-GCuXxc-9czhBc-2Z8Nkd-FQ8AP9-orWvaU-cdW4HS-qT1NC7-cnYraf-q8d1pu-ueJYM-72zzAq-Hniq2b-o892xe-jF91TH-qNG9Qn-jEZB4M-qpHCkw-qwjAsM-4ZYvec-pHtj2F-pFc8Yw-nMmFao-jF3GiQ-HsJKwW-onARaQ-o4Jusq-qxsLj9-pRVpXP-uUqAvf-rQyx8s-aFcMYR-dCskmZ' target='_new'>Swedish Air Force Historic Flight - Saab Draken SE-DXP</a> by <a href='https://www.flickr.com/photos/81952114@N06/' target='_new' >SteveH1972</a> under <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_new'>Attribution-NoDerivs 2.0 Generic</a>
 
-tags: jetFighters
+tags: jetFighters Saab
 ---
 Unique to Sweden, one requirement for the new aircraft was that it should be capable of operating from public roads as wartime airbases. Another was that refueling and rearming be feasibly carried out under ten minutes by conscripts with little training.
 
