@@ -3,11 +3,12 @@ layout: post
 title: "Genetic Entropy"
 subtitle: "Destroyer of the Primary Axiom"
 headline: "A book review of <em>Genetic Entropy and the Mystery of the Genome</em>."
-hero-image: "https://s-media-cache-ak0.pinimg.com/originals/5f/23/37/5f233733209c6d3cf01ab87e6d07028d.jpg"
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/fa/68/a9/fa68a99439e9c78d2dcd42f045b9cd29.jpg
+image-by: <a href='https://www.flickr.com/photos/zeissmicro/16932462073/in/photolist-rNgi4g-fFoBDX-ef4Gnt-ef4GCK-3eFitv-6WQR1J-cDHkTE-4zdnc6-3e6Y8-efaqBY-5GFZAV-efar1A-8HA9tz-ef4GyT-8zVrJk-aDbA7x-fkUcBu-efaqk5-nEVHuA-ef4G4r-bEQNbh-n8Mi3k-81Sxiv-efarbQ-rNgV42-9kKbsz-ef4GrR-efaqAy-efar37-4G6faC-efaqEs-nGJAjH-ef4GBK-2FvFdF-5axDWc-dKFyrw-efaqy1-defPgj-ef4GAt-9K8R7v-bUWthV-n8M7eD-9MtjPy-qiuZ3Q-dWWubW-4i79kW-dgTFLY-aniMA3-dxsFaq-fkP7Nw' target='_new'>Flagellate and bacteria in phase contrast</a> by <a href='https://www.flickr.com/photos/zeissmicro/' target='_new' >ZEISS Microscopy</a> under <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_new'>Attribution-NonCommercial-NoDerivs 2.0 Generic</a>
 ref: geneticentropyreview
 categories: bibletalk
 lang: en
-tags: apologetics literature
+tags: apologetics literature evolution
 ---
 <blockquote>This is a book review I made of Sanford's book, <em>Genetic Entropy and the Mystery of the Genome</em>. It is an excellent and easily understandable book, and because of the useful information it contains in the light of Creation vs. Evolution, I suggest that my readers do what they can to <a href="http://www.amazon.com/gp/product/0981631606/ref=pd_lpo_k2_dp_sr_1?pf_rd_p=486539851&amp;pf_rd_s=lpo-top-stripe-1&amp;pf_rd_t=201&amp;pf_rd_i=1599190028&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=0RX8YY5G7E7HWJ9DRMRZ" target="_new">get the book and read it</a>, or else at least <a href="https://www.facebook.com/pages/Genetic-Entropy-The-Mystery-of-the-Genome/149340581779647" target="_new">follow and like its Facebook page</a>.</blockquote>
 

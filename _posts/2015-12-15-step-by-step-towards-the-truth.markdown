@@ -4,12 +4,12 @@ layout: post
 title: "Step by Step Towards the Truth"
 subtitle: "Essay on Origins"
 headline: "Who made us, why are we here, and where are we going? These existential questions are answerable when one searches for truth."
-hero-image: "http://unreasonable.is/wp-content/uploads/2000/02/Ken_Journey-1400x500.jpg"
-image-by: "Image found in public domain."
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/f7/09/bf/f709bf6f40450eacbc4e6480cadbfb51.jpg
+image-by: <a href='https://www.flickr.com/photos/purplokilo/7759798144/in/photolist-cPGZDb-r6QbfG-9eDjAJ-ovTMpK-snrSZx-nZ8eVE-sAmkpW-q8vGMc-d5VDbo-pvEAmv-gUhzvi-hzT9jx-aDyCHD-bqQBdN-edRbAh-nNRLkt-drbiSz-qLoxAX-qpJqp6-d4Atbb-7qp9UR-qRPnwh-94iFfe-pKYjj7-qP6HYX-o66yiT-pWNf2T-appFTx-ALC4Vn-Hhxnsz-smHqcA-nDBda9-GSNuTd-nYSNmB-oJJ72h-3YWED-zxSx87-8vGnwi-jPjpwk-nKvAJa-ruX2W1-oatF8P-ik9Rmn-G9tSQk-7Wm7HC-5dsBSw-iXntwj-neCNUH-ifRf84-iepgQF' target='_new'>Path</a> by <a href='https://www.flickr.com/photos/purplokilo/' target='_new' >Flugflugfunmangel</a> under <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_new'>Attribution-NonCommercial 2.0 Generic</a>
 ref: stepbysteptowardsthetruth
 categories: bibletalk
 lang: en
-tags: apologetics literature
+tags: apologetics literature evolution
 ---
 <h2 id="preamble">Preamble</h2>
 <blockquote>Who am I,

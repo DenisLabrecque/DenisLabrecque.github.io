@@ -2,12 +2,14 @@
 layout: post
 title: Chengdu J-20
 subtitle:  Stealth fighter aircraft prototype
-hero-image: https://s-media-cache-ak0.pinimg.com/originals/04/b1/1c/04b11c16bb0e0032a686081ad86fc12f.jpg
-image-by: <a href='https://en.wikipedia.org/wiki/Chengdu_J-20#/media/File:J20-2016.png' target='_new'>歼20 2016号</a> by Wikipedia under <a href='http://creativecommons.org/licenses/by-sa/4.0' target='_new'>Attribution-ShareAlike 4.0 International</a>
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/ba/ac/38/baac38a2caf0230ec784a57aa7ad11b7.jpg
 ref: chengduj20
 categories: blog
 lang: en
 tags: jetFighters Chengdu
+gallery:
+    - url:  https://s-media-cache-ak0.pinimg.com/originals/04/b1/1c/04b11c16bb0e0032a686081ad86fc12f.jpg
+      by: <a href='https://en.wikipedia.org/wiki/Chengdu_J-20#/media/File:J20-2016.png' target='_new'>歼20 2016号</a> by Wikipedia under <a href='http://creativecommons.org/licenses/by-sa/4.0' target='_new'>Attribution-ShareAlike 4.0 International</a>
 ---
 The J-20 is a Chinese stealth fifth-generation multirole air superiority fighter planned to be operational before 2020. Its design is characterised by a set of canards and by the omission of a gun, which does not seem to be provided for. Half a dozen prototypes have been produced, the maiden flight having been held in January 2011.
 
@@ -15,3 +17,5 @@ The J-20 is a Chinese stealth fifth-generation multirole air superiority fighter
 <strong>Max. takeoff weight:</strong> 36,288 kg (80,001 lb) upper estimate<br />
 <strong>Maximum speed:</strong> 11,340 kg (25,000 lb)<br />
 <strong>Range:</strong> 2,113 miles (3,400 km) maximum
+
+{% include image-gallery.html %}
