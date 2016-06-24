@@ -3,8 +3,8 @@ layout: post
 title: "Saab 35 Draken"
 subtitle: "Fighter/interceptor"
 headline: "After the beginning of the jet era, Sweden saw the need for a new interceptor capable of intercepting bombers at high altitudes and of successfully engaging other fighters as well. Thus, the Swedish Defence Material Administration issued a request, and Saab began work on the jet in 1949."
-hero-image: "https://s-media-cache-ak0.pinimg.com/originals/dc/6e/75/dc6e75374f5533f9a087bda53aa2e24c.jpg"
-image-by: "<a href='https://www.flickr.com/photos/127001418@N03/15377299708/in/photolist-pqQFt3-6T3Wg8-9N4o3w-jEJs9m-9bfcue-ooQ5SB-aZE93r-qNxjdp-qrbiyJ-qMqaKB-aFcLiX-cpTLeh-iA3Wf-qVPDwA-dwQXSf-qpGLWJ-9N1BoD-qpSbU2-pMcTPj-mCgicK-dq4riv-nNt3jh-cArfDW-qkPEn9-7ncNBv-dsLMwF-aqDwnA-dq4AAC-qokSfh-8tL8SL-8ei2xa-cBcpPu-qVPDyu-7YEsf7-FBRYVh-ceMehu-qpFbE1-rQzMTj-fskju5-FC6mex-4Mywtm-qMkNAY-qkQeRA-qDZXM9-qo9h64-qZWzVa-ceMfP1-mChTNW-6VJrK2-qo9ijB' target='_new'>Swedish Airforce Historic Flight SK 35C Draken 35810 (SE-DXP)</a> by <a href='https://www.flickr.com/photos/127001418@N03/' target='_new' >Pixels in Focus</a> under <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_new'>Attribution NoDerivs License</a>"
+hero-image: "https://s-media-cache-ak0.pinimg.com/originals/14/9e/52/149e52666dc824d01ec4971f81fbe9cb.jpg"
+image-by: "<a href='https://www.flickr.com/photos/127001418@N03/15377419357/' target='_new'>Swedish Airforce Historic Flight SK 35C Draken 35810 (SE-DXP)</a> by <a href='https://www.flickr.com/photos/127001418@N03/' target='_new' >Jim Calow</a> under <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_new'>Attribution NoDerivs License</a>"
 ref: saabe35draken
 categories: blog
 lang: en
