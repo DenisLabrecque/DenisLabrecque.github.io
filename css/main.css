@@ -189,7 +189,7 @@ figure.hero-image {
     box-sizing: border-box;
     overflow: hidden;
     background-color: grey;
-    background-position: top left;
+    background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
 }

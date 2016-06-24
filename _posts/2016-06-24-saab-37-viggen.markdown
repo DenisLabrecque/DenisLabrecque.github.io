@@ -1,0 +1,30 @@
+---
+layout: post
+title: "Saab 37 Viggen"
+subtitle: "Short-medium range combat aircraft"
+headline: "The Viggen was initially developed as an intended replacement for the Saab 32 Lansen in the attack role and later the Saab 35 Draken as a fighter. In December 1961, the Swedish government gave its approval for the development of Aircraft System 37, which would ultimately become the Viggen."
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/c6/fc/ca/c6fcca7bdc6efad4c5de728c0d687c14.jpg
+image-by: <a href='https://www.flickr.com/photos/gary2/9711478079/in/photolist-fNaS6e-ofDK31-8a4Du7-7wtQzg-fNsr5L-8a1p42-f5qLar-4nGKbG-f44CGi-HxSE6a-HxSDYX-ahocrL-cHBqTG-7Q8Yes-5d6Trt-dFLEnS-5d6Tmp-7JqR19-dDPLtv-o1mRTa-dQNE3G-bWBR9Y-euUSeb-etEFwv-etEG3D-etFbVw-cdW1Ys-72vu8r-f8qQph-72vtWF-72zumd-72vtPg-72vtMi-72zueA-nXVj9v-72zugQ-oqxG8M-72zu7C-72zuw1-72ztJb-aewpyj-72vtSz-72zuim-72vtHV-72zus3-72vu5a-72vue8-72zupC-f7b5js-dvEeom' target='_new'>Viggen</a> by <a href='https://www.flickr.com/photos/gary2/' target='_new' >Gary Henderson</a> under <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_new'>Attribution-NonCommercial-NoDerivs 2.0 Generic</a>
+ref: saabe37viggen
+categories: blog
+lang: en
+gallery:
+    - url: https://s-media-cache-ak0.pinimg.com/originals/41/59/d8/4159d8db731438f5cf4e9a7037973136.jpg
+      description: The lifting canard surfaces act as a vortex generator for the main wing, providing more lift. Additionally, they improve roll stability in the transonic region.
+      by: <a href='https://www.flickr.com/photos/8269539@N04/14565285346/in/photolist-oc5TTq-2Z8Sy7-8a1oMg-ofUbRD-6iy3WK-nWCkoU-9cAJ5o-9cBCHf-6iy44V-78ozVz-2Z4nKB-7E8k1N-otqLuK-pJfUJJ-2Z8RZs-n7vP9G-j4Q8LM-4EMSVm-fN8oYw-8sNnPb-GBmv2u-dP3wRB-fQfm6S-cA9rqS-fPXQqc-6wDMwK-mZnyY6-7h8tdZ-jcCo9H-mZnutK-cdWK2Q-mZnwGR-mZpJRC-akW7qj-cArs1Q-mZpbZw-mZnMWk-mZo8FR-aetKAn-pg9e1d-dzWvSp-aewyL3-eQiMWj-pFWLB9-q8iR4c-qd8tNx-q1A95H-q8knqv-qnffsk-rPZ6f' target='_new'>Saab 37 Viggen</a> by <a href='https://www.flickr.com/photos/8269539@N04/' target='_new' >Paul Lucas</a> under <a href='https://creativecommons.org/licenses/by/2.0/' target='_new'>Attribution 2.0 Generic</a>
+      
+    - url: https://s-media-cache-ak0.pinimg.com/originals/91/69/19/91691981bac882170c662d565df8b141.jpg
+      description: A pair of curved fixed-geometry inlets alongside the cockpit feed air to the engine, similar to those of the Draken, except for being larger and separate from the fuselage.
+      by: <a href='https://www.flickr.com/photos/109661044@N07/27271322235/in/photolist-HxSDYX-ahocrL-cHBqTG-7Q8Yes-5d6Trt-dFLEnS-5d6Tmp-7JqR19-dDPLtv-o1mRTa-dQNE3G-bWBR9Y-euUSeb-etEFwv-etEG3D-etFbVw-cdW1Ys-72vu8r-f8qQph-72vtWF-72zumd-72vtPg-72vtMi-72zueA-nXVj9v-72zugQ-oqxG8M-72zu7C-72zuw1-72ztJb-aewpyj-72vtSz-72zuim-72vtHV-72zus3-72vu5a-72vue8-72zupC-f7b5js-dvEeom-72vtwt-72zub9-72ztUC-dQH4sp-7Q8Y5y-eMDYKE-ordMSW-b7QTEk-7Q5D2V-oc5TTq' target='_new'>JA37 Viggen</a> by <a href='https://www.flickr.com/photos/109661044@N07/' target='_new' >Rob Schleiffert</a> under <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_new'>Attribution-ShareAlike 2.0 Generic</a>
+
+tags: jetFighters
+---
+The Viggen (Thunderbolt) was developed by Sweden in the mid-1950s as a fighter and attack plane which could take off and land from specially prepared roads without the maintenance highly trained personnel, with the additional capacity of reaching Mach 1 at low altitude and Mach 2 at high altitudes. A delta-winged design with aiding canards was therefore selected, allowing operations within 500 m airstrips. The turbofan engine, selected for fuel economy, was quite particular, being one of few which featured an afterburner and mechanical thrust-reverser combination; it was also unusually large (6.1 m x 1.35 m). Produced in 329 units, the Viggen remained operational until 2007.
+
+<h3>Characteristics</h3>
+
+<strong>Max. takeoff weight:</strong> 20,000 kg (44,000 lb)<br />
+<strong>Maximum speed:</strong> Mach 2.1, 2,231 km/h (1,386 mph) at 11,000 m<br />
+<strong>Range:</strong> 2,000 km internal fuel only (1242 mi)
+
+{% include image-gallery.html %}

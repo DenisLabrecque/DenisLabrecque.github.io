@@ -5,7 +5,7 @@ subtitle: "Fighter/interceptor"
 headline: "After the beginning of the jet era, Sweden saw the need for a new interceptor capable of intercepting bombers at high altitudes and of successfully engaging other fighters as well. Thus, the Swedish Defence Material Administration issued a request, and Saab began work on the jet in 1949."
 hero-image: "https://s-media-cache-ak0.pinimg.com/originals/d7/a4/03/d7a4034b921b77bc03263aa008fd1ebd.jpg"
 image-by: "<a href='https://www.flickr.com/photos/127001418@N03/15377419357/' target='_new'>IMG_3707 Swedish Airforce Historic Flight SK 35C Draken 35810 (SE-DXP)</a> by <a href='https://www.flickr.com/photos/127001418@N03/15563435505/in/photostream/' target='_new' >Jim Calow</a> under <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_new'>Attribution NoDerivs License</a>"
-ref: saabe35draken
+ref: saab35draken
 categories: blog
 lang: en
 gallery:
@@ -32,6 +32,8 @@ gallery:
     - url: https://s-media-cache-ak0.pinimg.com/originals/a2/1d/1f/a21d1f6668a76018b5f515fd933e2cc8.jpg
       description: The Draken was not retired until 2005 by Austria. Due to cutbacks and high maintenance costs, the Draken was phased out of Swedish service in December 1998, replaced by the Saab 37 Viggen.
       by: <a href='https://www.flickr.com/photos/81952114@N06/15729982629/in/photolist-pY1gP4-bC7zup-r2QrEq-8sKjMM-qEPUBb-o4xEbe-nd3qy5-GDGoEt-aFgC7w-mWtNUC-n7sYbr-psLvbw-78stp9-ec9i1u-eBucoq-rjcniU-GYECvy-ueJpW-GCuXxc-9czhBc-2Z8Nkd-FQ8AP9-orWvaU-cdW4HS-qT1NC7-cnYraf-q8d1pu-ueJYM-72zzAq-Hniq2b-o892xe-jF91TH-qNG9Qn-jEZB4M-qpHCkw-qwjAsM-4ZYvec-pHtj2F-pFc8Yw-nMmFao-jF3GiQ-HsJKwW-onARaQ-o4Jusq-qxsLj9-pRVpXP-uUqAvf-rQyx8s-aFcMYR-dCskmZ' target='_new'>Swedish Air Force Historic Flight - Saab Draken SE-DXP</a> by <a href='https://www.flickr.com/photos/81952114@N06/' target='_new' >SteveH1972</a> under <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_new'>Attribution-NoDerivs 2.0 Generic</a>
+
+tags: jetFighters
 ---
 Unique to Sweden, one requirement for the new aircraft was that it should be capable of operating from public roads as wartime airbases. Another was that refueling and rearming be feasibly carried out under ten minutes by conscripts with little training.
 
@@ -46,4 +48,3 @@ The Draken was the first fully supersonic aircraft to be deployed in Western Eur
 <strong>Range:</strong> 3,250 km (2,020 mi) with external drop tanks
 
 {% include image-gallery.html %}
-

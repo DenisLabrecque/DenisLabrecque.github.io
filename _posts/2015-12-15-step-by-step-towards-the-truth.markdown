@@ -9,6 +9,7 @@ image-by: "Image found in public domain."
 ref: stepbysteptowardsthetruth
 categories: bibletalk
 lang: en
+tags: apologetics literature
 ---
 <h2 id="preamble">Preamble</h2>
 <blockquote>Who am I,

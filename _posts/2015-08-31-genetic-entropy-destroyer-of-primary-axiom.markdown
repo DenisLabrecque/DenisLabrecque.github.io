@@ -7,6 +7,7 @@ hero-image: "https://s-media-cache-ak0.pinimg.com/originals/5f/23/37/5f233733209
 ref: geneticentropyreview
 categories: bibletalk
 lang: en
+tags: apologetics literature
 ---
 <blockquote>This is a book review I made of Sanford's book, <em>Genetic Entropy and the Mystery of the Genome</em>. It is an excellent and easily understandable book, and because of the useful information it contains in the light of Creation vs. Evolution, I suggest that my readers do what they can to <a href="http://www.amazon.com/gp/product/0981631606/ref=pd_lpo_k2_dp_sr_1?pf_rd_p=486539851&amp;pf_rd_s=lpo-top-stripe-1&amp;pf_rd_t=201&amp;pf_rd_i=1599190028&amp;pf_rd_m=ATVPDKIKX0DER&amp;pf_rd_r=0RX8YY5G7E7HWJ9DRMRZ" target="_new">get the book and read it</a>, or else at least <a href="https://www.facebook.com/pages/Genetic-Entropy-The-Mystery-of-the-Genome/149340581779647" target="_new">follow and like its Facebook page</a>.</blockquote>
 
