@@ -14,7 +14,7 @@ gallery:
       by: <a href='https://www.flickr.com/photos/49840571@N02/10708181405/in/photolist-9NEdXe-bkrsBh-bTpfDa-9NELbX-hjfegk-hjfDJQ-nu8eMn-ns51Sa-hjfadk-hjfBWG-hjgwHR-hjgz1g-ns55qx-naS6bQ-eckCcm-bkrsvE-9NEUJe-5rhNAH-naS5hL-naS13c-hjfinX-hjfgWk-9NHJX1-bymmuV-9KomUV-9NENRV-9NESvr-9NEQEt-hjgBsk-ptqSHV-euR9i5-8p2esf-tZNnWQ-zLeCtA-A4LuKP-v1HE6M-uXByUp-ns5gfj' target='_new'>Marines perform first F-35B vertical take-off, landing at Eglin</a> by <a href='https://www.flickr.com/photos/49840571@N02/' target='_new' >Samuel King Jr</a> under <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_new'>Attribution-NonCommercial-NoDerivs 2.0 Generic</a>
       
     - url: https://s-media-cache-ak0.pinimg.com/originals/08/61/64/0861641c62d72e7f56c5eb62e88508c1.jpg
-      description: The weapons load included an AIM-9X Sidewinder inert missile on the starboard pylon, a centerline 25mm gun pod, and a GBU-32 and AIM-120 in the starboard weapon bay.
+      description: The Lightning's weapons load includes an AIM-9X Sidewinder inert missile on the starboard pylon, a centerline 25mm gun pod, and a GBU-32 and AIM-120 in the starboard weapon bay.
       by: <a href='https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II#/media/File:Flickr_-_Official_U.S._Navy_Imagery_-_A_pilot_pilots_the_F-35B_Joint_Strike_Fighter_test_aircraft..jpg' target='_new'>Aircraft flying inverted shows external hard point stations, including the external Gatling gun pod</a> by courtesy of Lockheed Martin by Andy Wolfe. Released under the public domain
 
 tags: jetFighters LockheedMartin
