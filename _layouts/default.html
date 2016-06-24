@@ -48,20 +48,22 @@
               <li><a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a></li>
               {% endif %}
             {% endfor %}
-
-            <!-- posts -->
-            {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
-            {% for post in posts %}
-            <li><a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a></li>
-            {% endfor %}
-
-            <!-- languages -->
-            {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
-            {% for page in pages %}
-            <li><a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a></li>
-            {% endfor %}
           </ul>
       </nav>
     </span>
+    
+    <div class="language-banner">
+      <!-- languages -->
+
+      {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}
+      {% for post in posts %}
+      <div class="language-choice"><a href="{{ post.url }}" class="{{ post.lang }}">{{ post.lang }}</a></div>
+      {% endfor %}
+
+      {% assign pages=site.pages | where:"ref", page.ref | sort: 'lang' %}
+      {% for page in pages %}
+      <div class="language-choice"><a href="{{ page.url }}" class="{{ page.lang }}">{{ page.lang }}</a></div>
+      {% endfor %}
+    </div>
   </body>
 </html>

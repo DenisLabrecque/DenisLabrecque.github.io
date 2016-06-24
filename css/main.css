@@ -572,8 +572,10 @@ ul.post-stream-container li {
     width: 100%;
     margin-bottom: 20pt;
 }
+a.post-stream-card {
+    color: white;
+}
 a.post-stream-card:link {
-   color: white;
    display: block;
    margin: 0 0 0 0;
    padding: 0 0 0 0;
@@ -783,4 +785,31 @@ div.no-break {
     -webkit-column-break-inside: avoid;
               page-break-inside: avoid;
                    break-inside: avoid;
+}
+
+div.language-banner {
+    position: fixed;
+    top: 23pt;
+    right: 65pt;
+}
+div.language-choice {
+    display: inline-block;
+    margin-left: 5pt;
+}
+div.language-choice a {
+    display: inline-block;
+    background-color: rgba(0,0,0,.8);
+    padding: 3pt 3pt 3pt 3pt;
+    width: 20pt;
+    height: 20pt;
+    text-align: center;
+    border-radius: 18pt;
+    color: white;
+}
+div.language-choice a:hover {
+    transform: scale(1.1);
+    background: rgba(0,0,0,.5);
+}
+div.language-choice a:active {
+    transform: scale(.9);
 }
