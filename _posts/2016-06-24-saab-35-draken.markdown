@@ -4,10 +4,34 @@ title: "Saab 35 Draken"
 subtitle: "Fighter/interceptor"
 headline: "After the beginning of the jet era, Sweden saw the need for a new interceptor capable of intercepting bombers at high altitudes and of successfully engaging other fighters as well. Thus, the Swedish Defence Material Administration issued a request, and Saab began work on the jet in 1949."
 hero-image: "https://s-media-cache-ak0.pinimg.com/originals/d7/a4/03/d7a4034b921b77bc03263aa008fd1ebd.jpg"
-image-by: "<a href='https://www.flickr.com/photos/127001418@N03/15377419357/' target='_new'>Swedish Airforce Historic Flight SK 35C Draken 35810 (SE-DXP)</a> by <a href='https://www.flickr.com/photos/127001418@N03/15563435505/in/photostream/' target='_new' >Jim Calow</a> under <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_new'>Attribution NoDerivs License</a>"
+image-by: "<a href='https://www.flickr.com/photos/127001418@N03/15377419357/' target='_new'>IMG_3707 Swedish Airforce Historic Flight SK 35C Draken 35810 (SE-DXP)</a> by <a href='https://www.flickr.com/photos/127001418@N03/15563435505/in/photostream/' target='_new' >Jim Calow</a> under <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_new'>Attribution NoDerivs License</a>"
 ref: saabe35draken
 categories: blog
 lang: en
+gallery:
+    - url: https://s-media-cache-ak0.pinimg.com/originals/14/9e/52/149e52666dc824d01ec4971f81fbe9cb.jpg
+      description: 25 Drakens were rebuilt into a twin-seated trainer version which was unarmed. Because the modification was minor, it could easily be converted back to a J 35A standard if necessary.
+      by: <a href='https://www.flickr.com/photos/127001418@N03/15377419357/' target='_new'>IMG_3707 Swedish Airforce Historic Flight SK 35C Draken 35810 (SE-DXP)</a> by <a href='https://www.flickr.com/photos/127001418@N03/15563435505/in/photostream/' target='_new' >Jim Calow</a> under <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_new'>Attribution-NoDerivs 2.0 Generic</a>
+
+    - url: https://s-media-cache-ak0.pinimg.com/originals/dc/6e/75/dc6e75374f5533f9a087bda53aa2e24c.jpg
+      description: Drakens are interceptors with limited air-to-ground capability. They carried up to 4 drop tanks, 2 internal cannons, 4 - 6 Sidewinder missiles, and 75mm air-to-air rockets.
+      by: <a href='https://www.flickr.com/photos/127001418@N03/15377299708/in/photolist-pqQFt3-6T3Wg8-9N4o3w-jEJs9m-9bfcue-ooQ5SB-aZE93r-qNxjdp-qrbiyJ-qMqaKB-aFcLiX-cpTLeh-iA3Wf-qVPDwA-dwQXSf-qpGLWJ-9N1BoD-qpSbU2-pMcTPj-mCgicK-dq4riv-nNt3jh-cArfDW-qkPEn9-7ncNBv-dsLMwF-aqDwnA-dq4AAC-qokSfh-8tL8SL-8ei2xa-cBcpPu-qVPDyu-7YEsf7-FBRYVh-ceMehu-qpFbE1-rQzMTj-fskju5-FC6mex-4Mywtm-qMkNAY-qkQeRA-qDZXM9-qo9h64-qZWzVa-ceMfP1-mChTNW-6VJrK2-qo9ijB' target='_new'>IMG_3734 Swedish Airforce Historic Flight SK 35C Draken 35810 (SE-DXP)</a> by <a href='https://www.flickr.com/photos/127001418@N03/15563435505/in/photostream/' target='_new' >Jim Calow</a> under <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_new'>Attribution-NoDerivs 2.0 Generic</a>
+
+    - url: https://s-media-cache-ak0.pinimg.com/originals/7f/8b/f7/7f8bf74745633f8c751826fbe7809eba.jpg
+      description: Danish Drakens are strike aircraft capable of carrying AGM-12 Bullpup missiles, electronic countermeasures, and increased internal and external fuel storage. The Danish Drakens are the heaviest to have flown.
+      by: <a href='https://www.flickr.com/photos/109661044@N07/24830252361/in/photolist-DQawXk-72zAsG-bcCkbD-72zAeo-bcCjVp-72zzMh-4cyZXj-4cz1r9-72zAoW-mBEDH2-72vA5R-72vzHa-72zzWA-bcCjFR-acC6Dp-4cuZLn-72vzCM-oSWB6-72vzur-dphnKi-g3c6nc-5BzGgp-ohR4kH-oCyPaD-bHbz2H-2Z8Nr3-qCJkdA-quvD1e-oAAMtb-ooxKWP-Gyrn1t-23yfSC-bEW9Ge-pHA24D-bugLns-pVqkMc-32CSHT-eSAhPK-bugLm9-qnFUVT-i1Q7uh-4cv34x-eM7qzi-7Jr8hJ-8o9EgG-a8XAk2-mCgQqK-5uTvJN-dxbmp8-GYECvy' target='_new'>Danish Draken</a> by <a href='https://www.flickr.com/photos/109661044@N07/' target="_new">Rob Shleiffert</a> under <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_new'>Attribution-ShareAlike 2.0 Generic</a>
+
+    - url: https://s-media-cache-ak0.pinimg.com/originals/54/a1/f0/54a1f0c41c1d1aa5500b5d4be96dacd8.jpg
+      description: Between 1987 and 1991, the aircraft received a longer lifespan, modern electronics and cannon, additional two Sidewinder (AIM-9P) pylons under the air intakes, and increased fuel capacity. The final operational J 35J flew for the last time in 1999.
+      by: <a href='https://www.flickr.com/photos/74812833@N05/7004159821/in/photolist-bEW9Ge-pHA24D-bugLns-pVqkMc-32CSHT-FQjJbF-eSAhPK-bugLm9-qnFUVT-i1Q7uh-4cv34x-eM7qzi-7Jr8hJ-8o9EgG-a8XAk2-mCgQqK-o71ume-pt11aX-qC3sVC-5uTvJN-jqDTV6-5BzQP8-8a4yoE-on2yb-5BEaco-qrCR6j-caDqR3-dxbmp8-8nfmvc-72vzNv-ALP6i-9vTeq8-qpJFKn-ueJYP-omNb6j-oek3iv-qoskdn-pY1gP4-bC7zup-r2QrEq-8sKjMM-qEPUBb-o4xEbe-nd3qy5-GDGoEt-aFgC7w-mWtNUC-n7sYbr-psLvbw-78stp9' target='_new'>Swedish Air Force J35J Draken</a> by <a href='https://www.flickr.com/photos/74812833@N05/' target='_new' >fsll2</a> under <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_new'>Attribution-NonCommercial 2.0 Generic</a>
+
+    - url: https://s-media-cache-ak0.pinimg.com/originals/41/e2/a6/41e2a6471af06dfe3cda69984d01f8a0.jpg
+      description: Austria was the last country to keep the Draken in military service. This was the last Austrian Air Force fighter plane with internal cannons for its lone air-to-air armament because of the restriction in the Austrian State Treaty of 1955.
+      by: <a href='https://www.flickr.com/photos/109661044@N07/27258858476/in/photolist-HwLLWy-5V38dz-3V9h7A-mgu6m9-JnX8wr-4cz3RE-o6mUz1-qC1sJQ-qMHno3-4cz1WQ-GfRe5-dXCpw8-4cz1cJ-72vzSx-72vzrZ-72zAru-72zzDb-72vzQ8-oANTXv-4cyZ71-oAx3Vi-bcCjoD-4cyZJ7-72vzUV-4cv21M-bcCkpM-oANXd8-ojjPzM-72vzLM-DQawXk-9puZM2-72zAsG-bcCkbD-72zAeo-bcCjVp-72zzMh-4cyZXj-4cz1r9-72zAoW-mBEDH2-72vA5R-72vzHa-72zzWA-bcCjFR-acC6Dp-4cuZLn-72vzCM-oSWB6-72vzur-dphnKi' target='_new'>Draken Austria</a> by <a href='https://www.flickr.com/photos/109661044@N07/' target='_new' >Rob Shleiffert</a> under <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_new'>Attribution-ShareAlike 2.0 Generic</a>
+    
+    - url: https://s-media-cache-ak0.pinimg.com/originals/a2/1d/1f/a21d1f6668a76018b5f515fd933e2cc8.jpg
+      description: The Draken was not retired until 2005 by Austria. Due to cutbacks and high maintenance costs, the Draken was phased out of Swedish service in December 1998, replaced by the Saab 37 Viggen.
+      by: <a href='https://www.flickr.com/photos/81952114@N06/15729982629/in/photolist-pY1gP4-bC7zup-r2QrEq-8sKjMM-qEPUBb-o4xEbe-nd3qy5-GDGoEt-aFgC7w-mWtNUC-n7sYbr-psLvbw-78stp9-ec9i1u-eBucoq-rjcniU-GYECvy-ueJpW-GCuXxc-9czhBc-2Z8Nkd-FQ8AP9-orWvaU-cdW4HS-qT1NC7-cnYraf-q8d1pu-ueJYM-72zzAq-Hniq2b-o892xe-jF91TH-qNG9Qn-jEZB4M-qpHCkw-qwjAsM-4ZYvec-pHtj2F-pFc8Yw-nMmFao-jF3GiQ-HsJKwW-onARaQ-o4Jusq-qxsLj9-pRVpXP-uUqAvf-rQyx8s-aFcMYR-dCskmZ' target='_new'>Swedish Air Force Historic Flight - Saab Draken SE-DXP</a> by <a href='https://www.flickr.com/photos/81952114@N06/' target='_new' >SteveH1972</a> under <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_new'>Attribution-NoDerivs 2.0 Generic</a>
 ---
 Unique to Sweden, one requirement for the new aircraft was that it should be capable of operating from public roads as wartime airbases. Another was that refueling and rearming be feasibly carried out under ten minutes by conscripts with little training.
 
@@ -20,3 +44,6 @@ The Draken was the first fully supersonic aircraft to be deployed in Western Eur
 <strong>Max. takeoff weight:</strong> 16,000 kg (35,273 lb)<br />
 <strong>Maximum speed:</strong> Mach 2.2<br />
 <strong>Range:</strong> 3,250 km (2,020 mi) with external drop tanks
+
+{% include image-gallery.html %}
+

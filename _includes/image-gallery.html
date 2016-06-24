@@ -1,0 +1,15 @@
+<h3>Gallery</h3>
+
+<figure itemscope itemtype="http://schema.org/ImageObject" class="image-gallery">
+   {% for image in page.gallery %}
+    <div class="no-break">
+        <a class="image-gallery-label" href="{{ image.url }}" target="_new">
+           <img src="{{ image.url }}" class="full-bleed-image" />
+        </a>
+        <small>{{ image.by }}</small>
+        <figcaption>
+            <span itemprop="description">{{ image.description }}</span>
+        </figcaption>
+    </div>
+   {% endfor %}
+</figure>

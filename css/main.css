@@ -4,6 +4,11 @@ body {
     line-height: 135%;
     background: rgb(250, 250, 250);
     margin: 0;
+    overflow-x: hidden;
+}
+
+img {
+    display: block;
 }
 
 div.page-feed {
@@ -20,7 +25,11 @@ small {
     display: block;
     text-align: justify;
     font-size: 11pt;
-    margin-top: 11pt;
+    line-height: normal;
+}
+footer small {
+    margin-top: 8pt;
+    margin-bottom: 8pt;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -700,4 +709,78 @@ img.image-figure-main {
 }
 label.image-popout:hover {
     cursor: zoom-in;
+}
+
+figure.image-superwide {
+    margin: 15pt -20vw 15pt -20vw;
+    padding: 0 0 0 0;
+    width: 100vw;
+    position: relative;
+    left: 0;
+    box-sizing: border-box;
+    background: rgba(51, 49, 43, .8);
+    color: white;
+}
+figure.image-superwide figcaption {
+    margin-left: 20%;
+    margin-right: 15%;
+    text-align: center;
+}
+figure.image-superwide small {
+    margin-left: 20%;
+    margin-right: 15%;
+    color: darkgrey;
+    margin-top: -5pt;
+    text-align: right;
+}
+figure.image-superwide img {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    width: 100%;
+}
+@media(max-width: 600px) {
+    figure.image-superwide {
+        margin: 15pt -20pt 15pt -20pt;
+    }
+}
+
+figure.image-gallery {
+    width: 100%;
+    padding: 0 0 0 0;
+    margin: 15pt 0 15pt 0;
+    display: block;
+}
+@media (min-width: 1600px) {
+    figure.image-gallery {
+        -webkit-column-count: 2; /* Chrome, Safari, Opera */
+        -moz-column-count: 2; /* Firefox */
+        column-count: 2;
+        -webkit-column-gap: 15pt; /* Chrome, Safari, Opera */
+        -moz-column-gap: 15pt; /* Firefox */
+        column-gap: 15pt;
+    }
+}
+figure.image-gallery img.full-bleed-image {
+    display: block;
+    float: left;
+    width: 100%;
+    margin-top: 3pt;
+    margin-bottom: 3pt;
+}
+figure.image-gallery figcaption {
+    padding-bottom: 8pt;
+    padding-top: 3pt;
+}
+label.image-gallery-label {
+    float: left;
+    margin-bottom: 15pt;
+}
+label.image-gallery-label:hover {
+    cursor: zoom-in;
+}
+
+div.no-break {
+    -webkit-column-break-inside: avoid;
+              page-break-inside: avoid;
+                   break-inside: avoid;
 }
