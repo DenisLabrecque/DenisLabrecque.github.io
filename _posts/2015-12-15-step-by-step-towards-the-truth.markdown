@@ -9,7 +9,7 @@ image-by: <a href='https://www.flickr.com/photos/purplokilo/7759798144/in/photol
 ref: stepbysteptowardsthetruth
 categories: bibletalk
 lang: en
-tags: apologetics literature evolution bibleinterpretation
+tags: apologetics literature evolution bibleInterpretation
 ---
 <h2 id="preamble">Preamble</h2>
 <blockquote>Who am I,
