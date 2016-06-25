@@ -10,7 +10,7 @@
    {% for image in page.gallery %}
     <div class="no-break">
         <a class="image-gallery-label" href="{{ image.url }}" target="_new">
-           <img src="{{ image.url }}" class="full-bleed-image" />
+           <img src="{{ image.url }}" class="full-bleed-image" alt="{{ image.description }}" />
         </a>
         <small>{{ image.by }}</small>
         <figcaption>

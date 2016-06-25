@@ -8,7 +8,7 @@ image-by: <a href='https://www.flickr.com/photos/strupler/5805692358/in/photolis
 categories: bibletalk
 lang: en
 ref: getbackup
-tags: bibleInterpretation
+tags: bibleInterpretation inspiration righteousness forgiveness Christian
 ---
 <blockquote>he who is slack in his work is brother to a great destroyer. <cite>Proverbs 18:9</cite></blockquote>
 <blockquote>for a just one falls seven times, and rises up again; but the wicked shall fall into evil. <cite>Proverbs 24:16</cite></blockquote>
