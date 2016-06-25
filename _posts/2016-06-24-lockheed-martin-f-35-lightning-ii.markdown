@@ -17,7 +17,7 @@ gallery:
       description: The Lightning's weapons load includes an AIM-9X Sidewinder inert missile on the starboard pylon, a centerline 25mm gun pod, and a GBU-32 and AIM-120 in the starboard weapon bay.
       by: <a href='https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II#/media/File:Flickr_-_Official_U.S._Navy_Imagery_-_A_pilot_pilots_the_F-35B_Joint_Strike_Fighter_test_aircraft..jpg' target='_new'>Aircraft flying inverted shows external hard point stations, including the external Gatling gun pod</a> by courtesy of Lockheed Martin by Andy Wolfe. Released under the public domain
 
-tags: jetFighters LockheedMartin
+tags: jet fighterPlane warMachine LockheedMartin
 ---
 The single-engine, single-seat F-35 will be manufactured in three versions: a conventional-takeoff-and-landing (CTOL) variant for the U.S. Air Force, an aircraft-carrier version (CV) for the U.S. Navy, and a short-takeoff/vertical landing (STOVL) version for the U.S. Marine Corps and the U.K. Royal Air Force and Royal Navy.
 

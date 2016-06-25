@@ -6,7 +6,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/ba/ac/38/baac38a2caf0
 ref: chengduj20
 categories: blog
 lang: en
-tags: jetFighters Chengdu
+tags: jet fighterPlane warMachine Chengdu
 gallery:
     - url:  https://s-media-cache-ak0.pinimg.com/originals/04/b1/1c/04b11c16bb0e0032a686081ad86fc12f.jpg
       by: <a href='https://en.wikipedia.org/wiki/Chengdu_J-20#/media/File:J20-2016.png' target='_new'>歼20 2016号</a> by Wikipedia under <a href='http://creativecommons.org/licenses/by-sa/4.0' target='_new'>Attribution-ShareAlike 4.0 International</a>
