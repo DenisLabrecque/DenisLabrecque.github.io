@@ -16,6 +16,18 @@ gallery:
     - url: https://s-media-cache-ak0.pinimg.com/originals/08/61/64/0861641c62d72e7f56c5eb62e88508c1.jpg
       description: The Lightning's weapons load includes an AIM-9X Sidewinder inert missile on the starboard pylon, a centerline 25mm gun pod, and a GBU-32 and AIM-120 in the starboard weapon bay.
       by: <a href='https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II#/media/File:Flickr_-_Official_U.S._Navy_Imagery_-_A_pilot_pilots_the_F-35B_Joint_Strike_Fighter_test_aircraft..jpg' target='_new'>Aircraft flying inverted shows external hard point stations, including the external Gatling gun pod</a> by courtesy of Lockheed Martin by Andy Wolfe. Released under the public domain
+      
+    - url: https://s-media-cache-ak0.pinimg.com/originals/7d/b8/3b/7db83b1429a13b24e3156e1d1c0db5ce.jpg
+      description: The Lightning accompanied by two Hornets, which it will eventually replace.
+      by: <a href='https://commons.wikimedia.org/wiki/File%3ADefense.gov_News_Photo_120111-F-JZ907-002_-_A_U.S._Marine_Corps_F-35_Lightning_II_aircraft_is_escorted_by_two_Marine_F_A-18_Hornets_as_it_flies_toward_Eglin_Air_Force_Base_Fla._on_Jan._11.jpg' target='_new'>A U.S. Marine Corps F-35 Lightning II aircraft is escorted by two Marine F A-18 Hornets</a> by Staff Sgt. Joely Santiago, U.S. Air Force under the public domain
+      
+    - url: https://s-media-cache-ak0.pinimg.com/originals/a9/c0/c6/a9c0c674ba824d7a2e052cad83b5ef49.jpg
+      description: Because the arrestor hook was located too close to the landing gear, the F-35C was originally unable to land on an aircraft carrier.
+      by: <a href='https://www.flickr.com/photos/compacflt/15539776428/in/photolist-pFcq8N-e2GJko-pKefvc-e2B5iM-pXzNXn-e2B6uD-ej7NrT-e2GKoY-e2B7bT-uEeVFY-pE3HiV-Cy4Mk9-p1Nrhb-pF1s7m-ejdwCG-J5Pqda-HYnCoM-HYnCt6-d1YXhQ-p1Yhem-pgT6Xi-HaGUkn-d1YYyS-fRPN7T-ekP4ev-d1YW4U-d1YVhw-d1YVay-kuJvT7-d1YWXE-d1YVGw-tZNiAf-Cy4MFQ-ahtGRQ-fRPSkc-J1aaCp-fRPtox-p1Nsdj-oCRbyP-9NEdXe-icRzgy-pWnMsL-pDP7XB-fRPMpk-pWnNfN-pWeJhr-q1357H-pDRtHQ-kuJwBw-oZvowF' target='_new'>141105-N-IM608-145</a> by <a href='https://www.flickr.com/photos/compacflt/' target='_new'>U.S. Pacific Fleet</a> under <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_new'>Attribution-NonCommercial 2.0 Generic</a>
+      
+    - url: https://s-media-cache-ak0.pinimg.com/originals/30/95/e0/3095e07af921352cfb032f66505ab3f8.jpg
+      description: Because of the central lift fan, the Lightning's body is large enough to break the area rule. It compensates this disadvantage by carrying its weapons internally, which reduces drag.
+      by: <a href='https://commons.wikimedia.org/wiki/File:A_u.s._air_force_f-35a_lightning_ii_aircraft_assigned_to_the_422nd_test_and_evaluation_squadron_taxis_before_its_first_operational_training_mission_april_4,_2013,_at_nellis_air_force_base,_nev_130404-f-kx404-161.jpg' target='_new'>A u.s. air force f-35a lightning ii aircraft assigned to the 422nd test and evaluation squadron taxis before its first operational training mission</a> by Senior Airman Brett Clashman, U.S. Air Force under the public domain
 
 tags: jet fighterPlane warMachine LockheedMartin
 ---
