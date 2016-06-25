@@ -1,4 +1,10 @@
+{% if page.lang == 'en' %}
 <h3>Related Articles</h3>
+{% endif %}
+
+{% if page.lang == 'fr' %}
+<h3>Articles semblables</h3>
+{% endif %}
 
 <ul class="post-stream-container">
 {% comment %}---> the maximum number of related to posts 
