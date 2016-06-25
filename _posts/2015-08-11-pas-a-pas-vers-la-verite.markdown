@@ -7,6 +7,7 @@ headline: Qui nous as faits, pourquoi sommes-nous ici, et où allons-nous? Ces q
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/f7/09/bf/f709bf6f40450eacbc4e6480cadbfb51.jpg
 image-by: <a href='https://www.flickr.com/photos/purplokilo/7759798144/in/photolist-cPGZDb-r6QbfG-9eDjAJ-ovTMpK-snrSZx-nZ8eVE-sAmkpW-q8vGMc-d5VDbo-pvEAmv-gUhzvi-hzT9jx-aDyCHD-bqQBdN-edRbAh-nNRLkt-drbiSz-qLoxAX-qpJqp6-d4Atbb-7qp9UR-qRPnwh-94iFfe-pKYjj7-qP6HYX-o66yiT-pWNf2T-appFTx-ALC4Vn-Hhxnsz-smHqcA-nDBda9-GSNuTd-nYSNmB-oJJ72h-3YWED-zxSx87-8vGnwi-jPjpwk-nKvAJa-ruX2W1-oatF8P-ik9Rmn-G9tSQk-7Wm7HC-5dsBSw-iXntwj-neCNUH-ifRf84-iepgQF' target='_new'>Path</a> par <a href='https://www.flickr.com/photos/purplokilo/' target='_new' >Flugflugfunmangel</a> sous <a href='https://creativecommons.org/licenses/by-nc/2.0/deed.fr' target='_new'>Attribution - Pas d’Utilisation Commerciale 2.0 Générique</a>
 ref: stepbysteptowardsthetruth
+categories: biblique
 lang: fr
 tags: apologétique littérature évolution interprétationBiblique
 ---

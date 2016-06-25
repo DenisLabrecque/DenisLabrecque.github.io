@@ -6,7 +6,7 @@ headline: Le Saint-Esprit habita-t-il les croyants seulement dès l'âge de l'é
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/09/50/e2/0950e2c26ede837d53eae9876c20a2f1.jpg
 image-by: <a href='https://www.flickr.com/photos/calliope/4011585847/in/photolist-77uqHe-eSAPRQ-oaprPj-ze52a-9NGKrb-dydhvB-fBJMZn-6NLMcu-6UvqvA-25A4MV-8gSC9r-9NJybd-nYuqbi-bewbCX-bk3xiT-b6vQui-bXp5J1-bkzGv2-okRb3x-4z9Nv5-qrvbAt-gWXAr6-9M2DUT-rmSv7r-aayuFN-bs2K7r-6EhBmb-oiLgbB-63HHhN-6p5wW-rAYGGX-rAYGn8-eSpqen-fu4cud-dh9aF-kdsBEX-r39sKK-rK1m1v-rAYJzz-8oJhy-6oRqjV-7jVoia-eSAQsu-88NKKJ-9HU9ph-6u625E-6u1SbB-2LyH9h-54PyrV-9FFDtr' target='_new'>on the wings of a snow white dove</a> par <a href='https://www.flickr.com/photos/calliope/' target='_new' >liz west</a> sous <a href='https://creativecommons.org/licenses/by/2.0/' target='_new'>Attribution 2.0 Générique</a>
 ref: otholyspiritsaints
-categories: parlerBiblique
+categories: biblique
 lang: fr
 tags: interprétationBiblique
 ---

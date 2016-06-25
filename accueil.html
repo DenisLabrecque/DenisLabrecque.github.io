@@ -92,7 +92,7 @@ permalink: /accueil
     
     <ul class="post-stream-container">
       {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.parlerbible %}
+      {% for post in site.categories.biblique %}
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
           <div class="hero-article-thumbnail"
