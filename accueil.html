@@ -1,26 +1,177 @@
 ---
 layout: default
+date: 2016-06-25
+lastmod: 2016-06-25
 ref: index
 lang: fr
+title: Accueil
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c02917f3ce4b558113853ed9.jpg
 ---
 
 <div class="home">
-
-  <h1 class="page-heading">Articles</h1>
-
-  <ul class="post-list">
-    {% assign posts=site.posts | where:"lang", page.lang %}
-    {% for post in posts %}
+  <figure class="hero-image"  style="background-image: url( {{ page.hero-image }} );" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
+    <meta itemprop="url" content="{{ page.hero-image }}" />
+    <meta itemprop="width" content="1600">
+    <meta itemprop="height" content="900">
+    <div class="hero-image">
+      <h1 class="title"><span>Allô!</span></h1>
+      <div>
+        <h1 class="subtitle"><span>Je suis Denis Labrecque</span></h1>
+      </div>
+      <p class="image-headline">{{ post.image-by }}</p>
+    </div>
+  </figure>
+  
+  <div class="page-feed" markdown="1">
+    
+    <p class="headline">J'ai des cheveux cool, mais je fais aussi des choses cool! Une chose intéressante que je fais est de jouer et composer de la <strong>musique</strong> au piano et au violon.</p>
+    
+    <ul class="post-stream-container">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.musique %}
       <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="hero-article-thumbnail"
+               style="background-image: url( {{ post.hero-image }} )">
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+          </div>
+          <div class="hero-article-headline">{{ post.headline }}</div>
+        </a>
       </li>
-    {% endfor %}
-  </ul>
+      {% endfor %}
+    </ul>
+  
+    <span>
+      <label class="popdown" for="popdown3">Où sont mes compositions ?</label>
+      <input type="checkbox" id="popdown3" class="no-display" />
+      <label class="x-button" for="popdown3">X</label>
+      <div class="popdown">
+        <p>Une partie de ma musique non-enregistrée se trouve sur une <a href="https://www.youtube.com/playlist?list=PLq7M1cOtTjn1BImrylaY0UZBiIeZLwCFj" target="_new">playlist YouTube</a> comme musique synthétique. J'y ai fait <a href="https://www.youtube.com/playlist?list=PLq7M1cOtTjn1R6N4nmiBULc8Qnh3toCkW" target="_new">des enregistrements acoustiques</a> provisoires, mais j'ai décidé de faire de <a href="https://soundcloud.com/denisglabrecque" target="_new">SoundCloud</a> ma chaîne musique. Par contre, il est ardu de créer des enregistrements de qualité, et je suis loin d'être à jour.</p>
+        <p>Les partitions sont plus faciles à partager. Un site web pratiquement encyclopédique, <a href="http://www.imslp.org/wiki/User:D.g.lab.">IMSLP</a> (Petrucci Music Library) détient plusieurs <a href="http://www.imslp.org/wiki/User:D.g.lab." target="_new">partitions PDF de mes compositions.</a> Mais puisque plusieurs travaux ne sont pas encore parfaitement corrigés, je n'ai pas pu les télécharger.</p>
+      </div>
+    </span>
+  
+    <span>
+      <label class="popdown" for="popdown4">Liste complète de mes compositions</label>
+      <input type="checkbox" id="popdown4" class="no-display" />
+      <label class="x-button" for="popdown4">X</label>
+      <div class="popdown">
+        <ol>
+          <li>Concerto pour violon "À l'Italienne" (non corrigé)</li>
+          <li>Romance pour violon et flute "Butterfly" (non corrigé)</li>
+          <li>Concerto "Actions de grâce" pour trois violons (partiellement recomposé)</li>
+          <li>Prelude et adagio pour clavier (non corrigé)</li>
+          <li>Suite "On the Iris" pour deux violons (non corrigé)</li>
+          <li>"Grande Entrée", "Marche Militaire" (incomplet)</li>
+          <li>"Concerto du Printemps" (recomposé)</li>
+          <li>Scrapbook: "La maladie d'amour" (complet), "Jungle Wells" (complet), Étude, Background Harp Music, Arrangement of Happy Birthday (tous complets)</li>
+          <li>"Musique du Réveil" pour violon (complet)</li>
+          <li>"Je vais avec lui!" cantique, (complet)</li>
+          <li>"Six Bell Calls" (complet)</li>
+          <li>Arrangements (incomplet)</li>
+          <li>Toccata et deux préludes pour orgue (complet)</li>
+          <li>"Mélodies" for violin et violoncelle, plusieurs movements, une recomposition (incomplet)</li>
+          <li>Cantate de marriage (commencé seulement)</li>
+          <li>"Voici le Sauveur" motet court (complet)</li>
+          <li>"Tormented Winds" polyphonie et chaconne pour deux violons (complet)</li>
+          <li>"Daniel" I: polyphonie, passacaglia, orientalisante, & "Le petit rigolo" pour violon et piano (complet)</li>
+          <li>"Esther" Opéra: "Festin," "Romance," "Esther et Mardochée," "Bigtham et Theresh," "Marche," "Désolation des Juifs," "Esther recontre le roi," "Les annales", "Victoire des Juifs", "Jésus est mon diving berger" (partiellement recomposé)</li>
+          <li>"The Anthem Set" cantiques: "Tu es serviteur et héros", "Pour le seul roi," "Ènlève, élève," "Vois mon désir," "En toi mes yeux voient" (complet)</li>
+          <li>"Rosée matinale," musique du réveil for violin (complet)</li>
+          <li>"Daniel" II: prélude & czardas pour violin and orchestre (complet)</li>
+          <li>Airs pour deux violons (complet; additions à faire)</li>
+          <li>Musique du réveil for saxophone (incomplet)</li>
+          <li>"Moderna" for piano: "Pastel Whites" (complet; additions à faire)</li>
+        </ol>
+      </div>
+    </span>
+    
+    <p class="headline">Une autre bonne chose que je fais est de <strong>penser bibliquement</strong>.</p>
+    
+    <ul class="post-stream-container">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.parlerbible %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="hero-article-thumbnail"
+               style="background-image: url( {{ post.hero-image }} )">
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+          </div>
+          <div class="hero-article-headline">{{ post.headline }}</div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    
+    <!--
+    <p class="headline">I also create <strong>artwork</strong>.</p>
+    
+    <ul class="post-stream-container">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.artwork %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="hero-article-thumbnail"
+               style="background-image: url( {{ post.hero-image }} )">
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+          </div>
+          <div class="hero-article-headline">{{ post.headline }}</div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    -->
+    
+    <p class="headline">Et je <strong>blogue</strong> d'autres histoires, pensées, et activités.</p>
+    
+    <ul class="post-stream-container">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.blogue %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="hero-article-thumbnail"
+               style="background-image: url( {{ post.hero-image }} )">
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+          </div>
+          <div class="hero-article-headline">{{ post.headline }}</div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    
+    <span>
+      <label class="popdown" for="http://popdown.jpg">Qui suis-je?</label>
+      <input type="checkbox" id="http://popdown.jpg" class="no-display" />
+      <label class="x-button" for="http://popdown.jpg">X</label>
+      <div class="popdown">
+        <p>Si mon historique de travail vous intéresse, visitez mon <a href="http://www.jobillico.com/medias/candidates/0/68/2245190_26-05-16_14h_44_34_1175993.pdf" target="_new">Curriculum Vitae</a> pour plus de détails.</p>
+        <p><strong>Mon slogan rapide</strong> est que j'aime l'apologétique, composer de la musique néoclassique, et manger avec des baguettes.</p>
+        <p><strong>Vocationellement,</strong> j'étudie présentement à <a href="http://www.pcci.edu/" target="_new">Pensacola Christian College</a> avec un BAC double en Systèmes Informatiques et en Design Graphique. Bien sur, je déssine, j'écris de la musique, et je fais de la programmation aussi, ce blogue étant le fruit de tels exercises.</p>
+        <p><strong>Philosophiquement,</strong> Je suis un Chrétien qui aime le Seigneur -- par vocation, un prophète de l'évangile; par compréhension, prémillinariste; par sagesse, évangélique; et par prédestination héritier du ciel; Canadien, bien que fils d'Abraham par la foi; unioniste conservateur et anti-socialiste; chrétien conservateur et mangeur et parleur conservateur aussi; ordi- et piment- phile; fils de l'homme et fils de Dieu, pécheur et rendu saint; musicien et compositeur pianiste et violoniste. <em>Compris?</em></p>
+        <p><strong>Mon droit de vantardise</strong> est d'avoir deux pères, les deux étant légitimes : un père terrestre de mon sang, et un père céleste qui m'a donné le sien.</p>
+        <p><strong>Mon contexte social</strong> est le Québec, au Canada: j'habite un village nommé St-Denis-sur-Richelieu, et je peux communiquer nativement en anglais et en français.</p>
+        <p><strong>Mes profils sociaux</strong> sont comme suit: j'aime bien et je préfère utiliser <a href="https://plus.google.com/+DenisGLabrecque" target="_new">Google+</a> parce que cette plateforme-là est bien plus orientée par intérèt et pensée. Par contre, peu de personnes semblent l'apprécier; ainsi, je fais aussi partie du géant social <a href="https://www.facebook.com/DenisGLabrecque" target="_new">Facebook.</a> J'ai auissi <a href="https://www.linkedin.com/in/denisglabrecque" target="_new">LinkedIn</a> pour mon résumé de travail. <a href="https://plus.google.com/+DenisGLabrecque" target="_new">Google+</a>, <a href="https://www.facebook.com/DenisGLabrecque" target="_new">Facebook</a>, et <a href="https://www.linkedin.com/in/denisglabrecque" target="_new">LinkedIn</a> permettent tous aux autres d'envoyer des messages ou courriels vers mon profil (pour évidter les pourriels, je ne poste pas mon courriel).</p>
+        <p>Mon profil social favori est probablement <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new">Pinterest</a> : vous y trouverez des choses intéressantes. Mon réseau social le moins favori est probablement <a href="https://twitter.com/denisglabrecque" target="_new">Twitter</a>, envers lequel mes pensées semblent nettement s'être négativisées.</p>
+        <p>Mais mes résaux sociaux les plus personnels sont <a href="https://www.youtube.com/c/DenisGLabrecque" target="_new">YouTube</a> et <a href="https://soundcloud.com/denisglabrecque" target="_new">SoundCloud</a>, les deux présentant mon travail personnel patient dans certains domaines. Un autre site web à noter, bien que pas un réseau social, est <a href="http://imslp.org/wiki/Category:Labrecque,_Denis_G.">IMSLP.org,</a> parce que c'est là où sont servies plusieurs de mes partitions musicales.</p>
+      </div>
+    </span>
+    
+    <span>
+      <label class="popdown" for="popdown2">Que concerne ce site?</label>
+      <input type="checkbox" id="popdown2" class="no-display" />
+      <label class="x-button" for="popdown2">X</label>
+      <div class="popdown">
+        <p><strong>Ce site web est mon portfolio virtuel.</strong> J'ai travaillé des heures innombrables à des compositions musicales, à des déssins, et à des livres courts et des articles que je désire partager avec vous.</p>
+        <p><strong>C'est aussi un porte-voix</strong> à la défense de la vérité et la vie, trouvés en Jésus-Christ, le dieu du ciel et le sauveur de nos mauvaises actions. Et il est la parole, et sa parole est la Bible (Jean 1).</p>
+        <p>La nouvelle suivant la véracité de la Bible est celle-ci: -- comme le Christ le Messie l'a dit, “Celui qui vaincra héritera ces choses; je serai son Dieu, et il sera mon fils. Mais pour les lâches, les incrédules, les abominables, les meurtriers, les impudiques, les enchanteurs, les idolâtres, et tous les menteurs, leur part sera dans l'étang ardent de feu et de soufre, ce qui est la seconde mort.” Il suit ainsi que “Celui qui croit au Fils a la vie éternelle; celui qui ne croit pas au Fils ne verra point la vie, mais la colère de Dieu demeure sur lui.”</p>
+        <p>À cause de cette connaissance, j'ai aussi un intérêt dans l'apologétique et dans la question des origines. J'ai ainsi écrit ma réflection sur la question des origines, nommée <em>Pas à pas vers la vérité</em>, dans laquelle j'expose le sentier logique pris dans la découverte de mon Seigneur.</p>
+      </div>
+    </span>
 
-  <p class="rss-subscribe">suivre le <a href="{{ "/flux.xml" | prepend: site.baseurl }}">flux RSS</a></p>
+  </div><!-- page-feed -->
 
 </div>

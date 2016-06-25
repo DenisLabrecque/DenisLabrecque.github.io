@@ -5,12 +5,71 @@
     <link itemprop="mainEntityOfPage" href="{{ site.url }}{{ page.url }}" />
     
     <section class="page-content">
-      <div class="width-control">
-        {{ content }}
+      <div class="width-control" markdown="1">
+      {% if page.lang == 'en' %}
+        {% capture hide %}
+          {% assign content = content | split: '<pre' %}
+        
+          {% for parts in content %}
+        
+            {% assign part = parts | split: '</pre>' %}
+            {% assign c = part.first %}
+            {% assign text = part.last %}
+        
+            {% assign text = text
+              | replace: ' -- ', '&thinsp;&mdash;&thinsp;'
+              | replace: '... ', '&hellip; '
+              | replace: '.... ', '.&hellip; '
+            %}
+        
+            {% if part.size == 2 %}
+        
+              {% capture output %}{{ output }}<pre{{ c }}</pre>{% endcapture %}
+        
+            {% endif %}
+        
+            {% capture output %}{{ output }}{{ text }}{% endcapture %}
+        
+          {% endfor %}
+        {% endcapture %}{{ output }}
+      {% endif %}
+      {% if page.lang == 'fr' %}
+        {% capture hide %}
+          {% assign content = content | split: '<pre' %}
+        
+          {% for parts in content %}
+        
+            {% assign part = parts | split: '</pre>' %}
+            {% assign c = part.first %}
+            {% assign t = part.last %}
+        
+            {% assign t = t
+              | replace: '“', '«&nbsp;'
+              | replace: '”', '&nbsp;»'
+              | replace: ' :', '&nbsp;:'
+              | replace: ' %', '&nbsp%'
+              | replace: ' ;', '&thinsp;'
+              | replace: ' !', '&thinsp;!'
+              | replace: ' ?', '&thinsp;?'
+              | replace: 'oe', '&oelig;'
+            %}
+        
+            {% if part.size == 2 %}
+        
+              {% capture output %}{{ output }}<pre{{ c }}</pre>{% endcapture %}
+        
+            {% endif %}
+        
+            {% capture output %}{{ output }}{{ t }}{% endcapture %}
+        
+          {% endfor %}
+        {% endcapture %}{{ output }}
+      {% endif %}
       </div>
     </section>
 
     <footer class="site-footer">
+      {% if page.lang == 'en' %}
       <small itemprop="license">Unless otherwise mentioned, this webpage and its content is licensed <link itemprop="url" href="{{ site.url }}" /> under the <a href="http://creativecommons.org/licenses/by/4.0/" target="_new" rel="license">Attribution 4.0 International license.</a> You may quote and copy this material if you give correct credit to the author and do not distort or otherwise change the original meaning of his words.</small>
       <small>Copying any material on this website without giving correct credit to the author is both plagiarism and copyright infringment, and will be treated as such. 
         <span itemprop="author" content="{{ page.author }}" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
@@ -18,14 +77,31 @@
           <a href="https://plus.google.com/+DenisGLabrecque" rel="author" target="_new" itemprop="url">{{ page.author }}</a>
           {% else %}
             {% if page.author-url %}
-            <a href="{{ page.author-url }}" rel="author" target="_new" itemprop="url">{{ page.author }}</a>
+              <a href="{{ page.author-url }}" rel="author" target="_new" itemprop="url">{{ page.author }}</a>
             {% else %}
-            {{ page.author }}
+              {{ page.author }}
             {% endif %}
-          {{ page.author }}
           {% endif %}
         </span>
       </span> published this document on <span itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00" content="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00">{{ page.date | date: '%B %d, %Y' }}</span>. {% if page.lastmod %}It was last modified on <span itemprop="dateModified" datetime="{{ page.lastmod | date: '%Y-%m-%d' }}">{{ page.lastmod | date: '%B %d, %Y' }}</span>.{% endif %}</small>
+      {% endif %}
+      
+      {% if page.lang == 'fr' %}
+      <small itemprop="license">À moins d'avis contraire, cette page web et son contenu est sous <link itemprop="url" href="{{ site.url }}" /> la license <a href="https://creativecommons.org/licenses/by/4.0/deed.fr" target="_new" rel="license">Attribution 4.0 International</a>. Vous pouvez citer et copier ce matériel seulment si vous donnez le crédit approprié à l'auteur et ne faussez ou de quelque manière changez le sens original de ses paroles.</small>
+      <small>De copier quelquonque matériel sur ce site web sans donner le crédit approprié à l'auteur est du plagiât et une infraction aux droits d'auteur, et sera ainsi traité.
+        <span itemprop="author" content="{{ page.author }}" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
+          {% if page.author == 'Denis G. Labrecque' %}
+          <a href="https://plus.google.com/+DenisGLabrecque" rel="author" target="_new" itemprop="url">{{ page.author }}</a>
+          {% else %}
+            {% if page.author-url %}
+              <a href="{{ page.author-url }}" rel="author" target="_new" itemprop="url">{{ page.author }}</a>
+            {% else %}
+              {{ page.author }}
+            {% endif %}
+          {% endif %}
+        </span>
+      </span> a publié ce document le <span itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00" content="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00">{{ page.date | date: '%d/%m/%Y' }}</span>. {% if page.lastmod %}Sa dernière modification remonte au <span itemprop="dateModified" datetime="{{ page.lastmod | date: '%Y-%m-%d' }}">{{ page.lastmod | date: '%d/%m/%Y' }}</span>.{% endif %}</small>
+      {% endif %}
     </footer>
     
     <span><!-- keeps labels from affecting each other -->

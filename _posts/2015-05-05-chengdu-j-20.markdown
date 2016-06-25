@@ -13,6 +13,8 @@ gallery:
 ---
 The J-20 is a Chinese stealth fifth-generation multirole air superiority fighter planned to be operational before 2020. Its design is characterised by a set of canards and by the omission of a gun, which does not seem to be provided for. Half a dozen prototypes have been produced, the maiden flight having been held in January 2011.
 
+China's J-20 platform has the potential to be a capable, long-range strike system in the Asia-Pacific region, but a number of technical challenges will need to be overcome before production can begin.
+
 <h3>Characteristics</h3>
 <strong>Max. takeoff weight:</strong> 36,288 kg (80,001 lb) upper estimate<br />
 <strong>Maximum speed:</strong> 11,340 kg (25,000 lb)<br />
