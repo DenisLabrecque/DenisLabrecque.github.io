@@ -2,7 +2,7 @@
 layout: post
 title: "F-35 Lightning II"
 subtitle: "Stealth multirole fighter"
-headline: "The Lightning, the most expensive military weapons system in history, is a beautiful aircraft of the most modern conception to date. It is the winning design of the Joint Strike Fighter (JSF) program, launched in 1993 as the Joint Advanced Strike Technology (JAST) program."
+headline: "The Lightning, the most expensive military weapons system in history, is a beautiful aircraft of the most modern conception to date. It is the winning design of the Joint Strike Fighter (JSF) program, begun as the Joint Advanced Strike Technology (JAST) program and signed in 1996 as the JSF program."
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/2d/c2/75/2dc275a0de2d73924f64390bdb0007ae.jpg
 image-by: <a href='https://www.flickr.com/photos/forsvarsdepartementet/22504078631/in/photolist-AhBhxH-AgCEop-zjJQov-zjAGD9-zjAVGd-AhB8FV-AhAWRD-zjAU31-AekkAw-S5R7D-8Kc2ip-gXvR34-7Bvz3Z-d8JN2o-dRDqjs-e2GL4S-9Dw77T-7Bzp9y-78xExV-8JU3e4-6Skwnh-bwPs7F-owhT3q-8vwtpZ-wmZvt6-51j3XD-yFwAE-9X8Vms-78xDBD-kokvFz-55qaLW-e2GJko-e2B5iM-e2GJEy-vVKMGf-e2GJ8A-e2B6uD-7P9k67-e2GKoY-AGLPkZ-eaPnqE-4fCtaE-eQ8Rye-51oeYs-e2GHUY-vgmjcy-e2B7bT-AMqGyF-pLSVah-dRvXq2' target='_new'>Testflyging av første norske F-35</a> by <a href='https://www.flickr.com/photos/forsvarsdepartementet/' target='_new' >Forsvarsdepartemente</a> under <a href='https://creativecommons.org/licenses/by/2.0/' target='_new'>Attribution 2.0 Generic</a>
 ref: f35lightning
@@ -19,17 +19,23 @@ gallery:
 
 tags: jet fighterPlane warMachine LockheedMartin
 ---
-The single-engine, single-seat F-35 will be manufactured in three versions: a conventional-takeoff-and-landing (CTOL) variant for the U.S. Air Force, an aircraft-carrier version (CV) for the U.S. Navy, and a short-takeoff/vertical landing (STOVL) version for the U.S. Marine Corps and the U.K. Royal Air Force and Royal Navy.
+In 2001, out of the competing Boeing X-32 and Lockheed Martin X-35 prototypes, the X-35 design was selected as having the best potential for the United States and the United Kingdom. But because the prototype did not include weapons bays, a redisign caused weight problems and cost overruns of $6.2 billion and took 18 months to overcome. This would be the first of many setbacks with the program.
 
-The requirements for the Joint Strike Fighter are complex – from the start it must reach new heights of lethality, but be affordable. It must be survivable during the rigors of combat and supportable from austere environments. All the while, the F-35 JSF must meet all of these diverse needs of multiple services and still be affordable.
+To honour both the U.S. Air Force warbird Lockheed P-35 Lightning and the English Electric Lightning of the Royal Air Force, the new aicraft was named Lightning II in 2006.
 
-The F-35A’s advanced sensor package gathers and distributes more information than any fighter in history, giving operators a decisive advantage over all adversaries. Its tremendous processing power, open architecture, sophisticated sensors, information fusion and flexible communication links make the F-35 an indispensable tool in future homeland defense, joint and coalition irregular warfare, and major combat operations.
+To save on costs and replace aging fighter plane fleets, the Lightning was designed to take on many roles. It was intended not only to mimic the Harrier in its vertical takeoff capability, but also to incorporate a stealthy design like the F-117 Nighthawk and the F-22 Raptor, as well as replace the F-16 Falcon and the F-18 Hornet in their fighter role and the A-10 Thunderbolt in its ground attack role. To accomplish those roles, it has three main variants: the F-35A for convential takeoff and landing, the F-35 B for short takeoff and vertical-landing, and the F-35C for catapult assisted takeoff but arrested recovery. The common design in all three models was planned to allow an 80% commonality between parts.
 
-The 1970s saw the production of many of today's aircraft that comprise most of the U.S. tactical aircraft inventory. The combination of service-life exhaustion and escalating threats will require all of the services to slowly retire their current tactical aircraft. These issues are not restricted to the U.S. The Royal Air Force and Royal Navy Harriers underscore similar problems. Other U.S. allies are having the same problem.
+Unfortunately, as many critics claim, the aircraft's design, with so many goals to attain, has become inefficient in all of them. The aircraft lacks dogfighting energy because of its vertical takeoff constraints -- common design transferring those faults to both conventional takeoff versions, and it is lightly armoured and vulnerable in the ground attack role. Also, to maintain stealth, all of its weapons being internal, its ammunition and range is limited. And over all, cost overruns and delays have been exhorbitant, further compromising the aicraft (total program costs, adjusted for inflation, amount to $1.508 <em>trillion</em> USD).
 
-The F-35 is designed to replace aging fighter inventories including U.S. Air Force A-10s and F-16s, U.S. Navy F/A-18s, U.S. Marine Corps AV-8B Harriers and F/A-18s, and U.K. Harrier GR.7s and Sea Harriers. With stealth and a host of next-generation technologies, the F-35 will be far and away the world’s most advanced multi-role fighter. There exists an aging fleet of tactical aircraft worldwide. The F-35 will solve that problem.
+Nevertheless, the aicraft's primary advantage lies in its electronic edge, radar evasion, and complete sensor fusion. The cockpit includes a 50 &times; 20cm touchscreen and a speech recognition system. It also includes a helmet mounted display system which completely replaces the HUD: it is the first fighter in decades without one. This would allow the plane to attack ground targets without directly pointing the aircraft towards them, therefore reducing danger from ground fire. Lasers were being developed as optional weapons for the Lightning, an option allowing it to burn threats out of the sky.
 
-All variants of the F-35 will be procured within their target cost range with operation and support costs kept low. Air-to-ground precision strikes in all weather and suitable for air-to-air combat engagements. All F-35s incorporate low observable technology
+The Lightning's stealth features, although not completely impervious from radar, protect it from the frequency used by missiles and other aircraft, except at close range. Improving upon the F-22 Raptor's, the F-35's stealth coatings are baked into the skin and are much easier to maintain.
+
+The Lightning's sensors surround it completely, its devices so sensitive they can detect the launch of a missile 1,900 km away. In combat, such capability would give any aircraft away, even stealthy: such functions are not usually part of a figher's design. Using its sensors and communications equipment, an F-35 could control up to 20 UCAVs and plan attacks to targets indirectly.
+
+More than 170 Lightnings have been built, and they are planned to fly until 2070. They are in testing and training by the USA, the UK, Denmark, Israel, Italy, Japan, Netherlands, Norway, Korea, Turkey, and Italy. Its aquisition remains contested, and projects such as the Canadian procurement of the CF-35 are uncertain.
+
+Israel has acquired its own version under the name F-35I Adir with a plug-and-play feature for add-on Israeli electronics: "The basic F-35 design is OK. We can make do with adding integrated software." Israel should purchase up to 75 units, and the United States plans to acquire 1,763 in total.
 
 <h3>Characteristics</h3>
 
