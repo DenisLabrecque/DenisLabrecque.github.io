@@ -20,7 +20,7 @@ and <cite><a href="http://trueword.herokuapp.com/John/16" target="_new">John 16:
 <blockquote>However, when he, the Spirit of truth, is come, he will guide you into all truth: for he shall not speak of himself; but whatever he shall hear, that shall he speak: and he will show you things to come</blockquote>
 and yet again <cite><a href="http://trueword.herokuapp.com/Acts/2" target="_new">Acts 2:4</a></cite>:
 <blockquote>And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance</blockquote>
-All of the previous verses are interpreted together to mean that the Holy Spirit did not dwell in believers beforehand.</p>
+All of the previous verses are interpreted together to mean that the Holy Spirit did not dwell in believers beforehand.
 <h2>Weighing the Impossibilities</h2>
 <p>Here is an interesting fact to note concerning the giving of the Holy Spirit: the most known account is found in <cite><a href="http://trueword.herokuapp.com/Acts/2" target="_new">Acts 2</a></cite>, which mentions that the disciples "[...] were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance." But we may not ignore <cite><a href="http://trueword.herokuapp.com/John/20" target="_new">John 20:22</a></cite>, which, when speaking of Jesus talking to his disciples after His resurrection, says, 
 <blockquote>And when he had said this, he breathed on them, and said to them, Receive you the Holy Ghost.</blockquote>

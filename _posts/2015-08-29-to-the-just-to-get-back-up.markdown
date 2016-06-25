@@ -5,7 +5,7 @@ subtitle: Never relent from perseverance
 headline: The real problem is not to fall, but to be incapable of getting up again.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/f6/a8/3e/f6a83e31dacb4fff21f9acaee4b3c5a7.jpg
 image-by: <a href='https://www.flickr.com/photos/strupler/5805692358/in/photolist-9R2G57-7bEArh-9R5Dqf-sdb2Jb-oUC5JJ-bUazpP-pG2W2d-DY8V1-4a5QuT-e8HqZK-oDGx7g-dq7mGP-oQXXPZ-8wGird-qLvu8s-Dkvkt5-e1J32y-b3aQYK-89YzQk-6vp3Ct-oy9f1d-6WMsjK-xy8Y4-48QY9R-ho8D2A-FGV6q7-dTnRa-nCmoDu-g9F4bZ-fL28Gc-eezodP-4imbRA-f897u4-fL28wk-hMEySq-7TmD7a-97TGyR-359Vri-34Nf33-4VvcV4-daWMYy-5EiYeY-pKxo39-2xpZL4-5udfrY-cR5EGb-numtKw-bTH1Zz-8t7ziq-CbqRsv'  target='_new'>Zurich 2011 - Standing Tall</a> by <a href='https://www.flickr.com/photos/strupler/' target='_new' >ND Strupler</a> under <a href='https://creativecommons.org/licenses/by/2.0/' target='_new'>Attribution 2.0 Generic</a>
-categories: parlerbible
+categories: bibletalk
 lang: en
 ref: getbackup
 tags: bibleInterpretation
