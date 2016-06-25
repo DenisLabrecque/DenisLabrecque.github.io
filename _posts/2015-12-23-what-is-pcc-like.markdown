@@ -4,12 +4,11 @@ title: "What is Pensacola Christian College Like?"
 subtitle: "A freshman's perspective"
 headline: "My experience behind the scenes of college life at PCC"
 hero-image: "https://s-media-cache-ak0.pinimg.com/originals/c6/6a/bc/c66abc74a07d4af3e49cf01a3526e816.jpg"
-image-by: "Image by author."
 ref: whatispcclike
 categories: blog
 lang: en
 lastmod: 2016-06-20
-tags: university PCC pensacolaChristianCollege
+tags: university PCC Pensacola Christian College blog
 ---
 As a brand new student at PCC from Canada, I had a very confused idea of what college (or university, as the matter may stand) would be like. When consulting many sources over the internet, one realizes that many people claim the most outrageous and inaccurate things about PCC. As a freshman there, I will tell of my own experience.
 <h1>Arrival</h1>
