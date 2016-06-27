@@ -24,7 +24,63 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
   
   <div class="page-feed" markdown="1">
     
-    <p class="headline">I have cool hair, but I also do cool stuff! One cool thing I do is play and compose <strong>music</strong> on the piano and violin.</p>
+    <p class="headline">I have cool hair, but I also do cool stuff! A great thing I do is <strong>think biblically.</strong></p>
+    
+    <ul class="post-stream-container">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.bibletalk %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="hero-article-thumbnail"
+               style="background-image: url( {{ post.hero-image }} )">
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+          </div>
+          <div class="hero-article-headline">{{ post.headline }}</div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    
+    <!--
+    <p class="headline">I also create <strong>artwork</strong>.</p>
+    
+    <ul class="post-stream-container">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.artwork %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="hero-article-thumbnail"
+               style="background-image: url( {{ post.hero-image }} )">
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+          </div>
+          <div class="hero-article-headline">{{ post.headline }}</div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    -->
+    
+    <p class="headline">I also <strong>blog</strong> other stories, thoughts, and activities.</p>
+    
+    <ul class="post-stream-container">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.blog %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="hero-article-thumbnail"
+               style="background-image: url( {{ post.hero-image }} )">
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+          </div>
+          <div class="hero-article-headline">{{ post.headline }}</div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    
+    <p class="headline">Another cool thing I do is play and compose <strong>music</strong> on the piano and violin.</p>
     
     <ul class="post-stream-container">
       {% assign posts=site.posts | where:"lang", page.lang %}
@@ -86,62 +142,6 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
         </ol>
       </div>
     </span>
-    
-    <p class="headline">Another great thing I do is <strong>think biblically</strong>.</p>
-    
-    <ul class="post-stream-container">
-      {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.bibletalk %}
-      <li>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          <div class="hero-article-thumbnail"
-               style="background-image: url( {{ post.hero-image }} )">
-            <strong class="article-title"><span>{{ post.title }}</span></strong>
-            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
-          </div>
-          <div class="hero-article-headline">{{ post.headline }}</div>
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
-    
-    <!--
-    <p class="headline">I also create <strong>artwork</strong>.</p>
-    
-    <ul class="post-stream-container">
-      {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.artwork %}
-      <li>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          <div class="hero-article-thumbnail"
-               style="background-image: url( {{ post.hero-image }} )">
-            <strong class="article-title"><span>{{ post.title }}</span></strong>
-            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
-          </div>
-          <div class="hero-article-headline">{{ post.headline }}</div>
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
-    -->
-    
-    <p class="headline">And <strong>blog</strong> other stories, thoughts, and activities.</p>
-    
-    <ul class="post-stream-container">
-      {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.blog %}
-      <li>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          <div class="hero-article-thumbnail"
-               style="background-image: url( {{ post.hero-image }} )">
-            <strong class="article-title"><span>{{ post.title }}</span></strong>
-            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
-          </div>
-          <div class="hero-article-headline">{{ post.headline }}</div>
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
     
     <span>
       <label class="popdown" for="http://popdown.jpg">Who am I?</label>

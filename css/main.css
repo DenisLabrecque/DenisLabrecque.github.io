@@ -429,7 +429,7 @@ label.popdown {
     background: rgba(0,0,0,.8);
     line-height: 100%;
     padding: 10pt 15pt 10pt 15pt;
-    margin: 0 15pt 0 0;
+    margin: 0 15pt 12pt 0;
     box-sizing: border-box;
     border-radius: 20pt;
     -webkit-user-select: none;  /* Chrome all / Safari all */

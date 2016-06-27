@@ -27,10 +27,11 @@ gallery:
       
     - url: https://s-media-cache-ak0.pinimg.com/originals/30/95/e0/3095e07af921352cfb032f66505ab3f8.jpg
       description: Because of the central lift fan, the Lightning's body is large enough to break the area rule. It compensates this disadvantage by carrying its weapons internally, which reduces drag.
-      by: <a href='https://commons.wikimedia.org/wiki/File:A_u.s._air_force_f-35a_lightning_ii_aircraft_assigned_to_the_422nd_test_and_evaluation_squadron_taxis_before_its_first_operational_training_mission_april_4,_2013,_at_nellis_air_force_base,_nev_130404-f-kx404-161.jpg' target='_new'>A u.s. air force f-35a lightning ii aircraft assigned to the 422nd test and evaluation squadron taxis before its first operational training mission</a> by Senior Airman Brett Clashman, U.S. Air Force under the public domain
+      by: <a href='https://www.flickr.com/photos/77258709@N06/8636011734/in/photolist-ea8Pq3' target='_new'>130404-F-KX404-161</a> by Senior Airman Brett Clashman, U.S. Air Force via <a href='https://www.flickr.com/photos/77258709@N06/' target='_new'>ermaleksandr</a> under the public domain
 
 tags: jet fighterPlane warMachine LockheedMartin
 lastmod: 2016-06-26
+lastmod: 2016-06-27
 ---
 In 2001, out of the competing Boeing X-32 and Lockheed Martin X-35 prototypes, the X-35 design was selected as having the best potential for the United States and the United Kingdom. But because the prototype did not include weapons bays, a redesign caused weight problems and cost overruns of $6.2 billion and took 18 months to overcome. This would be the first of many setbacks with the program.
 
