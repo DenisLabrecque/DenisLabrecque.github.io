@@ -1,0 +1,34 @@
+---
+layout: post
+title: HAL Tejas
+subtitle: Light combat aircraft
+headline: Since the 1970s, India depended mainly on the MiG-21 for the defense of its airspace. To replace that ageing aircraft, and to increase India's domestic aviation capability, the LCA program was begun in 1984.
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/70/dc/21/70dc21ade483d81244bd9d2d3ec7325f.jpg
+image-by: <a href='https://www.flickr.com/photos/ashwinkumar/8502021493/in/album-72157632844846824/' target='_new'>Tejas</a> by <a href='https://www.flickr.com/photos/ashwinkumar/' target='_new'>Ashwin Kumar</a> under <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_new'>Attribution-ShareAlike 2.0 Generic</a>
+
+gallery:
+    - url: https://s-media-cache-ak0.pinimg.com/originals/5f/85/6d/5f856dbe532d543d160929dc882fa2ca.jpg
+      description: The navy variant includes a reinforced airframe, a powered nose wheel steering, leading edge vortex controllers, and a drooped nose for better vision. It is designed for ski-jump take-off from aircraft carriers.
+      by: <a href='https://en.wikipedia.org/wiki/HAL_Tejas#/media/File:HAL_Tejas_NP-1_takes-off_from_the_Shore_Based_Test_Facility_at_INS_Hansa,_Goa.JPG' target='_new'>Naval LCA during flight testing</a> by the Indian Navy under <a href='http://creativecommons.org/licenses/by/2.5/in/deed.en' target='_new'>Attribution 2.5 India</a>
+
+lang: en
+categories: blog
+tags: jet fighterJet Tejas Hindustan Aeronautics Limited
+ref: haltejas
+---
+The Aeronautical Development Agency was created to manage the LCA (Light Combat Aircraft) initiative. Its main partner was Hindustan Aeronautics Limited (HAL), which had developed India's first jet aircraft, the HF-24 Marut, in the 1960s. Unfortunately, Indian aeronautic development was hampered by political pressure because of its nuclear tests at Pokhran.
+
+By 1989, Indian infrastructure, facilities, and technology were judged advanced enough to undertake the project. The first prototype flew in January 2001, piloted by Wing Commander Rajiv Kothiyal. By 2005, 20 production series aircraft were ordered, and again in 2010. However, production only began in 2013, the aircraft being introduced in the air force in January 2015.
+
+The Tejas is designed in two main variants: one for the air force, and one for the navy. Together, both agencies' requirements represent about 160 aircraft. It has also been reported that "India would also consider selling the planes to other friendly countries," but only after being its being introduced into India's own air force. Sri Lanka and Egypt have expressed interest.
+
+The Tejas is designed in a tailless compound delta wing, and is conceived for relaxed static stability in flight, enhancing maneuverability. The tailless design increases payload capacity and confers better flight characteristics. The Tejas is composed of 45% carbon-fibre composites by weight, reducing the aircraft's weight by 21%, removing 40% of the necessary parts, avoiding approximately 2&thinsp;000 drilled holes, and shortening the manufacturing process by four months.
+
+Although the Tejas' primary purpose is air superiority, it is also a multirole fighter and includes ground attack and anti-ship capabilities. It is electronically assisted by a quadruplex digital fly-by-wire flight control system, and has an on-board oxygen-generating system and aerial refuelling probe for extended flights. The Tejas also features certain stealth characteristics such as radar-absorbent coating, a Y-shaped inlet, and the use of radar nonreflective composites.
+
+<h3>Characteristics</h3>
+<strong>Max. takeoff weight:</strong> 13,500 kg (29,100 lb)<br />
+<strong>Maximum speed:</strong>  Mach 1.8 (2,205 km/h) for final version; Mach 1.6 (2,000 km/h) for initial version<br />
+<strong>Range:</strong> 3,000 km (1,620 nmi, 1,864 mi)
+
+{% include image-gallery.html %}
