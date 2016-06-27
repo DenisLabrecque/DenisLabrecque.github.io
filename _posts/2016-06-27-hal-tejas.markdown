@@ -17,7 +17,7 @@ gallery:
 
 lang: en
 categories: blog
-tags: jet fighterJet Tejas Hindustan Aeronautics Limited
+tags: jet fighterPlane Tejas Hindustan Aeronautics Limited
 ref: haltejas
 ---
 The Aeronautical Development Agency was created to manage the LCA (Light Combat Aircraft) initiative. Its main partner was Hindustan Aeronautics Limited (HAL), which had developed India's first jet aircraft, the HF-24 Marut, in the 1960s. Unfortunately, Indian aeronautic development was hampered by political pressure because of its nuclear tests at Pokhran.
