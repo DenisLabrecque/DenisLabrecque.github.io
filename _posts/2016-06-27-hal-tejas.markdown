@@ -10,6 +10,10 @@ gallery:
     - url: https://s-media-cache-ak0.pinimg.com/originals/5f/85/6d/5f856dbe532d543d160929dc882fa2ca.jpg
       description: The navy variant includes a reinforced airframe, a powered nose wheel steering, leading edge vortex controllers, and a drooped nose for better vision. It is designed for ski-jump take-off from aircraft carriers.
       by: <a href='https://en.wikipedia.org/wiki/HAL_Tejas#/media/File:HAL_Tejas_NP-1_takes-off_from_the_Shore_Based_Test_Facility_at_INS_Hansa,_Goa.JPG' target='_new'>Naval LCA during flight testing</a> by the Indian Navy under <a href='http://creativecommons.org/licenses/by/2.5/in/deed.en' target='_new'>Attribution 2.5 India</a>
+      
+    - url: https://s-media-cache-ak0.pinimg.com/originals/b6/e8/95/b6e8954531431fad9e859300a7db45e3.jpg
+      description: Only three Tejas systems are of foreign design&colon; the multi-function displays by Sextant (France) and Elbit (Israel), the helmet-mounted display and sight cueing system by Elbit (Israel), and the laser pod by Rafael (Israel).
+      by: <a href='https://en.wikipedia.org/wiki/HAL_Tejas#/media/File:Hindustan_LCA_Tejas_Krivchikov_2007.jpg' target='_new'>HAL Tejas at Aero India 2007</a> by <a href='http://www.airliners.net/photo/Hindustan-Aeronautics-Limited/Hindustan-LCA-Tejas/1186470/L/' target='_new'>Sergey Krivchikov</a>
 
 lang: en
 categories: blog
