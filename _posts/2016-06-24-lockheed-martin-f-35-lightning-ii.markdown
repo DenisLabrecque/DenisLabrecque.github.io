@@ -30,10 +30,11 @@ gallery:
       by: <a href='https://commons.wikimedia.org/wiki/File:A_u.s._air_force_f-35a_lightning_ii_aircraft_assigned_to_the_422nd_test_and_evaluation_squadron_taxis_before_its_first_operational_training_mission_april_4,_2013,_at_nellis_air_force_base,_nev_130404-f-kx404-161.jpg' target='_new'>A u.s. air force f-35a lightning ii aircraft assigned to the 422nd test and evaluation squadron taxis before its first operational training mission</a> by Senior Airman Brett Clashman, U.S. Air Force under the public domain
 
 tags: jet fighterPlane warMachine LockheedMartin
+lastmod: 2016-06-26
 ---
 In 2001, out of the competing Boeing X-32 and Lockheed Martin X-35 prototypes, the X-35 design was selected as having the best potential for the United States and the United Kingdom. But because the prototype did not include weapons bays, a redesign caused weight problems and cost overruns of $6.2 billion and took 18 months to overcome. This would be the first of many setbacks with the program.
 
-To honour both the U.S. Air Force warbird Lockheed P-35 Lightning and the English Electric Lightning of the Royal Air Force, the new aircraft was named Lightning II in 2006.
+To honour both the U.S. Air Force warbird Lockheed P-38 Lightning and the English Electric Lightning of the Royal Air Force, the new aircraft was named Lightning II in 2006.
 
 To save on costs and replace aging fighter plane fleets, the Lightning was designed to take on many roles. It was intended not only to mimic the Harrier in its vertical takeoff capability, but also to incorporate a stealthy design like the F-117 Nighthawk and the F-22 Raptor, as well as replace the F-16 Falcon and the F-18 Hornet in their fighter role and the A-10 Thunderbolt in its ground attack role. To accomplish those roles, it has three main variants: the F-35A for conventional takeoff and landing, the F-35 B for short takeoff and vertical-landing, and the F-35C for catapult assisted takeoff but arrested recovery. The common design in all three models was planned to allow an 80% commonality between parts.
 

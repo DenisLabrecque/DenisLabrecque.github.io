@@ -84,6 +84,7 @@
           {% endif %}
         </span>
       </span> published this document on <span itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00" content="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00">{{ page.date | date: '%B %d, %Y' }}</span>. {% if page.lastmod %}It was last modified on <span itemprop="dateModified" datetime="{{ page.lastmod | date: '%Y-%m-%d' }}">{{ page.lastmod | date: '%B %d, %Y' }}</span>.{% endif %}</small>
+      <small>Proudly hosted on GitHub using Jekyll markdown.</small>
       {% endif %}
       
       {% if page.lang == 'fr' %}
