@@ -477,8 +477,8 @@ label.x-button, a.pinterest-button {
     background: rgba(255,0,35,.8);
     color: white;
     line-height: 100%;
-    font-size: 19pt;
-    padding: 11pt;
+    font-size: 15pt;
+    padding: 13.5pt 0 0 0;
     border-radius: 20pt;
     z-index: 32;
     box-sizing: border-box;
@@ -487,6 +487,8 @@ label.x-button, a.pinterest-button {
     cursor: default;
 }
 a.pinterest-button {
+    font-size: 23pt;
+    padding: 10pt 0 0 0;
     background: rgb(203, 32, 39);
     top: 70pt;
 }
