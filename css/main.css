@@ -813,3 +813,29 @@ div.language-choice a:hover {
 div.language-choice a:active {
     transform: scale(.9);
 }
+
+a.share-link {
+    transition: ease-in-out, .1s;
+    display: inline-block;
+    font-family: "Alegreya Sans", sans-serif;
+    font-weight: normal;
+    line-height: 150%;
+    font-size: 16pt;
+    color: white;
+    background: rgba(0,0,0,.8);
+    line-height: 100%;
+    padding: 10pt 15pt 10pt 15pt;
+    margin: 0 15pt 12pt 0;
+    box-sizing: border-box;
+    border-radius: 20pt;
+    -webkit-user-select: none;  /* Chrome all / Safari all */
+    -moz-user-select: none;     /* Firefox all */
+    -ms-user-select: none;      /* IE 10+ */
+    user-select: none;          /* Likely future */
+}
+a.google {
+    background: rgb(211, 72, 54);
+}
+a.pinterest {
+    background: rgb(203, 32, 39);
+}
