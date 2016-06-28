@@ -477,23 +477,20 @@ label.x-button, a.pinterest-button {
     background: rgba(255,0,35,.8);
     color: white;
     line-height: 100%;
-    font-size: 18pt;
+    font-size: 19pt;
     padding: 11pt;
     border-radius: 20pt;
     z-index: 32;
     box-sizing: border-box;
     text-align: center;
     font-weight: bold;
+    cursor: default;
 }
 a.pinterest-button {
-    background: url(../_images/pinterest.svg);
-    background-size: cover;
-    background-position: center center;
-    background-color: white;
-    top: 75pt;
+    background: rgb(203, 32, 39);
+    top: 70pt;
 }
 label.x-button:hover {
-    background: rgba(255,0,35,.5);
     transform: scale(1.1);
 }
 a.pinterest-button:hover {

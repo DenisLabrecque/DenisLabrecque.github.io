@@ -13,8 +13,8 @@
            <img src="{{ image.url }}" class="full-bleed-image" alt="{{ image.description }}" />
         </label>
         <input type="checkbox" id="{{ image.url }}" class="no-display" />
-        <label class="x-button" for="{{ image.url }}">X</label>
-        <a class="pinterest-button" href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&media={{ image.url }}&description={{ image.description }}" target="_new"></a>
+        <label class="x-button" for="{{ image.url }}"><i class="fa fa-times" aria-hidden="true"></i></label>
+        <a class="pinterest-button" href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&media={{ image.url }}&description={{ image.description }}" target="_new"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
          <div class="popdown full-bleed-image">
            <img src="{{ image.url }}" class="full-bleed-image" alt="{{ image.description }}" />
          </div>
