@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Je dois essayer!"
+ref: musique
+date:   2016-05-25 17:56:00 +0100
+categories: music
+lang: fr
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/5c/2d/09/5c2d0999d558b346720ed4571090b7e2.jpg
+---
+Ceci est un nouvel article. Il doit *utiliser* et *soutenir* le _markup_ tel que demandé par la situation.
+
+- Le degré de compatibilité n'est pas encore connu.
+    # Ceci est très semblable à Wikipédia
+    # Ça semble fonctionner parce que le programme présent en prend compte
+- Le degré de fonctionnement peut être trompeur.
+- La simplicité n'est pas toujours de mise.

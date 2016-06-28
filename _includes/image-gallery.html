@@ -9,6 +9,26 @@
 <figure itemscope itemtype="http://schema.org/ImageObject" class="image-gallery">
    {% for image in page.gallery %}
     <div class="no-break">
+        <label class="image-gallery-label" for="{{ image.url }}">
+           <img src="{{ image.url }}" class="full-bleed-image" alt="{{ image.description }}" />
+        </label>
+        <input type="checkbox" id="{{ image.url }}" class="no-display" />
+        <label class="x-button" for="{{ image.url }}">X</label>
+        <a class="pinterest-button" href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&media={{ image.url }}&description={{ image.description }}" target="_new"></a>
+         <div class="popdown full-bleed-image">
+           <img src="{{ image.url }}" class="full-bleed-image" alt="{{ image.description }}" />
+         </div>
+        <small>{{ image.by }}</small>
+        <figcaption>
+            <span itemprop="description">{{ image.description }}</span>
+        </figcaption>
+    </div>
+   {% endfor %}
+</figure>
+
+<!--<figure itemscope itemtype="http://schema.org/ImageObject" class="image-gallery">
+   {% for image in page.gallery %}
+    <div class="no-break">
         <a class="image-gallery-label" href="{{ image.url }}" target="_new">
            <img src="{{ image.url }}" class="full-bleed-image" alt="{{ image.description }}" />
         </a>
@@ -18,4 +38,4 @@
         </figcaption>
     </div>
    {% endfor %}
-</figure>
+</figure> -->

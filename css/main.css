@@ -463,7 +463,7 @@ div.popdown {
         padding: 15pt 20% 15pt 15%;
     }
 }
-label.x-button {
+label.x-button, a.pinterest-button {
     -webkit-user-select: none;  /* Chrome all / Safari all */
     -moz-user-select: none;     /* Firefox all */
     -ms-user-select: none;      /* IE 10+ */
@@ -485,11 +485,21 @@ label.x-button {
     text-align: center;
     font-weight: bold;
 }
+a.pinterest-button {
+    background: url(../_images/pinterest.svg);
+    background-size: cover;
+    background-position: center center;
+    background-color: white;
+    top: 75pt;
+}
 label.x-button:hover {
     background: rgba(255,0,35,.5);
     transform: scale(1.1);
 }
-label.x-button:active {
+a.pinterest-button:hover {
+    transform: scale(1.1);
+}
+label.x-button:active, a.pinterest-button:active {
     transform: scale(.9);
 }
 input[type=checkbox].no-display:checked ~ div.popdown {
@@ -498,10 +508,9 @@ input[type=checkbox].no-display:checked ~ div.popdown {
     overflow-y: scroll;
     z-index: 30;
 }
-input[type=checkbox].no-display:checked ~ label.x-button {
+input[type=checkbox].no-display:checked ~ label.x-button, input[type=checkbox].no-display:checked ~ a.pinterest-button {
     right: 15pt;
 }
-
 
 ul.post-stream-container {
     margin: 0 0 0 0;
@@ -680,8 +689,8 @@ div.full-bleed-image {
   
 }
 img.full-bleed-image {
-    max-width: 100%;
-    max-height: 100%;
+    width: auto;
+    height: auto;
     margin-left: auto;
     margin-right: auto;
 }
