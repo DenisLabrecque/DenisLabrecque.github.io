@@ -2,7 +2,7 @@
 layout: post
 title: "Saab 35 Draken"
 subtitle: "Fighter/interceptor"
-headline: "After the beginning of the jet era, Sweden saw the need for a new interceptor capable of intercepting bombers at high altitudes and of successfully engaging other fighters as well. Thus, the Swedish Defence Material Administration issued a request, and Saab began work on the jet in 1949."
+headline: "After the beginning of the jet era, Sweden saw the need for a new interceptor capable of stopping bombers at high altitudes and of successfully engaging other fighters as well. Thus, the Swedish Defence Material Administration issued a request, and Saab began work on the jet in 1949."
 hero-image: "https://s-media-cache-ak0.pinimg.com/originals/d7/a4/03/d7a4034b921b77bc03263aa008fd1ebd.jpg"
 image-by: "<a href='https://www.flickr.com/photos/127001418@N03/15377419357/' target='_new'>IMG_3707 Swedish Airforce Historic Flight SK 35C Draken 35810 (SE-DXP)</a> by <a href='https://www.flickr.com/photos/127001418@N03/15563435505/in/photostream/' target='_new' >Jim Calow</a> under <a href='https://creativecommons.org/licenses/by-nd/2.0/' target='_new'>Attribution NoDerivs License</a>"
 ref: saab35draken

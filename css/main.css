@@ -7,6 +7,10 @@ body {
     overflow-x: hidden;
 }
 
+a[target="_new"]:hover {
+    cursor: alias;
+}
+
 img {
     display: block;
 }
@@ -474,7 +478,7 @@ label.x-button, a.pinterest-button {
     height: 40pt;
     width: 40pt;
     transition: ease-in-out, .1s;
-    background: rgba(255,0,35,.8);
+    background: rgba(0,0,0,.8);
     color: white;
     line-height: 100%;
     font-size: 15pt;
@@ -491,6 +495,8 @@ a.pinterest-button {
     padding: 10pt 0 0 0;
     background: rgb(203, 32, 39);
     top: 70pt;
+    cursor: alias;
+    
 }
 label.x-button:hover {
     transform: scale(1.1);
