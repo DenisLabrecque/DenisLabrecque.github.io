@@ -461,6 +461,7 @@ div.popdown {
     z-index: 9;
     height: 100vh;
     box-sizing: border-box;
+    overflow: hidden;
 }
 @media(min-width: 600px) {
     div.popdown {
@@ -511,6 +512,7 @@ input[type=checkbox].no-display:checked ~ div.popdown {
     left: 0px;
     width: 100%;
     overflow-y: scroll;
+    overflow-x: scroll;
     z-index: 30;
 }
 input[type=checkbox].no-display:checked ~ label.x-button, input[type=checkbox].no-display:checked ~ a.pinterest-button {
@@ -710,7 +712,7 @@ figure.image-figure {
 }
 @media(max-width: 1000px) {
     figure.image-figure {
-        display; block;
+        display: block;
         width: 100%;
         margin-left: 0;
         float: none;
@@ -734,12 +736,13 @@ figure.image-superwide {
     position: relative;
     left: 0;
     box-sizing: border-box;
-    background: rgba(51, 49, 43, .8);
-    color: white;
+    background: transparent;
+    color: rgb(80, 80, 80);
 }
 figure.image-superwide figcaption {
-    margin-left: 20%;
-    margin-right: 15%;
+    margin-top: 5pt;
+    margin-left: 25%;
+    margin-right: 25%;
     text-align: center;
 }
 figure.image-superwide small {
