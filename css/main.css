@@ -378,7 +378,7 @@ h1.title {
     padding: 0 15pt 0 15pt;
     transition: ease-in-out .3s;
 }
-h1.subtitle {
+h1.subtitle, h2.subtitle {
     line-height: 41pt;
     color: white;
     font-size: 25pt;
@@ -393,7 +393,7 @@ h1.subtitle {
     max-width: 85%;
 }
 @media(max-width: 1600px) {
-    h1.subtitle {
+    h1.subtitle, h2.subtitle {
         font-size: 18pt;
         line-height: 160%;
     }
