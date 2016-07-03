@@ -468,7 +468,7 @@ div.popdown {
         padding: 15pt 20% 15pt 15%;
     }
 }
-label.x-button, a.pinterest-button {
+label.x-button, a.pinterest-button, a.image-link {
     -webkit-user-select: none;  /* Chrome all / Safari all */
     -moz-user-select: none;     /* Firefox all */
     -ms-user-select: none;      /* IE 10+ */
@@ -491,21 +491,28 @@ label.x-button, a.pinterest-button {
     font-weight: bold;
     cursor: default;
 }
-a.pinterest-button {
+a.pinterest-button, a.image-link {
     font-size: 23pt;
     padding: 10pt 0 0 0;
     background: rgb(203, 32, 39);
     top: 70pt;
     cursor: alias;
-    
+}
+a.image-link {
+    background: blue;
+    top: 125pt;
 }
 label.x-button:hover {
     transform: scale(1.1);
 }
-a.pinterest-button:hover {
+a.pinterest-button:hover,
+a.image-link:hover {
     transform: scale(1.1);
+    letter-spacing: normal;
 }
-label.x-button:active, a.pinterest-button:active {
+label.x-button:active,
+a.pinterest-button:active,
+a.image-link:active {
     transform: scale(.9);
 }
 input[type=checkbox].no-display:checked ~ div.popdown {
@@ -515,7 +522,9 @@ input[type=checkbox].no-display:checked ~ div.popdown {
     overflow-x: scroll;
     z-index: 30;
 }
-input[type=checkbox].no-display:checked ~ label.x-button, input[type=checkbox].no-display:checked ~ a.pinterest-button {
+input[type=checkbox].no-display:checked ~ label.x-button,
+input[type=checkbox].no-display:checked ~ a.pinterest-button,
+input[type=checkbox].no-display:checked ~ a.image-link {
     right: 15pt;
 }
 
