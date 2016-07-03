@@ -172,7 +172,8 @@ nav.sandwitch-menu {
     height: 100%;
     width: 300px;
     box-sizing: border-box;
-    background: rgb(242, 242, 242);
+    background: white;
+    overflow-y: scroll;
 }
 input[type=checkbox].no-display:checked ~ nav.sandwitch-menu {
     right: 0;
