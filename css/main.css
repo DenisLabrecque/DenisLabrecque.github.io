@@ -703,7 +703,6 @@ div.full-bleed-image {
   display: flex;
   align-items: center;
   background: rgba(0,0,0,0.8);
-  
 }
 img.full-bleed-image {
     width: auto;
@@ -812,6 +811,11 @@ div.no-break {
     -webkit-column-break-inside: avoid;
               page-break-inside: avoid;
                    break-inside: avoid;
+}
+div.no-break small {
+    display: block;
+    margin-top: 0;
+    padding-top: 0;
 }
 
 div.language-banner {
