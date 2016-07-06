@@ -15,9 +15,9 @@ tags: apologetics literature evolution bibleInterpretation essay origins debunk
 <blockquote>Who am I,
 Where am I from,
 And why am I here?
-<cite>—Universal Questions</cite></blockquote>
+<cite>Universal Questions</cite></blockquote>
 <blockquote>If, as claimed by humanism, man were born only to be happy, he would not be born to die.
-<cite>—Alexander Solzhenitsyn <em>American Literature Classics for Christians</em> Vol. 5, A Beka Book, Pensacola, Florida (2011) p. 267</cite></blockquote>
+<cite>Alexander Solzhenitsyn <em>American Literature Classics for Christians</em> Vol. 5, A Beka Book, Pensacola, Florida (2011) p. 267</cite></blockquote>
 I have determined to write this text to demonstrate that the knowledge of the origins of this universe is not unaccessible, but readily available to those who wish to apply sound reasoning to the question—using a step-by-step approach. And that question is not just a matter of curious interest, but rather of importance, because if we can know how we came to be, and why we did, we then know what to expect of our life, and plan what we should make of it in consequence.
 
 This text therefore has an extremely simple goal. Its aim is answering this question: what is the origin of the cosmos? That is to say:

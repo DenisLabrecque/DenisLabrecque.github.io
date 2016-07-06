@@ -2,7 +2,7 @@
 layout: post
 title: Do All People Really Have a Chance of Going to Heaven?
 subtitle: Have all people heard of God?
-headline: How can God be fair to everyone if He does not show His existence to everyone? Will He honestly judge a person for not knowing He existed? Why won’t he just manifest himself, such as with a booming voice in the sky?
+headline: How can God be fair to everyone if He does not show His existence to everyone? Will He honestly judge a person for not knowing He existed? Why won’t He just manifest himself, such as with a booming voice in the sky?
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/47/49/85/474985670502b9b605b6977e6e6a26b6.jpg
 image-by: <a href='https://www.flickr.com/photos/powellizer/211399390/in/photolist-jFtF5-cSKWVs-picjbi-pf5zEW-ejatCU-dbbnSJ-qDsYMi-eajUGp-f8B8C-pYTuPf-nUWstS-768GRh-qDsYLr-5mD5YQ-6Rv8ST-rwhwTi-qh8fUP-oU8EjL-crKr1S-4T1pvF-oS8DBE-2fzmi1-iJotym-8ZLGxX-2YStqF-prYC28-FnfyMm-crKnVW-d4dDwf-764Li2-ciHagd-dAU2ZG-dpQBCs-d5B957-d2vTzN-rA7PzV-dhP112-pzDWuY-dhNZHn-d4e3gQ-FV4Hhd-8oQTJj-d4e1em-oBFsHx-8hDt44-rwjHW-29TYiX-dhNZSz-d2vTTL-q9yihC' target='_new'>Sky</a> by <a href='https://www.flickr.com/photos/powellizer/' target='_new' >Will Powell</a> under <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_new'>Attribution-ShareAlike 2.0 Generic</a>
 ref: canallgotoheaven

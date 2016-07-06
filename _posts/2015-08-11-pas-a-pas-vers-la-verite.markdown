@@ -15,9 +15,9 @@ tags: apologétique littérature évolution interprétationBiblique
 <blockquote>Qui suis-je,
 D'où suis-je,
 Et pourquoi suis-je ici?
-<cite>—Questions Universelles</cite></blockquote>
+<cite>Questions Universelles</cite></blockquote>
 <blockquote>« Si, comme il est clamé par l'humanisme, l'homme était né seulement pour être heureux, il ne serait pas né pour mourir. »
-<cite>—Alexandre Solzhenitsyn: <em>American Literature Classics for Christians</em> Vol. 5, A Beka Book, Pensacola, Florida (2011) p. 267 (traduction de l’auteur)</cite></blockquote>
+<cite>Alexandre Solzhenitsyn: <em>American Literature Classics for Christians</em> Vol. 5, A Beka Book, Pensacola, Florida (2011) p. 267 (traduction de l’auteur)</cite></blockquote>
 J'ai déterminé que j'écrirais ce texte afin de démontrer que la connaissance des origines de cet univers n'est pas inaccessible, mais facilement disponible à ceux qui désirent appliquer à la question une raison saine — utilisant une approche par étape. Et cette question en est non seulement une d'un intérêt curieux, mais bien plutôt d'importance, puisque si nous pouvons savoir comment nous vinrent à exister, et pourquoi cela est le cas, nous connaîtrons alors ce à quoi nous devons nous attendre de notre vie, et pourrons la planifier en conséquence.
 
 Ce texte a donc une fin extrêmement simple. Il vise à répondre à cette question : quelle est l'origine de cet univers? C'est à dire :
@@ -25,7 +25,7 @@ Ce texte a donc une fin extrêmement simple. Il vise à répondre à cette quest
 Et d'où vient la vie habitant sur elle?</blockquote>
 Nous appellerons dorénavant cette question la question des origines. Et voyant la quantité de religions et de philosophies variées qui y répondent, ces réponses sont aussi diverses que contradictoires.<!--more-->
 
-Pourtant, de telles croyances infondées ne sauraient — du moins pas certainement — mener à la vérité. Cette terre provient-elle du corps du dieu Pangu, et sommes-nous les mites de son corps, comme l’indique la mythologie chinoise? <cite><a href="http://en.wikipedia.org/wiki/Chinese_creation_myth#Pangu" target="_new" rel="external">http://en.wikipedia.org/wiki/Chinese_creation_myth#Pangu</a> (28 février 2015)</cite> Ou venons-nous plutôt d’un œuf cosmique, d’entre les chaos d’une mer primale, comme l’enseigne la cosmogonie égyptienne antique? <cite><a href="http://en.wikipedia.org/wiki/Ancient_Egyptian_creation_myths#Common_ elements" target="_new" rel="external">http://en.wikipedia.org/wiki/Ancient_Egyptian_creation_myths#Common_
+Pourtant, de telles croyances infondées ne sauraient — du moins pas certainement — mener à la vérité. Cette terre provient-elle du corps du dieu Pangu, et sommes-nous les mites de son corps, comme l’indique la mythologie chinoise? <cite><a href="http://en.wikipedia.org/wiki/Chinese_creation_myth#Pangu" target="_new" rel="external">http://en.wikipedia.org/wiki/Chinese_creation_myth#Pangu</a> (28 février 2015)</cite> Ou venons-nous plutôt d’un œuf cosmique, d’entre les chaos d’une mer primale, comme l’enseigne la cosmogonie égyptienne antique? <cite><a href="http://en.wikipedia.org/wiki/Ancient_Egyptian_creation_myths#Common_elements" target="_new" rel="external">http://en.wikipedia.org/wiki/Ancient_Egyptian_creation_myths#Common_
 elements</a> (28 février 2015)</cite> De telles propositions, puisqu'elles sont mutuellement contradictoires, doivent nous mener vers un point évident : beaucoup d'erreurs et plusieurs mensonges circulent concernant les origines.
 
 C'est pourquoi ce texte est destiné à être aussi raisonné que possible. Vous n'avez pas besoin de me faire confiance en tant qu'auteur, ni de prendre pour acquis que mes mots sont du tous vrais. En vous appliquant honnêtement à la tâche de chercher la vérité, étape par étape, vous en arriverez exactement aux conclusions qui sont présentées ici.
@@ -449,7 +449,7 @@ Cependant, il nous est rapporté que « les portes du lieu où se trouvaient les
 
 Il est impossible que les disciples aient volé le corps, vu la garde postée devant le sépulcre. Et auraient-ils eu l’audace de dire mensongèrement que le Christ était ressuscité, les chefs des Juifs auraient été empressés de montrer le corps, falsifiant ainsi l’imposture. Cependant, Pierre et Jean, disciples de Jésus, affirmeraient plus tard librement — dans le temple même des Juifs — « Vous avez fait mourir le Prince de la vie, que Dieu a ressuscité des morts; nous en sommes témoins. » <cite>Actes chapitre 3 verset 15</cite>
 
-En effet, il n’est pas difficile de constater que les disciples, après la cuisante défaite et l’humiliation publique de leur prédicateur, n’auraient jamais eu le courage de souffrir grandement et de mourir par milliers <cite><a href="http://en.wikipedia.org/wiki/Persecution_of_Christians#Persecution_of_Christians_in_ the_New_Testament" target="_new" rel="external">http://en.wikipedia.org/wiki/Persecution_of_Christians#Persecution_of_Christians_in_
+En effet, il n’est pas difficile de constater que les disciples, après la cuisante défaite et l’humiliation publique de leur prédicateur, n’auraient jamais eu le courage de souffrir grandement et de mourir par milliers <cite><a href="http://en.wikipedia.org/wiki/Persecution_of_Christians#Persecution_of_Christians_in_the_New_Testament" target="_new" rel="external">http://en.wikipedia.org/wiki/Persecution_of_Christians#Persecution_of_Christians_in_
 the_New_Testament
 </a> (11 mars 2015)</cite> en son nom. Mais leurs actes sont un témoignage qu’ils connaissaient une vérité qui leur tenait grandement à cœur — assez pour qu’ils soient prêts à être persécutés et même prêts à mourir pour la répandre. Eurent-ils réellement désiré inventer une religion, ils n’auraient pas pu en inventer une aussi difficile et inacceptable aux yeux des gens de leur temps.
 

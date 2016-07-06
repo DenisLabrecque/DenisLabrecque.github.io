@@ -8,7 +8,7 @@ image-by: <a href='https://www.flickr.com/photos/calliope/4011585847/in/photolis
 ref: otholyspiritsaints
 categories: biblique
 lang: fr
-tags: interprétationBiblique
+tags: interprétationBiblique Bible SaintEsprit AncienTestament
 ---
 <h2>Une position ferme</h2>
 Plusieurs Chrétiens croient fermement que le Saint-Esprit demeure seulement dans les croyants depuis l’âge de l’église. Par contre, je comprends qu’il y a des signes contraires assez convaincants—bien que je ne serais dans aucun cas catégorique, parce que la parole de Dieu ne mentionne pas vraiment beaucoup le sujet : les mentions du Saint Esprit dans l'Ancien Testament sont voilées, semblables aux mentions de l’Ange du Seigneur, lequel nous comprenons par une lumière plus fixe être Jésus-Christ lui-même.

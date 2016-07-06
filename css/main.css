@@ -1,6 +1,6 @@
 body {
     font-family: "Alegreya Sans", sans-serif;
-    font-size: 14pt;
+    font-size: 16pt;
     line-height: 135%;
     background: rgb(250, 250, 250);
     margin: 0;
@@ -14,6 +14,26 @@ body {
 ::-moz-selection {
     background: rgba(82, 72, 45, .8);
     color: white;
+}
+
+blockquote {
+    margin-left: 15pt;
+    border-left: 5pt solid rgb(16, 186, 205);
+    padding-left: 10pt;
+    line-height: 145%;
+    font-size: 17pt;
+    letter-spacing: .3pt;
+    margin-top: 20pt;
+    margin-bottonm: 20pt;
+}
+blockquote cite {
+    display: block;
+    text-align: right;
+    font-size: 12pt;
+    line-height: 100%;
+}
+blockquote cite::before {
+    content: "— ";
 }
 
 a[target="_new"]:hover {
@@ -831,6 +851,8 @@ div.language-banner {
     position: fixed;
     top: 23pt;
     right: 65pt;
+    font-size: 14pt;
+    line-height: 125%;
 }
 div.language-choice {
     display: inline-block;

@@ -8,7 +8,7 @@ image-by: <a href='https://www.flickr.com/photos/calliope/4011585847/in/photolis
 ref: otholyspiritsaints
 categories: bibletalk
 lang: en
-tags: bibleInterpretation HolySpirit Christian
+tags: bibleInterpretation HolySpirit Christian ChurchAge OldTestament Bible
 ---
 <h2>A Firm Position</h2>
 <p>Many Christians firmly believe that the Holy Spirit only dwells in believers since the Church Age. However, I do understand that there is quite convincing evidence to the contrary -- although I would by no means be categorical, because the Word of God does not really mention the topic much: mentions of the Holy Spirit in the Old Testament are veiled, similar to the mentions of the Angel of the Lord, who in a better light we understand to be Jesus-Christ himself.</p>
