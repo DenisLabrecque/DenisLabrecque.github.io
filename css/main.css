@@ -793,7 +793,7 @@ figure.image-gallery img.full-bleed-image {
     float: left;
     width: 100%;
     margin-top: 3pt;
-    margin-bottom: 3pt;
+    margin-bottom: -6pt;
 }
 figure.image-gallery figcaption {
     padding-bottom: 8pt;
