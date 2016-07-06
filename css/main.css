@@ -7,6 +7,15 @@ body {
     overflow-x: hidden;
 }
 
+::selection {
+    background: rgba(82, 72, 45, .8);
+    color: white;
+}
+::-moz-selection {
+    background: rgba(82, 72, 45, .8);
+    color: white;
+}
+
 a[target="_new"]:hover {
     cursor: alias;
 }
