@@ -12,6 +12,7 @@ gallery:
       by:
       
     - url: https://upload.wikimedia.org/wikipedia/commons/4/4e/BAC_TSR-2%2C_UK_-_Air_Force_AN2151624.jpg
+    description: To fly close to land, the TSR-2's wings were much smaller than usual, the higher wing loading shielding the aircraft from adverse effects from wind and thermal disturbance.
     
     - url: http://www.cybermodeler.com/aircraft/tsr2/images/dsj_tsr2_03.jpg
 
@@ -27,6 +28,9 @@ The TSR-2 was conceived without prototypes, nine airframes to be gradually corre
 This aircraft's capabilities were designed to target missile sites, airfield installations, supply depots, railways, and similar targets using tactical nuclear bombs. It was extremely advanced in its time, and much know-how and expenditure was put in its production. Its use would have given Britain the cutting edge aeronautically. For example, a forward looking radar and side-looking radar as used on the TSR-2 were not common until some years later. The TSR-2 was also an impressive airframe capable of dashing at Mach 2.35, and was said to compare to a Lightning in handling.
 
 Nevertheless, development proved difficult, squabbling put the neccessity of this airplane in doubt, and costs mounted always upwards. The program was cancelled in 1965, and with it, Britain's occasion for the top tier in aeronautics. However, the program had proven too costly to the government, and all airframes except two were either scrapped or sent to the shooting range.
+
+During its short existence, Australia manifested acute interest in purchasing the plane. Instead, in Australia as in Britain, the American F-111 was opposed as a cheaper alternative. Though the F-111 was not originally equal to the TSR-2, and proved to be a decade late and much pricier, there was no longer a viable alternative. In Britain, the SEPECAT Jaguar took on the corresponding role, later followed by the Panavia Tornado -- some of its avionics being derived from the TSR-2 project.
+
 
 <h4>Characteristics</h4>
 Maximum speed: Mach 2.35 at 40,000 ft/12,000 m<br />
