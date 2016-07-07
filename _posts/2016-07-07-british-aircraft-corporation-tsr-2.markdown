@@ -9,12 +9,12 @@ image-by: Colourized from <a href='https://hushkit.net/2012/05/14/the-bac-tsr-2-
 gallery:
     - url: http://static.panoramio.com/photos/original/1443688.jpg
       description: The engines powering the TSR-2 were developed into those that powered the Concorde.
-      by:
       
     - url: https://upload.wikimedia.org/wikipedia/commons/4/4e/BAC_TSR-2%2C_UK_-_Air_Force_AN2151624.jpg
-    description: To fly close to land, the TSR-2's wings were much smaller than usual, the higher wing loading shielding the aircraft from adverse effects from wind and thermal disturbance.
+      description: To fly close to land, the TSR-2's wings were much smaller than usual, the higher wing loading shielding the aircraft from adverse effects from wind and thermal disturbance.
     
     - url: http://www.cybermodeler.com/aircraft/tsr2/images/dsj_tsr2_03.jpg
+      description: The turmoil about the TSR-2 resembles the cancellation the the equally ambitious Avro Arrow, plagued by similar political problems.
 
 lang: en
 categories: blog
