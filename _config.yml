@@ -33,3 +33,5 @@ defaults:
       path: ""
     values:
       author: "Denis G. Labrecque"
+      author-url: https://plus.google.com/+DenisGLabrecque
+      author-photo: https://s-media-cache-ak0.pinimg.com/originals/a1/3a/15/a13a158edd435fe6c8c729b801bfc1e9.jpg

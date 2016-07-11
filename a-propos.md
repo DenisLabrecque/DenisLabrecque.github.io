@@ -7,6 +7,7 @@ lang: fr
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/dd/0d/c1/dd0dc1a7d9aefb9b09d5849afe3d6735.jpg
 headline: DenisLabrecque.ca débuta premièrement comme outil de travail pour organizer ma collection de compositions musicales. Ce but-là atteint, j'ai rapidement ajouté à l'idée originale.
 permalink: /a-propos
+date: 2016-06-18
 ---
 Cela arriva surtout parce que j'avais du plaisir à me créér un site. Comme inspiration, j'avais un volume seconde main de l'auteur David Seigel intitulé *Creating Killer Websites.* Après plusieurs essais, et après m'être appris les langages HTML et CSS à partir du livre, j'ai créé ce site. J'entrepris tout cela sans accès au web, mais comme projet personnel que je rendrais public au long terme.
 

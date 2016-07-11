@@ -1,0 +1,9 @@
+{% if page.lang == 'en' %}
+<img src="{{ page.author-photo }}" class="author-photo" />
+<a href="{{ page.author-url }}" target="_new">Denis Labrecque</a> is a student in Computer Information Systems and Graphic Design at Pensacola Christian College, Florida. Currently, he is working as préparateur de commandes at Colabor Boucherville. He plans to apply as a Pilot in the Canadian Forces.
+{% endif %}
+
+{% if page.lang == 'fr' %}
+<img src="{{ page.author-photo }}" class="author-photo" />
+<a href="{{ page.author-url }}" target="_new">Denis Labrecque</a> est un étudiant en systèmes informatiques et en design graphique à Pensacola Christian College, Floride. Il travaille présentement comme préparateur de commandes à Colabor Boucherville. Il prévoit appliquer comme pilote au sein des Forces Canadiennes.
+{% endif %}

@@ -67,6 +67,12 @@
       {% endif %}
       </div>
     </section>
+    
+    <footer class="site-footer author-snippet">
+      <div class="width-control" markdown="1">
+        {% include {{ page.author | slugify }}.html %}
+      </div>
+    </footer>
 
     <footer class="site-footer">
       {% include share.html %}
@@ -74,14 +80,10 @@
       <small itemprop="license">Unless otherwise mentioned, this webpage and its content is licensed <link itemprop="url" href="{{ site.url }}" /> under the <a href="http://creativecommons.org/licenses/by/4.0/" target="_new" rel="license">Attribution 4.0 International license.</a> You may quote and copy this material if you give correct credit to the author and do not distort or otherwise change the original meaning of his words.</small>
       <small>Copying any material on this website without giving correct credit to the author is both plagiarism and copyright infringment, and will be treated as such. 
         <span itemprop="author" content="{{ page.author }}" itemscope itemtype="http://schema.org/Person"><span itemprop="name">
-          {% if page.author == "Denis G. Labrecque" %}
-          <a href="https://plus.google.com/+DenisGLabrecque" rel="author" target="_new" itemprop="url">{{ page.author }}</a>
+          {% if page.author-url %}
+            <a href="{{ page.author-url }}" rel="author" target="_new" itemprop="url">{{ page.author }}</a>
           {% else %}
-            {% if page.author-url %}
-              <a href="{{ page.author-url }}" rel="author" target="_new" itemprop="url">{{ page.author }}</a>
-            {% else %}
-              {{ page.author }}
-            {% endif %}
+            {{ page.author }}
           {% endif %}
         </span>
       </span> published this document on <span itemprop="datePublished" datetime="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00" content="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00">{{ page.date | date: '%B %d, %Y' }}</span>. {% if page.lastmod %}It was last modified on <span itemprop="dateModified" datetime="{{ page.lastmod | date: '%Y-%m-%d' }}">{{ page.lastmod | date: '%B %d, %Y' }}</span>.{% endif %}</small>

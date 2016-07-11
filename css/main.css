@@ -57,7 +57,7 @@ div.page-feed {
 small {
     display: block;
     text-align: justify;
-    font-size: 11pt;
+    font-size: 13pt;
     line-height: normal;
 }
 footer small {
@@ -451,6 +451,9 @@ footer {
         padding: 15pt 20pt 15pt 20pt;
     }
 }
+footer.author-snippet {
+    background: rgb(242, 242, 242);
+}
 
 label.popdown {
     transition: ease-in-out, .1s;
@@ -549,7 +552,6 @@ input[type=checkbox].no-display:checked ~ div.popdown {
     left: 0px;
     width: 100%;
     overflow-y: scroll;
-    overflow-x: scroll;
     z-index: 30;
 }
 input[type=checkbox].no-display:checked ~ label.x-button,
@@ -735,9 +737,9 @@ div.full-bleed-image {
 }
 img.full-bleed-image {
     width: auto;
+    max-width: 100vw;
     height: auto;
-    margin-left: auto;
-    margin-right: auto;
+    display: block;
 }
 figure.image-figure {
     background: rgba(0,0,0,0.8);
@@ -903,4 +905,14 @@ a.pinterest {
 }
 a.tumblr {
     background: rgb(50, 80, 109);
+}
+
+img.author-photo {
+    margin-right: 15pt;
+    margin-bottom: 5pt;
+    margin-top: 5pt;
+    float: left;
+    height: 60pt;
+    width: 60pt;
+    border-radius: 15pt;
 }
