@@ -64,7 +64,7 @@ One extremely irritating quirk of the WiFi is that many apps do not function pro
 <h4>The Drowsy Poet Phenomenon</h4>
 Working Wi-Fi being the bane of every student who tries to access the internet through Eagle's Nest, many are led to periodically walk over to <a href="https://www.google.com/maps/place/The+Drowsy+Poet+Coffee+Company/@30.4685871,-87.2409529,17z/data=!3m1!4b1!4m2!3m1!1s0x8890bf96ed4c0ebb:0x173a88c792766440" target="_blank">The Drowsy Poet</a> café, where they can obtain Wi-Fi after buying a beverage. Many also take a 45-minute walk to the mall to access free Starbucks Wi-Fi.
 <h3>Dorm Life</h3>
-There are a total of six residence halls on campus, the girl's dorms being grouped towards the northeast side of campus, and the boy's dorms being a little more scattered. My residence for the first semester was the 8th floor of <a href="https://www.google.com/maps/place/Young+Tower/@30.4733605,-87.2340114,17z/data=!3m1!4b1!4m2!3m1!1s0x8890bf8d7d474bf5:0x2d315f357c57512f" target="_blank">Young Tower</a>, the largest guys' dormitory on campus.
+There are a total of six residence halls on campus, the girl's dorms being grouped towards the northwest side of campus, and the boy's dorms being a little more scattered. My residence for the first semester was the 8th floor of <a href="https://www.google.com/maps/place/Young+Tower/@30.4733605,-87.2340114,17z/data=!3m1!4b1!4m2!3m1!1s0x8890bf8d7d474bf5:0x2d315f357c57512f" target="_blank">Young Tower</a>, the largest guys' dormitory on campus.
 
 Access to any dormitory is always monitored by desk worker, and is only possible by the main entrance. Of course, unless they are family, female visitors are not allowed in guys' dorms, and vice-versa.
 <h4>Late in / Late out Infractions</h4>

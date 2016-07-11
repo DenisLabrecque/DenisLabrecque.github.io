@@ -19,9 +19,9 @@ gallery:
       description: Japan operates 223 Mitsubishi F-15J Eagles.
       by: <a href='http://www.kadena.af.mil/shared/media/photodb/photos/090730-F-3252P-159.jpg' target='_new'>Japan Air Self Defense Force F-15 (F-15DJ)</a> by <a href='http://www.kadena.af.mil/' target='_new'>Angelique Perez</a>, U.S. Air Force <a href='https://commons.wikimedia.org/w/index.php?curid=8444349' target='_new'>Public Domain</a>
       
-    - url: https://s-media-cache-ak0.pinimg.com/originals/e7/47/0d/e7470d180603e7c436dc2c7ec199e0a1.jpg
-      description:
-      by: <a href='https://k60.kn3.net/taringa/4/C/3/2/8/8/SoyDarkDamBanneD/995.jpg' target='_new'>F-15 Eagle</a>
+    - url: https://s-media-cache-ak0.pinimg.com/originals/87/cf/3c/87cf3c2d526c0770d2af0391ff71099b.jpg
+      description: The Eagle does not include aerodynamic turkey feather exhaust petals because they would fall off in flight; this lack results in 3% more drag.
+      by: <a href='https://www.flickr.com/photos/23438569@N02/6600344823/in/photolist-b4fuyF-angch1-9KGboy-GBac6-9Lo6xj-5HvVN-71tigN-8AR6DK-5p6F3E-cVZeJJ-p7XFSa-8Azr4Z-5G1Pie-8AMQrF-9ApL2a-6fy4dp-dZoB3t-6fy4fF-6fCdYC-8zGobD-7TkJPt-24Ubt-5YEmm-EooVL-EoB87-4ZvxLW-dR2s33-Ep4tv-6d3hu-4MVjev-24U9C-mBwjJ-anQjxv-angcww-ahtkbf-24UbJ-5YEmo-EoG8r-bNJHsT-9D4cCg-6fy4c6-vY7kuX-neKkGF-gYUZnF-aCmKXY-7sbtHf-oJTRhc-p2tYai-ErZ2M-2jz5e' target='_new'>F-15</a> by <a href='https://www.flickr.com/photos/23438569@N02/' target='_new'>Extra Zebra</a> under <a href='https://creativecommons.org/licenses/by/2.0/' target='_new'>Attribution 2.0 Generic</a>
 
 lang: en
 categories: blog
@@ -34,7 +34,7 @@ From technical proposals offered by Fairchild Republic, North American Rockwell,
 
 The F-15 was designed for a single pilot, a large forward-mounted canopy favouring visibility. Its high thrust-to-weight ratio allows it to <i>accelerate</i> in vertical flight. Its two pulse-Doppler radars (APG-63 and 70) can distinguish low-flying targets from ground clutter and effectively track enemy high-flying aircraft as well at a distance of 160 km.
 
-The Eagle can be loaded with combinations of AIM-7 Sparrow missiles, AIM-9 Sidewinder missiles, or AIM-120 AMRAAM missiles. It can also carry a variety of bombs for ground attack, and includes the M61 Vulcan gun for self-defense.
+The Eagle can be loaded with combinations of AIM-7 Sparrow missiles, AIM-9 Sidewinder missiles, or AIM-120 AMRAAM missiles. It can also carry a variety of bombs for ground attack, and includes the M61 Vulcan gun for self-defence.
 
 Israel is an important operator of the F-15, and has used it effectively in the Lebanon War against MiG-21s, MiG-23s, MiG-25s, and in long-distance ground strikes. The Eagle has also operated in the Gulf War, and additionally serves in the Japan Air Self-Defense Force and in the Royal Saudi Air Force.
 
