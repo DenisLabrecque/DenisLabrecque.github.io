@@ -7,4 +7,9 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/7f/d6/76/7fd6765b6c1e
 ref: rhinocerosbeetle
 categories: artwork
 lang: en
+
+medium: pencil
+surface: paper
+width: 10 in.
+height: 13 in.
 ---
