@@ -754,6 +754,7 @@ div.art-wrapper {
     margin-left: auto;
     margin-right: auto;
     background: lightgrey;
+    overflow-x: auto;
 }
 
 div.full-bleed-image {

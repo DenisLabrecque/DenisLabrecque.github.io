@@ -10,8 +10,8 @@ lang: en
 
 medium: pencil
 surface: paper
-width: 13"
-height: 10"
+width: 13 in.
+height: 10 in.
 ---
 {% include image.html image-url='https://s-media-cache-ak0.pinimg.com/originals/a7/69/36/a769367dd6d55a80a670c67340bbb8d6.jpg' image-description='The original image I chose of Shawn at the zoo' %}
 
