@@ -577,6 +577,17 @@ ul.post-stream-container {
         -webkit-column-span: all;
         column-span: all;
         display: block;
+            -webkit-column-break-inside: avoid;
+              page-break-inside: avoid;
+                   break-inside: avoid;
+    }
+    ul.no-span li:first-of-type {
+        -webkit-column-span: 1;
+        column-span: 1;
+        display: block;
+            -webkit-column-break-inside: avoid;
+              page-break-inside: avoid;
+                   break-inside: avoid;
     }
     ul.post-stream-container li:first-of-type div.hero-article-thumbnail {
         height: 520px;
@@ -646,6 +657,10 @@ a.post-stream-card:active {
     opacity: .5;
 }
 
+a.post-stream-card img {
+    width: 100%;
+}
+
 div.hero-article-thumbnail {
     width: 100%;
     min-height: 260px;
@@ -700,6 +715,18 @@ div.hero-article-headline {
 }
 div.hero-article-headline:hover {
     letter-spacing: normal;
+}
+div.hero-article-headline h4 {
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+    line-height: 120%;
+    font-weight: bold;
+}
+div.hero-article-headline h5 {
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+    line-height: 120%;
+    font-weight: normal;
 }
 
 
@@ -909,10 +936,10 @@ a.tumblr {
 
 img.author-photo {
     margin-right: 15pt;
-    margin-bottom: 5pt;
+    margin-bottom: 2pt;
     margin-top: 5pt;
     float: left;
-    height: 60pt;
-    width: 60pt;
+    height: 76pt;
+    width: 76pt;
     border-radius: 15pt;
 }
