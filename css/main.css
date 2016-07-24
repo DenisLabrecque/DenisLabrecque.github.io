@@ -675,6 +675,13 @@ div.hero-article-thumbnail {
     background-position: center center;
     position: relative;
 }
+div.music-article-thumbnail {
+    width: 120px;
+    height: 120px;
+    background-size: cover;
+    background-position: center center;
+    display: inline-block;
+}
 
 strong.article-title {
     font-family: "Expletus Sans", "Segoe UI", "Lucidia Grande", sans-serif;
@@ -722,6 +729,10 @@ div.hero-article-headline {
 }
 div.hero-article-headline:hover {
     letter-spacing: normal;
+}
+div.music {
+    display: inline-block;
+    vertical-align: top;
 }
 div.hero-article-headline h4 {
     margin-top: 5pt;
@@ -1051,4 +1062,13 @@ ol.paroles em::before {
 span.composition-list {
     display: block;
     margin-bottom: 15pt;
+}
+
+div.music-movements {
+    color: darkgrey;
+    background: lightgrey;
+    margin-top: -6.5pt;
+    font-size: 13pt;
+    padding-left: 5pt;
+    padding-right: 5pt;
 }
