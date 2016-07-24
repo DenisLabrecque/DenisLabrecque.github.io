@@ -1,0 +1,157 @@
+---
+layout: music
+title: The Anthem Set
+subtitle: Cantiques originaux
+headline: Cantiques pour l’adoration et le chant spirituel
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/72/8e/35/728e35ea02ff6bf33a58dc62dc8cc0de.jpg
+image-by: "<a href='https://www.flickr.com/photos/59558222@N06/5452916527/in/photolist-9iRC7c-o5bneQ-a4GctF-frUuA6-dfeP7C-8x7UZ4-8xaWhj-beq7Dc-MgN3C-6thCFj-bnAu5u-a45gG5-aaxEAx-4uWnak-5Z8bKe-CFssg-5QkdtS-neD9ji-bc93oB-3cr3vr-ssVbrh-64KPXS-9GbUDF-77Y7u1-aRWVoB-HNcLYp-8xaW9W-a4K3wQ-9iRBQc-4PYfDa-beq7yx-qS66nv-7V5V4t-axMvNb-8hYBvf-rMZxWv-2iZ7u-6ymiod-bBziki-4sM3vf-feid9X-gN9CD5-qZcWS9-7mk7j4-oJEMPR-aqByeP-9iRBXz-tZv3Z-8jEfga-7irTA2' target='_new'>Shiny brass</a> par <a href='https://www.flickr.com/photos/59558222@N06/' target='_new' >Dukas Ju</a> sous <a href='https://creativecommons.org/licenses/by-nc/2.0/deed.fr' target='_new'>Attribution - Pas d’Utilisation Commerciale 2.0 Générique</a>"
+ref: theanthemset
+categories: musique compositionOriginale hymne cantique
+lang: fr
+
+movements:
+    - title: "Tu es serviteur et héros"
+      ensemble: "chœur à quatre voix mixte"
+      date: 2014
+      type: cantique
+      lyrics: "<li>Sois &eacute;lev&eacute; bien haut,
+		<br />Car tu es serviteur et h&eacute;ros!
+		<br />Chose que jamais nous n'avions vue&thinsp;:
+		<br />Fils de l’homme au visage bris&eacute;
+		<br />De ch&acirc;timents par nous inflig&eacute;s
+		<br />Sois Sauveur!
+		<br />Sujet de joie
+		<br />Et de bonheur
+		<br />Sujet de foi,
+		<br />De valeur.</li>
+					
+		<li>Chacun suivant sa voie,
+		<br />Le prenant pour un homme d’aucun cas,
+		<br />Ne voyant pas le bras de Dieu&thinsp;:
+		<br />Ainsi autrefois nous &eacute;tions
+		<br />Sans ce grand roi, le prince de Sion&thinsp;:
+		<br />Mais son Esprit fait luir un feu&thinsp;:
+		<br />Sois Sauveur!
+		<br />Sujet de joie
+		<br />Et de bonheur
+		<br />Sujet de foi,
+		<br />De valeur.</li>"
+      pdf-link: "http://imslp.org/wiki/Special:ImagefromIndex/406895"
+      notes: "<p>Ce chant fut directement inspir&eacute; des mots d'&Eacute;saie au chapitre chapitres 52 et 53. Il contraste la divinit&eacute; du Messie avec sa mission de serviteur. C’est une louange de nous qui font partie des peuples qui avons entendu ce qui ne nous avait jamais &eacute;t&eacute; annonc&eacute; auparavant.</p>"
+
+    - title: Pour le seul roi
+      pdf-link: "http://imslp.org/wiki/Special:ImagefromIndex/406896"
+      date: 2014
+      ensemble: "chœur à quatre voix mixte"
+      type: cantique
+      youtube-link: "https://www.youtube.com/watch?v=uAO3FcQ813w&list=PLq7M1cOtTjn1R6N4nmiBULc8Qnh3toCkW&index=3"
+      lyrics: "<li>Notre œvre ici-bas
+		<br />Est pour le seul roi&thinsp;:
+		<br />Ton tr&ocirc;ne, &ocirc; Dieu, est &agrave; jamais!
+		<br />Tu vaincs par la paix,
+		<br />Le mal tu hais&thinsp;:
+		<br />Rends-nous semblables &agrave; toi.</li>
+					
+		<li>Nous sommes serviteurs
+		<br />Suivant le Seigneur&thinsp;:
+		<br />Dans sa voie sera la victoire!
+		<br />Oh, donne nous de voir
+		<br />Ta future gloire&thinsp;:
+		<br />Remplis toujours nos cœurs.</li>
+					
+		<li>Nous avons promis
+		<br />De vaincre l’ennemi:
+		<br />Abandonnons tout ce qui passe!
+		<br />Et quand vient l’impasse
+		<br />R&eacute;v&egrave;le ta gr&acirc;ce&thinsp;:
+		<br />Sur toi est notre appui.</li>"
+      notes: "<p>Je fus inspir&eacute; pour ce chant par les paroles du Psaume 45, et surtout par le verset 2, qui m'&eacute;tait auparavant venu &agrave; l'esprit&thinsp;:</p>
+	<blockquote>Je dis: &laquo;&thinsp;Mon œuvre est pour le roi!
+	<br />Que ma langue soit comme la plume d'un habile &eacute;crivain!&thinsp;&hellip;&thinsp;&raquo;</blockquote>
+	<p>Le th&egrave;me du chant est la fid&eacute;lit&eacute; dans notre travail envers le Seigneur, qui est une qualit&eacute; dont nous manquons facilement dans notre soci&eacute;t&eacute; aimant les plaisirs mat&eacute;riels, et est un rappel que nous trouverons la victoire dans le Seigneur notre roi, et non pas au travers de ce monde.</p>"
+    
+    - title: "Enlève, élève"
+      ensemble: "chœur à quatre voix mixte"
+      type: cantique
+      date: 2014
+      pdf-link: "http://imslp.org/wiki/Special:ImagefromIndex/406924"
+      lyrics: "<li>Vois mon désir et change mon être,<br />
+Enlève ce qui ne doit pas être.<br />
+Sois ma sagesse<br />
+Et veuille pardonner quand j'use de mollesse.</li>
+
+<em>Enlève le péché en moi,<br />
+Elève ce qui est à toi;<br />
+Viens déchirer<br />
+Et pardonner,<br />
+L'apathie renverser.<br /> 
+Sème une pensée en moi&nbsp;:<br />
+Celle de l'éternité;<br />
+Et qu'elle produise toujours la foi<br />
+Qu'au ciel je te verrai!</em>
+
+<li>Quand je veux éviter le prix,<br /> 
+Quand je me plains et me taris,<br />
+Tourne mon regard<br />
+Et qu'il ait toujours mon Sauveur comme phare.</li>
+
+<li>Fais que la pensée de ton ciel<br /> 
+Atteigne aussi ce monde rebelle&nbsp;:<br />
+Sans ton pouvoir<br />
+Comment aura-t-il des yeux qui peuvent voir?</li>"
+      
+    - title: "En toi mes yeux voient"
+      pdf-link: "http://imslp.org/wiki/Special:ImagefromIndex/387048"
+      youtube-link: "https://www.youtube.com/watch?v=5Bw_KunF72w&list=PLq7M1cOtTjn1R6N4nmiBULc8Qnh3toCkW&index=4"
+      date: 2015
+      ensemble: "chœur à quatre voix mixte"
+      type: cantique
+      lyrics: "<li>En toi mes yeux voient tout ce qui est bien,
+        <br />Et que de la perfection tu es rempli.
+        <br />Mais quand je considère ce qui est mien,
+        <br />Je vois de combien le péché m’affaiblit.</li>
+
+        <li>Par ta victoire je relève le visage&nbsp;:
+        <br />Oh de quel pardon je suis vêtu en toi!
+        <br />Seul celui qui croit sera nommé sage&nbsp;:
+        <br />Travaille et bâtis en moi le peu de foi.</li>
+
+        <li>Gloire et mérite sont à mes yeux les tiens&nbsp;:
+        <br />Un jour tous reconnaitront que tu es Dieu,
+        <br />Mais en étant libre je vois déjà bien
+        <br />Qu’en nul autre je ne pourrais être victorieux.</li>"
+      notes: "<p>Cette chorale date du printemps 2015. Bien qu'elle ne soit basée sur aucun texte particulier, elle se réfère à au moins deux textes distincts&nbsp;: la phrase</p>
+    <blockquote>Par ta victoire je relève le visage</blockquote>
+    <p>est une reference à Genèse 4.7, qui dit:</p>
+    <blockquote>Certainement, si tu agis bien, tu relèveras ton visage, et si tu agis mal, le péché se couche à la porte, et ses désirs se portent vers toi: mais toi, domine sur lui.</blockquote>
+    <p>Aussi, </p>
+    <blockquote>Un jour tous reconnaitront que tu es Dieu</blockquote>
+    <p>a une association claire à plusieurs versets bibliques tels que Psaume 22.27, qui affirme&nbsp;:</p>
+    <blockquote>Toutes les extrémités de la terre penseront à l'Eternel et se tourneront vers lui;
+    <br />Toutes les familles des nations se prosterneront devant ta face.</blockquote>"
+      
+    - title: "Oh Christ, viens!"
+      pdf-link: "http://imslp.org/wiki/Special:ImagefromIndex/405710"
+      type: cantique
+      lyrics: "<li>Tout ce qui est bon vient de mon père&nbsp;:<br /> 
+Sans sa bouche rien ne serait créé.<br />
+Honoré je suis d'être fils de sa chair&nbsp;<br />
+Dans sa présence je puis demeurer.</li>
+
+<em>Priant vers Sion comme les saints anciens<br />
+J'attends regard en haut&nbsp;: oh Christ, viens!</em>
+
+<li>Un jour ceux qui se moquaient de toi<br />
+De la haine iront au tremblement.<br />
+Yeux remplis de larmes, gorge serrée d'émoi,<br />
+Chrétien, vois joyeux l'achèvement!</li>
+
+<li>Comme nos victoires ne sont qu’une perte&nbsp;:<br />
+Nous n’atteindrons jamais ta justice&nbsp;:<br />
+Mais voilés du sang, conséquences couvertes,<br />
+Entends-nous, et que ta main agisse.</li>"
+      ensemble: "chœur à quatre voix mixte"
+---
+Cette série est en réalité une collection de trois cantiques français. Je lui ai laissé son appellation d’origine, bien que ce nom anglophone soit devenu quelque peu ironique. J’ai en effet réalisé qu’il serait préférable d’écrire des textes français puisqu’ils sont déjà plus rares.
+
+À l’origine, ces cantiques n’étaient que des essais faits au piano pour démontrer que même si je composais la majorité du temps à l’ordinateur, il m’était tout de même possible d’utiliser la plume. Les airs datent donc de 2013, je crois. Ce n’est qu’en 2014-2015 que j’y ai aussi affixé les paroles, bien que je l’avais longtemps prémédité.

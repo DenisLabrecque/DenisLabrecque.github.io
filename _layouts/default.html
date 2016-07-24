@@ -3,6 +3,8 @@
   {% include head.html %}
   <body itemscope itemtype="http://schema.org/BlogPosting">
     <link itemprop="mainEntityOfPage" href="{{ site.url }}{{ page.url }}" />
+    <meta content="{{ page.title }}" itemprop="headline" />
+    <meta content="{{ page.hero-image }}" itemprop="image" />
     
     <section class="page-content">
       <div class="width-control" markdown="1">

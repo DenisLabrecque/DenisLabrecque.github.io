@@ -1,12 +1,12 @@
 {% if page.lang == 'en' %}
-<p itemscope itemtype="VisualArtwork">
+<p itemscope itemtype="https://schema.org/VisualArtwork">
     <strong>Finished: </strong><span itemprop="dateCreated" datetime="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00" content="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00">{{ page.date | date: '%B %d, %Y' }}</span><br />
     <strong>Medium: </strong><span itemprop="artMedium">{{ page.medium }}</span> on <span itemprop="artworkSurface">{{ page.surface }}</span><br />
     <strong>Size: </strong><span itemprop="width">{{ page.width }}</span> × <span itemprop="height">{{ page.height }}</span>
 </p>
 {% endif %}
 {% if page.lang == 'fr' %}
-<p itemscope itemtype="VisualArtwork">
+<p itemscope itemtype="https://schema.org/VisualArtwork">
     <strong>Completé: <span itemprop="dateCreated" datetime="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00" content="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00">{{ page.date | date: '%d/%m/%Y' }}</span></span><br />
     <strong>Média: </strong><span itemprop="artMedium">{{ page.medium }}</span> on <span itemprop="artworkSurface">{{ page.surface }}</span><br />
     <strong>Taille: </strong><span itemprop="width">{{ page.width }}</span> × <span itemprop="height">{{ page.height }}</span>
