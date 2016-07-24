@@ -6,7 +6,8 @@ headline: Hymns for spiritual adoration and singing
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/72/8e/35/728e35ea02ff6bf33a58dc62dc8cc0de.jpg
 image-by: "<a href='https://www.flickr.com/photos/59558222@N06/5452916527/in/photolist-9iRC7c-o5bneQ-a4GctF-frUuA6-dfeP7C-8x7UZ4-8xaWhj-beq7Dc-MgN3C-6thCFj-bnAu5u-a45gG5-aaxEAx-4uWnak-5Z8bKe-CFssg-5QkdtS-neD9ji-bc93oB-3cr3vr-ssVbrh-64KPXS-9GbUDF-77Y7u1-aRWVoB-HNcLYp-8xaW9W-a4K3wQ-9iRBQc-4PYfDa-beq7yx-qS66nv-7V5V4t-axMvNb-8hYBvf-rMZxWv-2iZ7u-6ymiod-bBziki-4sM3vf-feid9X-gN9CD5-qZcWS9-7mk7j4-oJEMPR-aqByeP-9iRBXz-tZv3Z-8jEfga-7irTA2' target='_new'>Shiny brass</a> by <a href='https://www.flickr.com/photos/59558222@N06/' target='_new' >Dukas Ju</a> under <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_new'>Attribution-NonCommercial 2.0 Generic</a>"
 ref: theanthemset
-categories: music composition hymn chorale
+categories: music
+tags: originalComposition hymn chorale choir
 lang: en
 
 movements:
