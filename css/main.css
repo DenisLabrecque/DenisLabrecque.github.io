@@ -782,10 +782,23 @@ div.full-bleed-image {
   background: rgba(0,0,0,0.8);
 }
 img.full-bleed-image {
-    width: auto;
-    max-width: 100vw;
-    height: auto;
     display: block;
+    width: 100vw;
+    height: auto;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 0;
+    margin-right: 0;
+}
+@media (min-aspect-ratio: 1/1) {
+    img.full-bleed-image {
+        height: 100vh;
+        width: auto;
+        margin-top: 0;
+        margin-bottom: 0;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 figure.image-figure {
     background: rgba(0,0,0,0.8);
