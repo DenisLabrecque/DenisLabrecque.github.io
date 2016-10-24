@@ -2,7 +2,7 @@
 layout: artwork
 title: Turkey Dinner
 subtitle: Watercolour painting
-headline: Made at Pensacola Christian College as the portrait project for Principles of Painting (AR 221)
+headline: Made at Pensacola Christian College for Principles of Painting (AR 221)
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/47/52/d2/4752d2494b6629bbd96c5b969af0cc38.jpg
 ref: turkeywatercolour
 categories: artwork
