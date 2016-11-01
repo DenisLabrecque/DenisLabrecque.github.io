@@ -7,7 +7,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/8e/01/a4/8e01a4d8d463
 image-by: <a href='http://krasnayazvezda.com/air/appareils/chasseurs/tu128.php' target='_new'>Rare cliché de Tu-128 vu de dessus.</a> Photo by G. F. Petrov
 
 lang: en
-categories: blog
+categories: jetFightersCurrentandPast
 tags: jet fighterPlane Tupolev Fiddler jetFightersCurrentandPast
 ref: tupolev28
 ---
