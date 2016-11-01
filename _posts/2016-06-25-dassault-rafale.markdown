@@ -14,7 +14,7 @@ gallery:
       description: Two Rafales on the French Charles de Gaule aircraft carrier under the morning sun
 lang: en
 categories: blog
-tags: jet fighterPlane Rafale Dassault
+tags: jet fighterPlane Rafale Dassault jetFightersCurrentandPast
 ref: dassaultrafale
 ---
 The Rafale project began in the late 1970s as the French Navy and Air Force sought to replace their fleet for airial supremacy and reconnaissance, and to supplement the upcoming Mirage 2000. In the beginning, Dassault began the project jointly with Italy, Spain, West Germany, France and the United Kingdom; but because of France's insistence on a lighter, carrier-capable fighter, the joint project split and developed into the Eurofighter Typhoon instead. Consequently, France is the sole developer of the Rafale.
