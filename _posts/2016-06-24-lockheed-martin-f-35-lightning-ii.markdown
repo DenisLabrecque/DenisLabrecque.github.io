@@ -6,7 +6,7 @@ headline: "The Lightning, the most expensive military weapons system in history,
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/2d/c2/75/2dc275a0de2d73924f64390bdb0007ae.jpg
 image-by: <a href='https://www.flickr.com/photos/forsvarsdepartementet/22504078631/in/photolist-AhBhxH-AgCEop-zjJQov-zjAGD9-zjAVGd-AhB8FV-AhAWRD-zjAU31-AekkAw-S5R7D-8Kc2ip-gXvR34-7Bvz3Z-d8JN2o-dRDqjs-e2GL4S-9Dw77T-7Bzp9y-78xExV-8JU3e4-6Skwnh-bwPs7F-owhT3q-8vwtpZ-wmZvt6-51j3XD-yFwAE-9X8Vms-78xDBD-kokvFz-55qaLW-e2GJko-e2B5iM-e2GJEy-vVKMGf-e2GJ8A-e2B6uD-7P9k67-e2GKoY-AGLPkZ-eaPnqE-4fCtaE-eQ8Rye-51oeYs-e2GHUY-vgmjcy-e2B7bT-AMqGyF-pLSVah-dRvXq2' target='_new'>Testflyging av første norske F-35</a> by <a href='https://www.flickr.com/photos/forsvarsdepartementet/' target='_new' >Forsvarsdepartemente</a> under <a href='https://creativecommons.org/licenses/by/2.0/' target='_new'>Attribution 2.0 Generic</a>
 ref: f35lightning
-categories: blog
+categories: jetFightersCurrentandPast
 lang: en
 gallery:
     - url: https://s-media-cache-ak0.pinimg.com/originals/96/dd/df/96dddf02c64391d57da281caf4b9ae31.jpg
