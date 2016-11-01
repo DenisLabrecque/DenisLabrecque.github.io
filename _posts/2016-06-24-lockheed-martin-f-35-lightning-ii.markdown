@@ -29,7 +29,7 @@ gallery:
       description: Because of the central lift fan, the Lightning's body is large enough to break the area rule. It compensates this disadvantage by carrying its weapons internally, which reduces drag.
       by: <a href='https://www.flickr.com/photos/77258709@N06/8636011734/in/photolist-ea8Pq3' target='_new'>130404-F-KX404-161</a> by Senior Airman Brett Clashman, U.S. Air Force via <a href='https://www.flickr.com/photos/77258709@N06/' target='_new'>ermaleksandr</a> under the public domain
 
-tags: jet fighterPlane warMachine LockheedMartin
+tags: jet fighterPlane warMachine LockheedMartin jetFightersCurrentandPast
 lastmod: 2016-06-26
 lastmod: 2016-06-27
 ---
