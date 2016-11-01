@@ -17,7 +17,7 @@ gallery:
 
 lang: en
 categories: blog
-tags: jet fighterPlane Tejas Hindustan Aeronautics Limited
+tags: jet fighterPlane Tejas Hindustan Aeronautics Limited jetFightersCurrentandPast
 ref: haltejas
 lastmod: 2016-06-28
 ---
