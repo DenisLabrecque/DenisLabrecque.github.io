@@ -28,7 +28,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
     
     <ul class="post-stream-container">
       {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.bibletalk limit: 3 %}
+      {% for post in site.categories.bibletalk limit: 5 %}
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
           <div class="hero-article-thumbnail"
@@ -42,11 +42,30 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
       {% endfor %}
     </ul>
     
+    
+        <p class="headline">I also create <strong>artwork:</strong> here is my best selection.</p>
+    
+    <ul class="post-stream-container no-span">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.artwork limit: 7 %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <img src=" {{ post.hero-image }}" />
+          <div class="hero-article-headline">
+            <h4>{{ post.title }}</h4>
+            <h5>{{ post.subtitle }}</h5>
+            {{ post.headline }}
+          </div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    
     <p class="headline">I also <strong>blog</strong> other stories, thoughts, and activities.</p>
     
     <ul class="post-stream-container">
       {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.blog %}
+      {% for post in site.categories.blog limit: 5 %}
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
           <div class="hero-article-thumbnail"
@@ -64,7 +83,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
     
     <ul class="post-stream-container no-span">
       {% assign posts = site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.music %}
+      {% for post in site.categories.music limit: 7 %}
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
           <div class="music-article-thumbnail"
@@ -82,23 +101,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
     </ul>
 
 
-    <p class="headline">I also create <strong>artwork:</strong> here is my best selection.</p>
-    
-    <ul class="post-stream-container no-span">
-      {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.artwork %}
-      <li>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          <img src=" {{ post.hero-image }}" />
-          <div class="hero-article-headline">
-            <h4>{{ post.title }}</h4>
-            <h5>{{ post.subtitle }}</h5>
-            {{ post.headline }}
-          </div>
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
+
 
 
     <span>
