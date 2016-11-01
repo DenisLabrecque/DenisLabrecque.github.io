@@ -13,7 +13,7 @@ gallery:
       by: <a href='https://www.flickr.com/photos/pascalsubtil/1124298065/in/photolist-oxrGdv-oPCTV4-oPUZdk-972MMk-97ptU4-oxqnR4-oMTXNw-oxqYfW-oxqsDZ-oxqxn7-96Lmht-9n3yLp-oxq9jJ-oPUuvk-oPEbdH-oxrfGT-oxrN6T-oxqe4W-oPDeJx-oPDakH-oMSZxW-oxqCYB-oPT1MJ-oxrTK8-oPSSCs-oxrbcG-oPDYtF-oxrgen-oPDc9x-oMU2aw-aTFgr6-oxqgqC-oPVo3D-oPTuf9-oPDJhz-oMTMfs-oxrbKz-oxqNd1-aTKk32-2Hmu3Z-aTFgHV-2Hs1BU-2HmQX6-2HmjDp-2HruN9-2HrSBu-2HrhxW-2HmAL4-2HqW8y-uGs15n' target='_new'>Rafale sur le pont d'envol du porte avions Charles de Gaulle au lever du jour</a> by <a href='https://www.flickr.com/photos/pascalsubtil/' target='_new'>Pascal Subtil</a> under <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_new'>Attribution-ShareAlike 2.0 Generic</a>
       description: Two Rafales on the French Charles de Gaule aircraft carrier under the morning sun
 lang: en
-categories: blog
+categories: jetFightersCurrentandPast
 tags: jet fighterPlane Rafale Dassault jetFightersCurrentandPast
 ref: dassaultrafale
 ---
