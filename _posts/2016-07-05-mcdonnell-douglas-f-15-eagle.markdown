@@ -24,7 +24,7 @@ gallery:
       by: <a href='https://www.flickr.com/photos/23438569@N02/6600344823/in/photolist-b4fuyF-angch1-9KGboy-GBac6-9Lo6xj-5HvVN-71tigN-8AR6DK-5p6F3E-cVZeJJ-p7XFSa-8Azr4Z-5G1Pie-8AMQrF-9ApL2a-6fy4dp-dZoB3t-6fy4fF-6fCdYC-8zGobD-7TkJPt-24Ubt-5YEmm-EooVL-EoB87-4ZvxLW-dR2s33-Ep4tv-6d3hu-4MVjev-24U9C-mBwjJ-anQjxv-angcww-ahtkbf-24UbJ-5YEmo-EoG8r-bNJHsT-9D4cCg-6fy4c6-vY7kuX-neKkGF-gYUZnF-aCmKXY-7sbtHf-oJTRhc-p2tYai-ErZ2M-2jz5e' target='_new'>F-15</a> by <a href='https://www.flickr.com/photos/23438569@N02/' target='_new'>Extra Zebra</a> under <a href='https://creativecommons.org/licenses/by/2.0/' target='_new'>Attribution 2.0 Generic</a>
 
 lang: en
-categories: blog
+categories: jetFightersCurrentandPast
 tags: jet fighterPlane Eagle McDonnell Douglas jetFightersCurrentandPast
 ref: mcdonnelldouglaseagle
 ---
