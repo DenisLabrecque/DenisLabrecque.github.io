@@ -27,8 +27,8 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
     <p class="headline">I have cool hair, but I also do cool stuff! A great thing I do is <strong>think biblically.</strong></p>
     
     <ul class="post-stream-container">
-      {% assign posts=site.posts limit: 3 | where:"lang", page.lang %}
-      {% for post in site.categories.bibletalk %}
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.bibletalk limit: 3 %}
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
           <div class="hero-article-thumbnail"
