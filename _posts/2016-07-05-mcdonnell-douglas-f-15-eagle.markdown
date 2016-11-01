@@ -25,7 +25,7 @@ gallery:
 
 lang: en
 categories: blog
-tags: jet fighterPlane Eagle McDonnell Douglas
+tags: jet fighterPlane Eagle McDonnell Douglas jetFightersCurrentandPast
 ref: mcdonnelldouglaseagle
 ---
 During the Vietnam War, powerful and expensive fighters which were to rely on missiles had instead to approach smaller and cheaper MiG-15s and MiG-17s to identify the opposing aircraft and counteract the lacking effectiveness of missiles. F-4s retrofitted with guns finally fulfilled this role in the interim. However, to dogfight, it was discovered that power, more than speed, is important. Therefore, an aircraft with a 1:1 thrust ratio fully loaded, with a takeoff weight of no more than 40,000 pounds (18,000 kg), with low wing loading, and with a maximum speed of Mach 2.5 was requested.
