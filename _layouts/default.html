@@ -118,7 +118,13 @@
 
       <nav class="sandwitch-menu">
         <h3 itemprop="publisher" itemscope itemtype="https://schema.org/Organization">
-          <span itemprop="name">{{ site.title[page.lang] }}</span>
+          <span itemprop="name">
+            {% if page.lang == 'en' %}
+              <a href="{{ site.url }}">{{ site.title[page.lang] }}</a>
+            {% else %}
+              <a href="{{ site.url }}/accueil">{{ site.title[page.lang] }}</a>
+            {% endif %}
+          </span>
           <span itemprop="logo" itemscope itemtype="https://schema.org/ImageObject">
             <meta itemprop="url" content="https://s-media-cache-ak0.pinimg.com/originals/77/fd/9c/77fd9c04231cc9b026484e87e8c9c758.png" />
           </span>
