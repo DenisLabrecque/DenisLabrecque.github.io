@@ -18,7 +18,7 @@ gallery:
 
 lang: en
 categories: blog
-tags: jet fighterPlane TSR-2 British Aircraft Corporation strike reconnaissance
+tags: jet fighterPlane TSR-2 British Aircraft Corporation strike reconnaissance jetFightersCurrentandPast
 ref: tsr2
 ---
 Following submissions in 1958, the Tactical Strike and Reconnaissance, Mach 2 (TSR-2) development contract was awarded to Vickers, with English Electric as a sub-contractor. It was envisioned as a low-flying strike aircraft capable of penetrating enemy territory at near Mach speeds below 200 ft and attacking using internal weaponry within a 1,000 nautical mile radius (1,900 km). It would also have the possibility of flying high and fast in a secondary reconnaissance role.
