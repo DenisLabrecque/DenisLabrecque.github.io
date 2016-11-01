@@ -21,7 +21,7 @@ gallery:
       description: Airmen perform a hot pit refuel with an F-22. Hot pit refueling is a procedure performed in order to rapidly refuel the aircraft and allow it to complete a second sortie in a short amount of time.
       by: <a href='https://www.flickr.com/photos/us-pacific-command/8100814506/' target='_new'>Perform a hot pit refuel with an F-22</a> by <a href='https://www.flickr.com/photos/us-pacific-command/' target='_new' >U.S. Pacific Command</a> under <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_new'>Attribution-NonCommercial-NoDerivs 2.0 Generic</a>
 
-tags: jet fighterPlane warMachine LockheedMartin
+tags: jet fighterPlane warMachine LockheedMartin jetFightersCurrentandPast
 ---
 The Raptor is a fifth-generation stealth fighter produced by the United States; it was the result of a request for proposals to which Lockheed/Boeing/General Dynamics and Northrop/McDonnell Douglas responded by 1986. In 1991, the Lockheed-led YF-22 was selected over the YF-23 as the final procurement choice because it was considered more maneuverable and potentially adaptable to naval use. Although the USAF had initially planned to order 750 units, production finally ceased in 2009 after 187 aircraft due to cost overruns.
 
