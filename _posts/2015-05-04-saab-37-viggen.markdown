@@ -17,7 +17,7 @@ gallery:
       description: A pair of curved fixed-geometry inlets alongside the cockpit feed air to the engine, similar to those of the Draken, except for being larger and separate from the fuselage.
       by: <a href='https://www.flickr.com/photos/109661044@N07/27271322235/in/photolist-HxSDYX-ahocrL-cHBqTG-7Q8Yes-5d6Trt-dFLEnS-5d6Tmp-7JqR19-dDPLtv-o1mRTa-dQNE3G-bWBR9Y-euUSeb-etEFwv-etEG3D-etFbVw-cdW1Ys-72vu8r-f8qQph-72vtWF-72zumd-72vtPg-72vtMi-72zueA-nXVj9v-72zugQ-oqxG8M-72zu7C-72zuw1-72ztJb-aewpyj-72vtSz-72zuim-72vtHV-72zus3-72vu5a-72vue8-72zupC-f7b5js-dvEeom-72vtwt-72zub9-72ztUC-dQH4sp-7Q8Y5y-eMDYKE-ordMSW-b7QTEk-7Q5D2V-oc5TTq' target='_new'>JA37 Viggen</a> by <a href='https://www.flickr.com/photos/109661044@N07/' target='_new' >Rob Schleiffert</a> under <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_new'>Attribution-ShareAlike 2.0 Generic</a>
 
-tags: jet fighterPlane warMachine Saab 
+tags: jet fighterPlane warMachine Saab jetFightersCurrentandPast
 ---
 The Viggen (Thunderbolt) was developed by Sweden in the mid-1950s as a fighter and attack plane which could take off and land from specially prepared roads without the maintenance highly trained personnel, with the additional capacity of reaching Mach 1 at low altitude and Mach 2 at high altitudes. A delta-winged design with aiding canards was therefore selected, allowing operations within 500 m airstrips. The turbofan engine, selected for fuel economy, was quite particular, being one of few which featured an afterburner and mechanical thrust-reverser combination; it was also unusually large (6.1 m x 1.35 m). Produced in 329 units, the Viggen remained operational until 2007.
 
