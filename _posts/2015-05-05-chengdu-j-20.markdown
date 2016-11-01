@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: Chengdu J-20
 subtitle:  Stealth fighter aircraft prototype
