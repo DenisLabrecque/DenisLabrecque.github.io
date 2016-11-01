@@ -11,7 +11,7 @@
       <div class="width-control" markdown="1">
       {% if page.lang == 'en' %}
         {% capture hide %}
-          {% assign content = content | split: '<pre' %}
+          {% assign content = content | split: '<pre>' %}
         
           {% for parts in content %}
         
@@ -27,7 +27,7 @@
         
             {% if part.size == 2 %}
         
-              {% capture output %}{{ output }}<pre{{ c }}</pre>{% endcapture %}
+              {% capture output %}{{ output }}<pre>{{ c }}</pre>{% endcapture %}
         
             {% endif %}
         
@@ -38,7 +38,7 @@
       {% endif %}
       {% if page.lang == 'fr' %}
         {% capture hide %}
-          {% assign content = content | split: '<pre' %}
+          {% assign content = content | split: '<pre>' %}
         
           {% for parts in content %}
         
@@ -50,7 +50,7 @@
               | replace: '“', '«&nbsp;'
               | replace: '”', '&nbsp;»'
               | replace: ' :', '&nbsp;:'
-              | replace: ' %', '&nbsp%'
+              | replace: ' %', '&nbsp;%'
               | replace: ' ;', '&thinsp;'
               | replace: ' !', '&thinsp;!'
               | replace: ' ?', '&thinsp;?'
@@ -59,7 +59,7 @@
         
             {% if part.size == 2 %}
         
-              {% capture output %}{{ output }}<pre{{ c }}</pre>{% endcapture %}
+              {% capture output %}{{ output }}<pre>{{ c }}</pre>{% endcapture %}
         
             {% endif %}
         
