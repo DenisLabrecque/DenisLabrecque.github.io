@@ -5,7 +5,7 @@ subtitle:  Stealth fighter aircraft prototype
 headline: The J-20 is a Chinese stealth fifth-generation multirole air superiority fighter planned to be operational before 2020.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/ba/ac/38/baac38a2caf0230ec784a57aa7ad11b7.jpg
 ref: chengduj20
-categories: jetFightersCurrentandPast
+categories: jetFightersCurrentandPast blog
 lang: en
 tags: jet fighterPlane warMachine Chengdu jetFightersCurrentandPast
 gallery:
