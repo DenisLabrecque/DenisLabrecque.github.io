@@ -12,7 +12,7 @@ gallery:
       by: <a href='https://www.flickr.com/photos/24874528@N04/7327269086/in/photolist-cauaPC-8ZNzc5-cdffNQ-9XufTE-9XrfS4-fmzwg8-7u8DFh-fmzyhR-9XrdNZ-d9Z6QF-d9Z7tE-d1yFFA-9Xu3No-oPKQ6L-feCC8i-ctosDA-bVSXHB-niwefq-Gpg9ZG-muQs32-aCiuA-nYj6U2-oPKNS3-feCBig-81S46Y-78fXNG-p4fMiH-p6ZaXD-ctotn1-fmzxyp-n2MFJ8-fmPKT9-p7fuBM-fmzw4V-HrvEU-8eqeGw-d9Z6Ex-n2MgGn-p4fyxd-9nmKVW-86mMFt-fmzxJ6-8emXCB-9Xrmr4-7agEd7-ffh4ni-muVWoP-7rHmU7-9VB8y2-2BpCU' target='_new'>Gloster Meteor - Duxford Jubilee Airshow 2012</a> by <a href='https://www.flickr.com/photos/24874528@N04/' target='_new'>Airwolfhound</a> under <a href='https://creativecommons.org/licenses/by-sa/2.0/' target='_new'>Attribution-ShareAlike 2.0 Generic</a>
 
 lang: en
-categories: jetFightersCurrentandPast
+categories: jetFightersCurrentandPast blog
 tags: jet fighterPlane Gloster Meteor
 ref: glostermeteor
 ---
