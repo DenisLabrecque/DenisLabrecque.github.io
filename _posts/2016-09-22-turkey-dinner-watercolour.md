@@ -7,7 +7,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/f5/ff/ae/f5ffae08bfd2
 ref: turkeywatercolour
 categories: artwork
 lang: en
-
+tags: watercolour Pensacola Christian College turkey chicken animal stillLife portfolio
 medium: watercolour
 surface: paper
 width: 14 in.
