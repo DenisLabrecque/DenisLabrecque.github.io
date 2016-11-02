@@ -6,7 +6,7 @@ headline: Planned as a portrait for Principles of Drawing, and finished later as
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/3e/8e/bd/3e8ebdfb141c8228ed18bdcc739dd33f.jpg
 ref: suyeonlee
 categories: artwork
-tags: portfolio, pencilDrawing, portrait
+tags: portfolio pencilDrawing portrait pencil
 lang: en
 
 medium: pencil
