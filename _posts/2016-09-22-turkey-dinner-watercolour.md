@@ -17,6 +17,8 @@ This painting was my first serious stab at watercolour. In class, we received th
 
 {% include image-superwide.html image-url='https://s-media-cache-ak0.pinimg.com/originals/dc/05/15/dc0515402ea8fbb22effe80b6ae70f51.jpg' image-description='Drawing preparation first began with a light study to help distinguish the dark and light values.' %}
 
-In my rendition, I was careful to proceed slowly and attempted to capture the original photograph in the best way possible. One surprise to me was how many bright colours were necessary to reproduce the image. Overall, for the skill level required, this painting did very well, and even surprised me somewhat.
+After a couple hours of first drawing outlines, the design was ready to be transferred lightly to watercolour paper and painted. I first began with the black highlights; then, following an application of yellow, the other pigments were added on gradually, ending finally in the fruits, leaves, and plate of the outer edge.
+
+In my rendition, I was careful to proceed slowly and attempted to capture the original photograph in the best way possible. One surprise to me in painting was how -- though one might think a simple chunk of meat plain -- many bright reds, oranges, and yellows were necessary to reproduce the image accurately. For the skill level required overall, though certainly not perfect, this painting did very well -- and even surprised me somewhat.
 
 {% include image.html image-url='https://s-media-cache-ak0.pinimg.com/originals/d9/2a/0f/d92a0f639e2072b21ea464f2cde3bdad.jpg' image-description='This is the painting in the making as copying from the original photograph.' %}
