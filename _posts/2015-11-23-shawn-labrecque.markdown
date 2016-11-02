@@ -6,6 +6,7 @@ headline: Made at Pensacola Christian College as the portrait project for Princi
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/90/c9/62/90c962620e4de52453351452aadb7327.jpg
 ref: shawnlabrecque
 categories: artwork
+tags: pencilDrawing, portrait, portfolio
 lang: en
 
 medium: pencil
