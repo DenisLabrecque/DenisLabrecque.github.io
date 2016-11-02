@@ -6,7 +6,7 @@ headline: "The Viggen was initially developed as an intended replacement for the
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/c6/fc/ca/c6fcca7bdc6efad4c5de728c0d687c14.jpg
 image-by: <a href='https://www.flickr.com/photos/gary2/9711478079/in/photolist-fNaS6e-ofDK31-8a4Du7-7wtQzg-fNsr5L-8a1p42-f5qLar-4nGKbG-f44CGi-HxSE6a-HxSDYX-ahocrL-cHBqTG-7Q8Yes-5d6Trt-dFLEnS-5d6Tmp-7JqR19-dDPLtv-o1mRTa-dQNE3G-bWBR9Y-euUSeb-etEFwv-etEG3D-etFbVw-cdW1Ys-72vu8r-f8qQph-72vtWF-72zumd-72vtPg-72vtMi-72zueA-nXVj9v-72zugQ-oqxG8M-72zu7C-72zuw1-72ztJb-aewpyj-72vtSz-72zuim-72vtHV-72zus3-72vu5a-72vue8-72zupC-f7b5js-dvEeom' target='_new'>Viggen</a> by <a href='https://www.flickr.com/photos/gary2/' target='_new' >Gary Henderson</a> under <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_new'>Attribution-NonCommercial-NoDerivs 2.0 Generic</a>
 ref: saabe37viggen
-categories: jetFightersCurrentandPast blog
+categories: blog
 lang: en
 gallery:
     - url: https://s-media-cache-ak0.pinimg.com/originals/41/59/d8/4159d8db731438f5cf4e9a7037973136.jpg
