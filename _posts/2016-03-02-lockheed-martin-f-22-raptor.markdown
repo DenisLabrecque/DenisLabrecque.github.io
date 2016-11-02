@@ -6,7 +6,7 @@ headline: In 1981 the U.S. Air Force developed a requirement code named "Senior 
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/d9/6e/f3/d96ef334934bf485c0b18465395e0f87.jpg
 image-by: <a href='https://www.flickr.com/photos/thegeekguy/4746835020/in/photolist-8esLF7-5t8LiH-8GvKFg-332fzx-3R4KDY-8k4u4y-rwFeHM-5rwyKe-dGvguE-8jYWKT-336Lrq-drD8MC-5rwDxt-4y3Mvy-6RRSMA-99Rwe9-56PHdi-31KhF1-336LoW-cV2ryU-goAn7z-8k4uPu-5rwETx-8epv6v-5V5UUh-dG66Gk-8e6siD-9gEvtS-ygz2s-6RMQiM-8jYz6B-6SvdsU-psKPfv-dhzieo-7Asb3A-6RRThq-phjrH-6CEsKs-dNZBuY-2ay2B5-5rAUhs-6RRTxf-goAaWY-x35xdP-85VkAH-eopTFz-kFHY7A-5uUuXK-7AHZJo-99NntX' target='_new'>F-22 Raptor</a> by <a href='https://www.flickr.com/photos/thegeekguy/' target='_new' >David Newberger</a> under <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_new'>Attribution-NonCommercial-NoDerivs 2.0 Generic</a>
 ref: f22raptor
-categories: jetFightersCurrentandPast
+categories: jetFightersCurrentandPast blog
 lang: en
 gallery:
     - url: https://s-media-cache-ak0.pinimg.com/originals/e3/6e/69/e36e691b5aaea3449ca5a11861989ae9.jpg
