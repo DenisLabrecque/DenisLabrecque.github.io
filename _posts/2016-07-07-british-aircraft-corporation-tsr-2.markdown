@@ -17,7 +17,7 @@ gallery:
       description: The turmoil about the TSR-2 resembles the cancellation the the equally ambitious Avro Arrow, plagued by similar political problems.
 
 lang: en
-categories: jetFightersCurrentandPast
+categories: blog
 tags: jet fighterPlane TSR-2 British Aircraft Corporation strike reconnaissance jetFightersCurrentandPast
 ref: tsr2
 ---
