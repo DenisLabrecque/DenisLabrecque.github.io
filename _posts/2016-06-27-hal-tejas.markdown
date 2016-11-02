@@ -16,7 +16,7 @@ gallery:
       by: <a href='https://en.wikipedia.org/wiki/HAL_Tejas#/media/File:Hindustan_LCA_Tejas_Krivchikov_2007.jpg' target='_new'>HAL Tejas at Aero India 2007</a> by <a href='http://www.airliners.net/photo/Hindustan-Aeronautics-Limited/Hindustan-LCA-Tejas/1186470/L/' target='_new'>Sergey Krivchikov</a>
 
 lang: en
-categories: jetFightersCurrentandPast
+categories: blog
 tags: jet fighterPlane Tejas Hindustan Aeronautics Limited jetFightersCurrentandPast
 ref: haltejas
 lastmod: 2016-06-28
