@@ -13,4 +13,5 @@ surface: paper
 width: 5 in.
 height: 7.5 in.
 ---
+{% include artwork-metadata.html %}
 This small painting was an exercise at creating a postcard illustration from watercolour.
