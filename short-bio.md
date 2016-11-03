@@ -20,6 +20,15 @@ lastmod: 2016-11-03
             </div>
         </a>
     </li>
+    <li>
+        <a href="https://www.linkedin.com/in/denisglabrecque" class="post-stream-card">
+          <div class="music-article-thumbnail" style="background-image: url(https://media.licdn.com/mpr/mpr/shrink_200_200/AAEAAQAAAAAAAANyAAAAJGRlZTNlZDQwLTk4YTItNDA1MS04MzBjLWJmNGQ5M2RmZGUxYw.png)">
+          </div><div class="hero-article-headline music">
+            <h4>LinkedIn</h4>
+            <h5>Because knowing about me is your business</h5>
+            </div>
+        </a>
+    </li>
     <li>
         <a href="https://facebook.com/DenisGLabrecque" class="post-stream-card">
           <div class="music-article-thumbnail" style="background-image: url(https://www.facebook.com/images/fb_icon_325x325.png)">
