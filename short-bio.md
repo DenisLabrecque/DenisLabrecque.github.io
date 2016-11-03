@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Short Biography
-subtitle: Just because you love to know about me
+subtitle: In case you want to know who Denis Labrecque is
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/71/91/57/7191571c18ed50608503e9319fa56b75.jpg
 headline: A biography of sorts
 permalink: /bio
