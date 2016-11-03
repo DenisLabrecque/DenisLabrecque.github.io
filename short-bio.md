@@ -66,4 +66,18 @@ lastmod: 2016-11-03
         </a>
       </li>
       
+      <li>
+        <a href="/music/2013/01/01/the-anthem-set.html" class="post-stream-card">
+          <div class="music-article-thumbnail"
+               style="background-image: url( https://s-media-cache-ak0.pinimg.com/originals/72/8e/35/728e35ea02ff6bf33a58dc62dc8cc0de.jpg )">
+          </div><div class="hero-article-headline music">
+            <h4>The Anthem Set</h4>
+            <h5>Original hymns</h5>
+          </div>
+          <div class="music-movements">
+              
+          </div>
+        </a>
+      </li>
+      
     </ul>
