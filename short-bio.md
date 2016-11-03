@@ -3,11 +3,33 @@ layout: post
 title: A Short Biography
 subtitle: In case you want to know who Denis Labrecque is
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/71/91/57/7191571c18ed50608503e9319fa56b75.jpg
-headline: A biography of sorts
-permalink: /bio
+headline: I am presently a university student double majoring in Computer Information Systems and Graphic Design.
+permalink: /short-bio
 ref: biography
 lang: en
 date:   2016-11-03
 lastmod: 2016-11-03
 ---
-This is a great page with full of stuff about me!
+<ul class="post-stream-container no-span">
+     <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="music-article-thumbnail" style="background-image: url( {{ post.hero-image }} )">
+          </div><div class="hero-article-headline music">
+
+            <h4>Fakery</h4>
+
+            <h5>Hate or fake</h5>
+
+          </div>
+
+          <div class="music-movements">
+
+              Music movements apparently
+
+          </div>
+
+        </a>
+
+      </li>
+
+    </ul>
