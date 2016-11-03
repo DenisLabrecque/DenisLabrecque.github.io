@@ -1,7 +1,7 @@
 ---
 layout: post
-title: About
-subtitle: How my website began
+title: About this Website
+subtitle: How and why this website is run
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/dd/0d/c1/dd0dc1a7d9aefb9b09d5849afe3d6735.jpg
 headline: DenisLabrecque.ca was first begun as a work tool to organize my collection of musical compositions. That goal having been met, I rapidly added to the original idea.
 permalink: /about
