@@ -13,6 +13,8 @@ surface: paper
 width: 14 in.
 height: 10 in.
 ---
+{% include artwork-metadata.html %}
+
 This painting was my first serious stab at watercolour. In class, we received the option of painting either a deer or a turkey. Because most students chose the deer, I picked the turkey.
 
 {% include image-superwide.html image-url='https://s-media-cache-ak0.pinimg.com/originals/dc/05/15/dc0515402ea8fbb22effe80b6ae70f51.jpg' image-description='Drawing preparation first began with a light study to help distinguish the dark and clear values.' %}
