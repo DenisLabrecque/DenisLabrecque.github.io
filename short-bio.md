@@ -19,6 +19,7 @@ lastmod: 2016-11-03
             <h4>Fakebook</h4>
             <h5>Friend me if I know you</h5>
           </div>
+          <div class="music-movements"></div>
         </a>
     </li>
     <li>
@@ -29,6 +30,7 @@ lastmod: 2016-11-03
             <h4>Fakebook</h4>
             <h5>Friend me if I know you</h5>
           </div>
+          <div class="music-movements"></div>
         </a>
     </li>
 </ul>
