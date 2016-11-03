@@ -12,8 +12,8 @@ lastmod: 2016-11-03
 ---
 <ul class="post-stream-container no-span">
      <li>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          <div class="music-article-thumbnail" style="background-image: url( {{ post.hero-image }} )">
+        <a href="https://facebook.com/DenisGLabrecque" class="post-stream-card">
+          <div class="music-article-thumbnail" style="background-image: url(https://www.facebook.com/images/fb_icon_325x325.png)">
           </div><div class="hero-article-headline music">
 
             <h4>Fakery</h4>
