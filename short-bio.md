@@ -13,7 +13,7 @@ lastmod: 2016-11-03
 <ul class="post-stream-container no-span">
     <li>
         <a href="https://plus.google.com/+DenisGLabrecque" class="post-stream-card">
-          <div class="music-article-thumbnail" style="background-image: url(https://lh3.googleusercontent.com/N-AY2XwXafWq4TQWfua6VyjPVQvTGRdz9CKOHaBl2nu2GVg7zxS886X5giZ9yY2qIjPh=w300)">
+          <div class="music-article-thumbnail" style="background-image: url(https://lh3.googleusercontent.com/-IMGb4CkWC98/VeXR6rWlM1I/AAAAAAAA7c4/vQx61HQxuPonHLAiJKgPbd1nJD0qKdcvACJoC/s506/GooglePlus-logos-02.png)">
           </div><div class="hero-article-headline music">
             <h4>Google+</h4>
             <h5>Circle me if you feel cool!</h5>
