@@ -11,6 +11,17 @@ date:   2016-11-03
 lastmod: 2016-11-03
 ---
 <ul class="post-stream-container no-span">
+    <li>
+        <a href="https://plus.google.com/+DenisGLabrecque" class="post-stream-card">
+          <div class="music-article-thumbnail" style="background-image: url(https://lh3.googleusercontent.com/N-AY2XwXafWq4TQWfua6VyjPVQvTGRdz9CKOHaBl2nu2GVg7zxS886X5giZ9yY2qIjPh=w300)">
+          </div><div class="hero-article-headline music">
+            <h4>Google+</h4>
+            <h5>Circle me if you feel cool!</h5>
+            </div>
+        </a>
+    </li>
+</ul>
+<ul class="post-stream-container no-span">
     <li>
         <a href="https://facebook.com/DenisGLabrecque" class="post-stream-card">
           <div class="music-article-thumbnail" style="background-image: url(https://www.facebook.com/images/fb_icon_325x325.png)">
