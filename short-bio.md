@@ -11,25 +11,13 @@ date:   2016-11-03
 lastmod: 2016-11-03
 ---
 <ul class="post-stream-container no-span">
-     <li>
+    <li>
         <a href="https://facebook.com/DenisGLabrecque" class="post-stream-card">
-          <div class="music-article-thumbnail" style="background-image: url('https://www.facebook.com/images/fb_icon_325x325.png')">
+          <div class="music-article-thumbnail" style="background-image: url(https://www.facebook.com/images/fb_icon_325x325.png)">
           </div><div class="hero-article-headline music">
-
-            <h4>Fakery</h4>
-
-            <h5>Hate or fake</h5>
-
-          </div>
-
-          <div class="music-movements">
-
-              Music movements apparently
-
-          </div>
-
+            <h4>Fakebook</h4>
+            <h5>Friend me if I know you</h5>
+            </div>
         </a>
-
-      </li>
-
-    </ul>
+    </li>
+</ul>
