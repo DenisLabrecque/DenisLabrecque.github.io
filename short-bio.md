@@ -14,19 +14,21 @@ lastmod: 2016-11-03
     <li>
         <a href="https://facebook.com/DenisGLabrecque" class="post-stream-card">
           <div class="music-article-thumbnail" style="background-image: url(https://www.facebook.com/images/fb_icon_325x325.png)">
-          </div><div class="hero-article-headline music">
+          </div>
+          <div class="hero-article-headline music">
             <h4>Fakebook</h4>
             <h5>Friend me if I know you</h5>
-            </div>
+          </div>
         </a>
     </li>
     <li>
         <a href="https://facebook.com/DenisGLabrecque" class="post-stream-card">
           <div class="music-article-thumbnail" style="background-image: url(https://www.facebook.com/images/fb_icon_325x325.png)">
-          </div><div class="hero-article-headline music">
+          </div>
+          <div class="hero-article-headline music">
             <h4>Fakebook</h4>
             <h5>Friend me if I know you</h5>
-            </div>
+          </div>
         </a>
     </li>
 </ul>
