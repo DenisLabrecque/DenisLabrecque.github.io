@@ -11,18 +11,20 @@ date:   2016-11-04
 lastmod: 2016-11-04
 tags: bibletalk
 ---
-<ul class="post-stream-container no-span">
-      {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.bibletalk %}
-      <li>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          <img src=" {{ post.hero-image }}" />
-          <div class="hero-article-headline">
-            <h4>{{ post.title }}</h4>
-            <h5>{{ post.subtitle }}</h5>
-            {{ post.headline }}
-          </div>
-        </a>
-      </li>
-      {% endfor %}
-</ul>
+<div class="page-feed">
+      <ul class="post-stream-container no-span">
+            {% assign posts=site.posts | where:"lang", page.lang %}
+            {% for post in site.categories.bibletalk %}
+            <li>
+              <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+                <img src=" {{ post.hero-image }}" />
+                <div class="hero-article-headline">
+                  <h4>{{ post.title }}</h4>
+                  <h5>{{ post.subtitle }}</h5>
+                  {{ post.headline }}
+                </div>
+              </a>
+            </li>
+            {% endfor %}
+      </ul>
+</div>
