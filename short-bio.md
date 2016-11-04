@@ -63,4 +63,6 @@ I also enjoy drawings and paintings, and do create my own too. One of my persona
 
 Computer code, especially when it includes graphic elements -- such as in the case of this website, which I myself <a href="/about">built from scratch</a> -- also occupies some of my time. Such is the reason I am studying Computer Information Systems and Grahpic Design at the same time.
 
+I'm also an aviation enthusiast, and especially appreciate jet airplanes of any kind. Rencently, I have delved into the hobby of remote control electric ducted fan foam airplanes, and am loving it! Once done with my studies, I hope to enter the RCAF as a pilot.
+
 In general though, I just like making stuff. Furniture, clothes, websites, illustrations, music, literature, gardens -- it doesn't matter.
