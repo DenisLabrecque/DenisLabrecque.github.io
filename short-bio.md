@@ -50,3 +50,8 @@ I am foremost a Christian -- Evangelical by denomination. I believe that the Bib
 
 <h4>Political</h4>
 I am a strong believer in a free economy and low taxation, or, in other words, conservative politics. My concern is that our earnings, instead of being spent by us, are spent by the country for other people's interests in a centralized policy that is not tailored to best suit our personal needs and encourages only what the government thinks best. Although taxation is necessary, it should be limited to what is absolutely necessary for the entire community.
+
+<h3>Pastimes</h3>
+Although I appreciate many styles of music, my favourite is classical for its complexity. I especially enjoy Baroque fugue music and vocal motets, as well as violin concertos and organ toccatas. I enjoy composing classical music as well, and do play the violin and piano.
+
+I also enjoy drawings and paintings, and do create my own too. One of my personal <a href="https://www.pinterest.com/DenisGLabrecque/beautiful-paintings/" target="_new">favourite paintings</a> is probably <em><a href="https://www.pinterest.com/pin/460211655654242611/" target="_new">Man with Cat</a></em> by Cecilia Beaux.
