@@ -12,6 +12,7 @@ lastmod: 2016-11-04
 tags: bibletalk
 ---
 <div class="page-feed">
+<h1>Bible Talk</h1>
       <ul class="post-stream-container no-span">
             {% assign posts=site.posts | where:"lang", page.lang %}
             {% for post in site.categories.bibletalk %}
