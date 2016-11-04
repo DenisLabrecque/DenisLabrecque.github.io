@@ -10,8 +10,8 @@ lang: en
 date:   2016-11-03
 lastmod: 2016-11-03
 ---
-**Let's Get in Touch!**
-For my online resume, please visit <a href="https://www.linkedin.com/in/denisglabrecque" target="_new">my LinkedIn profile</a> below. If you wish to follow me or find out more about me, do use either <a href="https://plus.google.com/+DenisGLabrecque" target="_new">my Google+</a> or <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new">my Pinterest</a> feed, which I update quite often.
+##Let's Get in Touch!##
+For my online resume, please visit <a href="https://www.linkedin.com/in/denisglabrecque" target="_new">my LinkedIn profile</a> below. If you wish to follow me or find out more about me, do use either <a href="https://plus.google.com/+DenisGLabrecque" target="_new">my Google+</a> or <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new">my Pinterest</a> feeds, which I update quite often.
 <ul class="post-stream-container no-span">
     <li>
         <a href="https://www.linkedin.com/in/denisglabrecque" target="_new" class="post-stream-card">
