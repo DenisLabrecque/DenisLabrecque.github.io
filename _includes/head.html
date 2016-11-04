@@ -12,7 +12,12 @@
         {{ page.title }} • {{ site.title[page.lang] | escape }}, {{ site.tagline[page.lang] }}
       {% endif %}
     {% else %}
-      {{ site.title[page.lang] | escape }}, {{ site.tagline[page.lang] }}
+      {% if page.lang == 'fr' %}
+        {{ site.title[page.lang] | escape }} – {{ site.tagline[page.lang] }}
+      {% endif %}
+      {% if page.lang == 'en' %}
+        {{ site.title[page.lang] | escape }}, {{ site.tagline[page.lang] }}
+      {% endif %}
     {% endif %}
   </title>
   <meta name="description" content="{% if page.headline %}{{ page.headline | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
