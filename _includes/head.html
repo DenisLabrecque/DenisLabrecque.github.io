@@ -5,6 +5,9 @@
 
   <title>
     {% if page.title %}
+      {% if page.lang == 'fr' %}
+        {{ page.title }} • {{ site.title[page.lang] | escape }} – {{ site.tagline[page.lang] }}
+      {% endif %}
       {{ page.title }} • {{ site.title[page.lang] | escape }}, {{ site.tagline[page.lang] }}
     {% else %}
       {{ site.title[page.lang] | escape }}, {{ site.tagline[page.lang] }}
