@@ -64,6 +64,6 @@ J'apprécie aussi le dessin et la peinture, que je crée aussi moi-même. Une de
 
 Le code informatique, surtout quant il inclut des éléments graphiques -- tel que dans le cas de ce site web -- m'occupe aussi. Telle est la raison de mes études en Systèmes Informatiques et en Design Graphique.
 
-I'm also an aviation enthusiast, and especially appreciate jet airplanes of any kind. Rencently, I have delved into the hobby of remote control electric ducted fan foam airplanes, and am loving it! Once done with my studies, I hope to enter the RCAF as a pilot.
+Je suis aussi enthousiaste de l'aviation, appréciant surtout les avions à réaction de toute sorte. Récemment, j'ai commencé à voler des avions radio-contrôlés en mousse à moteur électrique, et j'aime bien ça! Une fois mes études terminées, j'espère entrer dans les Forces comme pilote.
 
-In general though, I just like making stuff. Furniture, clothes, websites, illustrations, music, literature, gardens -- it doesn't matter.
+Mais en général, j'aime simplement créér des choses. Fabriquer des meubles, confectionner des vêtements, bâtir des sites web, créér des illustrations, composer de la musique, écrire, jardiner -- qu'importe.
