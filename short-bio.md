@@ -42,6 +42,11 @@ For my online resume, please visit <a href="https://www.linkedin.com/in/denisgla
       </li>
 </ul>
 
+<h2>Bio</h2>
+I was born in Sorel-Tracy, Québec, Canada, and was raised in Granby, where my father worked as an engineer. From there, we moved to the small village of St-Denis-sur-Richelieu, where we stayed all my teen years.
+
+I was homeschooled until university, learning English and French natively. I am now in university at Pensacola Christian College, and work in the summer.
+
 <h2>My Interests</h2>
 <h3>Beliefs</h3>
 I am foremost a Christian -- Evangelical by denomination. I believe that the Bible is the inspired, inerrant Word of God; that the world and man were created in six days by God; that man, preferring his to will to that of his creator, chose to sin against God, causing a separation between God and man; that Jesus Christ, the Son of God -- divine by nature -- died for every person's sins, so that we might not fall under eternal condemnation separated from the Lord, but rather have eternal life with Him; and that Jesus Christ, the promised Messiah, will rule in Jerusalem for 1000 years with the saints, fulfilling his promises to Israel: that David would never lack a son to rule after him.
