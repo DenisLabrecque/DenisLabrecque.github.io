@@ -12,14 +12,14 @@ lastmod: 2016-11-03
 tags: sommaire àPropos biographie courte Denis Labrecque social pageAuteur
 ---
 <h2>Faisons Connaissance!</h2>
-Pour mon résumé en ligne, veuillez visiter <a href="https://www.linkedin.com/in/denisglabrecque" target="_new">mon profil LinkedIn</a> ci-dessous. Pour me suivre sur les résaux sociaux, utilisez soit<a href="https://plus.google.com/+DenisGLabrecque" target="_new">mon profil Google+</a> ou <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new">mon profil Pinterest</a>, auxquels j'ajoute assez souvent.
+Pour mon résumé en ligne, veuillez visiter <a href="https://www.linkedin.com/in/denisglabrecque/fr" target="_new">mon profil LinkedIn</a> ci-dessous. Pour me suivre sur les résaux sociaux, utilisez soit <a href="https://plus.google.com/+DenisGLabrecque" target="_new">mon profil Google+</a> ou <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new">mon profil Pinterest</a>, auxquels j'ajoute assez souvent.
 <ul class="post-stream-container no-span">
     <li>
         <a href="https://www.linkedin.com/in/denisglabrecque" target="_new" class="post-stream-card">
           <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/fa/52/c1/fa52c1c9de9c3d7f3314ee3b1d505fc0.png)"></div>
           <div class="hero-article-headline music">
             <h4>LinkedIn</h4>
-            <h5>Vouz lier à moi, c'est votre affaire</h5>
+            <h5>Vouz linker à moi, c'est votre affaire</h5>
           </div>
         </a>
       </li>
@@ -44,25 +44,25 @@ Pour mon résumé en ligne, veuillez visiter <a href="https://www.linkedin.com/i
 </ul>
 
 <h2>Bio</h2>
-I was born in Sorel-Tracy, Québec, Canada, and was raised in Granby, where my father worked as an engineer. From there, we moved to the small village of St-Denis-sur-Richelieu, where we stayed all my teen years.
+Je suis né à Sorel-Tracy, Québec, Canada, et j'ai grandi à Graby, où mon père travaillait comme ingénieur. De là, nous avons déménagé au petit village qu'est Saint-Denis-sur-Richelieu, où nous avons demeuré pendant mon adolescence.
 
-I was homeschooled until university, learning English and French natively. I am now in university at Pensacola Christian College, and work in the summer.
+J'ai fait l'écôle à la maison jusqu'à l'université, apprenant nativement l'anglais et le français. Je suis maintenant étudiant universitaire à Pensacola Christian College, et travailleur en été.
 
-<h2>My Interests</h2>
-<h3>Beliefs</h3>
-I am foremost a Christian -- Evangelical by denomination. I believe that the Bible is the inspired, inerrant Word of God; that the world and man were created in six days by God; that man, preferring his to will to that of his creator, chose to sin against God, causing a separation between God and man; that Jesus Christ, the Son of God -- divine by nature -- died for every person's sins, so that we might not fall under eternal condemnation separated from the Lord, but rather have eternal life with Him; and that Jesus Christ, the promised Messiah, will rule in Jerusalem for 1000 years with the saints, fulfilling his promises to Israel: that David would never lack a son to rule after him.
+<h2>Mes intérêts</h2>
+<h3>Croyances</h3>
+Je suis premièrement Chrétien -- Évangélique par dénomination. Je crois que la Bible est la parole de Dieu, inspirée et sans érreur; que le monde et l'homme furent créés en six jours par Dieu; que l'homme, préférant sa propre volonté à celle de son Créateur, choisit de pécher contre Dieu, causant la séparation entre Dieu et l'homme; que Jésus-Christ, le Fils de Dieu -- divin en sa nature -- mourut pour les péchés de tous, afin que nous ne tombions pas sous la condamnation éternelle, séparés de Dieu, mais que nous ayons plutôt la vie éternelle en lui; et que Jésus-Christ, le Messie promis, regnera à Jérusalem avec les saints pour 1000 ans, remplissant ainsi ses promesses envers Israel: que David ne manquerait jamais d'un successeur pour régner après lui.
 
-{% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/23/5c/d7/235cd7130f22c8917c4fa05563371a2a.jpg" image-description="The piano and the violin are the instruments I play, along with some mandolin." %}
+{% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/23/5c/d7/235cd7130f22c8917c4fa05563371a2a.jpg" image-description="Le piano et le violon sont mes instruments, ainsi qu'un peu de la mandoline." %}
 
-<h4>Political</h4>
-I am a strong believer in a free economy and low taxation, or, in other words, conservative politics. My concern is that our earnings, instead of being spent by us, are spent by the country for other people's interests in a centralized policy that is not tailored to best suit our personal needs and encourages only what the government thinks best. Although taxation is necessary, it should be limited to what is absolutely necessary for the entire community.
+<h4>Politiques</h4>
+Je crois fortement en une économie non-contrôlée et en une basse taxation, ou, autrement dit, en une politique conservatrice. Ce que me concerne, c'est que nos économies, au lieu d'être dépensées par nous, soient distribuées par le pays dans l'intérêt des autres en une politique centralisatrice qui n'est pas ajustée aux besoins personnels et n'encourage que ce que le gouvernement désire prôner. Bien que la taxation soit nécessaire, elle doit être limitée à ce qui est absolument éssentiel à la communauté entière.
 
-<h3>Pastimes</h3>
-Although I do appreciate many styles of music, my favourite is classical for its complexity. I especially enjoy Baroque fugue music and vocal motets, as well as violin concertos and organ toccatas. I enjoy composing classical music as well, and do play the violin and piano.
+<h3>Passe-temps</h3>
+Bien que j'apprécie plusieurs styles musicaux, mon style favori est la musique classique à cause de sa complexité. J'aime surtout la fugue Baroque et les motets vocaux, ainsi que les concertos pour violon et les toccatas pour orgue. J'aime aussi composer de la musique néoclassique, et je joue du piano et du violon.
 
-I also enjoy drawings and paintings, and do create my own too. One of my personal <a href="https://www.pinterest.com/DenisGLabrecque/beautiful-paintings/" target="_new">favourite paintings</a> is probably <em><a href="https://www.pinterest.com/pin/460211655654242611/" target="_new">Man with Cat</a></em> by Cecilia Beaux.
+J'apprécie aussi le dessin et la peinture, que je crée aussi moi-même. Une de mes <a href="https://www.pinterest.com/DenisGLabrecque/beautiful-paintings/" target="_new">peintures favorites</a> est probablement <em><a href="https://www.pinterest.com/pin/460211655654242611/" target="_new">Homme avec chat</a></em> par Cécilia Beaux.
 
-Computer code, especially when it includes graphic elements -- such as in the case of this website, which I myself <a href="/about">built from scratch</a> -- also occupies some of my time. Such is the reason I am studying Computer Information Systems and Grahpic Design at the same time.
+Le code informatique, surtout quant il inclut des éléments graphiques -- tel que dans le cas de ce site web -- m'occupe aussi. Telle est la raison de mes études en Systèmes Informatiques et en Design Graphique.
 
 I'm also an aviation enthusiast, and especially appreciate jet airplanes of any kind. Rencently, I have delved into the hobby of remote control electric ducted fan foam airplanes, and am loving it! Once done with my studies, I hope to enter the RCAF as a pilot.
 
