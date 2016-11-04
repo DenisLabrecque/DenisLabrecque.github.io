@@ -12,11 +12,11 @@ lastmod: 2016-11-03
 ---
 <ul class="post-stream-container no-span">
     <li>
-        <a href="/music/2016/02/29/pastel-whites.html" class="post-stream-card">
-          <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/9d/43/00/9d4300f039cb3ed12710a08c54c0fbde.jpg)"></div>
+        <a href="https://www.linkedin.com/in/denisglabrecque" target="_new" class="post-stream-card">
+          <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/fa/52/c1/fa52c1c9de9c3d7f3314ee3b1d505fc0.png)"></div>
           <div class="hero-article-headline music">
-            <h4>Pastel Whites</h4>
-            <h5>Original composition for piano</h5>
+            <h4>LinkedIn</h4>
+            <h5>Knowing about me is your business</h5>
           </div>
           <div class="music-movements">
               
@@ -25,10 +25,10 @@ lastmod: 2016-11-03
       </li>
       <li>
         <a href="/music/2013/01/01/the-anthem-set.html" class="post-stream-card">
-          <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/72/8e/35/728e35ea02ff6bf33a58dc62dc8cc0de.jpg)"></div>
+          <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/09/90/a9/0990a94d9f4ccddd06a0fc9ca9fc8b6e.png)"></div>
           <div class="hero-article-headline music">
-            <h4>The Anthem Set</h4>
-            <h5>Original hymns</h5>
+            <h4>Google+</h4>
+            <h5>Circle me if you're cool</h5>
           </div>
           <div class="music-movements">
               
