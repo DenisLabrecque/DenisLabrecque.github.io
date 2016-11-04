@@ -46,12 +46,16 @@ For my online resume, please visit <a href="https://www.linkedin.com/in/denisgla
 <h3>Beliefs</h3>
 I am foremost a Christian -- Evangelical by denomination. I believe that the Bible is the inspired, inerrant Word of God; that the world and man were created in six days by God; that man, preferring his to will to that of his creator, chose to sin against God, causing a separation between God and man; that Jesus Christ, the Son of God -- divine by nature -- died for every person's sins, so that we might not fall under eternal condemnation separated from the Lord, but rather have eternal life with Him; and that Jesus Christ, the promised Messiah, will rule in Jerusalem for 1000 years with the saints, fulfilling his promises to Israel: that David would never lack a son to rule after him.
 
-{% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/23/5c/d7/235cd7130f22c8917c4fa05563371a2a.jpg" image-description="The piano and the violin are my instruments." %}
+{% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/23/5c/d7/235cd7130f22c8917c4fa05563371a2a.jpg" image-description="The piano and the violin are the instruments I play, along with some mandolin." %}
 
 <h4>Political</h4>
 I am a strong believer in a free economy and low taxation, or, in other words, conservative politics. My concern is that our earnings, instead of being spent by us, are spent by the country for other people's interests in a centralized policy that is not tailored to best suit our personal needs and encourages only what the government thinks best. Although taxation is necessary, it should be limited to what is absolutely necessary for the entire community.
 
 <h3>Pastimes</h3>
-Although I appreciate many styles of music, my favourite is classical for its complexity. I especially enjoy Baroque fugue music and vocal motets, as well as violin concertos and organ toccatas. I enjoy composing classical music as well, and do play the violin and piano.
+Although I do appreciate many styles of music, my favourite is classical for its complexity. I especially enjoy Baroque fugue music and vocal motets, as well as violin concertos and organ toccatas. I enjoy composing classical music as well, and do play the violin and piano.
 
 I also enjoy drawings and paintings, and do create my own too. One of my personal <a href="https://www.pinterest.com/DenisGLabrecque/beautiful-paintings/" target="_new">favourite paintings</a> is probably <em><a href="https://www.pinterest.com/pin/460211655654242611/" target="_new">Man with Cat</a></em> by Cecilia Beaux.
+
+Computer code, especially when it includes graphic elements -- such as in the case of this website, which I myself <a href="/about">built from scratch</a> -- also occupies some of my time. Such is the reason I am studying Computer Information Systems and Grahpic Design at the same time.
+
+In general though, I just like making stuff. Furniture, clothes, websites, illustrations, music, literature, gardens -- it doesn't matter.
