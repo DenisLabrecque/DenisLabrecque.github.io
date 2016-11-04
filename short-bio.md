@@ -40,7 +40,7 @@ lastmod: 2016-11-03
           <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/21/fb/b9/21fbb9a0184c500ef5c67f2738eff20f.png)"></div>
           <div class="hero-article-headline music">
             <h4>Pinterest</h4>
-            <h5>My Pinterest is your interest</h5>
+            <h5>My Pinterests are your interests</h5>
           </div>
           <div class="music-movements">
               
