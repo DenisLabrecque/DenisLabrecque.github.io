@@ -12,7 +12,7 @@ lastmod: 2016-11-03
 tags: sommaire àPropos biographie courte Denis Labrecque social pageAuteur
 ---
 <h2>Faisons Connaissance!</h2>
-For my online resume, please visit <a href="https://www.linkedin.com/in/denisglabrecque" target="_new">my LinkedIn profile</a> below. If you wish to follow me or find out more about me, do use either <a href="https://plus.google.com/+DenisGLabrecque" target="_new">my Google+</a> or <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new">my Pinterest</a> feeds, which I update quite often.
+Pour mon résumé en ligne, veuillez visiter <a href="https://www.linkedin.com/in/denisglabrecque" target="_new">mon profil LinkedIn</a> ci-dessous. Pour me suivre sur les résaux sociaux, utilisez soit<a href="https://plus.google.com/+DenisGLabrecque" target="_new">mon profil Google+</a> ou <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new">mon profil Pinterest</a>, auxquels j'ajoute assez souvent.
 <ul class="post-stream-container no-span">
     <li>
         <a href="https://www.linkedin.com/in/denisglabrecque" target="_new" class="post-stream-card">
