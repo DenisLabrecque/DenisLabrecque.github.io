@@ -16,7 +16,7 @@ lastmod: 2016-11-03
           <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/fa/52/c1/fa52c1c9de9c3d7f3314ee3b1d505fc0.png)"></div>
           <div class="hero-article-headline music">
             <h4>LinkedIn</h4>
-            <h5>Knowing about me is your business</h5>
+            <h5>Because knowing all about me is your business</h5>
           </div>
           <div class="music-movements">
               
@@ -24,8 +24,8 @@ lastmod: 2016-11-03
         </a>
       </li>
       <li>
-        <a href="/music/2013/01/01/the-anthem-set.html" class="post-stream-card">
-          <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/09/90/a9/0990a94d9f4ccddd06a0fc9ca9fc8b6e.png)"></div>
+        <a href="https://plus.google.com/+DenisGLabrecque" target="_new" class="post-stream-card">
+          <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/8f/52/c9/8f52c9221933a5885464cf4eef63cbe5.png)"></div>
           <div class="hero-article-headline music">
             <h4>Google+</h4>
             <h5>Circle me if you're cool</h5>
@@ -36,11 +36,11 @@ lastmod: 2016-11-03
         </a>
     </li>
     <li>
-        <a href="/music/2016/02/29/pastel-whites.html" class="post-stream-card">
-          <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/9d/43/00/9d4300f039cb3ed12710a08c54c0fbde.jpg)"></div>
+        <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new" class="post-stream-card">
+          <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/e7/dc/2d/e7dc2d951d154451a1221073d6b90df9.png)"></div>
           <div class="hero-article-headline music">
-            <h4>Pastel Whites</h4>
-            <h5>Original composition for piano</h5>
+            <h4>Pinterest</h4>
+            <h5>My Pinterest is your interest</h5>
           </div>
           <div class="music-movements">
               
