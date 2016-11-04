@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Biblical Subjects
-subtitle: Articles
+title: Bible Talk
+
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/10/21/2a/10212a15e3e139cad2071895224818da.jpg
-headline: About faith
+
 permalink: /bibletalk
 ref: bibletalk
 lang: en
