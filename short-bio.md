@@ -9,6 +9,7 @@ ref: biography
 lang: en
 date:   2016-11-03
 lastmod: 2016-11-03
+tags: summary about biography short Denis Labrecque social authorPage
 ---
 <h2>Let's Get in Touch!</h2>
 For my online resume, please visit <a href="https://www.linkedin.com/in/denisglabrecque" target="_new">my LinkedIn profile</a> below. If you wish to follow me or find out more about me, do use either <a href="https://plus.google.com/+DenisGLabrecque" target="_new">my Google+</a> or <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new">my Pinterest</a> feeds, which I update quite often.
