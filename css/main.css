@@ -1077,3 +1077,7 @@ div.music-movements {
     padding-left: 5pt;
     padding-right: 5pt;
 }
+
+nav.sandwitch-menu h3 {
+    padding-bottom: 18px;
+}
