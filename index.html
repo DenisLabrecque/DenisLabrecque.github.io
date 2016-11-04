@@ -1,7 +1,7 @@
 ---
 layout: default
 date: 2016-06-18
-lastmod: 2016-06-25
+lastmod: 2016-11-3
 ref: index
 lang: en
 
@@ -21,14 +21,58 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
       <p class="image-headline">{{ post.image-by }}</p>
     </div>
   </figure>
+
+  
+  
   
   <div class="page-feed" markdown="1">
+
+    <p class="headline">I do have cool hair, but I also I also create <strong>artwork:</strong> here are some of my best selections.</p>
     
-    <p class="headline">I have cool hair, but I also do cool stuff! A great thing I do is <strong>think biblically.</strong></p>
+    <ul class="post-stream-container no-span">
+      {% assign posts=site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.artwork limit: 5 %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <img src=" {{ post.hero-image }}" />
+          <div class="hero-article-headline">
+            <h4>{{ post.title }}</h4>
+            <h5>{{ post.subtitle }}</h5>
+            {{ post.headline }}
+          </div>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+
+
+    <p class="headline">Another cool thing I do is play and compose <strong>music</strong> on the piano and violin.</p>
+    
+    <ul class="post-stream-container no-span">
+      {% assign posts = site.posts | where:"lang", page.lang %}
+      {% for post in site.categories.music limit: 7 %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="music-article-thumbnail"
+               style="background-image: url( {{ post.hero-image }} )">
+          </div><div class="hero-article-headline music">
+            <h4>{{ post.title }}</h4>
+            <h5>{{ post.subtitle }}</h5>
+          </div>
+          <!--<div class="music-movements">
+              
+          </div>-->
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    
+
+    <p class="headline">Another great thing I do is <strong>think biblically.</strong></p>
     
     <ul class="post-stream-container">
       {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.bibletalk limit: 5 %}
+      {% for post in site.categories.bibletalk limit: 3 %}
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
           <div class="hero-article-thumbnail"
@@ -42,24 +86,6 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
       {% endfor %}
     </ul>
     
-    
-        <p class="headline">I also create <strong>artwork:</strong> here is my best selection.</p>
-    
-    <ul class="post-stream-container no-span">
-      {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.artwork limit: 7 %}
-      <li>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          <img src=" {{ post.hero-image }}" />
-          <div class="hero-article-headline">
-            <h4>{{ post.title }}</h4>
-            <h5>{{ post.subtitle }}</h5>
-            {{ post.headline }}
-          </div>
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
     
     <p class="headline">I also <strong>blog</strong> other stories, thoughts, and activities.</p>
     
@@ -74,27 +100,6 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
             <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
           </div>
           <div class="hero-article-headline">{{ post.headline }}</div>
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
-    
-    <p class="headline">Another cool thing I do is play and compose <strong>music</strong> on the piano and violin.</p>
-    
-    <ul class="post-stream-container no-span">
-      {% assign posts = site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.music limit: 7 %}
-      <li>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          <div class="music-article-thumbnail"
-               style="background-image: url( {{ post.hero-image }} )">
-          </div><div class="hero-article-headline music">
-            <h4>{{ post.title }}</h4>
-            <h5>{{ post.subtitle }}</h5>
-          </div>
-          <div class="music-movements">
-              
-          </div>
         </a>
       </li>
       {% endfor %}
