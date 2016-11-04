@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Short Biography
+title: Short Biography
 subtitle: In case you want to know who Denis Labrecque is
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/71/91/57/7191571c18ed50608503e9319fa56b75.jpg
 headline: I am presently a university student double majoring in Computer Information Systems and Graphic Design.
