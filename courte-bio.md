@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Courte Biographie
+title: Courte biographie
 subtitle: Au cas ou vous vouliez connaître Denis Labrecque
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/71/91/57/7191571c18ed50608503e9319fa56b75.jpg
 headline: Je suis présentement un étudiant universitaire en Systèmes Informatiques et en Design Graphique.
