@@ -19,7 +19,7 @@ Pour mon résumé en ligne, veuillez visiter <a href="https://www.linkedin.com/i
           <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/fa/52/c1/fa52c1c9de9c3d7f3314ee3b1d505fc0.png)"></div>
           <div class="hero-article-headline music">
             <h4>LinkedIn</h4>
-            <h5>Vouz lier à moi, c'est votre affaire.</h5>
+            <h5>Vouz lier à moi, c'est votre affaire</h5>
           </div>
         </a>
       </li>
@@ -37,7 +37,7 @@ Pour mon résumé en ligne, veuillez visiter <a href="https://www.linkedin.com/i
           <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/21/fb/b9/21fbb9a0184c500ef5c67f2738eff20f.png)"></div>
           <div class="hero-article-headline music">
             <h4>Pinterest</h4>
-            <h5>Mes Pintérêts sont vos intérêts!</h5>
+            <h5>Parce-que mes Pinterests sont vos intérêts</h5>
           </div>
         </a>
       </li>
