@@ -8,7 +8,9 @@
       {% if page.lang == 'fr' %}
         {{ page.title }} • {{ site.title[page.lang] | escape }} – {{ site.tagline[page.lang] }}
       {% endif %}
-      {{ page.title }} • {{ site.title[page.lang] | escape }}, {{ site.tagline[page.lang] }}
+      {% if page.lang == 'en' %}
+        {{ page.title }} • {{ site.title[page.lang] | escape }}, {{ site.tagline[page.lang] }}
+      {% endif %}
     {% else %}
       {{ site.title[page.lang] | escape }}, {{ site.tagline[page.lang] }}
     {% endif %}
