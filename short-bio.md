@@ -37,7 +37,7 @@ lastmod: 2016-11-03
     </li>
     <li>
         <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new" class="post-stream-card">
-          <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/e7/dc/2d/e7dc2d951d154451a1221073d6b90df9.png)"></div>
+          <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/21/fb/b9/21fbb9a0184c500ef5c67f2738eff20f.png)"></div>
           <div class="hero-article-headline music">
             <h4>Pinterest</h4>
             <h5>My Pinterest is your interest</h5>
