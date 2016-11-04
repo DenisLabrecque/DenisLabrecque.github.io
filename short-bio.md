@@ -23,7 +23,7 @@ For my online resume, please visit <a href="https://www.linkedin.com/in/denisgla
         </a>
       </li>
       <li>
-        <a href="https://plus.google.com/+DenisGLabrecque" target="_new" class="post-stream-card">
+        <a rel="me" href="https://plus.google.com/+DenisGLabrecque" target="_new" class="post-stream-card">
           <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/8f/52/c9/8f52c9221933a5885464cf4eef63cbe5.png)"></div>
           <div class="hero-article-headline music">
             <h4>Google+</h4>
