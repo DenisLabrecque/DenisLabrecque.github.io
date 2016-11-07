@@ -35,6 +35,11 @@ The Four Winds dining hall is open at intervals from 5:45 in the morning to 6:30
 
 {% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/81/65/00/81650044124716ef9088e108ac171cde.jpg" image-description="Four Winds dining hall." %}
 
+<h4>Crowne Center</h4>
+There are chapel services every morning of the weekday at 10 a.m., mandatory to attend in assigned seating. There are also two Sunday services and one Wednesday night service. Wednesday morning activities vary, with some free periods, and some class meetings or collegian meetings.
+
+{% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/f1/57/3a/f1573acb47c56889af72650dff0c2346.jpg" image-description="Crowne Center at night" %}
+
 <h1>Rules</h1>
 The regulations at PCC have made many students rant and deplore. Yet, they are not at all unbearable, and mostly contribute to quality interaction between students and tend to guarantee a clean atmosphere.
 <h3>Demerits</h3>
