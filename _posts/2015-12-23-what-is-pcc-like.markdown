@@ -84,7 +84,7 @@ Contrary to popular conception off campus, dating between students is strongly e
 <h3>Walking about Campus</h3>
 A certain legend persists that certain sidewalks at PCC are "blue" and others "red". But it is true that mixed groups (groups consisting of guys and girls) may only be together in certain areas, and not off campus unless on a chaperoned activity or outing. There is a certain sidewalk which goes around the campus buildings, referred to as "the loop" and monitored by chaperones on golf carts, on which couples are encouraged to walk. 
 <h3>Leaving Campus</h3>
-At the semester's end, students leaving campus are required to fill out a form explaining how they will leave, when, and with whom.
+At the semester's end, students leaving campus are required to fill out a form explaining how they will leave, when, and with whom. Under certain conditions, guys and girls may travel together.
 <h1>My Experience</h1>
 My experience at PCC was an agreeable one; I feel comfortable there. The people are generally kind, and I could not only study well but also make quality friends.
 https://www.youtube.com/playlist?list=PLq7M1cOtTjn0HHuRjSBsQqY9YgN75cZpD
