@@ -60,23 +60,31 @@ Certain URL's are blocked, even on allowed websites, because of <em>student deni
 
 {% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/e6/11/7e/e6117e798beedf83d69680c63d8e61ef.jpg" image-description="Yep, we're all familiar with this error message." %}
 
-One extremely irritating quirk of the WiFi is that many apps do not function properly because their underlying URL's have been blocked. For instance, although Google+ and Google Drive work fine, Google Hangouts is blocked. Skype only sometimes works, although one cannot access it through his Microsoft account. (PCC does have rooms reserved for Skype calls). Worst of all, many Windows applications do not work properly; the Store was recently unblocked, yet downloading applications from it is a problem. Also, many apps such as Mail and Weather cannot receive any data at all.
+One annoying quirk of the WiFi is that many apps do not function properly because their underlying URL's have been blocked. For that reason, PCC does have rooms reserved for Skype calls.
 <h4>The Drowsy Poet Phenomenon</h4>
-Working Wi-Fi being the bane of every student who tries to access the internet through Eagle's Nest, many are led to periodically walk over to <a href="https://www.google.com/maps/place/The+Drowsy+Poet+Coffee+Company/@30.4685871,-87.2409529,17z/data=!3m1!4b1!4m2!3m1!1s0x8890bf96ed4c0ebb:0x173a88c792766440" target="_blank">The Drowsy Poet</a> café, where they can obtain Wi-Fi after buying a beverage. Many also take a 45-minute walk to the mall to access free Starbucks Wi-Fi.
+Working Wi-Fi being the bane of every student who tries to access the internet through Eagle's Nest, many are led to periodically walk over to <a href="https://www.google.com/maps/place/The+Drowsy+Poet+Coffee+Company/@30.4685871,-87.2409529,17z/data=!3m1!4b1!4m2!3m1!1s0x8890bf96ed4c0ebb:0x173a88c792766440" target="_blank">The Drowsy Poet</a> café, where they can obtain Wi-Fi after buying a beverage. Many also take a walk to the mall to access free Starbucks Wi-Fi.
 <h3>Dorm Life</h3>
 There are a total of six residence halls on campus, the girl's dorms being grouped towards the northwest side of campus, and the boy's dorms being a little more scattered. My residence for the first semester was the 8th floor of <a href="https://www.google.com/maps/place/Young+Tower/@30.4733605,-87.2340114,17z/data=!3m1!4b1!4m2!3m1!1s0x8890bf8d7d474bf5:0x2d315f357c57512f" target="_blank">Young Tower</a>, the largest guys' dormitory on campus.
 
 Access to any dormitory is always monitored by desk worker, and is only possible by the main entrance. Of course, unless they are family, female visitors are not allowed in guys' dorms, and vice-versa.
 <h4>Late in / Late out Infractions</h4>
-For most students, one may awaken only after 5:45 in the morning and must be back inside the building by 10:20 in the evening. Some people obtain late night work passes, but the door is locked early in the morning, being checked by campus security at twenty minute intervals. Coming in late results in an infraction.
+For most students, one may awaken only after 5:45 in the morning and must be back inside the building by 10:25 in the evening. Coming in late results in an infraction. Some people obtain late night work passes, but the door is locked early in the morning, being checked by campus security at twenty minute intervals.
 
-Each floor is monitored by work students called RA's (room advisors). They ensure that everyone is present in his room by 11 p.m. They must also occasionally perform double check to ensure that no one is up past lights out at 11:15 (on Friday and Saturday evenings, lights out is at midnight instead). Being up late adds an infraction; after 10 infractions, a student must pay $5 for each additional room infraction. During finals, because studying late is considered gaining an unfair advantage, when a student is caught studying late, he receives an automatic zero for cheating on the final for which he was caught studying.
+Each floor is monitored by work students called RA's (room advisors). They ensure that everyone is present in his room by 11 p.m. They must also occasionally perform double check to ensure that no one is up past lights out at 11:15 (on Friday and Saturday evenings, lights out is at midnight). Being up late adds an infraction; after 10 infractions, a student must pay $5 for each additional infraction.
+
+During finals, because studying late is considered gaining an unfair advantage, when a student is caught studying late, he receives an automatic zero for cheating on the final for which he was caught studying.
 
 Chapel services are held every weekday morning from 10:05 to 10:45. Every student must be out of his dormitory 10 minutes ahead for chapel. Not being out before 9:55 means a late out infraction. For chapel services, the time ahead is 20 minutes. That means getting out at 9:00 a.m. for Sunday school and being early for church every Sunday and Wednesday evening.
 <h4>Prayer Group</h4>
 In each residence hall, three or four rooms are assigned a prayer leader (PL) and assistant prayer leader (APL). Every Monday, Tuesday, and Thursday, those rooms gather for prayer group from 10:30 to 10:45.
 <h4>Electronics and Media</h4>
-Although cell phones with data are allowed, hotspots are not. Because world music is not allowed, earbuds are not either. RA's must therefore seize hundreds of earbuds each semester, to be returned by the semester's end, and resulting in 10 demerits. Movies are not allowed either, although watching films such as sporting events is acceptable.
+Although cell phones with data are allowed, hotspots are not. Because world music is not allowed, earbuds are not either. RA's must therefore seize hundreds of earbuds each semester, to be returned by the semester's end, resulting in 10 demerits. Movies are not allowed either, although watching clips on YouTube or sporting events is acceptable.
+<h3>Dating</h3>
+Contrary to popular conception off campus, dating between students is strongly encouraged. However, because mixed groups are limited to on-campus activities, unless chaperoned, that may happen in college-sanctioned activities only. One favourite example is Fine Arts, which happens four times per year. Such productions are formal musical and theatrical events in which it is traditional (not required) to invite a date and give small gifts and flowers. Attendance is mandatory, with formal dress required.
+<h3>Walking about Campus</h3>
+A certain legend persists that certain sidewalks at PCC are "blue" and others "red". But it is true that mixed groups (groups consisting of guys and girls) may only be together in certain areas, and not off campus unless on a chaperoned activity or outing. There is a certain sidewalk which goes around the campus buildings, referred to as "the loop" and monitored by chaperones on golf carts, on which couples are encouraged to walk. 
+<h3>Leaving Campus</h3>
+At the semester's end, students leaving campus are required to fill out a form explaining how they will leave, when, and with whom.
 <h1>My Experience</h1>
 My experience at PCC was an agreeable one; I feel comfortable there. The people are generally kind, and I could not only study well but also make quality friends.
 https://www.youtube.com/playlist?list=PLq7M1cOtTjn0HHuRjSBsQqY9YgN75cZpD
