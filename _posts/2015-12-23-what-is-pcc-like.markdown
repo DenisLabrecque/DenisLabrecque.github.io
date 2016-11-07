@@ -8,6 +8,7 @@ ref: whatispcclike
 categories: blog
 lang: en
 lastmod: 2016-06-20
+lastmod: 2016-11-07
 tags: university PCC Pensacola Christian College blog
 ---
 As a brand new student at PCC from Canada, I had a very confused idea of what college (or university, as the matter may stand) would be like. When consulting many sources over the internet, one realizes that many people claim the most outrageous and inaccurate things about PCC. As a freshman there, I will tell of my own experience.
