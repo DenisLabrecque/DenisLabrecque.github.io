@@ -1,7 +1,7 @@
 ---
 lang: en
 layout: post 
-title: Truth about Pensacola Christian College
+title: The Truth about Pensacola Christian College
 subtitle: All you wanted to know from a student who's been there
 headline: Unfortunately, those who yell the loudest (usually the most roudy) also get most of the attention. Voices dissenting PCC can be very loud, but from the perspective of a (perhaps less unusual) student, here is an attempt to describe discipline at Pensacola Christian.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/b5/d9/7d/b5d97d0d23383c877535b486835192fd.jpg
