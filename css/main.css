@@ -783,8 +783,7 @@ div.full-bleed-image {
 }
 img.full-bleed-image {
     display: block;
-    width: 100vw;
-    height: auto;
+    width: auto;
 }
 @media (min-aspect-ratio: 1/1) {
     img.full-bleed-image {
