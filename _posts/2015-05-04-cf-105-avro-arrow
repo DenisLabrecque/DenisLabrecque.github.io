@@ -1,0 +1,48 @@
+---
+layout: post
+title: "CF-105 Avro Arrow"
+subtitle: "Interceptor"
+headline: "This very large Canadian delta-winged interceptor first flew in 1958. It was meant to protect the Arctic regions from high-altitude bombers during the Cold War with Russia."
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/2d/c2/75/2dc275a0de2d73924f64390bdb0007ae.jpg
+image-by: <a href='https://www.flickr.com/photos/forsvarsdepartementet/22504078631/in/photolist-AhBhxH-AgCEop-zjJQov-zjAGD9-zjAVGd-AhB8FV-AhAWRD-zjAU31-AekkAw-S5R7D-8Kc2ip-gXvR34-7Bvz3Z-d8JN2o-dRDqjs-e2GL4S-9Dw77T-7Bzp9y-78xExV-8JU3e4-6Skwnh-bwPs7F-owhT3q-8vwtpZ-wmZvt6-51j3XD-yFwAE-9X8Vms-78xDBD-kokvFz-55qaLW-e2GJko-e2B5iM-e2GJEy-vVKMGf-e2GJ8A-e2B6uD-7P9k67-e2GKoY-AGLPkZ-eaPnqE-4fCtaE-eQ8Rye-51oeYs-e2GHUY-vgmjcy-e2B7bT-AMqGyF-pLSVah-dRvXq2' target='_new'>Testflyging av første norske F-35</a> by <a href='https://www.flickr.com/photos/forsvarsdepartementet/' target='_new' >Forsvarsdepartemente</a> under <a href='https://creativecommons.org/licenses/by/2.0/' target='_new'>Attribution 2.0 Generic</a>
+ref: avroarrow
+categories: blog
+lang: en
+gallery:
+    - url: https://s-media-cache-ak0.pinimg.com/originals/96/dd/df/96dddf02c64391d57da281caf4b9ae31.jpg
+      description: Flight testing of the STOVL propulsion system began on 7 January 2010. The F-35B's first hover was on 17 March 2010, followed by its first vertical landing the next day.
+      by: <a href='https://www.flickr.com/photos/49840571@N02/10708181405/in/photolist-9NEdXe-bkrsBh-bTpfDa-9NELbX-hjfegk-hjfDJQ-nu8eMn-ns51Sa-hjfadk-hjfBWG-hjgwHR-hjgz1g-ns55qx-naS6bQ-eckCcm-bkrsvE-9NEUJe-5rhNAH-naS5hL-naS13c-hjfinX-hjfgWk-9NHJX1-bymmuV-9KomUV-9NENRV-9NESvr-9NEQEt-hjgBsk-ptqSHV-euR9i5-8p2esf-tZNnWQ-zLeCtA-A4LuKP-v1HE6M-uXByUp-ns5gfj' target='_new'>Marines perform first F-35B vertical take-off, landing at Eglin</a> by <a href='https://www.flickr.com/photos/49840571@N02/' target='_new' >Samuel King Jr</a> under <a href='https://creativecommons.org/licenses/by-nc-nd/2.0/' target='_new'>Attribution-NonCommercial-NoDerivs 2.0 Generic</a>
+      
+    - url: https://s-media-cache-ak0.pinimg.com/originals/08/61/64/0861641c62d72e7f56c5eb62e88508c1.jpg
+      description: The Lightning's weapons load includes an AIM-9X Sidewinder inert missile on the starboard pylon, a centerline 25mm gun pod, and a GBU-32 and AIM-120 in the starboard weapon bay.
+      by: <a href='https://en.wikipedia.org/wiki/Lockheed_Martin_F-35_Lightning_II#/media/File:Flickr_-_Official_U.S._Navy_Imagery_-_A_pilot_pilots_the_F-35B_Joint_Strike_Fighter_test_aircraft..jpg' target='_new'>Aircraft flying inverted shows external hard point stations, including the external Gatling gun pod</a> by courtesy of Lockheed Martin by Andy Wolfe. Released under the public domain
+      
+    - url: https://s-media-cache-ak0.pinimg.com/originals/7d/b8/3b/7db83b1429a13b24e3156e1d1c0db5ce.jpg
+      description: The Lightning accompanied by two Hornets, which it will eventually replace.
+      by: <a href='https://commons.wikimedia.org/wiki/File%3ADefense.gov_News_Photo_120111-F-JZ907-002_-_A_U.S._Marine_Corps_F-35_Lightning_II_aircraft_is_escorted_by_two_Marine_F_A-18_Hornets_as_it_flies_toward_Eglin_Air_Force_Base_Fla._on_Jan._11.jpg' target='_new'>A U.S. Marine Corps F-35 Lightning II aircraft is escorted by two Marine F A-18 Hornets</a> by Staff Sgt. Joely Santiago, U.S. Air Force under the public domain
+      
+    - url: https://s-media-cache-ak0.pinimg.com/originals/a9/c0/c6/a9c0c674ba824d7a2e052cad83b5ef49.jpg
+      description: Because the arrestor hook was located too close to the landing gear, the F-35C was originally unable to land on an aircraft carrier.
+      by: <a href='https://www.flickr.com/photos/compacflt/15539776428/in/photolist-pFcq8N-e2GJko-pKefvc-e2B5iM-pXzNXn-e2B6uD-ej7NrT-e2GKoY-e2B7bT-uEeVFY-pE3HiV-Cy4Mk9-p1Nrhb-pF1s7m-ejdwCG-J5Pqda-HYnCoM-HYnCt6-d1YXhQ-p1Yhem-pgT6Xi-HaGUkn-d1YYyS-fRPN7T-ekP4ev-d1YW4U-d1YVhw-d1YVay-kuJvT7-d1YWXE-d1YVGw-tZNiAf-Cy4MFQ-ahtGRQ-fRPSkc-J1aaCp-fRPtox-p1Nsdj-oCRbyP-9NEdXe-icRzgy-pWnMsL-pDP7XB-fRPMpk-pWnNfN-pWeJhr-q1357H-pDRtHQ-kuJwBw-oZvowF' target='_new'>141105-N-IM608-145</a> by <a href='https://www.flickr.com/photos/compacflt/' target='_new'>U.S. Pacific Fleet</a> under <a href='https://creativecommons.org/licenses/by-nc/2.0/' target='_new'>Attribution-NonCommercial 2.0 Generic</a>
+      
+    - url: https://s-media-cache-ak0.pinimg.com/originals/30/95/e0/3095e07af921352cfb032f66505ab3f8.jpg
+      description: Because of the central lift fan, the Lightning's body is large enough to break the area rule. It compensates this disadvantage by carrying its weapons internally, which reduces drag.
+      by: <a href='https://www.flickr.com/photos/77258709@N06/8636011734/in/photolist-ea8Pq3' target='_new'>130404-F-KX404-161</a> by Senior Airman Brett Clashman, U.S. Air Force via <a href='https://www.flickr.com/photos/77258709@N06/' target='_new'>ermaleksandr</a> under the public domain
+
+tags: jet fighterPlane warMachine Avro Canada jetFightersCurrentandPast
+lastmod: 2016-11-07
+---
+Design began when the specifications for an aircraft that could take off from a 1830m runway after a turnaround of 10 minutes and reach a Mach 1.5 cruising speed at 15,240 m altitude in 5 minutes, with a range of 370 to 560 km, could not be met by any available aircraft. But for budgetary reasons, the program was cancelled by Prime Minister Diefenbaker, and all six units were scrapped by fear of Soviet spy infiltration, leading to the demise of Avro Canada. Only a cockpit section, engine nacelles, and a few other bits, remain.
+
+The legacy of the Arrow persists; in 2010, fifty years later, its modernisation and production was lobbied against the acquisition project of the controversial American F-35 "Lightning". Due to risk, time, and cost, the project was rejected. Nevertheless the bird is not completely entombed, as a few replicas of the aircraft exist, one of which, called ARROW II, is to become a high-performance airshow demonstration aircraft that will first fly in 2016.
+
+<h4>Odd Fact</h4>
+
+Avro planned to capitalize on the rollout of the first unit, and invited over 10 000 people. Unfortunately, the media was distracted by Sputnik's launch, made the same day.
+
+<h3>Characteristics</h3>
+
+<strong>Max. takeoff weight:</strong> 31 120 kg<br />
+<strong>Maximum speed:</strong> Mach 1.98 (2 104 km/h) at 15 000 m maximum recorded<br />; Mach 2+ potential
+<strong>Combat radius:</strong> 660 km
+
