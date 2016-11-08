@@ -777,13 +777,14 @@ div.art-wrapper {
 
 div.full-bleed-image {
     padding: 0 0 0 0;
-  display: flex;
+  display: block;
   align-items: center;
   background: rgba(0,0,0,0.8);
 }
 img.full-bleed-image {
     display: block;
     width: auto;
+    height: auto;
 }
 @media (min-aspect-ratio: 1/1) {
     img.full-bleed-image {
