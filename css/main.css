@@ -783,15 +783,17 @@ div.full-bleed-image {
 }
 img.full-bleed-image {
     display: block;
-    width: auto;
+    width: 100%;
     height: auto;
 }
+/*
 @media (min-aspect-ratio: 1/1) {
     img.full-bleed-image {
         height: 100vh;
         width: auto;
     }
-}
+} 
+*/
 figure.image-figure {
     background: rgba(0,0,0,0.8);
     margin: 7pt 0 15pt 15pt;
