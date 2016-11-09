@@ -38,8 +38,11 @@
   {% if sameTagCount >= minCommonTags %}
     <li>
       <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-        <div class="hero-article-thumbnail"
-             style="background-image: url( {{ post.hero-image }} )">
+       {% if post.thumbnail %}
+       <div class="hero-article-thumbnail" style="background-image: url( {{ post.thumbnail }} )">
+       {% else %}
+       <div class="hero-article-thumbnail" style="background-image: url( {{ post.hero-image }} )">
+       {% endif %}
           <strong class="article-title"><span>{{ post.title }}</span></strong>
           <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
         </div>
