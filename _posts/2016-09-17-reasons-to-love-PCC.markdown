@@ -4,6 +4,7 @@ title: Reasons to Love Pensacola Christian College
 subtitle: From a student's perspective
 headline: Here is why PCC is such a great place to learn as a Christian student.
 hero-image: "https://s-media-cache-ak0.pinimg.com/originals/92/ec/d7/92ecd79bc54eb766ece7ee2b67a3176a.jpg"
+thumbnail: https://s-media-cache-ak0.pinimg.com/564x/92/ec/d7/92ecd79bc54eb766ece7ee2b67a3176a.jpg
 ref: reasonstolovepcc
 categories: blog
 lang: en
