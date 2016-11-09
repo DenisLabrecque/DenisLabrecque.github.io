@@ -70,12 +70,21 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
       {% for post in site.categories.music limit: 7 %}
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          {% if post.thumbnail %}
+          <div class="music-article-thumbnail"
+               style="background-image: url( {{ post.thumbnail }} )">
+          </div><div class="hero-article-headline music">
+            <h4>{{ post.title }}</h4>
+            <h5>{{ post.subtitle }}</h5>
+          </div>
+          {% elsif post.hero-image %}
           <div class="music-article-thumbnail"
                style="background-image: url( {{ post.hero-image }} )">
           </div><div class="hero-article-headline music">
             <h4>{{ post.title }}</h4>
             <h5>{{ post.subtitle }}</h5>
           </div>
+          {% endif %}
           <!--<div class="music-movements">
               
           </div>-->
