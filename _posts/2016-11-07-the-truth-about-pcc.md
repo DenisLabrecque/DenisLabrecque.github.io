@@ -5,6 +5,7 @@ title: The Truth about Pensacola Christian College
 subtitle: All you wanted to know about the rules from a student who's been there
 headline: Unfortunately, those who yell the loudest (usually the most roudy) also get most of the attention. Voices dissenting PCC can be very loud, but from the perspective of a (perhaps less unusual) student, here is an attempt to describe discipline at Pensacola Christian.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/b5/d9/7d/b5d97d0d23383c877535b486835192fd.jpg
+thumbnail: https://s-media-cache-ak0.pinimg.com/564x/b5/d9/7d/b5d97d0d23383c877535b486835192fd.jpg
 categories: blog
 tags: Pensacola Christian College student PCC university collegeLife rules
 lastmod: 2016-11-07
