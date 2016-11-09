@@ -4,6 +4,7 @@ title: "Jhoan Alfaro"
 subtitle: Pencil drawing
 headline: Made at Pensacola Christian College as the final project for Principles of Drawing (AR 111).
 hero-image: "https://s-media-cache-ak0.pinimg.com/originals/76/63/aa/7663aa6b8148a6fb848d4da29f79af61.jpg"
+thumbnail: https://s-media-cache-ak0.pinimg.com/564x/cb/3f/7e/cb3f7e2b6dc9d1094d5fbdd9b57d4a6e.jpg
 ref: joanalfaro
 categories: artwork
 tags: portrait pencilDrawing portfolio Pensacola Christian College drawing
