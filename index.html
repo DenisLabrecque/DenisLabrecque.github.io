@@ -70,8 +70,13 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
       {% for post in site.categories.music limit: 7 %}
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          {% if post.thumbnail %}
+          <div class="music-article-thumbnail"
+               style="background-image: url( {{ post.thumbnail }} )">
+          {% else %}
           <div class="music-article-thumbnail"
                style="background-image: url( {{ post.hero-image }} )">
+          {% endif %}
           </div><div class="hero-article-headline music">
             <h4>{{ post.title }}</h4>
             <h5>{{ post.subtitle }}</h5>
@@ -138,8 +143,13 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
       {% for post in site.categories.bibletalk limit: 4 %}
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          <div class="hero-article-thumbnail"
+          {% if post.thumbnail %}
+          <div class="music-article-thumbnail"
+               style="background-image: url( {{ post.thumbnail }} )">
+          {% else %}
+          <div class="music-article-thumbnail"
                style="background-image: url( {{ post.hero-image }} )">
+          {% endif %}
             <strong class="article-title"><span>{{ post.title }}</span></strong>
             <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
           </div>
@@ -168,8 +178,13 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
       {% for post in site.categories.blog limit: 5 %}
       <li>
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          <div class="hero-article-thumbnail"
+          {% if post.thumbnail %}
+          <div class="music-article-thumbnail"
+               style="background-image: url( {{ post.thumbnail }} )">
+          {% else %}
+          <div class="music-article-thumbnail"
                style="background-image: url( {{ post.hero-image }} )">
+          {% endif %}
             <strong class="article-title"><span>{{ post.title }}</span></strong>
             <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
           </div>
