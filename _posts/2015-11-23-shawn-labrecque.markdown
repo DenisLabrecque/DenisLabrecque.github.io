@@ -4,7 +4,7 @@ title: Shawn Labrecque
 subtitle: Pencil drawing
 headline: Made at Pensacola Christian College as the portrait project for Principles of Drawing (AR 111).
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/90/c9/62/90c962620e4de52453351452aadb7327.jpg
-thumbnail: https://s-media-cache-ak0.pinimg.com/564x/e3/9d/24/e39d24f8ca928ec4107bd9a7f1d55bc3.jpg
+thumbnail: https://s-media-cache-ak0.pinimg.com/564x/90/c9/62/90c962620e4de52453351452aadb7327.jpg
 ref: shawnlabrecque
 categories: artwork
 tags: pencilDrawing portrait portfolio drawing Pensacola Christian College
