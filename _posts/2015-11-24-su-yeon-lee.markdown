@@ -4,6 +4,7 @@ title: Lee Su Yeon
 subtitle: Pencil drawing
 headline: Planned as a portrait for Principles of Drawing, and finished later as a personal project.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/3e/8e/bd/3e8ebdfb141c8228ed18bdcc739dd33f.jpg
+thumbnail: https://s-media-cache-ak0.pinimg.com/564x/3e/8e/bd/3e8ebdfb141c8228ed18bdcc739dd33f.jpg
 ref: suyeonlee
 categories: artwork
 tags: portfolio pencilDrawing portrait pencil
