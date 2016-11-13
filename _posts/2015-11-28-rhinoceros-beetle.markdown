@@ -4,6 +4,7 @@ title: Rhinoceros Beetle
 subtitle: Pencil drawing
 headline: Created through AR&nbsp;111 Principles of Drawing class for Graphic Design.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/7f/d6/76/7fd6765b6c1e35b38a2920ceff0d0517.jpg
+thumbnail: https://s-media-cache-ak0.pinimg.com/564x/7f/d6/76/7fd6765b6c1e35b38a2920ceff0d0517.jpg
 ref: rhinocerosbeetle
 categories: artwork
 tags: portfolio pencilDrawing animal insect nature Pensacola Christian College
