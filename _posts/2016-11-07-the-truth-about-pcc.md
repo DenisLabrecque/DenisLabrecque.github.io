@@ -12,10 +12,16 @@ lastmod: 2016-11-07
 
 gallery:
   - url: https://s-media-cache-ak0.pinimg.com/originals/8c/b5/dd/8cb5dd0c6c3ae43673ad93a39d735ab8.jpg
-    description: The Crowne Center, home of the Campus Church, is an imposing structure with a main auditorium capacity of over 6000 seats, plus two chapels and other side rooms. The imported palms seen here, too sensitive to freezing, were replaced in the summer of 2016.
+    description: The Crowne Center, home of the Campus Church, is an imposing structure with a main auditorium capacity of over 6000 seats, plus two chapels and other side rooms. The imported palms seen here, too sensitive to freezing, were replaced in the summer of 2016. Stubs from palms toppled by the last hurricane remain visible.
     by: Image by Denis Labrecque.
   - url: https://s-media-cache-ak0.pinimg.com/originals/39/d3/37/39d337f6742add2b5086aacec4692e1f.jpg
-    description: Griffith tower as seen from Eagle's field. This photograph was taken during the Concert on the Green, a musical event featuring the Symphonic Band.
+    description: Griffith tower, a women's dorm, as seen from Eagle's field. This photograph was taken during the Concert on the Green, a musical event featuring the Symphonic Band.
+    by: Image by Denis Labrecque.
+  - url: https://s-media-cache-ak0.pinimg.com/originals/e8/48/16/e8481617856fc2a364011c5275db997d.jpg
+    description: Mullenix Chapel as seen at night. To the right across Rawson Lane is Young tower, and to the left is Rawson field.
+    by: Image by Denis Labrecque.
+  - url: https://s-media-cache-ak0.pinimg.com/originals/87/95/79/87957981eff2037998d8c96bf155dc6d.jpg
+    description: The upkeep at PCC is generally very good. Here, a team replaces the light fixtures.
     by: Image by Denis Labrecque.
 ---
 <h2>Deregulation</h2>
