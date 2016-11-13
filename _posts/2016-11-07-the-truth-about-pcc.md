@@ -22,7 +22,7 @@ gallery:
     by: Image by Denis Labrecque.
   - url: https://s-media-cache-ak0.pinimg.com/originals/e8/3a/20/e83a2096c14f3199dc350060f2e225ef.jpg
     description: Interior of the Crowne Center during Stringspiration, an event including strings players of all levels.
-    by: Image by <a href='https://plus.google.com/u/0/+pensacolachristiancollege/posts/2Cum2zTcHVy' target='_new'>https://plus.google.com/u/0/+pensacolachristiancollege/posts/2Cum2zTcHVy</a>
+    by: Image by <a href='https://plus.google.com/u/0/+pensacolachristiancollege/posts/2Cum2zTcHVy' target='_new'>Pensacola Christian College</a>
 ---
 <h2>Deregulation</h2>
 Pensacola Christian College (or PCC, as we prefer calling it) attempts to implement a conservative Christian atmosphere in a way that is both practicable and biblical. For the college, adding more rules is not useful both to the potential growth of the college and for public image. Therefore, as much as possible, rules are being "cleaned out". However, as much of the founding faculty is still present, it remains difficult, out of respect, to change certain "sticky" rules.
