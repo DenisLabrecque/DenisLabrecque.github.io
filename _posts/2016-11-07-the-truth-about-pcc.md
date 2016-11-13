@@ -45,3 +45,5 @@ Past 5:00 p.m., students may wear denimn and sports shoes. But to attend supper,
 Once the day is over, a student must be sure to close his blinds before dark in provision of blind check at around 7 p.m., enforced by the RA's (Room Advisors). By 10:25 p.m., everyone must be in his dorm; and weekdays, by 10:30, everyone must be present to prayer group. Prayer group is three or four rooms which gather for a 15-minute prayer and devotional time. Prayer groups are headed by Prayer Leaders (PL's) and Assistant Prayer Leaders (APL's), who must take attendance and are allowed to write up people who use their phones or other devices during prayer time. Occasionally, an RA sits in with a prayer group.
 
 In-room time is 11:00 p.m. Lights out is 11:15 during the week and midnight on Fridays and Saturdays. Lights out is enforced by RA's.
+
+{% include image-gallery.html %}
