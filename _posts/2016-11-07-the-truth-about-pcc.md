@@ -20,9 +20,9 @@ gallery:
   - url: https://s-media-cache-ak0.pinimg.com/originals/e8/48/16/e8481617856fc2a364011c5275db997d.jpg
     description: Mullenix Chapel as seen at night. To the right across Rawson Lane is Young tower, and to the left is Rawson field.
     by: Image by Denis Labrecque.
-  - url: https://s-media-cache-ak0.pinimg.com/originals/87/95/79/87957981eff2037998d8c96bf155dc6d.jpg
-    description: The upkeep at PCC is generally very good. Here, a team replaces the light fixtures.
-    by: Image by Denis Labrecque.
+  - url: https://s-media-cache-ak0.pinimg.com/originals/e8/3a/20/e83a2096c14f3199dc350060f2e225ef.jpg
+    description: Interior of the Crowne Center during Stringspiration, an event including strings players of all levels.
+    by: Image by <a href='https://plus.google.com/u/0/+pensacolachristiancollege/posts/2Cum2zTcHVy' target='_new'>https://plus.google.com/u/0/+pensacolachristiancollege/posts/2Cum2zTcHVy</a>
 ---
 <h2>Deregulation</h2>
 Pensacola Christian College (or PCC, as we prefer calling it) attempts to implement a conservative Christian atmosphere in a way that is both practicable and biblical. For the college, adding more rules is not useful both to the potential growth of the college and for public image. Therefore, as much as possible, rules are being "cleaned out". However, as much of the founding faculty is still present, it remains difficult, out of respect, to change certain "sticky" rules.
