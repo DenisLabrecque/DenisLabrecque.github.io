@@ -17,4 +17,4 @@ height: 14 in.
 {% include artwork-metadata.html %}
 This was a final exercise in Principles of painting. It was required to be part pencil drawing and part watercolour.
 
-My teacher sommarily gave me an A on the spot, which was great -- but then seemed somewhat antickimactic since I had been working on the project since 5 a.m.
+My teacher sommarily gave me an A on the spot, which was great -- but then seemed somewhat anticlimactic since I had been working on the project since 5 a.m.
