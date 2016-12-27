@@ -10,9 +10,6 @@ gallery:
     - url: https://s-media-cache-ak0.pinimg.com/originals/64/b7/88/64b788ff138375f994780fc644d6cd90.jpg
       description: Old photo
       by: <a href='http://weaponstechnology.blogspot.ca/2011/06/yakovlev-yak-141-nato-code-freestyle.html' target='_new'>WEAPONS TECHNOLOGY</a>
-    - url: https://s-media-cache-ak0.pinimg.com/originals/64/b7/88/64b788ff138375f994780fc644d6cd90.jpg
-      description: Old photo
-      by: <a href='http://weaponstechnology.blogspot.ca/2011/06/yakovlev-yak-141-nato-code-freestyle.html' target='_new'>WEAPONS TECHNOLOGY</a>
 
 lang: en
 categories: blog
