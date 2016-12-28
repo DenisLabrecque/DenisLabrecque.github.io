@@ -2,7 +2,7 @@
 layout: post
 title: Yakovlev-141 Freestyle
 subtitle: Supersonic Vertical Take off and Landing Fighter Aircraft
-headline: Soviet testbed
+headline: This Soviet jet was meant to surpass any previous VTOL-capable fighter.
 hero-image: https://s-media-cache-ak0.pinimg.com/564x/ac/f4/33/acf433d17f4ae749aca170452fcc8f4c.jpg
 image-by: Yak-141 VTOL aircraft during hover at 1992 Farnborough Airshow
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/fc/b5/24/fcb524a67bb0fd6d47e78d733b7cb1b2.jpg
