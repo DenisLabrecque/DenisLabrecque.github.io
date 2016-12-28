@@ -4,13 +4,19 @@ title: Yakovlev-141 Freestyle
 subtitle: Supersonic Vertical Take off and Landing
 headline: Soviet testbed
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/60/09/92/6009926496d858d6a954529a34b5a29c.jpg
-image-by: <a href='http://krasvozduh.ru/yak-141/' target='_new'>Красвоздух: Авиация, Парашюты, Парапланы</a>
+image-by: "<a href='http://krasvozduh.ru/yak-141/' target='_new'>Красвоздух: Авиация, Парашюты, Парапланы</a>"
 
 gallery:
     - url: https://s-media-cache-ak0.pinimg.com/originals/64/b7/88/64b788ff138375f994780fc644d6cd90.jpg
       description: Old photo
-      by: <a href='http://weaponstechnology.blogspot.ca/2011/06/yakovlev-yak-141-nato-code-freestyle.html' target='_new'>WEAPONS TECHNOLOGY</a>
-
+      by: "<a href='http://weaponstechnology.blogspot.ca/2011/06/yakovlev-yak-141-nato-code-freestyle.html' target='_new'>WEAPONS TECHNOLOGY</a>"
+    - url: https://s-media-cache-ak0.pinimg.com/originals/64/b7/88/64b788ff138375f994780fc644d6cd90.jpg
+      description: Many photo
+      by: Me the awesome one
+    - url: https://s-media-cache-ak0.pinimg.com/originals/64/b7/88/64b788ff138375f994780fc644d6cd90.jpg
+      description: This is quaint
+      by: This doesn't work
+      
 lang: en
 categories: blog
 tags: jet fighterPlane Yakovlev Freestyle jetFightersCurrentandPast
