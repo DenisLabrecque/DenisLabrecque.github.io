@@ -13,7 +13,7 @@ gallery:
       description: Part of the problems of developing a jet-powered hovering aircraft is heat buildup. Although 26% shielded by heat-resistant titanium, graphite, and composites, the aircraft could not safely hover for more than 2½ minutes due to heat limitations.
       by: "<a href='http://weaponstechnology.blogspot.ca/2011/06/yakovlev-yak-141-nato-code-freestyle.html' target='_new'>WEAPONS TECHNOLOGY</a>"
     - url: https://s-media-cache-ak0.pinimg.com/originals/ac/f4/33/acf433d17f4ae749aca170452fcc8f4c.jpg
-      description: Yak-141 VTOL aircraft during hover at 1992 Farnborough Airshow
+      description: Yak-141 VTOL aircraft during hover at 1992 Farnborough Airshow, displayed through a partnership with Lockheed Martin.
       
 lang: en
 categories: blog
