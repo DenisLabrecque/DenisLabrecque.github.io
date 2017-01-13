@@ -1070,6 +1070,9 @@ ul.poetry {
     list-style-type: none;
     padding-left: 0;
 }
+ul.poetry li {
+    margin-top: 15px;
+}
 
 span.composition-list {
     display: block;
