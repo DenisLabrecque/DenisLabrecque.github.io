@@ -24,7 +24,7 @@ Based on Psalm 32, this song was written both as a reminder to continually seek 
 <br />Why let sin envelop with its mold?
 <br />Shackles are the price of slavery:
 <br />Why forget the work of Calvary?</li>
-<ul>
+</ul>
 
 <ul>
 <li><i>Sins forgiven
