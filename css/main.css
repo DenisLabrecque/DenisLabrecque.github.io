@@ -1066,6 +1066,11 @@ ol.paroles em::before {
     content: "Chœur";
 }
 
+ul.poetry {
+    list-style-type: none;
+    padding-left: 0;
+}
+
 span.composition-list {
     display: block;
     margin-bottom: 15pt;
