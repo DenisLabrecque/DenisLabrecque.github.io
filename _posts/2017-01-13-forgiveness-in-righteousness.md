@@ -14,7 +14,7 @@ lastmod: 2017-01-13
 Based on Psalm 32, this song was written both as a reminder to continually seek the Lord's forgiveness and to have joy in it. This composition originated to be sung for the Campus Church at Pensacola Christian College. 
 
 <h3>Lyrics</h3>
-<ul>
+<ul class="poetry">
 <li>Many deceits, hiding, weighed on me,
 <br />Pressing on my shoulders heavily;
 <br />Speaking through my silence words untold,
@@ -26,7 +26,7 @@ Based on Psalm 32, this song was written both as a reminder to continually seek 
 <br />Why forget the work of Calvary?</li>
 </ul>
 
-<ul>
+<ul class="poetry">
 <li><i>Sins forgiven
 <br />We are bidden
 <br />To walk holy
@@ -40,7 +40,6 @@ Based on Psalm 32, this song was written both as a reminder to continually seek 
 <br />Covered by Thy might,
 <br />Walking by Thy sight,
 <br />They stand upon a solid height.
-<br />
 <br />Renew us all so (we might) stay on the way!
 <br />Steadfast ev’ry day,
 <br />Keeping time to pray:
@@ -50,14 +49,13 @@ Based on Psalm 32, this song was written both as a reminder to continually seek 
 <br />Are you in His light,
 <br />Covered in His sight?
 <br />Do you stand on a solid height?
-<br />
 <br />Are you renewed, made (wholly) clean each new day?
 <br />Walking in the way,
 <br />Keeping time to pray?
 <br />Our God, let no one fall a way.</li>
 </ol>
 
-<ul>
+<ul class="poetry">
 <li>All who are forgiven stand in joy;
 <br />Heaven given mercies they employ,
 <br />Praises of thanksgiving they proffer
@@ -69,7 +67,7 @@ Based on Psalm 32, this song was written both as a reminder to continually seek 
 <br />On their heart no blemish: all is white.</li>
 </ul>
 
-<ul>
+<ul class="poetry">
 <li><i>Holy, 
 <br />Living purely
 <br />By forgiveness
