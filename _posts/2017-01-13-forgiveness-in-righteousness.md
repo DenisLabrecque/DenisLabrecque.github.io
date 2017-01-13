@@ -12,3 +12,64 @@ lang: en
 lastmod: 2017-01-13
 ---
 Based on Psalm 32, this song was written both as a reminder to continually seek the Lord's forgiveness and to have joy in it. This composition originated to be sung for the Campus Church at Pensacola Christian College. 
+
+<h3>Lyrics</h3>
+<ol class="composition-lyrics">
+<li>Many deceits, hiding, weighed on me,
+<br />Pressing on my shoulders heavily;
+<br />Speaking through my silence words untold,
+<br />Making what was hidden grow so bold.</li>
+
+<li>Shadows mark the place of what is old:
+Why let sin envelop with its mold?
+Shackles are the price of slavery:
+Why forget the work of Calvary?</li>
+
+<li>Sins forgiven
+We are bidden
+To walk holy
+For Thee.</li>
+
+<li>Tear now apart the sin ensnaring me so easily, that now I might declare Your wonders; O...</li>
+</ol>
+
+<ol class="composition-lyrics">
+<li>Blessed are the just, those (who walk) pure in Your sight!
+<br />Covered by Thy might,
+<br />Walking by Thy sight,
+<br />They stand upon a solid height.</li>
+
+<li>Renew us all so (we might) stay on the way!
+Steadfast ev’ry day,
+Keeping time to pray:
+Our God, let no one fall away.</li>
+
+<li>Are you made clean, one (who walks) pure in His sight?
+Are you in His light,
+Covered in His sight?
+Do you stand on a solid height?</li>
+
+<li>Are you renewed, made (wholly) clean each new day?
+Walking in the way,
+Keeping time to pray?
+Our God, let no one fall a way.</li>
+</ol>
+
+All who are forgiven stand in joy;
+Heaven given mercies they employ,
+Praises of thanksgiving they proffer
+Walking in their God, their deliv’rer.
+
+Turning towards Him, they do not hide:
+Hiding from their sin is not their pride.
+On their shoulders nothing: all is light;
+On their heart no blemish: all is white.
+
+Holy, 
+Living purely
+By forgiveness
+In righteousness:
+As such make me
+Pure and holy.
+Keep me closely
+To be more like Thee.
