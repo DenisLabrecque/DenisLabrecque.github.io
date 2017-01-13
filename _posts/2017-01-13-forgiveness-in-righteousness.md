@@ -13,7 +13,7 @@ lastmod: 2017-01-13
 ---
 Based on Psalm 32, this song was written both as a reminder to continually seek the Lord's forgiveness and to have joy in it. This composition originated to be sung for the Campus Church at Pensacola Christian College. 
 
-<a href="https://imslp.org/wiki/Special:ImagefromIndex/455412/pndp" class="share-link pdf">Get the score <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+<a href="https://imslp.org/wiki/Special:ImagefromIndex/455412/pndp" class="share-link pdf" target="_new">Get the score <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
 
 <h3>Lyrics</h3>
 <ul class="poetry">
