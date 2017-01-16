@@ -682,12 +682,14 @@ div.music-article-thumbnail {
     background-size: cover;
     background-position: center center;
     display: inline-block;
+    box-sizing: border-box;
 }
 div.music-article-title {
     display: inline-block;
     background: grey;
     width: 100%;
     padding: 10px;
+    box-sizing: border-box;
 }
 div.music-article-title h4 {
     color: white;
