@@ -674,6 +674,7 @@ div.hero-article-thumbnail {
     background-size: cover;
     background-position: center center;
     position: relative;
+    margin-bottom: 0;
 }
 div.music-article-thumbnail {
     width: 150px;
@@ -681,10 +682,12 @@ div.music-article-thumbnail {
     background-size: cover;
     background-position: center center;
     display: inline-block;
+    width: 100%;
 }
 div.music-article-title {
     display: inline-block;
     background: grey;
+    
     padding: 10px;
 }
 div.music-article-title h4 {
