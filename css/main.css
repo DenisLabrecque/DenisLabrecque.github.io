@@ -683,6 +683,7 @@ div.music-article-thumbnail {
     background-position: center center;
     display: inline-block;
     box-sizing: border-box;
+    width: 25%;
 }
 div.music-article-title {
     display: inline-block;
@@ -690,6 +691,7 @@ div.music-article-title {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
+    width: 74%;
 }
 div.music-article-title h4 {
     color: white;
