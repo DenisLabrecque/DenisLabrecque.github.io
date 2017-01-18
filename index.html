@@ -82,7 +82,16 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
                style="background-image: url( {{ post.hero-image }} )">
             {% endif %}
             <strong class="article-title"><span>{{ post.title }}</span></strong>
-            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+            <em class="article-subtitle"><span>{{ post.subtitle }}          
+              {% if page.lang == 'fr' %}
+                <span> pour </span>
+              {% endif %}
+              {% if page.lang == 'en' %}
+                <span> for </span>
+              {% endif %}
+              {% if page.ensemble %}
+                {{ page.ensemble }}
+              {% endif %}</span></em>
           </div>
           <div class="hero-article-headline">{{ post.headline }}
             {% if post.movements %}
