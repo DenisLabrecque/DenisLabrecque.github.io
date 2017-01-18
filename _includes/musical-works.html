@@ -4,7 +4,7 @@
 
 {% if page.lang == 'en' %}
     {% for composition in page.movements %}
-    <span itemprop="includedComposition">
+    <span itemprop="includedComposition" itemscope itemtype="http://schema.org/MusicComposition">
         <h3 id="{{ composition.title | slugify }}" itemprop="name">{{ composition.title }}</h3>
         {% if composition.type %}
             <h4 class="composition-type" itemprop="musicCompositionForm">{{ composition.type }}</h4>
@@ -48,6 +48,7 @@
 
 {% if page.lang == 'fr' %}
     {% for composition in page.movements %}
+    <span itemprop="includedComposition" itemscope itemtype="http://schema.org/MusicComposition">
         <h3 id="{{ composition.title | slugify }}" itemprop="name">{{ composition.title }}</h3>
         {% if composition.type %}
             <h4 class="composition-type" itemprop="musicCompositionForm">{{ composition.type }}</h4>
@@ -83,5 +84,6 @@
         {% if composition.soundcloud-link %}
             <a href="{{ composition.soundcloud-link }}" class="share-link soundcloud" target="_new">Écouter l’enregistrement <i class="fa fa-soundcloud" aria-hidden="true"></i></a>
         {% endif %}
+    </span>
     {% endfor %}
 {% endif %}
