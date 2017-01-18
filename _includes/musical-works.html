@@ -5,12 +5,12 @@
 {% if page.lang == 'en' %}
     {% for composition in page.movements %}
     <span itemprop="includedComposition">
-        <h3 id="{{ composition.title | slugify }}">{{ composition.title }}</h3>
+        <h3 id="{{ composition.title | slugify }}" itemprop="name">{{ composition.title }}</h3>
         {% if composition.type %}
             <h4 class="composition-type" itemprop="musicCompositionForm">{{ composition.type }}</h4>
         {% endif %}
         {% if composition.ensemble %}
-            <strong>Ensemble: </strong><span itemprop="instrument">{{ composition.ensemble }}</span><br />
+            <strong>Ensemble: </strong><span itemprop="audience">{{ composition.ensemble }}</span><br />
         {% endif %}
         {% if composition.date %}
             <strong>Date: </strong><span itemprop="dateCreated">{{ composition.date }}</span><br />
@@ -23,7 +23,7 @@
         {% endif %}
         {% if composition.lyrics-translation %}
             <strong>Lyrics [translation]:</strong>
-            <ol class="composition-lyrics">
+            <ol class="composition-lyrics" itemprop="lyrics">
                 {{ composition.lyrics-translation }}
             </ol>
         {% endif %}
@@ -48,31 +48,31 @@
 
 {% if page.lang == 'fr' %}
     {% for composition in page.movements %}
-        <h3 id="{{ composition.title | slugify }}">{{ composition.title }}</h3>
+        <h3 id="{{ composition.title | slugify }}" itemprop="name">{{ composition.title }}</h3>
         {% if composition.type %}
-            <h4 class="composition-type">{{ composition.type }}</h4>
+            <h4 class="composition-type" itemprop="musicCompositionForm">{{ composition.type }}</h4>
         {% endif %}
         {% if composition.ensemble %}
-            <strong>Ensemble: </strong>{{ composition.ensemble }}<br />
+            <strong>Ensemble: </strong><span itemprop="audience">{{ composition.ensemble }}</span><br />
         {% endif %}
         {% if composition.date %}
-            <strong>Date: </strong>{{ composition.date }}<br />
+            <strong>Date: </strong><span itemprop="dateCreated">{{ composition.date }}</span><br />
         {% endif %}
         {% if composition.lyrics %}
             <strong>Paroles:</strong>
-            <ol class="composition-lyrics paroles">
+            <ol class="composition-lyrics paroles" itemprop="lyrics">
                 {{ composition.lyrics }}
             </ol>
         {% endif %}
         {% if composition.lyrics-translation %}
             <strong>Paroles [traduction]:</strong>
-            <ol class="composition-lyrics paroles">
+            <ol class="composition-lyrics paroles" itemprop="lyrics">
                 {{ composition.lyrics-translation }}
             </ol>
         {% endif %}
         {% if composition.notes %}
             <strong>Notes:</strong>
-            {{ composition.notes }}
+            <div itemprop="about">{{ composition.notes }}</div>
         {% endif %}
         {% if composition.pdf-link %}
             <a href="{{ composition.pdf-link }}" class="share-link pdf" target="_new">Obtenir la partition <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
