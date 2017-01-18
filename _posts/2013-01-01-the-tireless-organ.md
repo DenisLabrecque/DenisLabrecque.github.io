@@ -11,9 +11,13 @@ categories: music
 tags: originalComposition toccata organ polyphonic fugue polyphonia
 lang: en
 lastmod: 2017-01-18
----
-<p>I like this <span itemprop="musicCompositionForm">toccata</span>, although its academic tendencies will probably not make it very popular. It was an occasion to insert one of my inventions, the polyphonia, in the imitation of the traditional fugues of the German toccata. This piece is not improvised, but the insertion of multiple themes with varied development look back to that tradition.</p>
+movements:
+    - title: "<em lang='fr'>l'Orgue infatigable</em>"
+      ensemble: organ
+      date: 2013
+      type: toccata
+      pdf-link: https://drive.google.com/open?id=0Bx_NYlmd2EuoVmFzZ2Vqam9SSkk
+      notes: <p>I like this <span itemprop="musicCompositionForm">toccata</span>, although its academic tendencies will probably not make it very popular. It was an occasion to insert one of my inventions, the polyphonia, in the imitation of the traditional fugues of the German toccata. This piece is not improvised, but the insertion of multiple themes with varied development look back to that tradition.</p>
 
 <p>In a couple of places, the score is marked <em>improviser</em> <em>[improvise]</em>. The player is to create his own extemporisation on the chords already provided. If that proves difficult, my next composition, <a href="my-compositions/opus-16.html">Melodies for violin and cello</a>, of which the entire second movement is a variation of this toccata's theme, may prove useful as a suggestion, since the part to be improvised on the organ is already written out in the second score.</p>
-
-<a href="https://drive.google.com/open?id=0B6ZyXPKdihDqWktmV294NFBvbHM" class="share-link pdf" target="_new">Get the score <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
+---
