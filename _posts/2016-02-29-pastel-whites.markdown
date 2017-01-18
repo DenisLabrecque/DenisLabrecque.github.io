@@ -1,5 +1,6 @@
 ---
 layout: composition
+catalogue: 27
 title: Varia Moderna
 subtitle: Original composition
 ensemble: piano
