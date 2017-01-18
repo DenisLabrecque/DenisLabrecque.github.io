@@ -1,5 +1,5 @@
 ---
-layout: music
+layout: composition
 title: The Anthem Set
 subtitle: Original hymns
 headline: Hymns for spiritual adoration and singing
