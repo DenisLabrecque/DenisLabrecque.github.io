@@ -70,39 +70,6 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
 
     <p class="headline">Another cool thing I do is play and compose <strong><a href="/music">music</a></strong> on the piano and violin.</p>
     
-    <ul class="post-stream-container no-span">
-      {% assign posts = site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.music limit: 7 %}
-      <li>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          {% if post.thumbnail %}
-          <div class="music-article-thumbnail"
-               style="background-image: url( {{ post.thumbnail }} )">
-          </div><div class="music-article-title">
-            <h4>{{ post.title }}</h4>
-          </div>
-          <div class="music-article-description">
-            <h5>{{ post.subtitle }}</h5>
-          </div>
-          {% elsif post.hero-image %}
-          <div class="music-article-thumbnail"
-               style="background-image: url( {{ post.hero-image }} )">
-          </div><div class="music-article-title">
-            <h4>{{ post.title }}</h4>
-          </div>
-          <div class="music-article-description">
-            <h5>{{ post.subtitle }}</h5>
-          </div>
-          {% endif %}
-          <!--<div class="music-movements">
-              
-          </div>-->
-        </a>
-      </li>
-      {% endfor %}
-      <p><a href="/music">See all of my music ⇒</a></p>
-    </ul>
-
     <ul class="post-stream-container">
       {% assign posts=site.posts | where:"lang", page.lang %}
       {% for post in site.categories.music limit: 20 %}
@@ -118,9 +85,9 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
             <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
           </div>
           <div class="hero-article-headline">{{ post.headline }}
-            {% if post.soundfile %}
-                {{ post.soundfile }}
-            {% endif %}
+              {% for composition in post.movements %}
+                <div><em>{{ composition.title }}</em>{% if composition.pdf-link %}&emsp;<i class="fa fa-file-pdf-o" aria-hidden="true"></i>{% endif %}</div>
+              {% endfor %}
           </div>
         </a>
       </li>
