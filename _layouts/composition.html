@@ -23,13 +23,13 @@ layout: default
       <h1 class="title"><span itemprop="headline">{{ page.title }}</span></h1>
       <div>
         <h2 class="subtitle"><span itemprop="alternateName">{{ page.subtitle }}
-          {% if page.lang == 'fr' %}
-            <span> pour </span>
-          {% endif %}
-          {% if page.lang == 'en' %}
-            <span> for </span>
-          {% endif %}
           {% if page.ensemble %}
+            {% if page.lang == 'fr' %}
+              <span> pour </span>
+            {% endif %}
+            {% if page.lang == 'en' %}
+              <span> for </span>
+            {% endif %}
             {{ page.ensemble }}
           {% endif %}</span></h2>
       </div>
