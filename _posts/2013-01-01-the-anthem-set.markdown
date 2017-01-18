@@ -1,5 +1,6 @@
 ---
 layout: composition
+catalogue: 22
 title: The Anthem Set
 subtitle: Original hymns
 ensemble: four-voiced choir
