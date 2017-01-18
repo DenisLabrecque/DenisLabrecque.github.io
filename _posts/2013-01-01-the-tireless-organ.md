@@ -1,7 +1,9 @@
 ---
 layout: composition
+catalogue: 15
 title: The Tireless Organ
-subtitle: Toccata for Organ
+subtitle: Toccata
+ensemble: organ
 headline: A collection of three prelude works for organ in various styles, from high German to jovial.
 soundfile: <iframe src="http://logamp.com/1746/music/tracks/13223?vision&responsive" name="logampIFrame" scrolling="no" frameborder="0" width="100%" height="150px"></iframe>
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/82/7f/d4/827fd49e009bee27dd7d256b7c404659.jpg
@@ -19,19 +21,16 @@ soundclips:
 
 movements:
     - title: "<em lang='fr'>l'Orgue infatigable</em>"
-      ensemble: organ
       date: 2013
       type: toccata
       pdf-link: "https://drive.google.com/open?id=0Bx_NYlmd2EuoVmFzZ2Vqam9SSkk"
       notes: "<p>I like this toccata, although its academic tendencies will probably not make it very popular. It was an occasion to insert one of my inventions, the polyphonia, in the imitation of the traditional fugues of the German toccata. This piece is not improvised, but the insertion of multiple themes with varied development look back to that tradition.</p><p>In a couple of places, the score is marked <em>improviser</em> <em>[improvise]</em>. The player is to create his own extemporisation on the chords already provided. If that proves difficult, my next composition, <a href='my-compositions/opus-16.html'>Melodies for violin and cello</a>, of which the entire second movement is a variation of this toccata's theme, may prove useful as a suggestion, since the part to be improvised on the organ is already written out in the second score.</p></p>This prelude gives its name to the entire set.</p>"
     - title: Philharmonia
-      ensemble: organ
       date: 2015
       type: toccata
       pdf-link: https://drive.google.com/open?id=0B6ZyXPKdihDqdFZKa1JoUGpwVjA
       notes: <p>This toccata makes this opus a series of three preludes. It is doubtless the most eccentric and chromatic of the three, resembling a Bach prelude in many ways. This composition is taken back and rearranged for four flutes in the response for a call for scores from the Emissary Quartet.</p>
     - title: Melodyquerk
-      ensemble: organ
       date: 2015
       type: fugato canonistique
       pdf-link: https://drive.google.com/open?id=0B6ZyXPKdihDqMDIweHQxOUhNUkk
