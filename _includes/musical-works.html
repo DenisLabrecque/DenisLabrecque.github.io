@@ -29,7 +29,7 @@
         {% endif %}
         {% if composition.notes %}
             <strong>Notes:</strong>
-            <div itemprop="about">{{ composition.notes }}</div>
+            <div itemprop="text">{{ composition.notes }}</div>
         {% endif %}
         {% if composition.pdf-link %}
             <a href="{{ composition.pdf-link }}" class="share-link pdf" target="_new">Get the score <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
@@ -72,7 +72,7 @@
         {% endif %}
         {% if composition.notes %}
             <strong>Notes:</strong>
-            <div itemprop="about">{{ composition.notes }}</div>
+            <div itemprop="text">{{ composition.notes }}</div>
         {% endif %}
         {% if composition.pdf-link %}
             <a href="{{ composition.pdf-link }}" class="share-link pdf" target="_new">Obtenir la partition <i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
