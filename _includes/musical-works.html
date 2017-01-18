@@ -1,3 +1,7 @@
+{% for clip in page.soundclips %}
+    {{ clip.sound }}
+{% endfor %}
+
 {% if page.lang == 'en' %}
     {% for composition in page.movements %}
         <h3 id="{{ composition.title | slugify }}">{{ composition.title }}</h3>
