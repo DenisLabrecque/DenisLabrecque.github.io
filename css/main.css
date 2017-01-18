@@ -1115,19 +1115,21 @@ table.thumbnail-movement-list {
     margin-top: 5px;
 }
 td.movement-title {
-    padding-left: 5px;
 }
 td.movement-has-pdf {
     color: rgb(220, 44, 44);
     font-size: 60%;
+    padding-right: 5px;
 }
 td.movement-has-youtube {
     color: rgb(187, 0, 0);
     font-size: 60%;
+    padding-right: 5px;
 }
 td.movement-has-soundcloud {
     color: #f50;
     font-size: 60%;
+    padding-right: 5px;
 }
     
     
