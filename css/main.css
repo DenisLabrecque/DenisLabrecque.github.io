@@ -740,6 +740,21 @@ em.article-subtitle {
     background: rgba(51, 49, 43, .8);
     padding: 4pt 10pt 4pt 10pt;
 }
+em.article-catalogue {
+    font-family: "Expletus Sans", "Segoe UI", "Lucidia Grande", sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    color: white;
+    font-size: 10pt;
+    display: inline-block;
+    position: absolute;
+    bottom: 5pt;
+    left: 0;
+    max-width: 85%;
+    margin: 0;
+    background: rgba(51, 49, 43, .8);
+    padding: 2pt 10pt 2pt 10pt;
+}
 
 div.hero-article-headline {
     color: black;
