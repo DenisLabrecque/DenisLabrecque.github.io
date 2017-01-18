@@ -2,7 +2,7 @@
 layout: composition
 title: The Tireless Organ
 subtitle: Toccata for Organ
-headline: A long toccata in high German style
+headline: A collection of three prelude works for organ in various styles, from high German to jovial.
 soundfile: <iframe src="http://logamp.com/1746/music/tracks/13223?vision&responsive" name="logampIFrame" scrolling="no" frameborder="0" width="100%" height="150px"></iframe>
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/82/7f/d4/827fd49e009bee27dd7d256b7c404659.jpg
 image-by: Roger Jones, <a href='https://www.flickr.com/photos/rogerjones/14407553812/in/photolist-nX9tNd-8PYToa-5mgjBK-c37nb-awNpt9-cvuKF5-abG6hQ-LwFWZ-DNVfu-EbBeqc-3gQjRJ-6oQFp9-4RFnjo-agCfzq-bx56Kd-cUgP2W-bWQ6jG-cUgPGs-6r9Fe5-7XD885-7VZPmq-fbEFzT-qEhVN7-rA4s8-DrJEyd-71C8vq-bhB1hK-sZup4t-8767Cw-6cJEGJ-5T6ZuN-2zQoLJ-qvEUs-qF4yAz-8mFBNy-fisC5A-bwPfLM-9tV3FL-F67Bzz-6Y79VH-fKKmTo-3jYZ8z-78Sgmq-7fFrWj-5kuKae-AzxeBA-7GrpUV-4vtfkT-4Qpesx-ag33hd' target='_new'>organ transplant</a>
