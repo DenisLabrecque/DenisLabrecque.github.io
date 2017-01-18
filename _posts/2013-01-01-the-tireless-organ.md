@@ -3,7 +3,7 @@ layout: post
 title: The Tireless Organ
 subtitle: Toccata for Organ
 headline: A long toccata in high German style
-hero-image: http://www.cornell.edu/assets/images/about/history/16-baroque-organ-720x720.jpg
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/82/7f/d4/827fd49e009bee27dd7d256b7c404659.jpg
 image-by: 
 ref: thetirelessorgan
 categories: music
