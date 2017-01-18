@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: composition
 title: The Tireless Organ
 subtitle: Toccata for Organ
 headline: A long toccata in high German style
