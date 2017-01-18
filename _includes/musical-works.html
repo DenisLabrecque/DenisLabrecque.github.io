@@ -4,19 +4,20 @@
 
 {% if page.lang == 'en' %}
     {% for composition in page.movements %}
+    <span itemprop="includedComposition">
         <h3 id="{{ composition.title | slugify }}">{{ composition.title }}</h3>
         {% if composition.type %}
-            <h4 class="composition-type">{{ composition.type }}</h4>
+            <h4 class="composition-type" itemprop="musicCompositionForm">{{ composition.type }}</h4>
         {% endif %}
         {% if composition.ensemble %}
-            <strong>Ensemble: </strong>{{ composition.ensemble }}<br />
+            <strong>Ensemble: </strong><span itemprop="instrument">{{ composition.ensemble }}</span><br />
         {% endif %}
         {% if composition.date %}
-            <strong>Date: </strong>{{ composition.date }}<br />
+            <strong>Date: </strong><span itemprop="dateCreated">{{ composition.date }}</span><br />
         {% endif %}
         {% if composition.lyrics %}
             <strong>Lyrics:</strong>
-            <ol class="composition-lyrics">
+            <ol class="composition-lyrics" itemprop="lyrics">
                 {{ composition.lyrics }}
             </ol>
         {% endif %}
@@ -39,6 +40,7 @@
         {% if composition.soundcloud-link %}
             <a href="{{ composition.soundcloud-link }}" class="share-link soundcloud" target="_new">Listen to the recording <i class="fa fa-soundcloud" aria-hidden="true"></i></a>
         {% endif %}
+    </span>
     {% endfor %}
 {% endif %}
 
