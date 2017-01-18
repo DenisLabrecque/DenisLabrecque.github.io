@@ -41,11 +41,13 @@ layout: default
   <div class="page-feed">
     <p class="headline" itemprop="description">{{ page.headline }}</p>
     
-    {{ content }}
+    {{ page.introduction }}
 
     <span class="composition-list">
         {% include musical-works.html %}
     </span>
+    
+    {{ content }}
     
     <!-- Place this tag where you want the +1 button to render. -->
     <div class="g-plusone" data-annotation="inline" data-width="300"></div>
