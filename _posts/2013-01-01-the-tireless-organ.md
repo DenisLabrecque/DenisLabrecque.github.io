@@ -12,6 +12,9 @@ tags: originalComposition toccata organ polyphonic fugue polyphonia
 lang: en
 lastmod: 2017-01-18
 
+soundclips:
+    - sound: <iframe src="http://logamp.com/1746/music/tracks/13223?vision&responsive" name="logampIFrame" scrolling="no" frameborder="0" width="100%" height="150px"></iframe>
+
 movements:
     - title: "<em lang='fr'>l'Orgue infatigable</em>"
       ensemble: organ
