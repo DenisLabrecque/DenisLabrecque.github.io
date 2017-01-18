@@ -1110,3 +1110,12 @@ div.music-movements {
 nav.sandwitch-menu h3 {
     padding-bottom: 24px;
 }
+
+table.thumbnail-movement-list {
+    margin-top: 5px;
+}
+td.movement-has-pdf {
+    color: rgb(220, 44, 44);
+}
+    
+    
