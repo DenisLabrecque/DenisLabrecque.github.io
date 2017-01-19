@@ -18,4 +18,5 @@ movements:
       pdf-link: https://drive.google.com/open?id=0B6ZyXPKdihDqQzIzSk9DaktQOVE&authuser=0
     - title: Allegretto
       pdf-link: https://drive.google.com/open?id=0B6ZyXPKdihDqQzIzSk9DaktQOVE&authuser=0
+      notes: "<p>This movement requires the player to be familiar with the left-hand pizzacato technique.</p>"
 ---
