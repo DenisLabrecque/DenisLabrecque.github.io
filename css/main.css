@@ -261,87 +261,138 @@ div.hero-image label.popdown {
 }
 @media(max-width: 50000px) {
     div.hero-image {
-        min-height: 2000px;
+        min-height: 5000px;
+    }
+    div.hero-image .popdown-span {
+        top: 4920px;
     }
 }
 @media(max-width: 10000px) {
     div.hero-image {
         min-height: 4000px;
     }
+    div.hero-image .popdown-span {
+        top: 3920px;
+    }
 }
 @media(max-width: 9000px) {
     div.hero-image {
         min-height: 3600px;
+    }
+    div.hero-image .popdown-span {
+        top: 3520px;
     }
 }
 @media(max-width: 8000px) {
     div.hero-image {
         min-height: 3200px;
     }
+    div.hero-image .popdown-span {
+        top: 3120px;
+    }
 }
 @media(max-width: 7000px) {
     div.hero-image {
         min-height: 2800px;
+    }
+    div.hero-image .popdown-span {
+        top: 2720px;
     }
 }
 @media(max-width: 6000px) {
     div.hero-image {
         min-height: 2400px;
     }
+    div.hero-image .popdown-span {
+        top: 2320px;
+    }
 }
 @media(max-width: 5000px) {
     div.hero-image {
         min-height: 2000px;
+    }
+    div.hero-image .popdown-span {
+        top: 1920px;
     }
 }
 @media(max-width: 4500px) {
     div.hero-image {
         min-height: 1800px;
     }
+    div.hero-image .popdown-span {
+        top: 1720px;
+    }
 }
 @media(max-width: 4000px) {
     div.hero-image {
         min-height: 1600px;
+    }
+    div.hero-image .popdown-span {
+        top: 1520px;
     }
 }
 @media(max-width: 3500px) {
     div.hero-image {
         min-height: 1400px;
     }
+    div.hero-image .popdown-span {
+        top: 1320px;
+    }
 }
 @media(max-width: 3000px) {
     div.hero-image {
         min-height: 1200px;
+    }
+    div.hero-image .popdown-span {
+        top: 1120px;
     }
 }
 @media(max-width: 2750px) {
     div.hero-image {
         min-height: 1100px;
     }
+    div.hero-image .popdown-span {
+        top: 1020px;
+    }
 }
 @media(max-width: 2500px) {
     div.hero-image {
         min-height: 1000px;
+    }
+    div.hero-image .popdown-span {
+        top: 920px;
     }
 }
 @media(max-width: 2250px) {
     div.hero-image {
         min-height: 900px;
     }
+    div.hero-image .popdown-span {
+        top: 820px;
+    }
 }
 @media(max-width: 2000px) {
     div.hero-image {
         min-height: 800px;
+    }
+    div.hero-image .popdown-span {
+        top: 720px;
     }
 }
 @media(max-width: 1900px) {
     div.hero-image {
         min-height: 760px;
     }
+    div.hero-image .popdown-span {
+        top: 680px;
+    }
 }
 @media(max-width: 1800px) {
     div.hero-image {
         min-height: 720px;
+    }
+    div.hero-image .popdown-span {
+        top: 640px;
     }
 }
 @media(max-width: 1700px) {
