@@ -1,4 +1,5 @@
 ---
+permalink: /music/2013/the-anthem-set
 layout: composition
 catalogue: 22
 title: The Anthem Set
