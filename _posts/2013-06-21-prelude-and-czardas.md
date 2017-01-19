@@ -4,7 +4,7 @@ catalogue: 24
 title: Prelude and Csárdás
 subtitle: Solo
 ensemble: violin and orchestra
-headline: 
+headline: Virtuosic two-movement piece displaying the solo violin with chamber orchestra.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/49/a0/d4/49a0d4dc08d66319be0a27faf2810e68.jpg
 image-by: <a href='https://www.flickr.com/photos/calafellvalo/2676552977/in/photolist-55w2X8-7qbYeh-5e9vxq-gBQXdy-dHQJnV-nDiTp-qZuk75-gHE92e-fNLpmu-bh2bn4-qjnkg-5e5b78-qjnos-9fqkVZ-afa6ib-4ezUxb-af5pSQ-9CxLAg-5fXKs1-qjnh5-ELmhsX-4mqiVN-giygDe-4E5uMP-4aWfQG-dHWVvs-5yUXMX-5u83QP-5xtdSo-794ktf-pFsYXC-78ZsST-DfhFvk-ow6VyZ-6RyLca-4h2KRC-7fkZ5n-mFRJhh-dYAKb4-6tKSyf-7fkZ3K-4t1KNM-65s7CD-4P4gsE-dpQPFA-2zCYdV-4TwvKj-23BM5Y-4Q95Zs-Ao3Ln7' target='_new'>Folklore Ungarian</a> by Joan Grífols
 ref: preludeandcsardas
