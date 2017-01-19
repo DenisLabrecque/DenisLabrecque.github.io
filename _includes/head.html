@@ -23,7 +23,7 @@
   <meta name="description" content="{% if page.headline %}{{ page.headline | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}">
   <meta property="og:description" content="{% if page.headline %}{{ page.headline | truncate: 160 }}{% else %}{{ site.description[page.lang] }}{% endif %}" />
   <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
-  <meta property="og:title" content="{{ page.title }}"/ >
+  <meta property="og:title" content="{{ page.title }}" />
   <meta property="og:type" content="article" />
   <meta property="og:image" content="{{ page.hero-image }}" />
   <meta property="og:site_name" content="{{ site.title[page.lang] }}" />
@@ -33,7 +33,7 @@
   <meta name="thumbnail" content="https://s-media-cache-ak0.pinimg.com/originals/77/fd/9c/77fd9c04231cc9b026484e87e8c9c758.png" />
   <meta http-equiv="content-language" content="{{ page.lang }}-ca">
 
-  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ '/css/main.css' | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   {% assign posts=site.posts | where:"ref", page.ref | sort: 'lang' %}{% for post in posts %}
   <link rel="alternate" hreflang="{{ post.lang }}-ca" href="{{ post.url }}" />{% endfor %}
