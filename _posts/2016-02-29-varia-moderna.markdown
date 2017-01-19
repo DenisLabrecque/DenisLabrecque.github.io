@@ -27,5 +27,5 @@ movements:
     date: 2016
     pdf-link: https://drive.google.com/open?id=0B6ZyXPKdihDqQ0dvSmk0QTNtOFE
     soundcloud-link: https://soundcloud.com/denisglabrecque/pastel-whites
-    notes: "<p>This second answer to Daniel's suggestion to write in a simplistic style seemed much more modern to me, although not quite minimalistic because of its repeated notes. However, after its audition, it may assuredly be described as “A charming chain of themes and motives which undulate with the calm of the wind and the assurance of the pattering rain.”</p>"
+    notes: "<p>This second answer to Daniel's suggestion to write in a simplistic style seemed much more modern to me, although not quite minimalistic because of its repeated notes. However, after its audition, it may assuredly be described as “A charming chain of themes and motives which undulate with the calm of the wind and with the assurance of the pattering rain.”</p>"
 ---
