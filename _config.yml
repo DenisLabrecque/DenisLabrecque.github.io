@@ -24,6 +24,8 @@ feed:
   fr: /flux.xml
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://denislabrecque.ca" # the base hostname & protocol for your site
+facebook-user-id: 100008677188534
+
 twitter_username: denisglabrecque
 github_username:  DenisLabrecque
 
