@@ -108,6 +108,16 @@
       </li>
     {% endif %}
   
+    {% if page.layout == 'composition' %}
+      <li class="go-to-complete-stream">
+        <a href="/music" class="post-stream-card">
+          <div class="hero-article-headline">
+            <h4>More music, more fun <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
+          </div>
+        </a>
+      </li>
+    {% endif %}
+  
     {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
     {% if maxRelatedCounter >= maxRelated %}
       {% break %}
