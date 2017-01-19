@@ -12,4 +12,13 @@
     </a>
   </li>
   {% endfor %}
+  {% if include.more == 'more' %}
+  <li class="go-to-complete-stream">
+    <a href="/blog" class="post-stream-card">
+      <div class="hero-article-headline">
+        <h4>View the complete blogroll <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
+      </div>
+    </a>
+  </li>
+  {% endif %}
 </ul>
