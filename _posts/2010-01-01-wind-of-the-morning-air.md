@@ -1,5 +1,5 @@
 ---
-permalink: /music/wind-of-the-morning-air
+permalink: /music/2010/wind-of-the-morning-air
 layout: composition
 catalogue: 11
 title: Wind of the Morning Air
