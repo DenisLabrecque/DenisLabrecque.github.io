@@ -1,4 +1,5 @@
 ---
+permalink: /music/2015/varia-moderna
 layout: composition
 catalogue: 27
 title: Varia Moderna
@@ -18,10 +19,12 @@ soundclips:
   - sound: <iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/266386744&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
   
 movements:
+  - title: Baroccio
+    notes: "<p>I composed this piece at the end of 2014 after Daniel Dastoor asked me to write a simple modern air for piano, in the style of Yiruma. Out of the couple of suggestions I came up with, this one definitely had a baroque feel.</p>"
   - title: Pastel Whites
     ensemble: piano
     date: 2016
     pdf-link: https://drive.google.com/open?id=0B6ZyXPKdihDqQ0dvSmk0QTNtOFE
     soundcloud-link: https://soundcloud.com/denisglabrecque/pastel-whites
-    notes: "<p>A charming chain of themes and motives which undulate with the calm of the wind and the assurance of the pattering rain.</p>"
+    notes: "<p>This second answer to Daniel's suggestion to write in a simplistic style seemed much more modern to me, although not quite minimalistic because of its repeated notes. However, after its audition, it may assuredly be described as “A charming chain of themes and motives which undulate with the calm of the wind and the assurance of the pattering rain.”</p>"
 ---
