@@ -26,6 +26,6 @@ movements:
   - title: Allegro vivace
     type: fugato canonistique
     pdf-link: https://drive.google.com/open?id=0B6ZyXPKdihDqb1hianlrQW1yeHM&authuser=0
-    notes: <p>Of the four movements, this one is at once the most difficult and the most polyphonic.</p>
+    notes: <p>Of the four movements, this one is at once the most difficult and the most polyphonic. It is also probably the most masterful and my favourite of them all.</p>
 ---
 This composition is directly inspired by reels of popular folk music. That is due to the fact that a member of my local assembly, <a href="https://www.facebook.com/profile.php?id=100012271939137" target="_new">Lucas Bouchard,</a> was learning to master the violin by practicing with that type of air. It then came to my mind to compose a few to be able to play as I accompanied him. For that reason, this opus almost got the name of <i>Varia Lucas,</i> but that plan didn’t work since the difficulty was not adapted to the occasion.
