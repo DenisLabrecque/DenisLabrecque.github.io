@@ -355,7 +355,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 520px;
     }
     div.hero-image .popdown-span {
-        bottom: 510px;
+        top: 490px;
     }
 }
 @media(max-width: 1200px) {
@@ -363,7 +363,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 495px;
     }
     div.hero-image .popdown-span {
-        bottom: 485px;
+        top: 465px;
     }
 }
 @media(max-width: 1100px) {
@@ -371,7 +371,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 470px;
     }
     div.hero-image .popdown-span {
-        bottom: 460px;
+        top: 440px;
     }
 }
 @media(max-width: 1000px) {
@@ -379,7 +379,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 460px;
     }
     div.hero-image .popdown-span {
-        bottom: 450px;
+        top: 430px;
     }
 }
 @media(max-width: 900px) {
@@ -387,7 +387,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 450px;
     }
     div.hero-image .popdown-span {
-        bottom: 440px;
+        top: 420px;
     }
 }
 @media(max-width: 800px) {
@@ -395,7 +395,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 440px;
     }
     div.hero-image .popdown-span {
-        bottom: 430px;
+        top: 410px;
     }
 }
 @media(max-width: 700px) {
@@ -403,7 +403,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 430px;
     }
     div.hero-image .popdown-span {
-        bottom: 420px;
+        top: 400px;
     }
 }
 @media(max-width: 600px) {
@@ -411,7 +411,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 420px;
     }
     div.hero-image .popdown-span {
-        bottom: 410px;
+        top: 390px;
     }
 }
 @media(max-width: 500px) {
@@ -419,7 +419,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 410px;
     }
     div.hero-image .popdown-span {
-        bottom: 400px;
+        top: 380px;
     }
 }
 @media(max-width: 400px) {
@@ -427,7 +427,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 400px;
     }
     div.hero-image .popdown-span {
-        bottom: 390px;
+        top: 370px;
     }
 }
 
