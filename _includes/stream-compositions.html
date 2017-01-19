@@ -11,14 +11,14 @@
         {% endif %}
         <strong class="article-title"><span>{{ post.title }}</span></strong>
         <em class="article-subtitle"><span>{{ post.subtitle }}
-          {% if page.ensemble %}
+          {% if post.ensemble %}
             {% if page.lang == 'fr' %}
               <span> pour </span>
             {% endif %}
             {% if page.lang == 'en' %}
               <span> for </span>
             {% endif %}
-            {{ page.ensemble }}
+            {{ post.ensemble }}
           {% endif %}</span></em>
         <em class="article-catalogue">Opus {{ post.catalogue }}</em>
       </div>
