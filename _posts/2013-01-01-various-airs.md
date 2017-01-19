@@ -5,8 +5,8 @@ title: Various Airs
 subtitle: Original tunes
 ensemble: two violins
 headline: A series of four pieces inspired by folk music.
-hero-image:
-image-by:
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/7d/74/1e/7d741e413aa06dfdb5d20f8bdee63205.jpg
+image-by: <a href='https://www.flickr.com/photos/martinpro/5416744784/in/photolist-9fEevs-GUC1Sy-aTmgNa-odGBmV-rDUW8-oEdeuj-knV1c-K761gM-cWTLRy-aUtt5X-f7B5dM-6bLWja-5RiUNP-6vM8gb-9dZFEA-es8f1-66ogqk-3KbhFS-es8eW-6vM4WS-ofR5Vg-74y59y-6vM57E-7wPeH2-71HUtX-es8eX-6vGVEk-6vM45U-JcsYuH-66ofUe-7F3QU5-pHWmK7-6vM4tb-es7gZ-6vGVaK-vJeXye-6vM7eE-6vM683-6vGQyH-6vM7iW-6vM6ed-dQh4Cy-K8SeJc-HeBau-6vGRhB-5nvnTZ-6vGQCR-dQfRaJ-Jg4BdC-p4suJp' target='_new'>Appalachian Fiddler</a> by Martin Prochnik
 ref: variousairsfortwoviolins
 categories: music
 tags: reel polyphony duet violin tune
