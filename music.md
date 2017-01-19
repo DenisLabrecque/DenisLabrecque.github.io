@@ -44,7 +44,7 @@ tags: music
     <li>"Moderna" for piano: "Pastel Whites" (complete; additions to be made)</li>
   </ol>
   
-  <h3>Where are all my compositions?</h3>
+  <h3>Where Are All of my Compositions?</h3>
   <p>Part of my unrecorded music is on a <a href='https://www.youtube.com/playlist?list=PLq7M1cOtTjn1BImrylaY0UZBiIeZLwCFj' target='_new'>YouTube playlist</a> as synthetic music. I have made <a href='https://www.youtube.com/playlist?list=PLq7M1cOtTjn1R6N4nmiBULc8Qnh3toCkW' target='_new'>some acoustic recordings</a> provisionally, but have decided that my main music channel is <a href='https://soundcloud.com/denisglabrecque' target='_new'>SoundCloud.</a> However, making quality recordings is arduous, and I'm far from up to date.</p><p>Scores are easier to share. A practically encyclopedic website, <a href='http://www.imslp.org/wiki/Category:Labrecque,_Denis_G.'>IMSLP</a> (Petrucci Music Library) hosts many <a href='http://www.imslp.org/wiki/Category:Labrecque,_Denis_G.' target='_new'>PDF scores of my compositions.</a> Still, many works are not perfectly adjusted, so I couldn't upload them yet.</p>
   
     {% include website-topics.html %}
