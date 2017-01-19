@@ -434,6 +434,14 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
 div.hero-image .popdown-span {
     position: absolute;
     z-index: 40;
+    left: 50%;
+}
+div.hero-image label.popdown {
+    width: 250px;
+    margin-left: -250px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
 }
 
 h1.title {
