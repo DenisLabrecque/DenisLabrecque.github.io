@@ -1,0 +1,19 @@
+<ul class="post-stream-container">
+  {% assign posts=site.posts | where:"lang", page.lang %}
+  {% for post in site.categories.bibletalk limit: include.stream-limit %}
+  <li>
+    <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+      <div class="hero-article-thumbnail"
+        {% if post.thumbnail %}
+           style="background-image: url( {{ post.thumbnail }} )">
+        {% elsif post.hero-image %}
+           style="background-image: url( {{ post.hero-image }} )">
+        {% endif %}
+        <strong class="article-title"><span>{{ post.title }}</span></strong>
+        <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+      </div>
+      <div class="hero-article-headline">{{ post.headline }}</div>
+    </a>
+  </li>
+  {% endfor %}
+</ul>
