@@ -1,4 +1,5 @@
 ---
+permalink: /music/2017/forgiveness-in-righteousness
 layout: composition
 catalogue: 29
 title: Forgiveness in Righteousness
