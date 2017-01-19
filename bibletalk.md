@@ -15,7 +15,7 @@ tags: bibletalk
 
   <h1>Bible Talk</h1>
   
-  {% include stream-bible-talk.html stream-limit="500" %}
+  {% include stream-bibletalk.html stream-limit="500" %}
   
   {% include website-topics.html %}
   
