@@ -1,4 +1,5 @@
 ---
+permalink: /music/2013/various-airs
 layout: composition
 catalogue: 25
 title: Various Airs
