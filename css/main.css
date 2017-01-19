@@ -1147,6 +1147,6 @@ td.movement-has-soundcloud {
     padding-right: 5px;
 }
     
-li.go-to-complete-stream {
-    margin-bottom: 5px;
+li.go-to-complete-stream h4 {
+    color: rgba(51, 49, 43, .8);
 }
