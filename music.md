@@ -3,7 +3,7 @@ layout: default
 title: Music
 
 permalink: /music
-ref: bibletalk
+ref: musicstream
 lang: en
 date:   2016-11-04
 lastmod: 2016-11-04
