@@ -1,4 +1,5 @@
 ---
+permalink: /music/2012/varia-daniel
 layout: composition
 catalogue: 20
 title: Daniel
