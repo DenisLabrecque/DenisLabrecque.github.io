@@ -27,7 +27,7 @@
         <table class="thumbnail-movement-list">
           {% for composition in post.movements %}
             <tr>
-              <td class="movement-has-pdf">{% if composition.pdf-link %}<i class="fa fa-file-pdf-o" aria-hidden="true"></i>{% endif %}</td>
+              <td class="movement-has-pdf">{% if composition.pdf-link or page.pdf-link %}<i class="fa fa-file-pdf-o" aria-hidden="true"></i>{% endif %}</td>
               <td class="movement-has-youtube">{% if composition.youtube-link %}<i class="fa fa-youtube-play" aria-hidden="true"></i>{% endif %}</td>
               <td class="movement-has-soundcloud">{% if composition.soundcloud-link %}<i class="fa fa-soundcloud" aria-hidden="true"></i>{% endif %}</td>
               <td><a href="{{ post.url | prepend: site.baseurl }}#{{ composition.title | slugify }}"><em>{{ composition.title}}</em></a></td>
