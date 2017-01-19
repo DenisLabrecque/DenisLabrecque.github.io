@@ -184,6 +184,7 @@ label.sandwitch-menu, a.site-home-button {
 a.site-home-button {
     top: 70pt;
 }
+
 label.sandwitch-menu:hover, a.site-home-button:hover {
     background: rgba(0,0,0,.5);
     transform: scale(1.1);
@@ -1047,6 +1048,13 @@ div.no-break small {
     padding-top: 0;
 }
 
+div.home-banner {
+    position: fixed;
+    top: 70pt;
+    right: 15pt;
+    font-size: 14pt;
+    line-height: 125%;
+}
 div.language-banner {
     position: fixed;
     top: 23pt;
