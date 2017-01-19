@@ -1,18 +1,30 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang }}-ca">
 <head>
-  <!-- Google Analytics -->
-  <script>
-  window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-  ga('create', 'UA-79558365-1', 'auto');
-  ga('send', 'pageview');
-  </script>
-  <script async src='https://www.google-analytics.com/analytics.js'></script>
-  <!-- End Google Analytics -->
   
-  <!--Font Awesome -->
-  <script src="https://use.fontawesome.com/4acf3e114b.js"></script>
-  <!--En Font Awesome -->
+<!-- Google Analytics -->
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-79558365-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+<!-- End Google Analytics -->
+
+<!--Font Awesome -->
+<script src="https://use.fontawesome.com/4acf3e114b.js"></script>
+<!--End Font Awesome -->
+
+<!--Facebook Comments -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!--End Facebook Comments -->
   
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -69,69 +81,13 @@
     <link itemprop="mainEntityOfPage" href="{{ site.url }}{{ page.url }}" />
     <meta content="{{ page.title }}" itemprop="headline" />
     <meta content="{{ page.hero-image }}" itemprop="image" />
-    <span itemprop="name" content="{{ page.title }}" />
+    <meta itemprop="name" content="{{ page.title }}" />
     
     <section class="page-content">
       <div class="width-control" markdown="1">
-      {% if page.lang == 'en' %}
-        {% capture hide %}
-          {% assign content = content | split: '<pre>' %}
+      
+        {{ content }}
         
-          {% for parts in content %}
-        
-            {% assign part = parts | split: '</pre>' %}
-            {% assign c = part.first %}
-            {% assign text = part.last %}
-        
-            {% assign text = text
-              | replace: ' -- ', '&thinsp;&mdash;&thinsp;'
-              | replace: '... ', '&hellip; '
-              | replace: '.... ', '.&hellip; '
-            %}
-        
-            {% if part.size == 2 %}
-        
-              {% capture output %}{{ output }}<pre>{{ c }}</pre>{% endcapture %}
-        
-            {% endif %}
-        
-            {% capture output %}{{ output }}{{ text }}{% endcapture %}
-        
-          {% endfor %}
-        {% endcapture %}{{ output }}
-      {% endif %}
-      {% if page.lang == 'fr' %}
-        {% capture hide %}
-          {% assign content = content | split: '<pre>' %}
-        
-          {% for parts in content %}
-        
-            {% assign part = parts | split: '</pre>' %}
-            {% assign c = part.first %}
-            {% assign t = part.last %}
-        
-            {% assign t = t
-              | replace: '“', '«&nbsp;'
-              | replace: '”', '&nbsp;»'
-              | replace: ' :', '&nbsp;:'
-              | replace: ' %', '&nbsp;%'
-              | replace: ' ;', '&thinsp;'
-              | replace: ' !', '&thinsp;!'
-              | replace: ' ?', '&thinsp;?'
-              | replace: 'oe', '&oelig;'
-            %}
-        
-            {% if part.size == 2 %}
-        
-              {% capture output %}{{ output }}<pre>{{ c }}</pre>{% endcapture %}
-        
-            {% endif %}
-        
-            {% capture output %}{{ output }}{{ t }}{% endcapture %}
-        
-          {% endfor %}
-        {% endcapture %}{{ output }}
-      {% endif %}
       </div>
     </section>
     
