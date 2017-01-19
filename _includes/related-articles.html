@@ -108,16 +108,6 @@
       </li>
     {% endif %}
   
-    {% if page.layout == 'composition' %}
-      <li class="go-to-complete-stream">
-        <a href="/music" class="post-stream-card">
-          <div class="hero-article-headline">
-            <h4>More music, more fun <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
-          </div>
-        </a>
-      </li>
-    {% endif %}
-  
     {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
     {% if maxRelatedCounter >= maxRelated %}
       {% break %}
@@ -125,4 +115,42 @@
   {% endif %}
 
 {% endfor %}
+  
+  {% if page.layout == 'composition' %}
+    <li class="go-to-complete-stream">
+      <a href="/music" class="post-stream-card">
+        <div class="hero-article-headline">
+          <h4>More music, more fun <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
+        </div>
+      </a>
+    </li>
+  {% endif %}
+  {% if page.layout == 'artwork' %}
+    <li class="go-to-complete-stream">
+      <a href="/artwork" class="post-stream-card">
+        <div class="hero-article-headline">
+          <h4>See my complete art feed <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
+        </div>
+      </a>
+    </li>
+  {% endif %}
+  {% if page.layout == 'bibletalk' %}
+    <li class="go-to-complete-stream">
+      <a href="/bibletalk" class="post-stream-card">
+        <div class="hero-article-headline">
+          <h4>Read more about apologetics <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
+        </div>
+      </a>
+    </li>
+  {% endif %}
+  {% if page.layout == 'blog' %}
+    <li class="go-to-complete-stream">
+      <a href="/blog" class="post-stream-card">
+        <div class="hero-article-headline">
+          <h4>See the whole blogroll <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
+        </div>
+      </a>
+    </li>
+  {% endif %}
+  
 </ul>
