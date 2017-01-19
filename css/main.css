@@ -245,6 +245,20 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
     height: inherit;
     position: relative;
 }
+div.hero-image .popdown-span {
+    position: absolute;
+    z-index: 40;
+    left: 50%;
+    transition: top 0.5s ease-in-out;
+}
+div.hero-image label.popdown {
+    width: 250px;
+    margin-left: -250px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-align: center;
+}
 @media(max-width: 50000px) {
     div.hero-image {
         min-height: 2000px;
@@ -334,20 +348,32 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
     div.hero-image {
         min-height: 680px;
     }
+    div.hero-image .popdown-span {
+        top: 600px;
+    }
 }
 @media(max-width: 1600px) {
     div.hero-image {
         min-height: 640px;
+    }
+    div.hero-image .popdown-span {
+        top: 560px;
     }
 }
 @media(max-width: 1500px) {
     div.hero-image {
         min-height: 600px;
     }
+    div.hero-image .popdown-span {
+        top: 520px;
+    }
 }
 @media(max-width: 1400px) {
     div.hero-image {
         min-height: 560px;
+    }
+    div.hero-image .popdown-span {
+        top: 480px;
     }
 }
 @media(max-width: 1300px) {
@@ -429,20 +455,6 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
     div.hero-image .popdown-span {
         top: 320px;
     }
-}
-
-div.hero-image .popdown-span {
-    position: absolute;
-    z-index: 40;
-    left: 50%;
-}
-div.hero-image label.popdown {
-    width: 250px;
-    margin-left: -250px;
-    overflow: hidden;
-    white-space: nowrap;
-    text-overflow: ellipsis;
-    text-align: center;
 }
 
 h1.title {
