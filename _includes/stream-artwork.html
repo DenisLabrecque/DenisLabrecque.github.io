@@ -16,7 +16,11 @@
     </a>
   </li>
   {% endfor %}
+  {% if include.more %}
   <li>
-    <a href="/artwork" class="post-stream-card">More here!</a>
+    <div class="hero-article-headline">
+      <a href="/artwork" class="post-stream-card">See my complete art feed <i class="fa fa-angle-right" aria-hidden="true"></i></a>
+    </div>
   </li>
+  {% endif %}
 </ul>
