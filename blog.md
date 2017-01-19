@@ -11,19 +11,9 @@ tags: blog
 ---
 <div class="page-feed">
 <h1>Blog</h1>
-      <ul class="post-stream-container no-span">
-            {% assign posts=site.posts | where:"lang", page.lang %}
-            {% for post in site.categories.blog %}
-            <li>
-              <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-                <img src=" {{ post.hero-image }}" />
-                <div class="hero-article-headline">
-                  <h4>{{ post.title }}</h4>
-                  <h5>{{ post.subtitle }}</h5>
-                  {{ post.headline }}
-                </div>
-              </a>
-            </li>
-            {% endfor %}
-      </ul>
+
+      {% include stream-blog.html stream-limit="500" %}
+      
+      {% include website-topics.html %}
+      
 </div>
