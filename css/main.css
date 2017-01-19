@@ -559,7 +559,6 @@ footer {
     display: block;
     overflow: hidden;
     padding: 15pt 15% 15pt 20%;
-    margin-top: 20px;
 }
 @media (max-width: 600px) {
     footer {
@@ -568,6 +567,7 @@ footer {
 }
 footer.author-snippet {
     background: rgb(242, 242, 242);
+    margin-top: 20px;
 }
 
 label.popdown {
