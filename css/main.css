@@ -253,7 +253,7 @@ div.hero-image .popdown-span {
 }
 div.hero-image label.popdown {
     width: 250px;
-    margin-left: -250px;
+    
     overflow: hidden;
     white-space: nowrap;
     text-overflow: ellipsis;
