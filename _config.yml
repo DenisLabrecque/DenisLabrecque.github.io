@@ -14,8 +14,8 @@ tagline:
   fr: portfolio et résumé
 email: your-email@domain.com
 description:
-  en: DenisLabrecque.ca is my portfolio. I have worked countless hours making musical compositions, drawings, short books and articles that I wish to share with you. This website is also a sounding board to the defense of the truth and the life, found in Jesus-Christ, the God of Heaven and the Saviour of our evil actions.
-  fr: DenisLabrecque.ca est mon portfolio. J'ai travaillé des heures à des compositions musicales, des dessins, des livres courts et des articles que je désire partager avec vous. Ce site est aussi un centre d'affiche pour la défense de la vérité et de la vie, trouvée en Jésus-Christ, le dieu du ciel et le sauveur de nos mauvaises actions.
+  en: Denis’ Blog is my portfolio. I have worked countless hours making musical compositions, drawings, short books and articles that I wish to share with you. This website is also a sounding board to the defense of the truth and the life, found in Jesus-Christ, the God of Heaven and the Saviour of our evil actions.
+  fr: Le Blogue a Denis est mon portfolio. J’ai travaillé des heures à des compositions musicales, des dessins, des livres courts et des articles que je désire partager avec vous. Ce site est aussi un centre d'affiche pour la défense de la vérité et de la vie, trouvée en Jésus-Christ, le dieu du ciel et le sauveur de nos mauvaises actions.
 index:
   en:
   fr: accueil.html
@@ -36,5 +36,5 @@ defaults:
       path: ""
     values:
       author: "Denis G. Labrecque"
-      author-url: https://plus.google.com/+DenisGLabrecque
+      author-url: http://denislabrecque.ca/short-bio
       author-photo: https://s-media-cache-ak0.pinimg.com/originals/a1/3a/15/a13a158edd435fe6c8c729b801bfc1e9.jpg
