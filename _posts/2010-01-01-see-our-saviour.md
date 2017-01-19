@@ -1,7 +1,7 @@
 ---
 layout: composition
 catalogue: 18
-title: Voici le Sauveur!
+title: See, our Saviour!
 subtitle: Motet
 ensemble: a capella choir
 headline: A single-movement adoration of thanksgiving in the style of a beautiful flowing medieval chant.
