@@ -23,7 +23,6 @@ movements:
     date: 2014, 2017
     notes: "<p>I composed this piece at the end of 2014 after Daniel Dastoor asked me to write a simple modern air for piano, in the style of Yiruma. Out of the couple of suggestions I came up with, this one definitely had a baroque feel.</p>"
   - title: Pastel Whites
-    ensemble: piano
     date: 2016
     pdf-link: https://drive.google.com/open?id=0B6ZyXPKdihDqQ0dvSmk0QTNtOFE
     soundcloud-link: https://soundcloud.com/denisglabrecque/pastel-whites
