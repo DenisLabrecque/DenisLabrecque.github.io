@@ -101,7 +101,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
 
     <p class="headline">Another great thing I do is <strong><a href="/bibletalk">think biblically.</a></strong></p>
     
-    {% include stream-bibletalk.html stream-limit="10" %}
+    {% include stream-bibletalk.html stream-limit="6" %}
     
     <span>
       <label class="popdown" for="popdown2">What is this site about?</label>
@@ -117,24 +117,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c029
     
     <p class="headline">I also <strong><a href="/blog">blog</a></strong> other stories, thoughts, and activities.</p>
     
-    <ul class="post-stream-container">
-      {% assign posts=site.posts | where:"lang", page.lang %}
-      {% for post in site.categories.blog limit: 5 %}
-      <li>
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          <div class="hero-article-thumbnail"
-               style="background-image: url( {{ post.hero-image }} )">
-            <strong class="article-title"><span>{{ post.title }}</span></strong>
-            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
-          </div>
-          <div class="hero-article-headline">{{ post.headline }}</div>
-        </a>
-      </li>
-      {% endfor %}
-    </ul>
-
-
-
+    {% include stream-blog.html stream-limit="6" %}
 
 
       
