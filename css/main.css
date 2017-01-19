@@ -440,7 +440,7 @@ h1.subtitle, h2.subtitle {
         font-size: 30pt;
         max-width: 250px;
     }
-    h1.subtitle {
+    h2.subtitle {
         top: 62pt;
         font-size: 14pt;
     }
