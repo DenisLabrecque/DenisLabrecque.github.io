@@ -1,4 +1,5 @@
 ---
+permalink: /music/see-our-saviour
 layout: composition
 catalogue: 18
 title: See, our Saviour!
