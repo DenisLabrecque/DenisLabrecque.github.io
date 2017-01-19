@@ -144,3 +144,5 @@ Hear us, and may your hand act.</li>"
 Originally, I composed these airs as anthems -- hence the English name to French lyrics. For a long time, they remained without a four-part arrangement and without words. But in the summer of 2014, I first wrote the second hymn’s lyrics, <em lang='fr'>Pour le seul roi</em> (For the Only King). It must be remarked that the texts, according to my habit, have the characteristic of not vocalising the silent “e’s” at the end of the words, which modifies their signing as well as the number of syllables necessary. Although that be contrary to the normal habit, I consider that their poetic vocalisation is an unnecessary affectation remaining from French poetry.
 
 <iframe src="http://logamp.com/1746/music/tracks/6902?vision&responsive" name="logampIFrame" scrolling="no" frameborder="0" width="100%" height="150px"></iframe>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278664487&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
