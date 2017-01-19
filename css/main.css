@@ -672,7 +672,7 @@ input[type=checkbox].no-display:checked ~ div.popdown {
 input[type=checkbox].no-display:checked ~ label.x-button,
 input[type=checkbox].no-display:checked ~ a.pinterest-button,
 input[type=checkbox].no-display:checked ~ a.image-link {
-    right: 15pt;
+    left: 15pt;
 }
 
 ul.post-stream-container {
