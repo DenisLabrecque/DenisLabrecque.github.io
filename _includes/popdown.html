@@ -1,7 +1,9 @@
 <span>
   <label class="popdown" for="{{ include.id }}">{{ include.title }}</label>
+  <!--googleoff: all-->
   <input type="checkbox" id="{{ include.id }}" class="no-display" />
   <label class="x-button" for="{{ include.id }}">❌</label>
+  <!--googleon: all-->
   <div class="popdown">
   {{ include.contents }}
   </div>
