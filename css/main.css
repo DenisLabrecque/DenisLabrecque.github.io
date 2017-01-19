@@ -1149,4 +1149,9 @@ td.movement-has-soundcloud {
     
 li.go-to-complete-stream h4 {
     color: rgba(82, 72, 45, .8);
+    color: white;
+}
+
+li.go-to-complete-stream a.post-stream-card {
+    background: rgb(16, 186, 205);
 }
