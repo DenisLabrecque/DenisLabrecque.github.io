@@ -15,7 +15,7 @@ tags: music
 
   {% include stream-compositions.html stream-limit="500" %}
   
-  <h2>My Complete Composition List</h2>
+  <h3>My Complete Composition List</h3>
   <ol>
     <li>Violin Concerto "The Italianate" (uncorrected)</li>
     <li>Violin Romance "Butterfly" (uncorrected)</li>
