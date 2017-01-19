@@ -36,22 +36,62 @@
   {% endfor %}
 
   {% if sameTagCount >= minCommonTags %}
-    <li>
-      <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-        {% if post.hero-image %}
-        <div class="hero-article-thumbnail"
-          {% if post.thumbnail %}
-             style="background-image: url( {{ post.thumbnail }} )">
-          {% elsif post.hero-image %}
-             style="background-image: url( {{ post.hero-image }} )">
+    {% if post.layout != 'composition' %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          {% if post.hero-image %}
+          <div class="hero-article-thumbnail"
+            {% if post.thumbnail %}
+               style="background-image: url( {{ post.thumbnail }} )">
+            {% elsif post.hero-image %}
+               style="background-image: url( {{ post.hero-image }} )">
+            {% endif %}
           {% endif %}
-        {% endif %}
-          <strong class="article-title"><span>{{ post.title }}</span></strong>
-          <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
-        </div>
-        <div class="hero-article-headline">{{ post.headline }}</div>
-      </a>
-    </li>
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+          </div>
+          <div class="hero-article-headline">{{ post.headline }}</div>
+        </a>
+      </li>
+    {% else %}
+      <li>
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          <div class="hero-article-thumbnail"
+            {% if post.thumbnail %}
+               style="background-image: url( {{ post.thumbnail }} )">
+            {% elsif post.hero-image %}
+               style="background-image: url( {{ post.hero-image }} )">
+            {% endif %}
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}
+              {% if post.ensemble %}
+                {% if page.lang == 'fr' %}
+                  <span> pour </span>
+                {% endif %}
+                {% if page.lang == 'en' %}
+                  <span> for </span>
+                {% endif %}
+                {{ post.ensemble }}
+              {% endif %}</span></em>
+            <em class="article-catalogue">Opus {{ post.catalogue }}</em>
+          </div>
+          <div class="hero-article-headline">{{ post.headline }}
+            {% if post.movements %}
+            <table class="thumbnail-movement-list">
+              {% for composition in post.movements %}
+                <tr>
+                  <td class="movement-has-pdf">{% if composition.pdf-link %}<i class="fa fa-file-pdf-o" aria-hidden="true"></i>{% endif %}</td>
+                  <td class="movement-has-youtube">{% if composition.youtube-link %}<i class="fa fa-youtube-play" aria-hidden="true"></i>{% endif %}</td>
+                  <td class="movement-has-soundcloud">{% if composition.soundcloud-link %}<i class="fa fa-soundcloud" aria-hidden="true"></i>{% endif %}</td>
+                  <td><a href="{{ post.url | prepend: site.baseurl }}#{{ composition.title | slugify }}"><em>{{ composition.title}}</em></a></td>
+                </tr>
+              {% endfor %}
+            </table>
+            {% endif %}
+          </div>
+        </a>
+      </li>
+    {% endif %}
     {% assign maxRelatedCounter = maxRelatedCounter | plus: 1 %}
     {% if maxRelatedCounter >= maxRelated %}
       {% break %}
