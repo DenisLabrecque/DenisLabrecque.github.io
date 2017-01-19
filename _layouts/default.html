@@ -148,6 +148,15 @@
       </nav>
     </span>
     
+    <div class="home-banner">
+      {% if page.lang == 'en' %}
+      <a title="Home" href="{{ site.url }}" ><i class="fa fa-home" aria-hidden="true"></i></a>
+      {% endif %}
+      {% if page.lang == 'fr' %}
+      <a title="Accueil" href="{{ site.url }}/accueil"><i class="fa fa-home" aria-hidden="true"></i></a>
+      {% endif %}
+    </div>
+    
     <div class="language-banner">
       <!-- languages -->
 
