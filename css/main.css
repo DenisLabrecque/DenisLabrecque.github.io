@@ -251,7 +251,7 @@ div.hero-image .popdown-span {
     left: 50%;
     transition: top 0.5s ease-in-out;
 }
-div.hero-image label.popdown {
+div.hero-image label.popdown, div.hero-image a.share-link {
     width: 300px;
     margin-left: -150px;
     overflow: hidden;
