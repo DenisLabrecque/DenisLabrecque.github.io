@@ -1,4 +1,5 @@
 ---
+permalink: /music/2013/prelude-and-csardas
 layout: composition
 catalogue: 24
 title: Prelude and Csárdás
