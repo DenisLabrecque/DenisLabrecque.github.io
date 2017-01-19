@@ -403,7 +403,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 430px;
     }
     div.hero-image .popdown-span {
-        top: 400px;
+        top: 330px;
     }
 }
 @media(max-width: 600px) {
@@ -411,7 +411,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 420px;
     }
     div.hero-image .popdown-span {
-        top: 390px;
+        top: 320px;
     }
 }
 @media(max-width: 500px) {
@@ -419,7 +419,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 410px;
     }
     div.hero-image .popdown-span {
-        top: 380px;
+        top: 310px;
     }
 }
 @media(max-width: 400px) {
@@ -427,7 +427,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', e
         min-height: 400px;
     }
     div.hero-image .popdown-span {
-        top: 370px;
+        top: 300px;
     }
 }
 
