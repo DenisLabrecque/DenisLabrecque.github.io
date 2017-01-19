@@ -1,4 +1,5 @@
 ---
+permalink: /music/2013-2015/the-tireless-organ
 layout: composition
 catalogue: 15
 title: The Tireless Organ
