@@ -160,7 +160,7 @@ a:active {
     letter-spacing: 0pt;
 }
 
-label.sandwitch-menu {
+label.sandwitch-menu, a.site-home-button {
     -webkit-user-select: none;  /* Chrome all / Safari all */
     -moz-user-select: none;     /* Firefox all */
     -ms-user-select: none;      /* IE 10+ */
@@ -181,11 +181,14 @@ label.sandwitch-menu {
     box-sizing: border-box;
     text-align: center;
 }
-label.sandwitch-menu:hover {
+a.site-home-button {
+    top: 70pt;
+}
+label.sandwitch-menu:hover, a.site-home-button:hover {
     background: rgba(0,0,0,.5);
     transform: scale(1.1);
 }
-label.sandwitch-menu:active {
+label.sandwitch-menu:active, a.site-home-button:active {
     transform: scale(.9);
 }
 label.no-display {
