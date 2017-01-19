@@ -8,24 +8,15 @@ permalink: /bibletalk
 ref: bibletalk
 lang: en
 date:   2016-11-04
-lastmod: 2016-11-04
+lastmod: 2017-01-19
 tags: bibletalk
 ---
 <div class="page-feed">
-<h1>Bible Talk</h1>
-      <ul class="post-stream-container no-span">
-            {% assign posts=site.posts | where:"lang", page.lang %}
-            {% for post in site.categories.bibletalk %}
-            <li>
-              <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-                <img src=" {{ post.hero-image }}" />
-                <div class="hero-article-headline">
-                  <h4>{{ post.title }}</h4>
-                  <h5>{{ post.subtitle }}</h5>
-                  {{ post.headline }}
-                </div>
-              </a>
-            </li>
-            {% endfor %}
-      </ul>
+
+  <h1>Bible Talk</h1>
+  
+  {% include stream-bible-talk.html stream-limit="500" %}
+  
+  {% include website-topics.html %}
+  
 </div>
