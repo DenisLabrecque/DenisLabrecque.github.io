@@ -1328,12 +1328,12 @@ div.social-area {
 }
 
 label.citation {
-    color: rgb(16, 186, 205);
+    color: rgb(121,204,0);
     display: inline;
     letter-spacing: .3pt;
 }
 label.citation:hover {
-    color: rgb(19, 135, 148);
+    color: rgb(108,181,2);
 }
 span.citation-number {
     font-size: 80%;
