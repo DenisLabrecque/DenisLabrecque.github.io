@@ -1,3 +1,4 @@
+{% if include.href %}
 <span class="citation-container">
     <label class="citation" for="{{ include.href | slugify }}">{% if include.title %}{{ include.title }}{% else %}<span class="citation-number">[<span class="citation-number-counter"></span>]{% endif %}</span></label>
     <input type="checkbox" id="{{ include.href | slugify }}" class="no-display" />
@@ -10,3 +11,17 @@
       </span>
     </span>
 </span>
+{% elsif include.description %}
+<span class="citation-container">
+    <label class="citation" for="{{ include.description | slugify }}">{% if include.title %}{{ include.title }}{% else %}<span class="citation-number">[<span class="citation-number-counter"></span>]{% endif %}</span></label>
+    <input type="checkbox" id="{{ include.description | slugify }}" class="no-display" />
+    <label class="citation-clickeater" for="{{ include.description | slugify }}"></label>
+
+    <span class="citation">
+      <label class="close-citation" for="{{ include.description | slugify }}"><i class="quit-icon"></i></label>
+      <span class="citation-content">
+          <em>[<span class="citation-number-counter"></span>] {{ include.description }}</em>
+      </span>
+    </span>
+</span>
+{% endif %}
