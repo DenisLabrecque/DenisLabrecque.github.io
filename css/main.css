@@ -1320,7 +1320,6 @@ div.social-area {
 
 cite.citation {
     display: none;
-    background: white;
 }
 input[type=checkbox].no-display:checked ~ cite.citation {
     background: red;
