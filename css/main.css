@@ -1410,11 +1410,11 @@ span.composition-list h3:before {
     display: block;
     color: white;
     background: rgb(237,237,232);
-    font-size: 30pt;
+    font-size: 15pt;
     border-radius: 22pt;
     width: 44pt;
     height: 44pt;
-	vertical-align: -10pt;
+	vertical-align: -30pt;
     text-align: center;
     margin-left: -30pt;
     margin-bottom: -20pt;
