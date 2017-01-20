@@ -1,6 +1,6 @@
 {% if include.href %}
 <span class="citation-container">
-    <label class="citation" for="{{ include.href | slugify }}">{% if include.title %}{{ include.title }}{% else %}<span class="citation-number">[<span class="citation-number-counter"></span>]{% endif %}</span></label>
+    <label class="citation" for="{{ include.href | slugify }}">{% if include.title %}{{ include.title }}{% else %}<span class="citation-number">[<span class="citation-number-counter"></span>]</span>{% endif %}</label>
     <input type="checkbox" id="{{ include.href | slugify }}" class="no-display" />
     <label class="citation-clickeater" for="{{ include.href | slugify }}"></label>
 
@@ -13,7 +13,7 @@
 </span>
 {% elsif include.description %}
 <span class="citation-container">
-    <label class="citation" for="{{ include.description | slugify }}">{% if include.title %}{{ include.title }}{% else %}<span class="citation-number">[<span class="citation-number-counter"></span>]{% endif %}</span></label>
+    <label class="citation" for="{{ include.description | slugify }}">{% if include.title %}{{ include.title }}{% else %}<span class="citation-number">[<span class="citation-number-counter"></span>]</span>{% endif %}</label>
     <input type="checkbox" id="{{ include.description | slugify }}" class="no-display" />
     <label class="citation-clickeater" for="{{ include.description | slugify }}"></label>
 
