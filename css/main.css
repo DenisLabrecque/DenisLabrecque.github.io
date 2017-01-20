@@ -24,8 +24,6 @@ blockquote, .note {
     line-height: 145%;
     font-size: 17pt;
     letter-spacing: .3pt;
-    margin-top: 20pt;
-    margin-bottom: 20pt;
 }
 blockquote cite {
     display: block;
