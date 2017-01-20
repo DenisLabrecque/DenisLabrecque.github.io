@@ -1,4 +1,7 @@
-i.quit-icon:before {
+i.icon {
+    font-family: "Alegreya Sans", sans-serif;
+}
+i.quit:before {
     content: "❌";
 }
 
