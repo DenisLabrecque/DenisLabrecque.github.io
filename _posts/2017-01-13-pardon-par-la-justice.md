@@ -2,7 +2,7 @@
 permalink: /:categories/:year/:title
 layout: composition
 catalogue: 29
-title: "<em>Pardon par la justice</em>"
+title: "Pardon par la justice"
 subtitle: Motet court
 ensemble: voix soprano, tenor, et basse
 headline: Une pièce courte à capella comme encouragement à persévérer dans le Seigneur et surmonter le péché.
