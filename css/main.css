@@ -1399,15 +1399,17 @@ span.composition-list {
 }
 span.composition-list h3:before {
     counter-increment: movenumb;
-    content: counter(movenumb);
+    content: counter(movenumb, upper-roman);
+	box-sizing: border-box;
+    display: block;
     color: white;
     background: red;
-    font-size: 20pt;
-    border-radius: 12pt;
-    width: 24pt;
-    height: 24pt;
+    font-size: 30pt;
+    border-radius: 22pt;
+    width: 44pt;
+    height: 44pt;
     text-align: center;
-    margin-left: -18pt;
-    margin-right: -6pt;
-    outline: solid 5pt pink;
+    margin-left: -30pt;
+    margin-bottom: -20pt;
+    border: solid 5pt pink;
 }
