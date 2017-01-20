@@ -17,7 +17,7 @@ D'où suis-je,
 Et pourquoi suis-je ici?
 <cite>Questions Universelles</cite></blockquote>
 <blockquote>« Si, comme il est clamé par l'humanisme, l'homme était né seulement pour être heureux, il ne serait pas né pour mourir. »
-<cite>Alexandre Solzhenitsyn: <em>American Literature Classics for Christians</em> Vol. 5, A Beka Book, Pensacola, Florida (2011) p. 267 (traduction de l’auteur)</cite></blockquote>
+<cite>{% include cite.html title="Alexandre Solzhenitsyn" description="American Literature Classics for Christians Vol. 5, A Beka Book, Pensacola, Florida (2011) p. 267 (traduction de l’auteur)" %}</cite></blockquote>
 J'ai déterminé que j'écrirais ce texte afin de démontrer que la connaissance des origines de cet univers n'est pas inaccessible, mais facilement disponible à ceux qui désirent appliquer à la question une raison saine — utilisant une approche par étape. Et cette question en est non seulement une d'un intérêt curieux, mais bien plutôt d'importance, puisque si nous pouvons savoir comment nous vinrent à exister, et pourquoi cela est le cas, nous connaîtrons alors ce à quoi nous devons nous attendre de notre vie, et pourrons la planifier en conséquence.
 
 Ce texte a donc une fin extrêmement simple. Il vise à répondre à cette question : quelle est l'origine de cet univers? C'est à dire :
