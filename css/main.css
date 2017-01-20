@@ -1394,3 +1394,15 @@ span.citation-number-counter:before {
     content: counter(citenumb);
 }
 
+span.composition-list {
+    counter-reset: movenumb;
+}
+span.composition-list h3:before {
+    counter-increment: movenumb;
+    content: counter(movenumb);
+    position: relative;
+    color: white;
+    background: red;
+    font-size: 15pt;
+    border-radius: 5pt;
+}
