@@ -1389,7 +1389,7 @@ body {
     counter-reset: citenumb;
 }
 span.citation-number-counter:before {
-    counter-reset: citenumb;
+    counter-increment: citenumb;
     content: counter(citenumb);
 }
 
