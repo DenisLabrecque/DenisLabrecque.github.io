@@ -12,13 +12,9 @@ lastmod: 2016-11-03
 lastmod: 2017-01-19
 tags: summary about biography short Denis Labrecque social authorPage
 ---
-<h3>Let's Get in Touch!</h3>
-For my online resume, please visit <a href="https://www.linkedin.com/in/denisglabrecque" target="_new">my LinkedIn profile</a> below. If you wish to follow me or find out more about me, do use either <a href="https://plus.google.com/+DenisGLabrecque" target="_new" rel="me">my Google+</a> or <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new">my Pinterest</a> feeds, which I update quite often.
-
-<h3>Bio</h3>
 I was born in Sorel-Tracy, Québec, Canada, and was raised in Granby, where my father worked as an engineer. From there, we moved to the small village of St-Denis-sur-Richelieu, where we stayed all my teen years.
 
-I was homeschooled until university, learning English and French natively. I am now in university at Pensacola Christian College, and work in the summer.
+I was homeschooled until university, learning English and French natively. I am now a student in university at Pensacola Christian College, and work during the summers.
 
 <h3>My Interests</h3>
 <h4>Beliefs</h4>
@@ -39,3 +35,6 @@ Computer code, especially when it includes graphic elements -- such as in the ca
 I'm also an aviation enthusiast, and especially appreciate jet airplanes of any kind. Rencently, I have delved into the hobby of remote control electric ducted fan foam airplanes, and am loving it! Once done with my studies, I hope to enter the RCAF as a pilot.
 
 In general though, I just like making stuff. Furniture, clothes, websites, illustrations, music, literature, gardens -- it doesn't matter.
+
+<h3>Let's Get in Touch!</h3>
+For my online resume, please visit <a href="https://www.linkedin.com/in/denisglabrecque" target="_new">my LinkedIn profile</a> below. If you wish to follow me or find out more about me, do use either <a href="https://plus.google.com/+DenisGLabrecque" target="_new" rel="me">my Google+</a> or <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new">my Pinterest</a> feeds, which I update quite often.
