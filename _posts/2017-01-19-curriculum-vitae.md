@@ -25,3 +25,16 @@ tags: cv curriculumVitae about Denis Labrecque work
 <p class="cv-place">Pensacola Christian College</p>
 <p class="diploma">University, degree in Computer Information Systems</p>
 <p class="diploma">University, degree in Graphic Design</p>
+
+{% highlight html linenos %}
+<html>
+  <head>
+    <meta content="data" />
+    <title>Page Title</title>
+  </head>
+  <body>
+  <h1>Title</h1>
+  <p>Paragraph...</p>
+  </body>
+</html>
+{% endhighlight %}
