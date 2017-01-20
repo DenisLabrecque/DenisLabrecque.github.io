@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Musique
+title: Compositions musicales
 
 permalink: /musique
 ref: musicstream
@@ -10,7 +10,7 @@ lastmod: 2017-01-19
 tags: musique
 ---
 <div class="page-feed">
-  <h1>Musique</h1>
+  <h1>Compositions musicales</h1>
 
   {% include stream-compositions.html stream-limit="500" %}
  
