@@ -7,7 +7,7 @@
     <span class="citation">
       <label class="close-citation" for="{{ include.href | slugify }}"><i class="icon quit"></i></label>
       <span class="citation-content">
-          <em>[<span class="citation-number-counter"></span>] From <a href="{{ include.href }}" target="_new">{{ include.href | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' | first }}</a>{% if include.date %}; retrieved on {{ include.date }}.{% else %}.{% endif %}</em>
+          <em>[<span class="citation-number-counter"></span>] From <a href="{{ include.href }}" target="_new">{{ include.href | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' | first }}</a>{% if include.date %}; retrieved on {{ include.date }}.{% else %}.{% endif %} {{ include.description }}</em>
       </span>
     </span>
 </span>
