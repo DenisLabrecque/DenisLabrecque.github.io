@@ -983,6 +983,15 @@ label.image-popout:hover {
     cursor: zoom-in;
 }
 
+p.note {
+    padding: 10px;
+    color: white;
+    background: rgb(0,176,240);
+}
+.versus {
+    background: rgb(236,228,202);
+}
+
 figure.image-superwide {
     margin: 15pt -20vw 15pt -20vw;
     padding: 0 0 0 0;
