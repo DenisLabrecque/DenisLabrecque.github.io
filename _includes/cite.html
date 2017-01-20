@@ -2,5 +2,5 @@
 <input type="checkbox" id="{{ include.href | slugify }}" class="no-display">
 
 <cite>
-  <a href="{{ include.href }}" target="_new">*</a> <strong>Name: </strong> <em>{{ include.href | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' | first | capitalize }}</em>
+  <a href="{{ include.href }}" target="_new">*</a> <strong>Name: </strong> <em>{{ include.href | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' | first }}</em>
 </cite>
