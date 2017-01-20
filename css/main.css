@@ -1393,8 +1393,10 @@ span.citation-content {
 body {
     counter-reset: citenumb;
 }
-span.citation-number-counter:before {
+span.citation-container {
     counter-increment: citenumb;
+}
+span.citation-number-counter:before {
     content: counter(citenumb);
 }
 
