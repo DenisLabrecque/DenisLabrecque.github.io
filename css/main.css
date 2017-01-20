@@ -1402,6 +1402,12 @@ span.composition-list h3:before {
     content: counter(movenumb);
     color: white;
     background: red;
-    font-size: 15pt;
-    border-radius: 5pt;
+    font-size: 20pt;
+    border-radius: 12pt;
+    width: 24pt;
+    height: 24pt;
+    text-align: center;
+    margin-left: -18pt;
+    margin-right: -6pt;
+    outline: solid 5pt pink;
 }
