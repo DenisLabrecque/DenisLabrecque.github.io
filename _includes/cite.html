@@ -1,6 +1,6 @@
-<label class="citation" for="{{ include.href | slugify }}">
-<input type="checkbox" id="{{ include.href | slugify }}" class="no-display">
+<label class="citation" for="{{ include.href | slugify }}"><span class="citation-number">*</span></label>
+<input type="checkbox" id="{{ include.href | slugify }}" class="no-display" />
 
 <cite>
-  <a href="{{ include.href }}" target="_new">*</a> <strong>Name: </strong> <em>{{ include.href | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' | first }}</em>
+  <p>From <a href="{{ include.href }}" target="_new">{{ include.href | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' | first }}</a>{% if include.date %}; retrieved on {{ include.date }}{% else %}.{% endif %}</p>
 </cite>
