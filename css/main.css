@@ -16,10 +16,11 @@ body {
     color: white;
 }
 
-blockquote {
+blockquote, .note {
     margin-left: 15pt;
     border-left: 5pt solid rgb(16, 186, 205);
-    padding-left: 10pt;
+    padding-left: 15pt;
+    padding-right: 15pt;
     line-height: 145%;
     font-size: 17pt;
     letter-spacing: .3pt;
@@ -984,12 +985,6 @@ label.image-popout:hover {
 }
 
 .note {
-    margin-left: 15pt;
-    border-left: 5pt solid rgb(16, 186, 205);
-    padding-left: 10pt;
-    line-height: 145%;
-    font-size: 17pt;
-    letter-spacing: 0.3pt;
     padding: 10px;
     color: white;
     background: rgb(0,176,240);
@@ -999,7 +994,7 @@ label.image-popout:hover {
     color: black;
 }
 .postulate {
-    background: rgb(193,159,195);
+    background: rgb(193,159,125);
 }
 
 figure.image-superwide {
