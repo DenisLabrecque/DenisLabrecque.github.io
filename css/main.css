@@ -1322,13 +1322,14 @@ div.social-area {
 label.citation {
     color: rgb(16, 186, 205);
     display: inline;
+    letter-spacing: .3pt;
 }
 label.citation:hover {
     color: rgb(19, 135, 148);
 }
 span.citation-number {
     font-size: 80%;
-    vertical-align: 0;
+    vertical-align: 30%;
 }
 
 label.close-citation {
