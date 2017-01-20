@@ -12,4 +12,16 @@ date:   2017-01-19
 lastmod: 2016-11-03
 tags: cv curriculumVitae about Denis Labrecque work
 ---
-THIS IS WHAT I DID.
+<h3>Education</h3>
+<p class="cv-time">Birth – 2013</p>
+<p class="cv-place">Homeschool</p>
+<p class="diploma">Primary school</p>
+
+<p class="cv-time">2013 – 2015</p>
+<p class="cv-place">A Beka Academy</p>
+<p class="diploma">High school, grades 10-12</p>
+
+<p class="cv-time">2015 – 2020</p>
+<p class="cv-place">Pensacola Christian College</p>
+<p class="diploma">University, degree in Computer Information Systems</p>
+<p class="diploma">University, degree in Graphic Design</p>
