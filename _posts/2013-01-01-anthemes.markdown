@@ -159,3 +159,8 @@ Entends-nous, et que ta main agisse.</li>"
 Cette série est en réalité une collection de trois cantiques français. Je lui ai laissé son appellation d’origine, bien que ce nom anglophone soit devenu quelque peu ironique. J’ai en effet réalisé qu’il serait préférable d’écrire des textes français puisqu’ils sont déjà plus rares.
 
 À l’origine, ces cantiques n’étaient que des essais faits au piano pour démontrer que même si je composais la majorité du temps à l’ordinateur, il m’était tout de même possible d’utiliser la plume. Les airs datent donc de 2013, je crois. Ce n’est qu’en 2014-2015 que j’y ai aussi affixé les paroles, bien que je l’avais longtemps prémédité.
+
+
+<iframe src="http://logamp.com/1746/music/tracks/6902?vision&responsive" name="logampIFrame" scrolling="no" frameborder="0" width="100%" height="150px"></iframe>
+
+<iframe width="100%" height="166" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/278664487&amp;color=ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false"></iframe>
