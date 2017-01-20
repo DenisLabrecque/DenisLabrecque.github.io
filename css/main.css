@@ -47,17 +47,18 @@ div.page-feed {
     margin: 10pt 15% 10pt 20%;
     transition: ease-in-out .3s;
 }
-cite.citation {
-    margin-left: 20%;
-    margin-right: 15%;
+span.citation {
+    box-sizing: border-box;
+    left: 20%;
+    width: 65%;
 }
 @media(max-width: 600px) {
     div.page-feed {
         margin: 10pt 15pt 10pt 20pt;
     }
-    cite.citation {
-        margin-right: 15pt;
-        margin-left: 20pt;
+    span.citation {
+        left: 20pt;
+        width: calc(100vw -15pt);
     }
 }
 
@@ -234,7 +235,7 @@ nav.sandwitch-menu {
     box-sizing: border-box;
     background: white;
     overflow-y: scroll;
-    overflow-x: none;
+    overflow-x: hidden;
 }
 input[type=checkbox].no-display:checked ~ nav.sandwitch-menu {
     right: 0;
@@ -1320,13 +1321,76 @@ div.social-area {
 
 label.citation {
     color: rgb(16, 186, 205);
+    display: inline;
 }
-cite.citation {
-    display: none;
+label.citation:hover {
+    color: rgb(19, 135, 148);
 }
-input[type=checkbox].no-display:checked ~ cite.citation {
-    background: red;
-    z-index: 40;
+span.citation-number {
+    font-size: 80%;
+    vertical-align: 0;
+}
+
+label.close-citation {
+    color: lightgrey;
+    font-size: 10pt;
+    text-align: right;
+    padding: 5pt;
+    display: block;
+    line-height: 100%;
+    border-bottom: 1px solid lightgrey;
+}
+label.close-citation:hover {
+    color: grey;
+}
+label.close-citation:active {
+    color: darkgrey;
+}
+
+span.citation {
+    display: block;
+    background: white;
+    height: auto;
     position: fixed;
-    bottom: 100vh;
+    bottom: 0;
+    transform: scale(0);
+    transition: ease-in-out .2s;
+}
+input[type=checkbox].no-display:checked ~ span.citation {
+    z-index: 40;
+    transform: scale(1);
+}
+
+label.citation-clickeater {
+    display: block;
+    position: fixed;
+    width: 0;
+    height: 0;
+    top: 0;
+    left: 0;
+    background: black;
+    opacity: 0;
+    z-index: 14;
+    transition: ease-in-out .2s opacity;
+}
+input[type=checkbox].no-display:checked ~ label.citation-clickeater {
+    display: block;
+    width: 100vw;
+    height: 100vh;
+    opacity: .2;
+}
+
+span.citation-content {
+    display: block;
+    margin: 10pt 15pt 10pt 15pt;
+}
+
+body {
+    counter-reset: citenumb;
+}
+span.citaton {
+    counter-reset: citenumb;
+}
+span.citation-number-counter:before {
+    content: counter(citenumb);
 }
