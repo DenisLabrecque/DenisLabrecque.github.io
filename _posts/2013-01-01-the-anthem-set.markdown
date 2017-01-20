@@ -12,7 +12,7 @@ ref: theanthemset
 categories: music
 tags: originalComposition hymn chorale choir
 lang: en
-lastmod: 2017-08-18
+lastmod: 2017-01-18
 
 movements:
     - title: "<em lang='fr'>Tu es serviteur et héros</em>"
