@@ -527,6 +527,7 @@ div.hero-image label.popdown, div.hero-image a.share-link {
 }
 
 h1.title {
+    line-height: 150%;
     color: white;
     position: absolute;
     margin: 0;
