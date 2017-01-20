@@ -2,7 +2,8 @@
 layout: post
 title: Curriculum Vitae
 subtitle: My complete skills and work experience.
-hero-image: https://s-media-cache-ak0.pinimg.com/originals/71/91/57/7191571c18ed50608503e9319fa56b75.jpg
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/99/77/23/997723ea27660b07e3b84ad6110178f0.jpg
+image-by: Denis Labrecque
 headline: I am presently a university student double majoring in Computer Information Systems and Graphic Design.
 permalink: /cv
 ref: curvitae
