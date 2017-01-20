@@ -1388,9 +1388,8 @@ span.citation-content {
 body {
     counter-reset: citenumb;
 }
-span.citaton {
-    counter-reset: citenumb;
-}
 span.citation-number-counter:before {
+    counter-reset: citenumb;
     content: counter(citenumb);
 }
+
