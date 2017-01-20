@@ -946,14 +946,14 @@ figure.image-figure {
     margin: 7pt 0 15pt 15pt;
     padding: 10pt;
     color: white;
-    max-width: 640px;
+    max-width: 300px;
     float: right;
     box-sizing: border-box;
 }
 @media(max-width: 1000px) {
     figure.image-figure {
         display: block;
-        width: 100%;
+        width: 640px;
         margin-left: 0;
         float: none;
     }
