@@ -983,7 +983,13 @@ label.image-popout:hover {
     cursor: zoom-in;
 }
 
-p.note {
+.note {
+    margin-left: 15pt;
+    border-left: 5pt solid rgb(16, 186, 205);
+    padding-left: 10pt;
+    line-height: 145%;
+    font-size: 17pt;
+    letter-spacing: 0.3pt;
     padding: 10px;
     color: white;
     background: rgb(0,176,240);
