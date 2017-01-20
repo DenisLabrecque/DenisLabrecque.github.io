@@ -1318,6 +1318,9 @@ div.social-area {
     margin-top: 20pt;
 }
 
+label.citation {
+    color: rgb(16, 186, 205);
+}
 cite.citation {
     display: none;
 }
