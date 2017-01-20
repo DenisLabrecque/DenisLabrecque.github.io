@@ -1392,6 +1392,7 @@ input[type=checkbox].no-display:checked ~ label.citation-clickeater {
 span.citation-content {
     display: block;
     margin: 10pt 15pt 10pt 15pt;
+    text-align: left;
 }
 
 body {
