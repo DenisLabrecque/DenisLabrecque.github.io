@@ -1,10 +1,12 @@
-<label class="citation" for="{{ include.href | slugify }}"><span class="citation-number">CLICK</span></label>
-<input type="checkbox" id="{{ include.href | slugify }}" class="no-display" />
+<span class="citation-container">
+    <label class="citation" for="{{ include.href | slugify }}"><span class="citation-number">[<span class="citation-number-counter"></span>]</span></label>
+    <input type="checkbox" id="{{ include.href | slugify }}" class="no-display" />
+    <label class="citation-clickeater" for="{{ include.href | slugify }}"></label>
 
-<cite class="citation">
-  <label class="close-citation" for="{{ include.href | slugify }}">❌</label>
-  <p><em>From <a href="{{ include.href }}" target="_new">{{ include.href | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' | first }}</a>{% if include.date %}; retrieved on {{ include.date }}.{% else %}.{% endif %}</em></p>
-  {% if include.contents || include.content %}
-    {{ include.content }}
-  {% endif %}
-</cite>
+    <span class="citation">
+      <label class="close-citation" for="{{ include.href | slugify }}">❌</label>
+      <span class="citation-content">
+        <em>From <a href="{{ include.href }}" target="_new">{{ include.href | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' | first }}</a>{% if include.date %}; retrieved on {{ include.date }}.{% else %}.{% endif %}</em>
+      </span>
+    </span>
+</span>
