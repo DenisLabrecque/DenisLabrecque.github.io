@@ -990,6 +990,10 @@ p.note {
 }
 .versus {
     background: rgb(236,228,202);
+    color: black;
+}
+.postulate {
+    background: rgb(193,159,195);
 }
 
 figure.image-superwide {
