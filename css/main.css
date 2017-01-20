@@ -1400,7 +1400,6 @@ span.composition-list {
 span.composition-list h3:before {
     counter-increment: movenumb;
     content: counter(movenumb);
-    position: relative;
     color: white;
     background: red;
     font-size: 15pt;
