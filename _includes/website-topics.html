@@ -1,4 +1,5 @@
-<h3>{% if page.lang == 'en' %}Website Topics{% endif %}{% if page.lang == 'fr' %}Sujets{% endif %}</h3>
+{% if page.lang == 'en' %}
+<h3>Website Topics</h3>
 
 <ul class="post-stream-container no-span">
   <li class="go-to-complete-stream">
@@ -26,6 +27,43 @@
     <a href="/blog" class="post-stream-card">
       <div class="hero-article-headline">
         <h4>{% if page.lang == 'en' %}Blog{% endif %}{% if page.lang == 'fr' %}Blogue{% endif %} <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
+      </div>
+    </a>
+  </li>
+</ul>
+{% endif %}
+
+
+
+{% if page.lang == 'fr' %}
+<h3>Sujets</h3>
+
+<ul class="post-stream-container no-span">
+  <li class="go-to-complete-stream">
+    <a href="/art" class="post-stream-card">
+      <div class="hero-article-headline">
+        <h4>Art <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
+      </div>
+    </a>
+  </li>
+  <li class="go-to-complete-stream">
+    <a href="/musique" class="post-stream-card">
+      <div class="hero-article-headline">
+        <h4>Compositions musicales <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
+      </div>
+    </a>
+  </li>
+  <li class="go-to-complete-stream">
+    <a href="/parlerbible" class="post-stream-card">
+      <div class="hero-article-headline">
+        <h4>Apologétique <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
+      </div>
+    </a>
+  </li>
+  <li class="go-to-complete-stream">
+    <a href="/blogue" class="post-stream-card">
+      <div class="hero-article-headline">
+        <h4>Blogue <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
       </div>
     </a>
   </li>
