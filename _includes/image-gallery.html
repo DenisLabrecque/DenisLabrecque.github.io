@@ -14,7 +14,7 @@
         </label>
        <!--googleoff: all-->
         <input type="checkbox" id="{{ image.url }}" class="no-display" />
-        <label class="x-button" for="{{ image.url }}" title="Close">❌</label>
+       <label class="x-button" for="{{ image.url }}" title="Close"><i class="icon quit"></i></label>
         <a class="pinterest-button" href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&media={{ image.url }}&description={{ image.description }}" target="_new" title="{% if page.lang == 'en' %}Share image on Pinterest{% endif %}{% if page.lang == 'fr' %}Partager l'image sur Pinterest{% endif %}"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
         <a class="image-link" href="{{ image.url }}" target="_new" title="{% if page.lang == 'en' %}Image source{% endif %}{% if page.lang == 'fr' %}Source de l'image{% endif %}"><i class="fa fa-external-link-square" aria-hidden="true"></i></a>
        <!--googleon: all--> 
