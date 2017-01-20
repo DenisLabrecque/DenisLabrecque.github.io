@@ -11,7 +11,7 @@ categories: biblique
 lang: fr
 tags: apologétique littérature évolution interprétationBiblique
 ---
-<h2 id="preambule">Préambule</h2>
+<h3 id="preambule">Préambule</h3>
 <blockquote>Qui suis-je,
 D'où suis-je,
 Et pourquoi suis-je ici?
@@ -35,7 +35,7 @@ Je veux pourtant vous dire que vu le matériel immense à couvrir sur le sujet, 
 Je ne prétends pas pouvoir vous convaincre. Mais mon but est seulement de présenter les faits, et de démontrer que la ligne de pensée ici suivie est clairement défendable. Si vous faites vous-mêmes des recherches après la lecture de ce texte, alors j’aurai atteint mon but.
 
 Seulement, rappelez-vous que ceci est une recherche de la vérité, et que toutes les propositions doivent être considérées et acceptées ou rejetées avec une connaissance suffisante pour les rendre absolument vraies ou fausses. Je vous défie donc, cher lecteur, de demeurer aussi impartial que possible, et de ne pas être influencé par vos idées préconçues, ni même par les pensées que j'ai écrites, si elles sont de quelque mesure infondées. Et avec ces mots, cher lecteur, débutons notre quête vers la connaissance de la vérité.
-<h2 id="par-ou-commencer">Par où commencer?</h2>
+<h3 id="par-ou-commencer">Par où commencer?</h3>
 Comme point de départ pour notre discussion, il est certainement raisonnable d'analyser le point de vue de nos pères sur la question, pour voir s'il n'y aurait pas quelque vérité à retenir.
 
 Les hommes, en considérant les êtres fonctionnels tels que l'homme et la bête, et les plantes, et la terre et les planètes, le soleil, la lune, et la multitude inconcevable d'étoiles, ont constamment supposé que tout ce qu'ils voyaient avait été formé par un ou plusieurs êtres supérieurs. Le créationnisme est ainsi à la base de toute religion, devenant donc l'explication la plus commune à la question des origines.
@@ -45,7 +45,7 @@ Une autre alternative, suggérée au départ par les Grecs, mais maintenant rép
 Alors nous avons ici une contradiction logique évidente que nous pourrons utiliser pour notre bénéfice. Clairement, si le cosmos a évolué, alors nul besoin d'un être pour le créer. Ou si la terre a été créée, elle n'a donc pu s'ériger d'elle-même. Nous avons donc trouvé quelle question répondre dans notre quête de la vérité:
 <p class="note versus"><strong><span class="h3">Première interrogation: </span></strong>L’univers et la vie ont-ils été créés par un être supérieur, ou dérivent-ils d’un processus naturel quelconque, tel que le décrit le modèle cosmologique de la Théorie de l’évolution?</p>
 Même en ne trouvant qu'une seule erreur avec l'une de ces propositions, alors nous saurons que nous n'avons pas trouvé la vérité absolument certaine que nous recherchons.
-<h2 id="analyse-de-la-theorie-de-l'evolution">Analyse de la Théorie de l'évolution</h2>
+<h3 id="analyse-de-la-theorie-de-l'evolution">Analyse de la Théorie de l'évolution</h3>
 Commençons avec une analyse de la Théorie de l'Évolution, gardant les diverses formes de création pour une analyse prochaine, si l'Évolution ne peut pas premièrement offrir une réponse satisfaisante. Encore, je vous en prie, cher lecteur, soyez impartial à l'extrême, et donnez délibération à quelque sujet qui soit pertinent.
 
 L’évolution débute avec la compréhension que l’univers entier que nous connaissons ne débuta de rien. Assez curieusement, quand on pense à cette prémisse, elle devient très étrange pour la théorie scientifique qu’est l’évolution. Imaginez un univers d’espace non éclairé et vide. Ce vide est tout ce qui existe, parce qu’il est vacant, n’étant rien. Alors, soudainement et inexplicablement, un reste de matière apparaît. Sortant du vide, alors, apparaît de la substance; comment donc s’est-elle formée? Si au début des temps il n’y avait ni énergie ni solide, ces derniers étant nécessaires à la création d’une autre énergie ou d’un autre solide, comment ce produit primitif pouvait-il apparaître hors de rien?
@@ -105,7 +105,7 @@ Pourquoi est-il donc dit que l’univers surgit hors d’un petit grain de gaz f
 En fait, s’il est déjà assez merveilleux de constater que l’univers doit être apparu magiquement et sans raison, l’évolution doit aussi prétendre bien au-delà, en affirmant qu’il doit aussi avoir été compressé à une taille inconcevablement ridicule. Cela ne fait qu’exacerber le problème!
 <p class="note postulate"><span class="h3"><strong>Troisième conclusion:</strong> </span>En expliquant les origines de notre univers, la Théorie de l’Évolution défait son axiome principal d’immunité contre tout processus non-naturel en ayant recours à des hypothèses des plus irrationnels.</p>
 Ainsi nous voyons qu’au moins en ses débuts, l’évolution ne résout vraiment pas la question des origines. Mais nous ne nous arrêterons pas ici, puisque nous pouvons certainement encore trouver du mérite en l’évolution en ce qui concerne l’apparition de la vie sur terre, aussi appelée évolution biologique.
-<h2 id="analyse-de-l'evolution-biologique">Analyse de l'évolution biologique</h2>
+<h3 id="analyse-de-l'evolution-biologique">Analyse de l'évolution biologique</h3>
 <p class="note versus"><span class="h3"><strong>Seconde interrogation:</strong> </span>L’évolution biologique est-elle un moyen rendant possible la vie sur terre?</p>
 Nous n’adresserons pas ici la question de l’abiogenèse, qui pourtant cause des énigmes semblables à celles concernant la formation de la matière, puisqu’il n’y a aucune manière connue de transformer de la matière ou du gaz en moindre débris vivant. Nous ne parlerons ici que de l’évolution des espèces d’animaux complexes à partir d’organismes plus simples.
 
@@ -154,7 +154,7 @@ Il devient maintenant nécessaire d’établir ce qui a déjà été longuement 
 Pour redire cette nouvelle choquante et même décevante, l’évolution n’est pas fiable dans ses prédictions, ce qui est un aspect de base de la science et encore plus d’essence pour la découverte de la vérité.
 
 Ce qui est le plus troublant est ce que dit si bien Lewontin : en ayant recours à d’autres choses que l’évolution, nous ouvrons la porte au Pied divin. Mais n’ouvrons pas la porte à l’idéologie. Ce qui doit être discuté le sera.
-<h2 id="analyse-de-la-religion">Analyse de la religion</h2>
+<h3 id="analyse-de-la-religion">Analyse de la religion</h3>
 N’avons-nous pas entamé cette discussion en concluant que toutes les interprétations sur la question des origines doivent forcément être basées sur la foi? Mais si l’Évolution ainsi que la Création sont toutes les deux basées sur la foi, elles constituent donc toutes deux une philosophie. Si nous définissons la religiosité comme l’expression d’une foi, alors l’Évolution elle-même est religieuse!
 
 La religion peut être largement définie comme étant la façon de penser d’une personne, puisqu’elle exerce un contrôle tellement vaste sur ce qu’une personne pense. Une personne craindra ou révérera certains objets ou divinités à cause de sa foi; il acceptera ou déniera certaines vérités à cause de sa façon de penser; et il accomplira les rites ou œuvres que sa religion lui applique.
@@ -179,7 +179,7 @@ En troisième lieu, la Bible contient plusieurs références historiques ou arch
 En quatrième lieu, la Bible contient plusieurs prophéties dont il est aussi possible de vérifier l’accomplissement.
 
 C’est pourquoi nous choisirons la Bible comme nouveau point de départ d’entre les diverses religions de la terre. Néanmoins, nous ne le faisons pas par révérence préconçue pour la Bible, mais bien plutôt afin de pouvoir en vérifier la véracité.
-<h2 id="expose-du-recit-biblique">Exposé du récit biblique</h2>
+<h3 id="expose-du-recit-biblique">Exposé du récit biblique</h3>
 <p class="note versus"><strong><span class="h3">Troisième interrogation: </span></strong>La Bible est-elle crédible?</p>
 Voici l’histoire de l’homme telle que nous la lisons dans la Bible :
 <blockquote>« Au commencement, Dieu créa les cieux et la terre. » <cite>Genèse chapitre 1 verset 1</cite></blockquote>
@@ -466,7 +466,7 @@ Maintenant, la Bible a maintes fois été ardemment contredite par plusieurs per
 <blockquote>[…] Je ne pouvais pas dormir la nuit. J’allais au lit à dix heures du soir et restais éveillé jusqu’à quatre heures du matin, essayant de réfuter l’évidence insurmontable que j’accumulais que Jésus-Christ était le Fils de Dieu.</blockquote>
 <blockquote>Je commençai à réaliser que j’agissais d’une manière malhonnête intellectuellement. Ma pensée me disait que les allégations de Christ étaient en effet vraies, mais ma volonté était tirée vers une autre direction. J’avais placé tellement d’emphase sur trouver la vérité, mais je ne voulais pas la suivre une fois que je la vis. » <cite>Josh McDowell, <em>The New Evidence that Demands a Verdict</em>, Thomas Nelson, 1999, page xxv (traduction de l'auteur)</cite></blockquote>
 Tâchons donc de ne pas faire de même, mais de trouver les vraies réponses, quel qu’en soit le prix. Tâchons d’aligner nos pas vers la vérité, et non pas <em>contre</em> elle.
-<h2 id="les-resultats-de-la-veracite-de-la-bible">Les résultats de la véracité de la Bible</h2>
+<h3 id="les-resultats-de-la-veracite-de-la-bible">Les résultats de la véracité de la Bible</h3>
 Quelles conséquences découlent de la véracité de la Bible? Il s’ensuit que nous devons être nés de nouveau.
 
 <em>Nés de nouveau?</em>
@@ -498,7 +498,7 @@ Ce que nous constatons est que toute fausse religion nie l’existence de l’É
 
 Toute religion fausse demande aussi d’accomplir un nombre suffisant de bonnes œuvres pour pouvoir se présenter devant Dieu. Or, cela nie l’œuvre du Christ, qui est mort à notre place, et nous a ainsi sauvés de la condamnation éternelle. Tel qu’il est écrit dans la Bible :
 <blockquote>« Car c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est le don de Dieu. Ce n'est point par les œuvres, afin que personne ne se glorifie. Car nous sommes son ouvrage, ayant été créés en Jésus-Christ pour de bonnes œuvres, que Dieu a préparées d'avance, afin que nous les pratiquions. » <cite>Éphésiens chapitre 2 versets 8-10</cite></blockquote>
-<h2 id="en-conclusion">En conclusion</h2>
+<h3 id="en-conclusion">En conclusion</h3>
 Le sujet des origines est extrêmement vaste. Je suis largement certain qu’en lisant ce court livre, plusieurs de mes lecteurs me contrediront étape par étape. En élaborant ce texte, je ne peux m’empêcher d’imaginer le grand nombre de questions et d’arguments, factices ou valables, qui seront emmenés, mentalement ou verbalement, contre ce raisonnement.
 
 Tel que l’a dit le sage roi Salomon, « on ne finirait pas, si l'on voulait faire un grand nombre de livres, et beaucoup d'étude est une fatigue pour le corps. Écoutons la fin du discours : Crains Dieu et observe ses commandements. C'est là ce que doit faire tout homme. Car Dieu amènera toute œuvre en jugement, au sujet de tout ce qui est caché, soit bien, soit mal. » <cite>Ecclésiaste chapitre 12 versets 13-14</cite>
