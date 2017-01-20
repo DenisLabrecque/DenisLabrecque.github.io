@@ -694,7 +694,7 @@ input[type=checkbox].no-display:checked ~ a.image-link {
 }
 
 ul.post-stream-container {
-    margin: 0 0 0 0;
+    margin: 10pt 0 0 0;
     padding: 0 0 0 0;
 }
 @media (min-width: 1000px) {
@@ -1288,3 +1288,8 @@ li.go-to-complete-stream h4 {
 li.go-to-complete-stream a.post-stream-card {
     background: rgb(16, 186, 205);
 }
+
+div.social-area {
+    margin-top: 7pt;
+}
+
