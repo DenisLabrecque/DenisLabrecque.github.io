@@ -5,7 +5,7 @@
         <img src="{{ include.image-url }}" itemprop="contentURL" class="image-figure-main" />
     </label>
       <input type="checkbox" id="{{ include.image-url }}" class="no-display" />
-      <label class="x-button" for="{{ include.image-url }}" title="Close">❌</label>
+  <label class="x-button" for="{{ include.image-url }}" title="Close"><i class="icon quit"></i></label>
       <a class="pinterest-button" href="https://pinterest.com/pin/create/button/?url={{ site.url }}{{ page.url }}&media={{ include.image-url }}&description={{ include.image-description }}" target="_new" title="{% if page.lang == 'en' %}Share image on Pinterest{% endif %}{% if page.lang == 'fr' %}Partager l'image sur Pinterest{% endif %}"><i class="fa fa-pinterest-p" aria-hidden="true"></i></a>
         <a class="image-link" href="{{ include.image-url }}" target="_new" title="{% if page.lang == 'en' %}Image source{% endif %}{% if page.lang == 'fr' %}Source de l'image{% endif %}"><i class="fa fa-external-link-square" aria-hidden="true"></i></a>
       <div class="popdown full-bleed-image">
