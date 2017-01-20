@@ -47,9 +47,17 @@ div.page-feed {
     margin: 10pt 15% 10pt 20%;
     transition: ease-in-out .3s;
 }
+cite.citation {
+    margin-left: 20%;
+    margin-right: 15%;
+}
 @media(max-width: 600px) {
     div.page-feed {
         margin: 10pt 15pt 10pt 20pt;
+    }
+    cite.citation {
+        margin-right: 15pt;
+        margin-left: 20pt;
     }
 }
 
@@ -1310,3 +1318,13 @@ div.social-area {
     margin-top: 20pt;
 }
 
+cite.citation {
+    display: none;
+    background: white;
+}
+input[type=checkbox].no-display:checked ~ cite.citation {
+    background: red;
+    z-index: 40;
+    position: fixed;
+    bottom: 100vh;
+}
