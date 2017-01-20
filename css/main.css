@@ -78,23 +78,24 @@ h2 {
 }
 h3 {
     font-size: 22pt;
-    vertical-align: -20%;
 }
 h4 {
     font-size: 16pt;
     letter-spacing: 1.2pt;
-    vertical-align: -30%;
 }
 h5 {
     font-size: 14pt;
     letter-spacing: 1.3pt;
     font-weight: bolder;
-    vertical-align: -30%;
 }
 h6 {
     font-size: 12pt;
     letter-spacing: 1.3pt;
     font-weight: bold;
+}
+p {
+    margin-top: 5pt;
+    margin-bottom: 5pt;
 }
 
 p.image-headline {
