@@ -1,4 +1,5 @@
 ---
+permalink: /:categories/:year/:title
 layout: composition
 catalogue: 22
 title: Anthèmes
