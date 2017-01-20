@@ -1,6 +1,6 @@
 ---
-layout: music
-title: The Anthem Set
+layout: composition
+title: Anthèmes
 subtitle: Cantiques originaux
 headline: Cantiques pour l’adoration et le chant spirituel
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/72/8e/35/728e35ea02ff6bf33a58dc62dc8cc0de.jpg
