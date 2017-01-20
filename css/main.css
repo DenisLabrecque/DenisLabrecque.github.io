@@ -992,11 +992,11 @@ label.image-popout:hover {
 .versus {
     background: rgb(236,228,202);
     color: black;
-    border-left: 5pt solid rgba(82, 72, 45, .8);
+    border-left: 5pt solid rgb(0,176,240);
 }
 .postulate {
     background: rgb(193,159,125);
-    border-left: 5pt solid rgba(51, 49, 43, .8);
+    border-left: 5pt solid rgba(82, 72, 45, .8);
 }
 
 figure.image-superwide {
