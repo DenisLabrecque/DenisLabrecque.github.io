@@ -1403,13 +1403,14 @@ span.composition-list h3:before {
 	box-sizing: border-box;
     display: block;
     color: white;
-    background: red;
+    background: rgb(237,237,232);
     font-size: 30pt;
     border-radius: 22pt;
     width: 44pt;
     height: 44pt;
+	vertical-align: -10pt;
     text-align: center;
     margin-left: -30pt;
     margin-bottom: -20pt;
-    border: solid 5pt pink;
+    border: solid 5pt rgb(245,245,240);
 }
