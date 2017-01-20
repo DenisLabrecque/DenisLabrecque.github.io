@@ -1,5 +1,6 @@
 i.icon {
     font-family: "Segoe UI", sans-serif;
+    font-style: normal;
 }
 i.quit:before {
     content: "❌";
