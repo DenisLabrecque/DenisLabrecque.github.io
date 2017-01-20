@@ -13,7 +13,7 @@ lastmod: 2017-01-19
 tags: summary about biography short Denis Labrecque social authorPage
 ---
 <h3>Let's Get in Touch!</h3>
-For my online resume, please visit <a href="https://www.linkedin.com/in/denisglabrecque" target="_new">my LinkedIn profile</a> below. If you wish to follow me or find out more about me, do use either <a href="https://plus.google.com/+DenisGLabrecque" target="_new">my Google+</a> or <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new">my Pinterest</a> feeds, which I update quite often.
+For my online resume, please visit <a href="https://www.linkedin.com/in/denisglabrecque" target="_new">my LinkedIn profile</a> below. If you wish to follow me or find out more about me, do use either <a href="https://plus.google.com/+DenisGLabrecque" target="_new" rel="me">my Google+</a> or <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new">my Pinterest</a> feeds, which I update quite often.
 
 <h3>Bio</h3>
 I was born in Sorel-Tracy, Québec, Canada, and was raised in Granby, where my father worked as an engineer. From there, we moved to the small village of St-Denis-sur-Richelieu, where we stayed all my teen years.
