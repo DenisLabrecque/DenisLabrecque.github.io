@@ -13,18 +13,18 @@
 </span>
 {% else %}
 <span class="citation-container">
-    <label class="citation" for="{{ include.title | slugify }}">
+    <label class="citation" for="{{ include.description | slugify }}">
         {% if include.title %}
             {{ include.title }}
         {% else %}
             <span class="citation-number">[<span class="citation-number-counter"></span>]</span>
         {% endif %}
     </label>
-    <input type="checkbox" id="{{ include.title | slugify }}" class="no-display" />
-    <label class="citation-clickeater" for="{{ include.title | slugify }}"></label>
+    <input type="checkbox" id="{{ include.description | slugify }}" class="no-display" />
+    <label class="citation-clickeater" for="{{ include.description | slugify }}"></label>
 
     <span class="citation">
-      <label class="close-citation" for="{{ include.title | slugify }}"><i class="icon quit"></i></label>
+      <label class="close-citation" for="{{ include.description | slugify }}"><i class="icon quit"></i></label>
       <span class="citation-content"><em>[<span class="citation-number-counter"></span>] {{ include.description }}</em></span>
     </span>
 </span>
