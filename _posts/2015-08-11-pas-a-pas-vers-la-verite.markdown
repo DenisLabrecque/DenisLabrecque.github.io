@@ -177,7 +177,7 @@ Néanmoins, ainsi que nous l’avons envisagé, la foi nécessite une confiance.
 
 Notons que la Bible comporte certaines caractéristiques intéressantes pour notre prochain pas vers la vérité. En premier lieu, elle est empruntée ou accommodée par plusieurs religions, dont le Judaïsme, l’Islam, le Catholicisme, ou encore le Protestantisme, ainsi que plusieurs sectes comme celle des Témoins de Jéhovah ou des Mormons. Il est notoire de constater qu’une grande partie de ces religions, tels l’Islam, les Témoins de Jéhovah et le Mormonisme, ajoutent tous d’autres livres et croyances en plus de la Bible, entrant ainsi forcément en contradiction avec le texte Biblique. Mais cela est un sujet sur lequel plusieurs autres ont déjà écrit, notant avec précision les objections des écritures : je ne dois pas m’étendre là-dessus. Ce que je désire surtout faire voir est qu’en évaluant la vérité de la Bible, nous pouvons ainsi soit inclure, soit éliminer une grande partie des religions existantes.
 
-En second lieu, le texte Biblique exige unilatéralement être la parole du seul Dieu, tel qu’il est écrit, «&nbsp;Je suis l'Éternel, et il n'y en a point d'autre.&nbsp;»{% include cite.html description="Ésaïe 45:5" %} Ainsi donc, si elle dit vrai, elle élimine aussi toute autre religion.
+<p>En second lieu, le texte Biblique exige unilatéralement être la parole du seul Dieu, tel qu’il est écrit, «&nbsp;Je suis l’Éternel, et il n’y en a point d’autre.&nbsp;»{% include cite.html description="Ésaïe 45:5" %} Ainsi donc, si elle dit vrai, elle élimine aussi toute autre religion.</p>
 
 En troisième lieu, la Bible contient plusieurs références historiques ou archéologiques qu’il est entièrement possible de vérifier.
 
