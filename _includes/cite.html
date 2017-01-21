@@ -7,7 +7,7 @@
     <span class="citation">
       <label class="close-citation" for="{{ include.href | slugify }}"><i class="icon quit"></i></label>
       <span class="citation-content">
-          <em>[<span class="citation-number-counter"></span>] {% if page.lang == 'en' %}Found on{% elsif page.lang == 'fr' %}Tiré de{% endif %} <a href="{{ include.href }}" target="_new">{{ include.href | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' | first }}</a> {% if lang == 'en' %}on{% elsif page.lang == 'fr' %}le{% endif %} {{ include.date }}{% endif %}. {{ include.description }}</em>
+          <em>[<span class="citation-number-counter"></span>] {% if page.lang == 'en' %}Found on{% elsif page.lang == 'fr' %}Tiré de{% endif %} <a href="{{ include.href }}" target="_new">{{ include.href | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' | first }}</a> {% if lang == 'en' %}on{% elsif page.lang == 'fr' %}le{% endif %} {{ include.date }}. {{ include.description }}</em>
       </span>
     </span>
 </span>
