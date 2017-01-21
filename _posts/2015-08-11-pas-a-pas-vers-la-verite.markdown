@@ -188,7 +188,7 @@ C’est pourquoi nous choisirons la Bible comme nouveau point de départ d’ent
 <h3 id="expose-du-recit-biblique">Exposé du récit biblique</h3>
 <p class="note versus"><strong><span class="h3">Troisième interrogation: </span></strong>La Bible est-elle crédible?</p>
 Voici l’histoire de l’homme telle que nous la lisons dans la Bible&nbsp;:
-<blockquote>«&nbsp;Au commencement, Dieu créa les cieux et la terre.&nbsp;»{%include cite.html description="Genèse chapitre 1 verset 1"</blockquote>
+<blockquote>«&nbsp;Au commencement, Dieu créa les cieux et la terre.&nbsp;»{% include cite.html description="Genèse chapitre 1 verset 1" %}</blockquote>
 
 <p>Nous avons donc ici, tel que signifié par la phrase «&nbsp;Au commencement,&nbsp;» le début des temps. Dieu a donc dû créer les lois de la physique en ce temps-là afin de les faire régner sur l’univers. Mais lui-même n’est pas lié par les lois de sa création; n’ayant donc «&nbsp;ni commencement de jours ni fin de vie,&nbsp;»{% include cite.html description="Hébreux chapitre 7 verset 3" %} Dieu lui-même n’a nul besoin d’un début ou d’un créateur.</p>
 
