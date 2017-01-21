@@ -1400,6 +1400,8 @@ body {
 }
 span.citation-container {
     counter-increment: citenumb;
+    font-size: 12pt;
+    line-height: 120%;
 }
 span.citation-number-counter:before {
     content: counter(citenumb);
