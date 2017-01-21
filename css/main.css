@@ -1337,7 +1337,7 @@ label.citation:hover {
 }
 span.citation-number {
     font-size: 80%;
-    vertical-align: 30%;
+    vertical-align: 15%;
 }
 
 label.close-citation {
@@ -1393,6 +1393,8 @@ span.citation-content {
     display: block;
     margin: 10pt 15pt 10pt 15pt;
     text-align: left;
+	font-size: 12pt;
+	line-height: 120%;
 }
 
 body {
@@ -1400,8 +1402,6 @@ body {
 }
 span.citation-container {
     counter-increment: citenumb;
-    font-size: 12pt;
-    line-height: 120%;
 }
 span.citation-number-counter:before {
     content: counter(citenumb);
@@ -1421,9 +1421,9 @@ span.composition-list h3:before {
     border-radius: 22pt;
     width: 44pt;
     height: 44pt;
-	vertical-align: -30pt;
+	vertical-align: -60pt;
     text-align: center;
     margin-left: -30pt;
-    margin-bottom: -20pt;
+    margin-bottom: -60pt;
     border: solid 5pt rgb(245,245,240);
 }
