@@ -1,11 +1,11 @@
 {% if include.href %}
 <span class="citation-container">
-    <label class="citation" for="{{ include.href | slugify }}">{% if include.title %}{{ include.title }}{% else %}<span class="citation-number">[<span class="citation-number-counter"></span>]</span>{% endif %}</label>
-    <input type="checkbox" id="{{ include.href | slugify }}" class="no-display" />
-    <label class="citation-clickeater" for="{{ include.href | slugify }}"></label>
+    <label class="citation" for="{{ include.description | slugify }}">{% if include.title %}{{ include.title }}{% else %}<span class="citation-number">[<span class="citation-number-counter"></span>]</span>{% endif %}</label>
+    <input type="checkbox" id="{{ include.description | slugify }}" class="no-display" />
+    <label class="citation-clickeater" for="{{ include.description | slugify }}"></label>
 
     <span class="citation">
-      <label class="close-citation" for="{{ include.href | slugify }}"><i class="icon quit"></i></label>
+      <label class="close-citation" for="{{ include.description | slugify }}"><i class="icon quit"></i></label>
       <span class="citation-content">
           <em>[<span class="citation-number-counter"></span>] {% if page.lang == 'en' %}Found on{% elsif page.lang == 'fr' %}Tiré de{% endif %} <a href="{{ include.href }}" target="_new">{{ include.href | remove: 'http://' | remove: 'https://' | remove: 'www.' | split: '/' | first }}</a> {% if lang == 'en' %}on{% elsif page.lang == 'fr' %}le{% endif %} {{ include.date }}. {{ include.description }}</em>
       </span>
