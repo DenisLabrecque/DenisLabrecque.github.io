@@ -27,10 +27,17 @@ The program includes internships in the field and courses to develop digital por
 <h5>Colabor, Boucherville</h5>
 <p>This work allowed me to take initiative by working alone, got me used to the night shift, and required that I be responsible of my production. I always arrived on time, and worked overtime when necessary. I integrated very well with the team, and myh bosses showed themselves very satisfied with the work done for them.</p>
 
-<h4>Personal Qualities</h4>
-<p>Persistent, I like to accomplish my promises by staying at a job until it is finished. I also have the habit of fulfilling my tasks with minutia. I am also very self-teaching, able to learn alone out of my own experience.</p>
-</div>
-
 <h4>Other Qualifications</h4>
 <p>I participated in renovation work for friends, making roof replacements, finishing walls, and installing flooring.</p>
 <p>I programmed my own blog using my HTML and CSS experience to learn the Jekyll templating language on GitHub. That demonstrates my capacity of learning on my own wherewhile creating a unique space for my graphical creations.</p>
+
+<h4>Personal Qualities</h4>
+<ul>
+<li><strong>Persistent,</strong> I like to accomplish my promises, fishing my tasks with minutia</li>
+<li><strong>Self-teaching,</strong> I am able to learn by my own experience.</li>
+<li><strong>Bilingual,</strong> I speak English and French fluently since birth.</li>
+<li><strong>Creative,</strong> I play the piano and violin, participate in literary and musical competitions, draw, keep my own flower garden, write code between friends, and (too!) often start new projects.</li>
+<li><strong>Inquisitive,</strong> I enjoy reading, listening, asking questions, and hearing both sides of a debate.</li>
+</ul>
+</div>
+
