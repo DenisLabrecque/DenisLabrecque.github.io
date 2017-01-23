@@ -2,7 +2,7 @@
 layout: post
 title: Curriculum Vitae
 subtitle: A résumé of my work skills and experience
-hero-image: https://s-media-cache-ak0.pinimg.com/originals/99/77/23/997723ea27660b07e3b84ad6110178f0.jpg
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/b8/95/31/b89531dbe733f2d8a9198fd5ea9cc060.jpg
 image-by: Denis Labrecque
 headline: I am presently a university student double majoring in Computer Information Systems and Graphic Design.
 permalink: /cv
