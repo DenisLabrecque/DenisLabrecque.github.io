@@ -33,4 +33,4 @@ The program includes internships in the field and courses to develop digital por
 
 <h4>Other Qualifications</h4>
 <p>I participated in renovation work for friends, making roof replacements, finishing walls, and installing flooring.</p>
-<p>I programmed my own blog using my HTML and CSS experience to learn the Jekyll templating language on GitHub. That demonstrates my capacity of learning on my own wherewhile creating a unique space for my graphic creations.</p>
+<p>I programmed my own blog using my HTML and CSS experience to learn the Jekyll templating language on GitHub. That demonstrates my capacity of learning on my own wherewhile creating a unique space for my graphical creations.</p>
