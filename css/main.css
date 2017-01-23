@@ -1395,6 +1395,8 @@ span.citation-content {
 	font-size: 12pt;
 	line-height: 120%;
 	font-weight: normal;
+	max-height: 50vh;
+	overflow-y: auto;
 }
 span.citation-content em {
 	font-style: normal;
