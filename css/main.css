@@ -1396,6 +1396,9 @@ span.citation-content {
 	line-height: 120%;
 	font-weight: normal;
 }
+span.citation-content em {
+	font-style: normal;
+}
 
 body {
     counter-reset: citenumb;
