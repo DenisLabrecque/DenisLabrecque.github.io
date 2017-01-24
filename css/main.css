@@ -293,6 +293,9 @@ div.hero-image label.popdown, div.hero-image a.share-link {
     text-overflow: ellipsis;
     text-align: center;
 }
+.popdown-span .share-link {
+    margin-top: 0px;	
+}
 @media(max-width: 50000px) {
     div.hero-image {
         min-height: 5000px;
