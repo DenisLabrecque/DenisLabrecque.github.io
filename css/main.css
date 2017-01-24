@@ -65,9 +65,9 @@ span.citation {
         margin: 10pt 15pt 10pt 20pt;
     }
     span.citation {
-	    box-sizing: border-box;
+	box-sizing: border-box;
         left: 20pt;
-        width: calc(100vw - 10pt);
+        width: calc(100vw - 15pt);
     }
 }
 
