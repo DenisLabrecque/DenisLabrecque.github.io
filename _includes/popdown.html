@@ -1,11 +1,21 @@
-<span class="popdown-span">
-  <label class="popdown" for="{{ include.id }}">{{ include.title }}</label>
+<span class="citation-container">
+  <label class="popdown" for="{{ include.id | slugify }}">{{ include.title }}</label>
   <!--googleoff: all-->
-  <input type="checkbox" id="{{ include.id }}" class="no-display" />
-
+  <input type="checkbox" id="{{ include.id | slugify }}" class="no-display" />
+  
   <!--googleon: all-->
-  <div class="popdown">
-    <label class="x-button" for="{{ include.id }}"><i class="icon quit"></i></label>
-    {{ include.contents }}
-  </div>
+  <label class="citation-clickeater" for="{{ include.id | slugify }}"></label>
+
+  <span class="citation">
+    <label class="close-citation" for="{{ include.id | slugify }}"><i class="icon quit"></i></label>
+    <span class="citation-content">
+        {{ include.contents }}
+    </span>
+  </span>
 </span>
+  
+  
+  
+  
+  
+
