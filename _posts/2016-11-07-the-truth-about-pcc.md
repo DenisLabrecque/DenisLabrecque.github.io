@@ -52,4 +52,6 @@ Once the day is over, a student must be sure to close his blinds before dark in 
 
 In-room time is 11:00 p.m. Lights out is 11:15 during the week and midnight on Fridays and Saturdays. Lights out is enforced by RA's.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/7CTyT9mjhcE?list=PLq7M1cOtTjn0A1jrny_7HVzAsGdCzHFbK" frameborder="0" allowfullscreen></iframe>
+
 {% include image-gallery.html %}
