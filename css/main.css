@@ -1236,12 +1236,15 @@ ol.movement-list {
     color: darkgrey;
 }
 
-h4.composition-type {
+h4.composition-type, .resume-wrapper h4 table:nth-of-type(2) {
     line-height: 130%;
     color: darkgrey;
     text-transform: uppercase;
     margin-top: 0pt;
     margin-bottom: 7pt;
+}
+ .resume-wrapper h4 table:nth-of-type(2) {
+    font-size: 50%;
 }
 
 ol.composition-lyrics {
@@ -1434,4 +1437,8 @@ span.composition-list h3:before {
     margin-left: -30pt;
     margin-bottom: -60pt;
     border: solid 5pt rgb(245,245,240);
+}
+
+ {
+    
 }
