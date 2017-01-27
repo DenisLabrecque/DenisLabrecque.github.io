@@ -730,19 +730,19 @@ ul.post-stream-container {
         -webkit-column-span: all;
         column-span: all;
         display: block;
-	    -ms-column-break-inside: avoid;
             -webkit-column-break-inside: avoid;
               page-break-inside: avoid;
                    break-inside: avoid;
+	    break-inside: avoid-column;
     }
     ul.no-span li:first-of-type {
         -webkit-column-span: 1;
         column-span: 1;
         display: block;
-	    -ms-column-break-inside: avoid;
             -webkit-column-break-inside: avoid;
               page-break-inside: avoid;
                    break-inside: avoid;
+	    break-inside: avoid-column;
     }
     ul.post-stream-container li:first-of-type div.hero-article-thumbnail {
         height: 520px;
@@ -1091,10 +1091,10 @@ label.image-gallery-label:hover {
 }
 
 div.no-break {
-    -ms-column-break-inside: avoid;
     -webkit-column-break-inside: avoid;
               page-break-inside: avoid;
                    break-inside: avoid;
+	break-inside: avoid-column;
 }
 div.no-break small {
     display: block;
