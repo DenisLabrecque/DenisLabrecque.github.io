@@ -730,6 +730,7 @@ ul.post-stream-container {
         -webkit-column-span: all;
         column-span: all;
         display: block;
+	    -ms-column-break-inside: avoid;
             -webkit-column-break-inside: avoid;
               page-break-inside: avoid;
                    break-inside: avoid;
@@ -738,6 +739,7 @@ ul.post-stream-container {
         -webkit-column-span: 1;
         column-span: 1;
         display: block;
+	    -ms-column-break-inside: avoid;
             -webkit-column-break-inside: avoid;
               page-break-inside: avoid;
                    break-inside: avoid;
@@ -1089,6 +1091,7 @@ label.image-gallery-label:hover {
 }
 
 div.no-break {
+    -ms-column-break-inside: avoid;
     -webkit-column-break-inside: avoid;
               page-break-inside: avoid;
                    break-inside: avoid;
