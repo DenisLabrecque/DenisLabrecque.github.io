@@ -1236,7 +1236,7 @@ ol.movement-list {
     color: darkgrey;
 }
 
-h4.composition-type, .resume-wrapper h4 table:nth-of-type(2) {
+h4.composition-type, .resume-wrapper h4 td:nth-of-type(2) {
     line-height: 130%;
     color: darkgrey;
     text-transform: uppercase;
