@@ -166,9 +166,9 @@ La religion peut être largement définie comme étant la façon de penser d’u
 
 Nous définirons plus spécifiquement la religion comme suit :
 <blockquote>La religion est un système de croyances, ou philosophie, à laquelle un individu adhère;
-Elle est la plus haute autorité de cet individu;
-Elle fixe ses standards et contrôle sa compréhension de ce qu’il doit envisager de sa vie;
-Elle est à la base de l’explication des origines en laquelle cette personne croit.</blockquote>
+<br />Elle est la plus haute autorité de cet individu;
+<br />Elle fixe ses standards et contrôle sa compréhension de ce qu’il doit envisager de sa vie;
+<br />Elle est à la base de l’explication des origines en laquelle cette personne croit.</blockquote>
 J’eus ici voulu entrer dans une discussion entre les religions elles-mêmes, mais vu l’ampleur du sujet, j’ai préféré me contraindre à défendre le point de vue biblique que j’ai déjà acquis, et qui est tenu par les grands défenseurs d’une création intelligente du monde.
 
 Il y a plusieurs sortes de religions, mais puisqu’elles se contredisent abondamment, elles ne peuvent toutes être plausibles. Maintenant, il y a certaines religions qui semblent évidemment recourir plus à l’imagination et à la superstition qu’à la réalité que d’autres. Plusieurs dieux ancestraux n’expliquent en fait rien du tout au début de l’univers, puisqu’ils sont supposément nés au même moment que le monde lui-même. Plusieurs mythes religieux ne correspondent pas non plus à notre connaissance de l’univers. Ce qui est par contre inquiétant est l’impossibilité de tout vérifier.
@@ -221,37 +221,36 @@ Tu es réduit au néant, tu ne seras plus à jamais! »{% include cite.html desc
 
 <p>De la phrase « tu es poussière, et tu retourneras dans la poussière » nous avons le début de la mort et de la souffrance. Par contre, en un certain sens, la mort est un don de Dieu. Par elle, il a empêché l’homme de vivre éternellement dans une condition toujours pire d’accumulation d’infirmités physiques et de culpabilité spirituelle. Cette condition-là est réservée pour le jugement de Dieu, duquel il n’y aura aucun secours pour les condamnés. C’est ce que Dieu prévint lorsqu’il empêcha Adam et Ève de manger d’un autre arbre, l’arbre de vie, en plaçant un ange ceint d’une épée devant le jardin. Mais cette vie est encore disponible pour ceux qui cherchent le Seigneur et l’aiment, puisqu’il affirme, « A celui qui vaincra je donnerai à manger de l'arbre de vie, qui est dans le paradis de Dieu. »{% include cite.html description="Apocalypse chapitre 2 verset 7" %}</p>
 
-Lorsque Adam et Ève péchèrent, ils durent être séparés de Dieu, parce qu’aucun homme ne peut voir Dieu et vivre. <cite>Exode chapitre 33 verset 20</cite> Dès lors, la race humaine entière fut séparée de Dieu et de sa perfection, et doit le rester parce qu’il « n'en est aucun qui fasse le bien, Pas même un seul. » <cite>Psaume 14 verset 3</cite>
+<p>Lorsque Adam et Ève péchèrent, ils durent être séparés de Dieu, parce qu’aucun homme ne peut voir Dieu et vivre.{% include cite.html description="Exode chapitre 33 verset 20" %} Dès lors, la race humaine entière fut séparée de Dieu et de sa perfection, et doit le rester parce qu’il « n'en est aucun qui fasse le bien, Pas même un seul.&nbsp;»{% include cite.html description="Psaume 14 verset 3" %}</p>
 
-C’est pourquoi « Les yeux de l'un et de l'autre s'ouvrirent, ils connurent qu'ils étaient nus ». Dans un sens spirituel, ils étaient devenus impropices par leur mal, et devaient être couverts par la justice. Parce que cela était le cas, Dieu les rendit conscients d’eux-mêmes par leur nudité, afin qu’ils comprennent, par la honte qu’ils ressentaient, de quelle façon leur relation avec lui avait été brisée. Ils voulurent couvrir leur erreur en cousant des feuilles de figuier pour s’abriter. Mais les œuvres de l’homme ne sont pas suffisantes pour l’abriter. Tel que nous le lisons, « Nous sommes tous comme des impurs, Et toute notre justice est comme un vêtement souillé » <cite>Esaïe chapitre 64 verset 6</cite>. Le Seigneur dut donc couvrir lui-même Adam et Ève.
+<p>C’est pourquoi « Les yeux de l'un et de l'autre s'ouvrirent, ils connurent qu'ils étaient nus ». Dans un sens spirituel, ils étaient devenus impropices par leur mal, et devaient être couverts par la justice. Parce que cela était le cas, Dieu les rendit conscients d’eux-mêmes par leur nudité, afin qu’ils comprennent, par la honte qu’ils ressentaient, de quelle façon leur relation avec lui avait été brisée. Ils voulurent couvrir leur erreur en cousant des feuilles de figuier pour s’abriter. Mais les œuvres de l’homme ne sont pas suffisantes pour l’abriter. Tel que nous le lisons, « Nous sommes tous comme des impurs, Et toute notre justice est comme un vêtement souillé&nbsp;».{% include cite.html description="Esaïe chapitre 64 verset 6" %} Le Seigneur dut donc couvrir lui-même Adam et Ève.</p>
 
 Nous avons ensuite une généalogie détaillée des fils d’Adam. La Bible dit,
-<blockquote>« Adam, âgé de cent trente ans, engendra un fils à sa ressemblance, selon son image, et il lui donna le nom de Seth. Les jours d'Adam, après la naissance de Seth, furent de huit cents ans; et il engendra des fils et des filles. Tous les jours qu'Adam vécut furent de neuf cent trente ans; puis il mourut. Seth, âgé de cent cinq ans, engendra Enosch. Seth vécut, après la naissance d'Enosch, huit cent sept ans; et il engendra des fils et des filles », <cite>Genèse chapitre 5 versets 3-7</cite> et ainsi de suite.</blockquote>
+<blockquote>« Adam, âgé de cent trente ans, engendra un fils à sa ressemblance, selon son image, et il lui donna le nom de Seth. Les jours d'Adam, après la naissance de Seth, furent de huit cents ans; et il engendra des fils et des filles. Tous les jours qu'Adam vécut furent de neuf cent trente ans; puis il mourut. Seth, âgé de cent cinq ans, engendra Enosch. Seth vécut, après la naissance d'Enosch, huit cent sept ans; et il engendra des fils et des filles&nbsp;»,{% include cite.html description="Genèse chapitre 5 versets 3-7" %} et ainsi de suite.</blockquote>
 D’évidence, ces généalogies clament des âges inconnus et extrêmement élevés pour des hommes! Par contre, il est nécessaire de noter premièrement que ces généalogies ne sont pourtant pas écrites de façon fabuleuse, mais qu’elles sont bien plutôt mentionnées avec précision, de façon à rapporter de simples faits historiques. Dans ce cas-ci, puisque nous n’y étions pas, il faut bien donner à l’historien le bénéfice du doute.
 
 Aussi, secondement, l’écrivain, afin d’être cru, n’aurait jamais modifié les faits de façon si frappante. S’il a inclus ces choses dans le texte, c’est qu’elles devaient d’évidence y figurer.
 
-Troisièmement, contrairement à notre première réaction de dédain, cet arbre généalogique <em>s’impose</em> à cause de l’entropie génétique. En effet, Adam, en commençant par un code génétique indéformé, aurait ainsi profité d’une dégénérescence génétique beaucoup plus pondérée que la nôtre. Mais de père en fils, la longévité déclina rapidement jusqu’à deux-cent ans et en dessous. D’après les études de Dr. John Sanford, Jim Pamplin, et Christopher Rupe, nous pouvons simuler cette dégénérescence par paramètres informatiques. La dégénérescence produite décrit la courbe exacte de longévité suivie par Adam et ses fils après lui, jusqu’à nous, sur une période d’environ six mille ans, ce qui est la période biblique de la création de la vie jusqu’à nos jours. <cite><a href="http://www.kolbecenter.org/wp-content/uploads/2014/07/Genetic-Entropy-Recorded-in-the-Bible.pdf" target="_new" rel="external">http://www.kolbecenter.org/wp-content/uploads/2014/07/Genetic-Entropy-Recorded-in-the-Bible.pdf</a> (7 mars 2015)</cite>
+<p>Troisièmement, contrairement à notre première réaction de dédain, cet arbre généalogique <em>s’impose</em> à cause de l’entropie génétique. En effet, Adam, en commençant par un code génétique indéformé, aurait ainsi profité d’une dégénérescence génétique beaucoup plus pondérée que la nôtre. Mais de père en fils, la longévité déclina rapidement jusqu’à deux-cent ans et en dessous. D’après les études de Dr. John Sanford, Jim Pamplin, et Christopher Rupe, nous pouvons simuler cette dégénérescence par paramètres informatiques. La dégénérescence produite décrit la courbe exacte de longévité suivie par Adam et ses fils après lui, jusqu’à nous, sur une période d’environ six mille ans, ce qui est la période biblique de la création de la vie jusqu’à nos jours.{% include cite.html href="http://www.kolbecenter.org/wp-content/uploads/2014/07/Genetic-Entropy-Recorded-in-the-Bible.pdf" date="7 mars 2015" %}<p>
 
 {% include image.html image-url="http://blog.drwile.com/wp-content/uploads/2010/07/patriarchs.jpg" image-description="Charte de la diminution des durées de vie de Noé et de ses fils simulée par ordinateur."  %}
 
-<cite>(Voir <a href="http://mendelsaccountant.info/" target="_new" rel="external">http://mendelsaccountant.info/</a>)</cite> Elles démontrent qu’en assumant que la sélection naturelle est efficace pour empêcher les plus faibles de se reproduire, l’extinction de la race humaine se produit au-dedans de 350 générations; or, cela ne peut arriver que par le modèle biblique, qui admet environ 230 générations depuis Adam jusqu’à nos jours. <cite><a href="http://www.icr.org/article/new-genomes-project-data-indicate-young/" target="_new" rel="external">http://www.icr.org/article/new-genomes-project-data-indicate-young/</a> (7 mars 2015)</cite>
+<p>{% include cite.html title="(Voir MendelsAccountant.info)" href="http://mendelsaccountant.info/" %} Elles démontrent qu’en assumant que la sélection naturelle est efficace pour empêcher les plus faibles de se reproduire, l’extinction de la race humaine se produit en moins de 350 générations; or, cela ne peut arriver que par le modèle biblique, qui admet environ 230 générations depuis Adam jusqu’à nos jours.{% include cite.html href="http://www.icr.org/article/new-genomes-project-data-indicate-young/" date="7 mars 2015" %}</p>
 
 Les longévités surprenantes mentionnées dans la Genèse, au lieu de constituer un problème, constituent donc en réalité la manifestation que la Bible a rapporté les seuls faits, même invraisemblables, au profit de la vérité. Ses textes pouvaient subir la moquerie des anciens, mais aujourd’hui, avec l’avancée de la science et les nouvelles découvertes archéologiques, ces positions doivent maintenant être réalignées vers ce que la Bible clamait déjà dès longtemps.
 
-Après quelques générations, « L'Éternel vit que la méchanceté des hommes était grande sur la terre, et que toutes les pensées de leur cœur se portaient chaque jour uniquement vers le mal. » <cite>Genèse chapitre 6 verset 5</cite> « Mais Noé trouva grâce aux yeux de l'Éternel. » <cite>Genèse chapitre 6 verset 8</cite> « Noé était un homme juste et intègre dans son temps; Noé marchait avec Dieu. » <cite>Genèse chapitre 6 verset 9</cite> Dieu lui dit donc,
-<blockquote>« Fais-toi une arche de bois de gopher; tu disposeras cette arche en cellules, et tu l'enduiras de poix en dedans et en dehors. Voici comment tu la feras: l'arche aura trois cents coudées de longueur, cinquante coudées de largeur et trente coudées de hauteur. Tu feras à l'arche une fenêtre, que tu réduiras à une coudée en haut; tu établiras une porte sur le côté de l'arche; et tu construiras un étage inférieur, un second et un troisième. Et moi, je vais faire venir le déluge d'eaux sur la terre, pour détruire toute chair ayant souffle de vie sous le ciel; tout ce qui est sur la terre périra. Mais j'établis mon alliance avec toi; tu entreras dans l'arche, toi et tes fils, ta femme et les femmes de tes fils avec toi. De tout ce qui vit, de toute chair, tu feras entrer dans l'arche deux de chaque espèce, pour les conserver en vie avec toi: il y aura un mâle et une femelle. Des oiseaux selon leur espèce, du bétail selon son espèce, et de tous les reptiles de la terre selon leur espèce, deux de chaque espèce viendront vers toi, pour que tu leur conserves la vie. Et toi, prends de tous les aliments que l'on mange, et fais-en une provision auprès de toi, afin qu'ils te servent de nourriture ainsi qu'à eux. C'est ce que fit Noé: il exécuta tout ce que Dieu lui avait ordonné. » <cite>Genèse chapitre 6 versets 14-22</cite></blockquote>
-<blockquote>« L'an six cent de la vie de Noé, le second mois, le dix-septième jour du mois, en ce jour-là toutes les sources du grand abîme jaillirent, et les écluses des cieux s'ouvrirent. » <cite>Genèse chapitre 7 verset 11</cite> C’est le déluge sur toute la terre.</blockquote>
+<p>Après quelques générations, « L'Éternel vit que la méchanceté des hommes était grande sur la terre, et que toutes les pensées de leur cœur se portaient chaque jour uniquement vers le mal.&nbsp;»{% include cite.html description="Genèse chapitre 6 verset 5" %} « Mais Noé trouva grâce aux yeux de l'Éternel.&nbsp;»{% include cite.html description="Genèse chapitre 6 verset 8" %} « Noé était un homme juste et intègre dans son temps; Noé marchait avec Dieu.&nbsp;»{% include cite.html description="Genèse chapitre 6 verset 9" %} Dieu lui dit donc,</p>
+<blockquote>« Fais-toi une arche de bois de gopher; tu disposeras cette arche en cellules, et tu l'enduiras de poix en dedans et en dehors. Voici comment tu la feras: l'arche aura trois cents coudées de longueur, cinquante coudées de largeur et trente coudées de hauteur. Tu feras à l'arche une fenêtre, que tu réduiras à une coudée en haut; tu établiras une porte sur le côté de l'arche; et tu construiras un étage inférieur, un second et un troisième. Et moi, je vais faire venir le déluge d'eaux sur la terre, pour détruire toute chair ayant souffle de vie sous le ciel; tout ce qui est sur la terre périra. Mais j'établis mon alliance avec toi; tu entreras dans l'arche, toi et tes fils, ta femme et les femmes de tes fils avec toi. De tout ce qui vit, de toute chair, tu feras entrer dans l'arche deux de chaque espèce, pour les conserver en vie avec toi: il y aura un mâle et une femelle. Des oiseaux selon leur espèce, du bétail selon son espèce, et de tous les reptiles de la terre selon leur espèce, deux de chaque espèce viendront vers toi, pour que tu leur conserves la vie. Et toi, prends de tous les aliments que l'on mange, et fais-en une provision auprès de toi, afin qu'ils te servent de nourriture ainsi qu'à eux. C'est ce que fit Noé: il exécuta tout ce que Dieu lui avait ordonné.&nbp;»{% include cite.html description="Genèse chapitre 6 versets 14-22" %}</blockquote>
+<blockquote>« L'an six cent de la vie de Noé, le second mois, le dix-septième jour du mois, en ce jour-là toutes les sources du grand abîme jaillirent, et les écluses des cieux s'ouvrirent.&nbsp;»{% include cite.html description="Genèse chapitre 7 verset 11" %} C’est le déluge sur toute la terre.</blockquote>
 Encore une fois, le déluge est l’une des accusations les plus portées contre la Bible. Mais la géologie de la terre la confirme abondamment. Les mécanismes exacts du déluge doivent être élucidés, mais ses effets sont indéniables. Il importe bien sûr principalement de savoir si le déluge Biblique est possible — et il l’est sans aucun doute.
 
-La Bible mentionne que « les sources du grand abîme jaillirent, et les écluses des cieux s'ouvrirent. » Il semble donc que la terre contenait sous elle de grandes sources d’eau, qui, sous pression, éclatèrent soudainement et couvrirent toute la surface de la terre. Vu la quantité de magma enfouie sous la terre, une grande réserve d’eau ne semble pas non plus improbable. D’ailleurs, une grande quantité de vapeur d’eau s’élève encore des volcans d’aujourd’hui. Bien que convenablement ignorés par la communauté géologique moderne, les témoignages de cette catastrophe naturelle remarquable que fut le déluge remplissent la terre. Certains fossiles, supposément fossilisés graduellement après leur mort, ont en réalité été enfouis très rapidement, comme le témoignent les fossiles de poissons mettant bas ou encore mangeant d’autres poissons. Certains fossiles, dit poly-strates, passent verticalement au travers des couches de roches censées avoir été déposées après des millions d’années, grain par grain. Certains autres fossiles ont laissé une empreinte de leur peau dans la roche; qu’ils meurent sans que leur peau se décompose est impossible, à moins qu’ils aient été rapidement déposés et enfouis, et non exposés aux prédateurs et à la flore bactérienne. Et encore, des fossiles du célèbre tyrannosaure ont été trouvés contenant du sang et des fibres encore élastiques, qui se seraient sans doute desséchés s’étaient-ils fossilisés il y a des millions d’années. <cite><a href="http://www.smithsonianmag.com/science-nature/dinosaur-shocker-115306469/?no-ist" target="_new" rel="external">http://www.smithsonianmag.com/science-nature/dinosaur-shocker-115306469/?no-ist</a> (11 mars 2015)</cite> <cite><a href="http://creation.com/still-soft-and-stretchy" target="_new" rel="external">http://creation.com/still-soft-and-stretchy</a></cite>
+La Bible mentionne que « les sources du grand abîme jaillirent, et les écluses des cieux s'ouvrirent. » Il semble donc que la terre contenait sous elle de grandes sources d’eau, qui, sous pression, éclatèrent soudainement et couvrirent toute la surface de la terre. Vu la quantité de magma enfouie sous la terre, une grande réserve d’eau ne semble pas non plus improbable. D’ailleurs, une grande quantité de vapeur d’eau s’élève encore des volcans d’aujourd’hui. Bien que convenablement ignorés par la communauté géologique moderne, les témoignages de cette catastrophe naturelle remarquable que fut le déluge remplissent la terre. Certains fossiles, supposément fossilisés graduellement après leur mort, ont en réalité été enfouis très rapidement, comme le témoignent les fossiles de poissons mettant bas ou encore mangeant d’autres poissons. Certains fossiles, dit poly-strates, passent verticalement au travers des couches de roches censées avoir été déposées après des millions d’années, grain par grain. Certains autres fossiles ont laissé une empreinte de leur peau dans la roche; qu’ils meurent sans que leur peau se décompose est impossible, à moins qu’ils aient été rapidement déposés et enfouis, et non exposés aux prédateurs et à la flore bactérienne. Et encore, des fossiles du célèbre tyrannosaure ont été trouvés contenant du sang et des fibres encore élastiques, qui se seraient sans doute desséchés s’étaient-ils fossilisés il y a des millions d’années.{% include cite.html href=="http://www.smithsonianmag.com/science-nature/dinosaur-shocker-115306469/?no-ist" date="11 mars 2015" %} {% include cite.html href="http://creation.com/still-soft-and-stretchy" date="11 mars 2015" %}
 
 {% include image.html image-url="https://legacy-cdn-assets.answersingenesis.org/images/articles/am/v2/n2/fossil-fish.jpg" image-description="Il y a plusieurs évidences géologiques d’une fossilisation rapide. Ici, un poisson fossilisé en mangeant un autre." %}
 
-Le modèle évolutionnaire de formation des roches stratifiées est incorrect. Les strates sont des fines couches de sédiments disposées uniformément dans de la roche sédimentaire. Selon la géologie évolutionnaire, « chaque bande représente un mode spécifique de déposition : limon de rivière, sable de plage, marais de charbon, dune de sable, lit de lave, etc. » <cite><a href="http://en.wikipedia.org/wiki/Stratum" target="_new" rel="external">http://en.wikipedia.org/wiki/Stratum</a> (11 mars 2015)</cite> Mais ce modèle est en réalité particulièrement problématique : si les strates furent exposées pendant des millions d’années, elles ne seraient pas absolument plates telles que nous les voyons, mais elles seraient érodées et très déformées. Cela est un exemple malheureux d’une interprétation avancée avant l’analyse des faits en cause.
+<p>Le modèle évolutionnaire de formation des roches stratifiées est incorrect. Les strates sont des fines couches de sédiments disposées uniformément dans de la roche sédimentaire. Selon la géologie évolutionnaire, « chaque bande représente un mode spécifique de déposition : limon de rivière, sable de plage, marais de charbon, dune de sable, lit de lave, etc.&nbsp;»{% include cite.html href="http://en.wikipedia.org/wiki/Stratum" date="11 mars 2015" %} Mais ce modèle est en réalité particulièrement problématique : si les strates furent exposées pendant des millions d’années, elles ne seraient pas absolument plates telles que nous les voyons, mais elles seraient érodées et très déformées. Cela est un exemple malheureux d’une interprétation avancée avant l’analyse des faits en cause.</p>
 
-Or, selon les expériences générées par la méthode scientifique, et non selon des moyens conjecturaux, des dépôts sédimentaires causés par de l’eau se déplaçant rapidement s’arrangent automatiquement par ordre de grosseur, causant le genre de stratification que nous constatons partout parmi le monde. <cite><a href="http://creation.com/experiments-on-stratification-of-heterogeneous-sand-mixtures" target="_new" rel="external">http://creation.com/experiments-on-stratification-of-heterogeneous-sand-mixtures</a> (11 mars 2015)</cite> D’ailleurs, ce n’est non seulement une hypothèse, mais aussi un fait observé. En 1980, suite à l’éruption du volcan St-Hélène, une coulée stratifiée de matière pyroclastique se forma en quelques heures, ayant 7.6 mètres de hauteur. Une autre coulée de boue y creusa ensuite trois canyons, dont l’un, ayant une forte ressemblance au Grand Canyon, fut nommé le « Petit Grand Canyon » (<em>Little Grand Canyon</em>). Une rivière n’ayant pas contribué à sa formation y coule aujourd’hui. <cite><a href="http://creation.com/our-world-afk-mount-st-helens-iguanodons-guinea-pigs-clownfish" target="_new" rel="external">http://creation.com/our-world-afk-mount-st-helens-iguanodons-guinea-pigs-clownfish</a> (11 mars 2015)
-</cite>
+<p>Or, selon les expériences générées par la méthode scientifique, et non selon des moyens conjecturaux, des dépôts sédimentaires causés par de l’eau se déplaçant rapidement s’arrangent automatiquement par ordre de grosseur, causant le genre de stratification que nous constatons partout parmi le monde.{% include cite.html href="http://creation.com/experiments-on-stratification-of-heterogeneous-sand-mixtures" date="11 mars 2015" %} D’ailleurs, ce n’est non seulement une hypothèse, mais aussi un fait observé. En 1980, suite à l’éruption du volcan St-Hélène, une coulée stratifiée de matière pyroclastique se forma en quelques heures, ayant 7.6 mètres de hauteur. Une autre coulée de boue y creusa ensuite trois canyons, dont l’un, ayant une forte ressemblance au Grand Canyon, fut nommé le « Petit Grand Canyon » (<em>Little Grand Canyon</em>). Une rivière n’ayant pas contribué à sa formation y coule aujourd’hui.{% include cite.html href="http://creation.com/our-world-afk-mount-st-helens-iguanodons-guinea-pigs-clownfish" date="11 mars 2015" %}</p>
 
 {% include image.html image-url="http://dl0.creation.com/articles/p009/c00984/Little-Grand-Canyon.jpg" image-description="La formation de roches stratifiées ne nécessite pas des millions d’années, comme le démontre la catastrophe du mont St-Hélène." %}
 
@@ -261,21 +260,21 @@ Après le déluge, une grande quantité d’eau a pu être emprisonnée sur les 
 
 Il est généralement supposé que l’ère glaciaire soit advenue suite aux contrecoups du déluge, grâce à la grande quantité de vapeur d’eau et d’éjectas volcaniques ayant obscurci le ciel et ainsi fait refroidir la terre. En effet, les strates géologiques contiennent des couches de matière volcanique. Cela explique les manifestations de glaciation présentes sur les continents d’aujourd’hui.
 
-Quant à la survie de toutes les espèces d’animaux dans l’arche, il faut noter que la plupart des animaux d’aujourd’hui sont dus à la spéciation. En réalité, ils proviennent d’une proto-espèce qui, elle, contenait toute l’information génétique pouvant produire les variations que nous connaissons aujourd’hui. Après le déluge, suite à leur répartition sur la terre et grâce à la sélection naturelle, les animaux ont exprimé certaines caractéristiques beaucoup plus spécifiques. C’est pourquoi Noé n’avait à emporter qu’un ou deux couples de la race canine, de la race féline, de la race équine, de la race des éléphantidés, et ainsi de suite. <cite><a href="http://creation.com/how-did-all-the-animals-fit-on-noahs-ark" target="_new" rel="external">http://creation.com/how-did-all-the-animals-fit-on-noahs-ark</a> (12 mars 2015)</cite>
+<p>Quant à la survie de toutes les espèces d’animaux dans l’arche, il faut noter que la plupart des animaux d’aujourd’hui sont dus à la spéciation. En réalité, ils proviennent d’une proto-espèce qui, elle, contenait toute l’information génétique pouvant produire les variations que nous connaissons aujourd’hui. Après le déluge, suite à leur répartition sur la terre et grâce à la sélection naturelle, les animaux ont exprimé certaines caractéristiques beaucoup plus spécifiques. C’est pourquoi Noé n’avait à emporter qu’un ou deux couples de la race canine, de la race féline, de la race équine, de la race des éléphantidés, et ainsi de suite.{% include cite.html href="http://creation.com/how-did-all-the-animals-fit-on-noahs-ark" date="12 mars 2015" %}</p>
 
 La destruction des eaux aurait aussi formé d’immenses radeaux de matière organique, grâce auxquels plusieurs espèces de plantes et d’insectes ont pu survivre le passage des eaux.
 
 Le déluge tel que mentionné dans le récit biblique est donc bien plus que possible, mais concorde encore justement avec les observations faites sur le terrain.
 
-Après le déluge, les fils de Noé — Sem, Cham, et Japhet — repeuplèrent la terre. Or, il est très intéressant de noter que les noms des seize petits-fils de Noé concordent encore très bien avec les noms des peuples d’aujourd’hui. <cite><a href="http://creation.com/the-sixteen-grandsons-of-noah" target="_new" rel="external">http://creation.com/the-sixteen-grandsons-of-noah</a> (12 mars 2015)</cite> En effet, les tribus descendant d’eux se nommaient par leur ancêtre commun, et désignaient souvent leur propre territoire, ville, ou rivière d’après son nom. Il arrivait aussi que suite à l’adoration de leurs ancêtres, ils baptisaient leur dieu d’après le nom de leurs pères anciens.
+<p>Après le déluge, les fils de Noé — Sem, Cham, et Japhet — repeuplèrent la terre. Or, il est très intéressant de noter que les noms des seize petits-fils de Noé concordent encore très bien avec les noms des peuples d’aujourd’hui.{% include cite.html href="http://creation.com/the-sixteen-grandsons-of-noah" date="12 mars 2015" %} En effet, les tribus descendant d’eux se nommaient par leur ancêtre commun, et désignaient souvent leur propre territoire, ville, ou rivière d’après son nom. Il arrivait aussi que suite à l’adoration de leurs ancêtres, ils baptisaient leur dieu d’après le nom de leurs pères anciens.</p>
 
-La Bible mentionne que « Les fils de Japhet furent: Gomer, Magog, Madaï, Javan, Tubal, Méschec et Tiras. » <cite>Genèse chapitre 10 verset 2</cite>
+<p>La Bible mentionne que « Les fils de Japhet furent: Gomer, Magog, Madaï, Javan, Tubal, Méschec et Tiras.&nbsp;»{% include cite.html description="Genèse chapitre 10 verset 2" %}</p>
 
-L’historien Flavius Josèphe écrivit que les gens appelés Galiciens ou Gaules en son temps étaient connus auparavant comme les Gomerites. <cite><em>Antiquités des Juifs</em>, premier livre, chapitre 6, section 1</cite> Ce fut le peuple que nous connaissons de par le nom de Gaulois à ce jour. La Bible dit que les fils de Gomer furent « Aschkenaz, Riphat et Togarma. » Le mot Hébreux pour l’Allemagne demeure Ashkenaz. Le nom de la Turquie provient aussi probablement de Togarma.
+<p>L’historien Flavius Josèphe écrivit que les gens appelés Galiciens ou Gaules en son temps étaient connus auparavant comme les Gomerites.{% include cite.html description="<em>Antiquités des Juifs</em>, premier livre, chapitre 6, section 1" %} Ce fut le peuple que nous connaissons de par le nom de Gaulois à ce jour. La Bible dit que les fils de Gomer furent « Aschkenaz, Riphat et Togarma. » Le mot Hébreux pour l’Allemagne demeure Ashkenaz. Le nom de la Turquie provient aussi probablement de Togarma.</p>
 
 Flavius Josèphe écrit que les descendants de Madaï étaient appelés Mèdes par les Grecs. Après Cyrus, les Mèdes formèrent un peuple indistinct des Perses, et furent simplement appelés Perses. Le pays moderne des Perses est aujourd’hui l’Iran.
 
-Le prochain fils de Japhet, Javan, est synonyme des Grecs; ce nom est assimilé à Ion, la plus importante tribu Grecque (les Ioniens). <cite><a href="http://fr.wikipedia.org/wiki/Yavane" target="_new" rel="external">http://fr.wikipedia.org/wiki/Yavane</a> (11 mars 2015)</cite>
+<p>Le prochain fils de Japhet, Javan, est synonyme des Grecs; ce nom est assimilé à Ion, la plus importante tribu Grecque (les Ioniens).{% include cite.html href="http://fr.wikipedia.org/wiki/Yavane" date="11 mars 2015" %}</p>
 
 Après Javan vient Tubal. Ses descendants furent connus des Assyriens comme les Tabali; ils furent notés par Josèphe comme étant les Thobelites, aussi connus des Romains sous le nom d’Ibères. Cet endroit inclut aujourd’hui la Géorgie, dont la capitale est encore connue par le nom Tubal, dit Tbilissi. Ils donnèrent aussi leur nom à la rivière Tobol, ainsi qu’à la ville de Tobolsk.
 
@@ -293,7 +292,7 @@ Puth est le nom Hébreux décrivant la Libye; Josèphe appelle ce peuple du nom 
 
 Canaan est le père des peuples de la région romaine de la Palestine, incluant les Sidoniens et les Hittites, ces derniers étant devenus puissants contre l’Égypte. Aussi mentionnés sont plusieurs autres noms des habitants anciens de cette région-là.
 
-Ensuite, la Bible atteste que « Les fils de Sem furent : Elam, Assur, Arpacschad, Lud et Aram. » <cite>Genèse chapitre 10 verset 22</cite>
+<p>Ensuite, la Bible atteste que « Les fils de Sem furent : Elam, Assur, Arpacschad, Lud et Aram.&nbsp;»{% include cite.html description="Genèse chapitre 10 verset 22" %}</p>
 
 Elam correspond à l’Iran, du peuple ancien Perse. Autrefois, les perses étaient appelés Élamites; ils se sont associés aux Mèdes, fils de Madaï, fils de Japhet.
 
@@ -301,110 +300,111 @@ Assur est le père du peuple Assyrien : le mot Hébreux Assur signifie Assyrien.
 
 Ainsi, même par survol rapide, nous constatons que les faits historiques coïncident parfaitement avec le récit Biblique. Il en est aussi de même sur plusieurs autres points archéologiques.
 
-Plusieurs centaines d’années après le déluge, Térach, descendant de Sem, « prit Abram, son fils, et Lot, fils d'Haran, fils de son fils, et Saraï, sa belle-fille, femme d'Abram, son fils. Ils sortirent ensemble d'Ur en Chaldée, pour aller au pays de Canaan. » <cite>Genèse chapitre 11 verset 31</cite> Ainsi débute l’historique du peuple Hébreux.
-<blockquote>« L'Eternel dit à Abram: Va-t’en de ton pays, de ta patrie, et de la maison de ton père, dans le pays que je te montrerai. Je ferai de toi une grande nation, et je te bénirai; je rendrai ton nom grand, et tu seras une source de bénédiction. Je bénirai ceux qui te béniront, et je maudirai ceux qui te maudiront; et toutes les familles de la terre seront bénies en toi. » <cite>Genèse chapitre chapitre 12 versets 1-3</cite></blockquote>
-Plus loin, Dieu lui affirme encore : « Regarde vers le ciel, et compte les étoiles, si tu peux les compter. Et il lui dit : Telle sera ta postérité. » La Bible détaille ensuite l’histoire complète d’Abram (ensuite nommé Abraham), de son fils Isaac, ainsi que celle de son petit-fils Jacob — aussi connu sous le nom d’Israël, signifiant « qui débat avec Dieu. » <cite>Genèse chapitre 32 verset 28</cite>
+<p>Plusieurs centaines d’années après le déluge, Térach, descendant de Sem, « prit Abram, son fils, et Lot, fils d'Haran, fils de son fils, et Saraï, sa belle-fille, femme d'Abram, son fils. Ils sortirent ensemble d'Ur en Chaldée, pour aller au pays de Canaan.&nbsp;»{% include cite.html description="Genèse chapitre 11 verset 31" %} Ainsi débute l’historique du peuple Hébreux.</p>
+<blockquote>« L'Eternel dit à Abram: Va-t’en de ton pays, de ta patrie, et de la maison de ton père, dans le pays que je te montrerai. Je ferai de toi une grande nation, et je te bénirai; je rendrai ton nom grand, et tu seras une source de bénédiction. Je bénirai ceux qui te béniront, et je maudirai ceux qui te maudiront; et toutes les familles de la terre seront bénies en toi.&nbsp;»{% include cite.html description="Genèse chapitre chapitre 12 versets 1-3" %}</blockquote>
+<p>Plus loin, Dieu lui affirme encore : « Regarde vers le ciel, et compte les étoiles, si tu peux les compter. Et il lui dit : Telle sera ta postérité. » La Bible détaille ensuite l’histoire complète d’Abram (ensuite nommé Abraham), de son fils Isaac, ainsi que celle de son petit-fils Jacob — aussi connu sous le nom d’Israël, signifiant « qui se débat avec Dieu.&nbsp;»{% include cite.html description="Genèse chapitre 32 verset 28" %}</p>
 
 Plusieurs centaines d’années après Abraham, Isaac, et Jacob, il y eut un roi bon et célèbre en Israël s’appelant David. Voici les mots qui lui furent prophétisés de la part de Dieu par Nathan, le prophète :
-<blockquote>« Et l'Eternel t'annonce qu'il te créera une maison. Quand tes jours seront accomplis et que tu seras couché avec tes pères, j'élèverai ta postérité après toi, celui qui sera sorti de tes entrailles, et j'affermirai son règne. Ce sera lui qui bâtira une maison à mon nom, et j'affermirai pour toujours le trône de son royaume. […] Ta maison et ton règne seront pour toujours assurés, ton trône sera pour toujours affermi. » <cite>Deuxième livre de Samuel, chapitre 7 versets 11-16</cite></blockquote>
+<blockquote>« Et l'Eternel t'annonce qu'il te créera une maison. Quand tes jours seront accomplis et que tu seras couché avec tes pères, j'élèverai ta postérité après toi, celui qui sera sorti de tes entrailles, et j'affermirai son règne. Ce sera lui qui bâtira une maison à mon nom, et j'affermirai pour toujours le trône de son royaume. […] Ta maison et ton règne seront pour toujours assurés, ton trône sera pour toujours affermi.&nbsp;»{% include cite.html description="Deuxième livre de Samuel, chapitre 7 versets 11-16" %}</blockquote>
 Et voici ce que dit Ésaïe le prophète au sujet de cette postérité :
 <blockquote>« Voici, mon serviteur prospérera;
-Il montera, il s'élèvera, il s'élèvera bien haut.
-De même qu'il a été pour plusieurs un sujet d'effroi, -
-Tant son visage était défiguré,
-Tant son aspect différait de celui des fils de l'homme, -
-De même il sera pour beaucoup de peuples un sujet de joie;
-Devant lui des rois fermeront la bouche;
-Car ils verront ce qui ne leur avait point été raconté,
-Ils apprendront ce qu'ils n'avaient point entendu.
-Qui a cru à ce qui nous était annoncé?
-Qui a reconnu le bras de l'Eternel?
-Il s'est élevé devant lui comme une faible plante,
-Comme un rejeton qui sort d'une terre desséchée;
-Il n'avait ni beauté, ni éclat pour attirer nos regards,
-Et son aspect n'avait rien pour nous plaire.
-Méprisé et abandonné des hommes,
-Homme de douleur et habitué à la souffrance,
-Semblable à celui dont on détourne le visage,
-Nous l'avons dédaigné, nous n'avons fait de lui aucun cas.
-Cependant, ce sont nos souffrances qu'il a portées,
-C'est de nos douleurs qu'il s'est chargé;
-Et nous l'avons considéré comme puni,
-Frappé de Dieu, et humilié.
-Mais il était blessé pour nos péchés,
-Brisé pour nos iniquités;
-Le châtiment qui nous donne la paix est tombé sur lui,
-Et c'est par ses meurtrissures que nous sommes guéris.
-Nous étions tous errants comme des brebis,
-Chacun suivait sa propre voie;
-Et l'Eternel a fait retomber sur lui l'iniquité de nous tous.
-Il a été maltraité et opprimé,
-Et il n'a point ouvert la bouche,
-Semblable à un agneau qu'on mène à la boucherie,
-A une brebis muette devant ceux qui la tondent;
-Il n'a point ouvert la bouche.
-Il a été enlevé par l'angoisse et le châtiment;
-Et parmi ceux de sa génération, qui a cru
-Qu'il était retranché de la terre des vivants
-Et frappé pour les péchés de mon peuple?
-[…] Il a plu à l'Eternel de le briser par la souffrance...
-Après avoir livré sa vie en sacrifice pour le péché,
-Il verra une postérité et prolongera ses jours;
-Et l'œuvre de l'Eternel prospérera entre ses mains.
-A cause du travail de son âme, il rassasiera ses regards;
-Par sa connaissance mon serviteur juste justifiera beaucoup d'hommes,
-Et il se chargera de leurs iniquités.
-C'est pourquoi je lui donnerai sa part avec les grands;
-Il partagera le butin avec les puissants,
-Parce qu'il s'est livré lui-même à la mort,
-Et qu'il a été mis au nombre des malfaiteurs,
-Parce qu'il a porté les péchés de beaucoup d'hommes,
-Et qu'il a intercédé pour les coupables. » <cite>Ésaïe chapitre 52 verset 13 à Ésaïe chapitre 53 verset 12</cite></blockquote>
+<br />Il montera, il s'élèvera, il s'élèvera bien haut.
+<br />De même qu'il a été pour plusieurs un sujet d'effroi, -
+<br />Tant son visage était défiguré,
+<br />Tant son aspect différait de celui des fils de l'homme, -
+<br />De même il sera pour beaucoup de peuples un sujet de joie;
+<br />Devant lui des rois fermeront la bouche;
+<br />Car ils verront ce qui ne leur avait point été raconté,
+<br />Ils apprendront ce qu'ils n'avaient point entendu.
+<br />Qui a cru à ce qui nous était annoncé?
+<br />Qui a reconnu le bras de l'Eternel?
+<br />Il s'est élevé devant lui comme une faible plante,
+<br />Comme un rejeton qui sort d'une terre desséchée;
+<br />Il n'avait ni beauté, ni éclat pour attirer nos regards,
+<br />Et son aspect n'avait rien pour nous plaire.
+<br />Méprisé et abandonné des hommes,
+<br />Homme de douleur et habitué à la souffrance,
+<br />Semblable à celui dont on détourne le visage,
+<br />Nous l'avons dédaigné, nous n'avons fait de lui aucun cas.
+<br />Cependant, ce sont nos souffrances qu'il a portées,
+<br />C'est de nos douleurs qu'il s'est chargé;
+<br />Et nous l'avons considéré comme puni,
+<br />Frappé de Dieu, et humilié.
+<br />Mais il était blessé pour nos péchés,
+<br />Brisé pour nos iniquités;
+<br />Le châtiment qui nous donne la paix est tombé sur lui,
+<br />Et c'est par ses meurtrissures que nous sommes guéris.
+<br />Nous étions tous errants comme des brebis,
+<br />Chacun suivait sa propre voie;
+<br />Et l'Eternel a fait retomber sur lui l'iniquité de nous tous.
+<br />Il a été maltraité et opprimé,
+<br />Et il n'a point ouvert la bouche,
+<br />Semblable à un agneau qu'on mène à la boucherie,
+<br />A une brebis muette devant ceux qui la tondent;
+<br />Il n'a point ouvert la bouche.
+<br />Il a été enlevé par l'angoisse et le châtiment;
+<br />Et parmi ceux de sa génération, qui a cru
+<br />Qu'il était retranché de la terre des vivants
+<br />Et frappé pour les péchés de mon peuple?
+<br />[…] Il a plu à l'Eternel de le briser par la souffrance...
+<br />Après avoir livré sa vie en sacrifice pour le péché,
+<br />Il verra une postérité et prolongera ses jours;
+<br />Et l'œuvre de l'Eternel prospérera entre ses mains.
+<br />A cause du travail de son âme, il rassasiera ses regards;
+<br />Par sa connaissance mon serviteur juste justifiera beaucoup d'hommes,
+<br />Et il se chargera de leurs iniquités.
+<br />C'est pourquoi je lui donnerai sa part avec les grands;
+<br />Il partagera le butin avec les puissants,
+<br />Parce qu'il s'est livré lui-même à la mort,
+<br />Et qu'il a été mis au nombre des malfaiteurs,
+<br />Parce qu'il a porté les péchés de beaucoup d'hommes,
+<br />Et qu'il a intercédé pour les coupables.&nbsp;»{% include cite.html description="Ésaïe chapitre 52 verset 13 à Ésaïe chapitre 53 verset 12" %}</blockquote>
 Et voici ce qu’ajoute le Psalmiste :
 <blockquote>« Mon Dieu! mon Dieu! pourquoi m'as-tu abandonné,
-Et t'éloignes-tu sans me secourir, sans écouter mes plaintes?
-[…] je suis un ver et non un homme,
-L'opprobre des hommes et le méprisé du peuple.
-Tous ceux qui me voient se moquent de moi,
-Ils ouvrent la bouche, secouent la tête:
-Recommande-toi à l'Eternel! L'Eternel le sauvera,
-Il le délivrera, puisqu'il l'aime! -
-[…] De nombreux taureaux sont autour de moi,
-Des taureaux de Basan m'environnent.
-Ils ouvrent contre moi leur gueule,
-Semblables au lion qui déchire et rugit.
-Je suis comme de l'eau qui s'écoule,
-Et tous mes os se séparent;
-Mon cœur est comme de la cire,
-Il se fond dans mes entrailles.
-Ma force se dessèche comme l'argile,
-Et ma langue s'attache à mon palais;
-Tu me réduis à la poussière de la mort.
-Car des chiens m'environnent,
-Une bande de scélérats rôdent autour de moi,
-Ils ont percé mes mains et mes pieds.
-Je pourrais compter tous mes os.
-Eux, ils observent, ils me regardent;
-Ils se partagent mes vêtements,
-Ils tirent au sort ma tunique.
-[…] Toutes les extrémités de la terre penseront à
-l'Eternel et se tourneront vers lui;
-Toutes les familles des nations se prosterneront devant ta face.
-Car à l'Eternel appartient le règne:
-Il domine sur les nations.
-Tous les puissants de la terre mangeront et se prosterneront aussi;
-Devant lui s'inclineront tous ceux qui descendent dans la poussière, Ceux qui ne peuvent conserver leur vie.
-La postérité le servira;
-On parlera du Seigneur à la génération future.
-Quand elle viendra, elle annoncera sa justice,
-Elle annoncera son œuvre au peuple nouveau-né. » <cite>Psaume 22 versets 1 à 31</cite></blockquote>
-Tous les textes mentionnés ci-haut ont été recopiés à partir de manuscrits confectionnés du deuxième au troisième siècle avant Jésus-Christ. <cite><a href="http://fr.wikipedia.org/wiki/Manuscrits_de_la_mer_Morte#Datation_des_textes" target="_new" rel="external">http://fr.wikipedia.org/wiki/Manuscrits_de_la_mer_Morte#Datation_des_textes</a> (13 mars 2015)</cite> Nous le savons parce que ces textes ont été retrouvés dans les Manuscrits de la Mer Morte, eux-mêmes copiés d’écrits plus anciens. En effet, des fragments de la Mer Morte nous retrouvons 24 manuscrits de la Genèse, 39 du livre des Psaumes, et 22 du livre d’Ésaïe. <cite><a href="http://fr.wikipedia.org/wiki/Manuscrits_de_la_mer_Morte#Datation_des_textes" target="_new" rel="external">http://fr.wikipedia.org/wiki/Manuscrits_de_la_mer_Morte#Datation_des_textes</a> (13 mars 2015)</cite>
+<br />Et t'éloignes-tu sans me secourir, sans écouter mes plaintes?
+<br />[…] je suis un ver et non un homme,
+<br />L'opprobre des hommes et le méprisé du peuple.
+<br />Tous ceux qui me voient se moquent de moi,
+<br />Ils ouvrent la bouche, secouent la tête:
+<br />Recommande-toi à l'Eternel! L'Eternel le sauvera,
+<br />Il le délivrera, puisqu'il l'aime! -
+<br />[…] De nombreux taureaux sont autour de moi,
+<br />Des taureaux de Basan m'environnent.
+<br />Ils ouvrent contre moi leur gueule,
+<br />Semblables au lion qui déchire et rugit.
+<br />Je suis comme de l'eau qui s'écoule,
+<br />Et tous mes os se séparent;
+<br />Mon cœur est comme de la cire,
+<br />Il se fond dans mes entrailles.
+<br />Ma force se dessèche comme l'argile,
+<br />Et ma langue s'attache à mon palais;
+<br />Tu me réduis à la poussière de la mort.
+<br />Car des chiens m'environnent,
+<br />Une bande de scélérats rôdent autour de moi,
+<br />Ils ont percé mes mains et mes pieds.
+<br />Je pourrais compter tous mes os.
+<br />Eux, ils observent, ils me regardent;
+<br />Ils se partagent mes vêtements,
+<br />Ils tirent au sort ma tunique.
+<br />[…] Toutes les extrémités de la terre penseront à
+<br />l'Eternel et se tourneront vers lui;
+<br />Toutes les familles des nations se prosterneront devant ta face.
+<br />Car à l'Eternel appartient le règne:
+<br />Il domine sur les nations.
+<br />Tous les puissants de la terre mangeront et se prosterneront aussi;
+<br />Devant lui s'inclineront tous ceux qui descendent dans la poussière, Ceux qui ne peuvent conserver leur vie.
+<br />La postérité le servira;
+<br />On parlera du Seigneur à la génération future.
+<br />Quand elle viendra, elle annoncera sa justice,
+<br />Elle annoncera son œuvre au peuple nouveau-né.&nbsp;»{% include cite.html description="Psaume 22 versets 1 à 31" %}</blockquote>
+
+<p>Tous les textes mentionnés ci-haut ont été recopiés à partir de manuscrits confectionnés du deuxième au troisième siècle avant Jésus-Christ.{% include cite.html href="http://fr.wikipedia.org/wiki/Manuscrits_de_la_mer_Morte#Datation_des_textes" date="13 mars 2015" %} Nous le savons parce que ces textes ont été retrouvés dans les Manuscrits de la Mer Morte, eux-mêmes copiés d’écrits plus anciens. En effet, des fragments de la Mer Morte nous retrouvons 24 manuscrits de la Genèse, 39 du livre des Psaumes, et 22 du livre d’Ésaïe.{% include cite.html href="http://fr.wikipedia.org/wiki/Manuscrits_de_la_mer_Morte#Datation_des_textes" date="13 mars 2015" %}</p>
 
 Or, ces prophéties concernent toutes Jésus-Christ, venu bien après leur écriture! Voilà la principale raison pour laquelle il est possible de démontrer que la Bible est divinement inspirée : elle dit, et sa parole s’accomplit.
 
 Maintenant, il est bien sûr possible de prophétiser largement et très vaguement afin que s’accomplisse fort probablement ce que nous avons prédit. Mais dans ces écrits, par aucun moyen n’était-il possible d’être aussi spécifique. D’ailleurs, la Bible, lorsqu’elle prédit quelque-chose, ne se trompa jamais, et sa parole s’accomplit toujours exactement. Cela est requis, puisque voici la règle établie sur les prophètes :
-<blockquote>« Mais le prophète qui aura l'audace de dire en mon nom une parole que je ne lui aurai point commandé de dire, ou qui parlera au nom d'autres dieux, ce prophète-là sera puni de mort. Peut-être diras-tu dans ton cœur: Comment connaîtrons-nous la parole que l'Eternel n'aura point dite? Quand ce que dira le prophète n'aura pas lieu et n'arrivera pas, ce sera une parole que l'Eternel n'aura point dite. C'est par audace que le prophète l'aura dite: n'aie pas peur de lui. » <cite>Deutéronome chapitre 18 versets 20-22</cite></blockquote>
-Mais observons premièrement leur accomplissement. Selon l’historique de Jésus, il fut toujours opposé parmi ceux de sa génération. Hérode fut le premier à vouloir l’assassiner. <cite>Matthieu chapitre 2 verset 16</cite> À chaque détour, les spécialistes de la loi voulurent le piéger : « Par quelle autorité fais-tu ces choses, et qui t'a donné cette autorité? » <cite>Matthieu chapitre 21 verset 23</cite> On voulut détruire sa réputation : « Et les scribes, qui étaient descendus de Jérusalem, dirent : Il est possédé de Beelzébul; c'est par le prince des démons qu'il chasse les démons. » <cite>Mark chapitre 3 verset 22</cite> Aussi, dans l’intérêt politique, les chefs des Juifs trouvèrent préférable de le faire mourir : « L'un d'eux, Caïphe, qui était souverain sacrificateur cette année-là, leur dit : Vous n'y entendez rien; vous ne réfléchissez pas qu'il est dans votre intérêt qu'un seul homme meure pour le peuple, et que la nation entière ne périsse pas. » <cite>Jean chapitre 14 verset 50</cite> Et c’est ainsi qu’après n’avoir fait que du bien, le Christ lui-même fut accusé d’être qui il était, le fils de Dieu, et fut officiellement mis à mort pour blasphème devant les Juifs et pour sédition devant les Romains — bien que le juge Romain, Ponce Pilate, se soit exclamé, « Quel mal a-t-il fait? », <cite>Marc chapitre 15 verset 14</cite> et encore « Vous m'avez amené cet homme comme excitant le peuple à la révolte. Et voici, je l'ai interrogé devant vous, et je ne l'ai trouvé coupable d'aucune des choses dont vous l'accusez; Hérode non plus, car il nous l'a renvoyé, et voici, cet homme n'a rien fait qui soit digne de mort. » Pourtant, il céda devant le peuple, sachant bien qu’ils l’accusaient à cause de l’envie qu’ils lui portaient. <cite>Matthieu chapitre 27 verset 18</cite>
+<blockquote>« Mais le prophète qui aura l'audace de dire en mon nom une parole que je ne lui aurai point commandé de dire, ou qui parlera au nom d'autres dieux, ce prophète-là sera puni de mort. Peut-être diras-tu dans ton cœur: Comment connaîtrons-nous la parole que l'Eternel n'aura point dite? Quand ce que dira le prophète n'aura pas lieu et n'arrivera pas, ce sera une parole que l'Eternel n'aura point dite. C'est par audace que le prophète l'aura dite: n'aie pas peur de lui.&nbsp;»{% include cite.html description="Deutéronome chapitre 18 versets 20-22" %}</blockquote>
+Mais observons premièrement leur accomplissement. Selon l’historique de Jésus, il fut toujours opposé parmi ceux de sa génération. Hérode fut le premier à vouloir l’assassiner.{% include cite.html description="Matthieu chapitre 2 verset 16" %} À chaque détour, les spécialistes de la loi voulurent le piéger : « Par quelle autorité fais-tu ces choses, et qui t'a donné cette autorité?&nbsp;»{% ionclude cite.html description="Matthieu chapitre 21 verset 23" %} On voulut détruire sa réputation : « Et les scribes, qui étaient descendus de Jérusalem, dirent : Il est possédé de Beelzébul; c'est par le prince des démons qu'il chasse les démons.&nbsp;»{% include cite.html description="Mark chapitre 3 verset 22" %} Aussi, dans l’intérêt politique, les chefs des Juifs trouvèrent préférable de le faire mourir : « L'un d'eux, Caïphe, qui était souverain sacrificateur cette année-là, leur dit : Vous n'y entendez rien; vous ne réfléchissez pas qu'il est dans votre intérêt qu'un seul homme meure pour le peuple, et que la nation entière ne périsse pas.&nbsp;»{% include cite.html description="Jean chapitre 14 verset 50" %} Et c’est ainsi qu’après n’avoir fait que du bien, le Christ lui-même fut accusé d’être qui il était, le fils de Dieu, et fut officiellement mis à mort pour blasphème devant les Juifs et pour sédition devant les Romains — bien que le juge Romain, Ponce Pilate, se soit exclamé, « Quel mal a-t-il fait?&nbsp;»,{% include cite.html description="Marc chapitre 15 verset 14" %} et encore « Vous m'avez amené cet homme comme excitant le peuple à la révolte. Et voici, je l'ai interrogé devant vous, et je ne l'ai trouvé coupable d'aucune des choses dont vous l'accusez; Hérode non plus, car il nous l'a renvoyé, et voici, cet homme n'a rien fait qui soit digne de mort. » Pourtant, il céda devant le peuple, sachant bien qu’ils l’accusaient à cause de l’envie qu’ils lui portaient.{% include cite.html description="Matthieu chapitre 27 verset 18" %}
 
 Voilà donc l’accomplissement des mots d’Ésaïe le prophète, qui avait auparavant écrit ces mots de la part de Dieu :
 <blockquote>« Qui a cru à ce qui nous était annoncé?
