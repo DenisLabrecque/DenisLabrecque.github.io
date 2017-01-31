@@ -19,6 +19,11 @@ layout: default
           <a class="share-link" href="{{ page.cta-link }}" target="_new">{{ page.cta-link-title }}</a>
         </span>
       {% endif %}
+      {% if page.cta-hero %}
+        <span class="popdown-span">
+          {% include popdown.html id="hero-call-to-action" title="{{ cta-hero.title }}" contents="{{ cta-hero.contents }}"
+        </span>
+      {% endif %}
     </div>
   </figure>
 
