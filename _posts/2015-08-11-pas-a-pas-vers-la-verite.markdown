@@ -521,7 +521,7 @@ Ce que nous constatons est que toute fausse religion nie l’existence de l’É
 
 Toute religion fausse demande aussi d’accomplir un nombre suffisant de bonnes œuvres pour pouvoir se présenter devant Dieu. Or, cela nie l’œuvre du Christ, qui est mort à notre place, et nous a ainsi sauvés de la condamnation éternelle. Tel qu’il est écrit dans la Bible :
 
-<blockquote>« Car c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est le don de Dieu. Ce n'est point par les œuvres, afin que personne ne se glorifie. Car nous sommes son ouvrage, ayant été créés en Jésus-Christ pour de bonnes œuvres, que Dieu a préparées d'avance, afin que nous les pratiquions.&nbsp;» <cite>{% include cite.html title="Éphésiens" description="Éphésiens chapitre 2 versets 8-10" %}</cite></blockquote>
+<blockquote>« Car c'est par la grâce que vous êtes sauvés, par le moyen de la foi. Et cela ne vient pas de vous, c'est le don de Dieu. Ce n'est point par les œuvres, afin que personne ne se glorifie. Car nous sommes son ouvrage, ayant été créés en Jésus-Christ pour de bonnes œuvres, que Dieu a préparées d'avance, afin que nous les pratiquions.&nbsp;» <cite>{% include cite.html title="Éphésiens 2" description="Éphésiens chapitre 2 versets 8-10" %}</cite></blockquote>
 <h3 id="en-conclusion">En conclusion</h3>
 Le sujet des origines est extrêmement vaste. Je suis largement certain qu’en lisant ce court livre, plusieurs de mes lecteurs me contrediront étape par étape. En élaborant ce texte, je ne peux m’empêcher d’imaginer le grand nombre de questions et d’arguments, factices ou valables, qui seront emmenés, mentalement ou verbalement, contre ce raisonnement.
 
