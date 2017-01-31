@@ -11,11 +11,14 @@ categories: biblique
 lang: fr
 tags: apologétique littérature évolution interprétationBiblique
 lastmod: 2017-01-30
+cta-hero:
+  - title: À propos
+  - content: "Ceci est le contenu de ma description"
 ---
 <h3 id="preambule">Préambule</h3>
 <blockquote>Qui suis-je,
-D'où suis-je,
-Et pourquoi suis-je ici?
+<br />D'où suis-je,
+<br />Et pourquoi suis-je ici?
 <cite>Questions Universelles</cite></blockquote>
 <blockquote>« Si, comme il est clamé par l'humanisme, l'homme était né seulement pour être heureux, il ne serait pas né pour mourir. »
 <cite>{% include cite.html title="Alexandre Solzhenitsyn" description="American Literature Classics for Christians Vol. 5, A Beka Book, Pensacola, Florida (2011) p. 267 (traduction de l’auteur)" %}</cite></blockquote>
@@ -23,7 +26,7 @@ J'ai déterminé que j'écrirais ce texte afin de démontrer que la connaissance
 
 Ce texte a donc une fin extrêmement simple. Il vise à répondre à cette question : quelle est l'origine de cet univers? C'est à dire :
 <blockquote>Quelle est l'origine de cet univers,
-Et d'où vient la vie habitant sur elle?</blockquote>
+<br />Et d'où vient la vie habitant sur elle?</blockquote>
 Nous appellerons dorénavant cette question la question des origines. Et voyant la quantité de religions et de philosophies variées qui y répondent, ces réponses sont aussi diverses que contradictoires.<!--more-->
 
 <p>Pourtant, de telles croyances infondées ne sauraient — du moins pas certainement — mener à la vérité. Cette terre provient-elle du corps du dieu Pangu, et sommes-nous les mites de son corps, {% include cite.html title="comme l’indique la mythologie chinoise?"  href="http://en.wikipedia.org/wiki/Chinese_creation_myth#Pangu" date="28 février 2015" %} Ou venons-nous plutôt d’un œuf cosmique, d’entre les chaos d’une mer primale, {% include cite.html title="comme l’enseigne la cosmologie égyptienne antique?"  href="http://en.wikipedia.org/wiki/Ancient_Egyptian_creation_myths#Common_elements" date="28 février 2015" %} De telles propositions, puisqu'elles sont mutuellement contradictoires, doivent nous mener vers un point évident : beaucoup d'erreurs et plusieurs mensonges circulent concernant les origines.</p>
@@ -32,7 +35,7 @@ C'est pourquoi ce texte est destiné à être aussi raisonné que possible. Vous
 
 Je veux pourtant vous dire que vu le matériel immense à couvrir sur le sujet, et vu le temps très restreint et les mots limités avec lesquels je dois le faire, il m’a été impossible de documenter tous les arguments et toutes les étapes logiques qu’il faut suivre pour en arriver aux conclusions que je présente ici. Pour chaque argument et contre-argument que je fais, j’imagine que l’on pourrait aussi en élaborer cinq à dix autres qui lui soient semblables.
 
-Je ne prétends pas pouvoir vous convaincre. Mais mon but est seulement de présenter les faits, et de démontrer que la ligne de pensée ici suivie est clairement défendable. Si vous faites vous-mêmes des recherches après la lecture de ce texte, alors j’aurai atteint mon but.
+Je ne prétends pas pouvoir vous convaincre. Mais mon but est seulement de présenter les faits, et de démontrer que la ligne de pensée ici suivie est clairement défensible. Si vous faites vous-mêmes des recherches après la lecture de ce texte, alors j’aurai atteint mon but.
 
 Seulement, rappelez-vous que ceci est une recherche de la vérité, et que toutes les propositions doivent être considérées et acceptées ou rejetées avec une connaissance suffisante pour les rendre absolument vraies ou fausses. Je vous défie donc, cher lecteur, de demeurer aussi impartial que possible, et de ne pas être influencé par vos idées préconçues, ni même par les pensées que j'ai écrites, si elles sont de quelque mesure infondées. Et avec ces mots, cher lecteur, débutons notre quête vers la connaissance de la vérité.
 <h3 id="par-ou-commencer">Par où commencer?</h3>
