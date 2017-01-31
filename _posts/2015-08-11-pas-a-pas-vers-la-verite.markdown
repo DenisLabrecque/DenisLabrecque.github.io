@@ -525,7 +525,9 @@ Toute religion fausse demande aussi d’accomplir un nombre suffisant de bonnes 
 <h3 id="en-conclusion">En conclusion</h3>
 Le sujet des origines est extrêmement vaste. Je suis largement certain qu’en lisant ce court livre, plusieurs de mes lecteurs me contrediront étape par étape. En élaborant ce texte, je ne peux m’empêcher d’imaginer le grand nombre de questions et d’arguments, factices ou valables, qui seront emmenés, mentalement ou verbalement, contre ce raisonnement.
 
-Tel que l’a dit le sage roi Salomon, « on ne finirait pas, si l'on voulait faire un grand nombre de livres, et beaucoup d'étude est une fatigue pour le corps. Écoutons la fin du discours : Crains Dieu et observe ses commandements. C'est là ce que doit faire tout homme. Car Dieu amènera toute œuvre en jugement, au sujet de tout ce qui est caché, soit bien, soit mal.&nbsp;» <cite>{% include cite.html description="Ecclésiaste chapitre 12 versets 13-14" title="Ecclésiaste" %}</cite>
+Tel que l’a dit le sage roi Salomon, 
+
+<blockquote>«&nbsp;On ne finirait pas, si l'on voulait faire un grand nombre de livres, et beaucoup d'étude est une fatigue pour le corps. Écoutons la fin du discours : Crains Dieu et observe ses commandements. C'est là ce que doit faire tout homme. Car Dieu amènera toute œuvre en jugement, au sujet de tout ce qui est caché, soit bien, soit mal.&nbsp;» <cite>{% include cite.html description="Ecclésiaste chapitre 12 versets 13-14" title="Ecclésiaste 12" %}</cite></blockquote>
 
 Je sais que le débat des origines a été et continuera toujours d’être vivement discuté. Il ne concerne pourtant pas réellement les faits, mais bien plutôt notre désir de bien vouloir les interpréter correctement. Trop souvent, nous succombons à ce que nous voulons connaître plutôt qu’à ce que demande la vérité.
 
