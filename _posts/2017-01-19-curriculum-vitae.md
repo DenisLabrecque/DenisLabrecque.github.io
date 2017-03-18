@@ -6,11 +6,14 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/dc/c8/bb/dcc8bbdd1b01
 image-by: Denis Labrecque
 headline: I am presently a university student double majoring in Computer Information Systems and Graphic Design.
 permalink: /cv
+pdf-link: https://drive.google.com/open?id=0Bx_NYlmd2EuoTm9SejliRjk3N00
+pdf-link-text: View or print my resumé
 ref: curvitae
 lang: en
 date:   2017-01-19
 lastmod: 2016-11-03
 lastmod: 2017-01-23
+lastmod: 2017-03-18
 tags: cv curriculumVitae about Denis Labrecque work
 ---
 <div class="resume-wrapper">
