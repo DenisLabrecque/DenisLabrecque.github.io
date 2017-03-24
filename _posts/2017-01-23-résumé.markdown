@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Curriculum Vitae
+title: Résumé
 subtitle: Sommaire de mes aptitudes et expériences de travail
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/dc/c8/bb/dcc8bbdd1b01ad29cfb098394e36d901.jpg
 image-by: Denis Labrecque

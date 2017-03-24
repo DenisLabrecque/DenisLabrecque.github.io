@@ -19,10 +19,22 @@ layout: default
           <a class="share-link" href="{{ page.cta-link }}" target="_new">{{ page.cta-link-title }}</a>
         </span>
       {% endif %}
-      {% if page.cta-hero %}
-        <span class="popdown-span">
-          {% include popdown.html id="hero-call-to-action" title="{{ cta-hero.title }}" contents="{{ cta-hero.contents }}" %}
-        </span>
+      {% if page.cta-title %}
+          <span class="popdown-span">
+             <label class="popdown" for="popdown-hero">{{ page.cta-title }}</label>
+             <!--googleoff: all-->
+             <input type="checkbox" id="popdown-hero" class="no-display" />
+
+             <!--googleon: all-->
+             <label class="citation-clickeater" for="popdown-hero"></label>
+
+             <span class="citation">
+                <label class="close-citation" for="popdown-hero"><i class="icon quit"></i></label>
+                <span class="citation-content">
+                   {{ page.cta-contents }}
+                </span>
+             </span>
+          </span>
       {% endif %}
     </div>
   </figure>

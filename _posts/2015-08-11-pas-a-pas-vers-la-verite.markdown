@@ -9,11 +9,11 @@ image-by: <a href='https://www.flickr.com/photos/purplokilo/7759798144/in/photol
 ref: stepbysteptowardsthetruth
 categories: biblique
 lang: fr
-tags: apologétique littérature évolution interprétationBiblique
+tags: apologétique littérature évolution interprétationBiblique Bible origines essai
 lastmod: 2017-01-30
-cta-hero:
-  - title: À propos
-  - content: "Ceci est le contenu de ma description"
+lastmod: 2017-03-23
+cta-title: "À propos"
+cta-contents: "<p class='headline'>Résumé du livre</p><p>Quelle est l'origine de cet univers, et d'où vient la vie habitant sur elle? Cette terre provient-elle du corps du dieu Pangu, et sommes-nous les mites de son corps, comme l’indique la mythologie chinoise? Ou venons-nous plutôt d’un œuf cosmique, d’entre les chaos d’une mer primale, comme l’enseigne la cosmogonie égyptienne antique? De telles propositions, puisqu'elles sont mutuellement contradictoires, doivent nous mener vers un point évident: beaucoup d'erreurs et plusieurs mensonges circulent concernant les origines. Ce texte est donc écrit afin de démontrer que la connaissance des origines de cet univers n'est pas inaccessible, mais facilement disponible à ceux qui désirent appliquer à la question une raison saine.</p><p class='headline'>Biographie de l’auteur</p><p>“Étant né à Sorel-Tracy et ayant habité à Granby pendant ma jeunesse, je vis maintenant à St-Denis-sur-Richelieu, où j’étudie à la maison en anglais depuis mon adolescence. Depuis les trois dernières années, cela se fait à distance. Je désire éventuellement étudier en informatique, et plus spécifiquement, la conception web ainsi que l’art graphique assigné à ce but. Un autre de mes intérêts majeurs est la composition de musique classique, musique que je joue au violon et au piano.”</p>"
 ---
 <h3 id="preambule">Préambule</h3>
 <blockquote>Qui suis-je,
