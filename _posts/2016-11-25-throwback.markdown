@@ -6,7 +6,7 @@ title: Graphic Design Coursework
 subtitle: A throwback of the most important projects
 headline: All these projects were made and completed in partial fulfillment for my B.S. in Grahpic Design at Pensacola Christian College.
 categories: artwork
-tags: 
+tags: acrylic watercolour pencil graphicDesign PCC PensacolaChristianCollege art throwback timeline portfolio
 lastmod: 2016-11-25
 lastmod: 2017-03-24
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/c7/36/1d/c7361de4dd13cb2506eed591e3eb1a2a.jpg
