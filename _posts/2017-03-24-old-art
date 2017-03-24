@@ -1,0 +1,6 @@
+
+   {% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/07/41/ae/0741ae6c6916927ac1a12560cb00a95e.jpg" image-description="Self-portrait, my first portrait" %}
+
+   {% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/11/81/ab/1181ab38fe0b7b324db0d9111f119022.jpg" image-description="A statue of Ankor Wat" %}
+
+   {% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/01/f1/de/01f1de75a5aeed0e5edf22e48145208c.jpg" image-description="Keila M. Biddington, my second portrait, 2015" %}
