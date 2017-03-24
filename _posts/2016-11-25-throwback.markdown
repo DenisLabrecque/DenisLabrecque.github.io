@@ -8,6 +8,7 @@ headline: All these projects were made and completed in partial fulfillment for 
 categories: artwork
 tags: 
 lastmod: 2016-11-25
+lastmod: 2017-03-24
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/c7/36/1d/c7361de4dd13cb2506eed591e3eb1a2a.jpg
 
 gallery:
