@@ -122,6 +122,11 @@ p, ol, ul, blockquote, table {
     margin-bottom: 7pt;
 }
 
+p.article-author {
+   color: darkgrey;
+   font-variant: small-caps;
+}
+
 p.image-headline {
     font-size: 20pt;
     position: absolute;
