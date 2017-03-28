@@ -1451,6 +1451,54 @@ span.composition-list h3:before {
     border: solid 5pt rgb(245,245,240);
 }
 
- {
-    
+p.denis-texting, p.coralie-texting {
+	position: relative;
+	background-color: mediumblue;
+   color: white;
+   font-size: 90%;
+   padding: 5pt 10pt 5pt 10pt;
+   margin-left: 5%;
+   border-radius: 5px;
+   max-width: 800px;
+}
+p.denis-texting:after {
+	left: 100%;
+	bottom: 10px;
+	border: solid transparent;
+	content: " ";
+	height: 0;
+	width: 0;
+	position: absolute;
+	pointer-events: none;
+	border-color: transparent;
+	border-left-color: mediumblue;
+	border-width: 10px;
+	margin-top: -10px;
+}
+p.coralie-texting {
+	background: deeppink;
+   margin-left: 0;
+   margin-right: 5%;
+}
+p.coralie-texting:after {
+   right: 100%;
+   bottom: 10px;
+   border: solid transparent;
+   content: " ";
+   height: 0;
+   width: 0;
+   position: absolute;
+   pointer-events: none;
+   border-color: transparent;
+   border-right-color: deeppink;
+   border-width: 10px;
+   margin-top: -10px;
+}
+
+.coralie-texting img, .denis-texting img {
+   width: auto;
+   max-width: 100%;
+   max-height: 95vh;
+   padding-top: 5pt;
+   padding-bottom: 5pt;
 }

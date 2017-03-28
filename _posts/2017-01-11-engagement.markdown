@@ -1,0 +1,42 @@
+---
+layout: post
+title: Getting Engaged!
+subtitle: Denis and Coralie have promised
+headline: We thought you'd like to read our story and see our pictures.
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/1e/d7/da/1ed7dad094f2a26e7096baee66dd7f37.jpg
+image-by: At the American Brass Quintet Fine Arts production
+
+gallery:
+    - url: https://s-media-cache-ak0.pinimg.com/originals/64/b7/88/64b788ff138375f994780fc644d6cd90.jpg
+      description: Part of the problems of developing a jet-powered hovering aircraft is heat buildup. Although 26% shielded by heat-resistant titanium, graphite, and composites, the aircraft could not safely hover for more than 2½ minutes due to heat limitations.
+      by: "<a href='http://weaponstechnology.blogspot.ca/2011/06/yakovlev-yak-141-nato-code-freestyle.html' target='_new'>WEAPONS TECHNOLOGY</a>"
+    - url: https://s-media-cache-ak0.pinimg.com/originals/ac/f4/33/acf433d17f4ae749aca170452fcc8f4c.jpg
+      description: Yak-141 VTOL aircraft during hover at 1992 Farnborough Airshow, displayed through a partnership with Lockheed Martin.
+      
+lang: en
+categories: announcement
+tags: announcement wedding engagement photos
+ref: denisandcoralieengagement
+---
+<h4>Parade of Nations</h4>
+<h5>February 13, 2016</h5>
+We both first met at Pensacola Christian College during the practice day for Parade of Nations, an missions-oriented event which underlines the international attendance at PCC. As each nationality represented was placed in a separate separate row of seats, the whole Canadian group sat together. As we were a couple of seats across, we got to see each other a little and spoke briefly.
+
+<p class="denis-texting">She spoke fluent French and was born in Québec, which was quite exceptional.</p>
+<p class="denis-texting">However, though I certainly realized she was pretty, I didn't know her personally, and therefore didn't think more of it. But I did make the smart move of offering to take a picture of our group and text it to everyone. I thereby harvested each person's number, including Coralie's.</p>
+<p class="coralie-texting">--- Your first impressions ---</p>
+
+Our first text was therefore very simple. It just contained a few pictures of our group, with the name of the picture-taker:
+
+<p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/1b/4b/89/1b4b898d9c09b4531672c535f1ee9148.jpg" />Hi from Denis Labrecque</p>
+
+That was it! At that time, Coralie was a Sophomore at PCC, and Denis was a second-semester Freshman. See us in the picture?
+
+<p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f4/52/de/f452de2dfa1cb2c2d480db27394b0e85.jpg" />I sneaked this picture of Coralie at our breakfast table 😉</p>
+
+<h4>Harmonious Strings of São Paulo</h4>
+<h5>October 8, 2016</h5>
+
+<p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f2/00/08/f200080ba0ebe9f2ad6b66ca4df55334.jpg" />Is she not pretty? 😍<br />Yes, I innovated and created a special flower holder for the event. It's from a foam model jet.</p>
+
+<p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/39/d3/37/39d337f6742add2b5086aacec4692e1f.jpg" />We had a wonderful evening together at the Concert at the Green.<br />Coralie gave me some of her pizza, and let me drink from her cup, which was very cute.</p>
