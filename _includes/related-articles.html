@@ -37,7 +37,7 @@
 
   {% if sameTagCount >= minCommonTags %}
     {% if post.layout == 'composition' %}
-      <li>
+      <li title="{{ post.title }}: {{ post.subtitle }}">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
           <div class="hero-article-thumbnail"
             {% if post.thumbnail %}
@@ -75,7 +75,7 @@
         </a>
       </li>
     {% elsif post.layout == 'artwork' %}
-      <li>
+      <li title="{{ post.title }}: {{ post.subtitle }}">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
           {% if post.thumbnail %}
           <img src=" {{ post.thumbnail }}" nopin="nopin" />
@@ -90,7 +90,7 @@
         </a>
       </li>
     {% else %}
-      <li>
+      <li title="{{ post.title }}: {{ post.subtitle }}">
         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
           {% if post.hero-image %}
           <div class="hero-article-thumbnail"
