@@ -12,7 +12,7 @@ tags: annonce noces fiancailles
 ref: denisandcoralieengagement
 ---
 <p class="coralie-texting">Quand j'ai vu Denis pour la première fois, je soupais à Varsity (une de nos deux salles à manger) avec ma coloque Olivia et une autre amie. Cet amie a dit, "Ne regarde pas maintenant, mais il est juste là!" Elle soupira ensuite d'admiration.</p>
-<p class="coralie-texting">Je me suis tournée brièvement pour voir de qui elle parlait, et Olivia guida mes yeux vers le "bel homme aux cheveux de flamme." Je ne me suis pas souciée de regarder pour longtemps. Ce "bel homme" était assis avec quelques filles, et les filles avec lesquelles j'étais semblaient vouloir les joindre. Cela m'a ennuyé.</p>
+<p class="coralie-texting">Je me suis tournée brièvement pour voir de qui elle parlait, et Olivia guida mes yeux vers le "bel homme aux cheveux de flamme." Je ne me suis pas souciée de regarder pour longtemps. Ce "bel homme" était assis avec quelques filles, et les filles avec lesquelles j'étais semblaient vouloir les joindre. Cela m'ennuyait.</p>
 <p class="coralie-texting">Olivia m'expliqua ensuite qui Denis était: un artiste, un Canadien, et son compagnon de chapelle (selon les sièges désignés). Elle suggéra que, vu le fait que j'étais aussi canadienne, je devrais devenir amie avec lui. "Jamais," je lui répliquai. "J'ai des amis. Je n'ai pas besoin d'en avoir plus."</p>
 
 <h4>Parade of Nations</h4>
