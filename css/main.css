@@ -579,6 +579,9 @@ h1.subtitle, h2.subtitle {
     display: inline-block;
     max-width: 85%;
 }
+h1.title:hover, h1.subtitle:hover, h2.subtitle:hover {
+   opacity: .2;
+}
 @media(max-width: 1600px) {
     h1.subtitle, h2.subtitle {
         font-size: 18pt;
