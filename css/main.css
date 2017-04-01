@@ -1439,7 +1439,10 @@ span.composition-list {
 span.composition-list h3:before {
     counter-increment: movenumb;
     content: counter(movenumb, upper-roman);
-	box-sizing: border-box;
+    color: rgb(237,237,232);
+    font-size: 15pt;
+    padding-right: 10pt;
+    /*box-sizing: border-box;
     display: block;
     color: white;
     background: rgb(237,237,232);
@@ -1451,7 +1454,7 @@ span.composition-list h3:before {
     text-align: center;
     margin-left: -30pt;
     margin-bottom: -60pt;
-    border: solid 5pt rgb(245,245,240);
+    border: solid 5pt rgb(245,245,240);*/
 }
 
 p.denis-texting, p.coralie-texting {
