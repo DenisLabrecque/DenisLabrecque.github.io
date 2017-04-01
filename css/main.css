@@ -581,6 +581,7 @@ h1.subtitle, h2.subtitle {
 }
 h1.title:hover, h1.subtitle:hover, h2.subtitle:hover {
    opacity: .2;
+	color: pink;
 }
 @media(max-width: 1600px) {
     h1.subtitle, h2.subtitle {
