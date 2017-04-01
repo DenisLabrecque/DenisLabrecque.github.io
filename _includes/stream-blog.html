@@ -2,7 +2,7 @@
 <ul class="post-stream-container">
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in site.categories.blog limit: include.stream-limit %}
-  <li>
+  <li title="{{ post.title }}: {{ post.subtitle }}">
     <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
       <div class="hero-article-thumbnail"
            style="background-image: url( {{ post.hero-image }} )">
@@ -29,7 +29,7 @@
 <ul class="post-stream-container">
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in site.categories.blogue limit: include.stream-limit %}
-  <li>
+  <li title="{{ post.title }}: {{ post.subtitle }}">
     <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
       <div class="hero-article-thumbnail"
            style="background-image: url( {{ post.hero-image }} )">
