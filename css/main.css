@@ -1441,7 +1441,10 @@ span.composition-list h3:before {
     content: counter(movenumb, upper-roman);
     color: rgb(237,237,232);
     font-size: 15pt;
-    padding-right: 10pt;
+    display: inline-block;
+    width: 15pt;
+    margin-left: -15pt;
+    text-align: left;
     /*box-sizing: border-box;
     display: block;
     color: white;
