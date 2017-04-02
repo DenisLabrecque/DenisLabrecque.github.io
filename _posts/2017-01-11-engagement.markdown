@@ -59,6 +59,9 @@ From that time on, we knew each other casually, but never met between groups. Ho
 <p class="denis-texting">So far, I had resisted the idea, because I didn't want to give off the impression I wanted a relationship. Even, someone else had asked me whether Coralie was available for Fine Arts, and I had already honestly declared having no intention to invite her.</p>
 <p class="denis-texting">However, thinking about it more, to attend with a friend who actually enjoyed classical music seemed far more interesting, rather than&mdash;alone.</p>
 <p class="denis-texting">So I asked to meet Coralie, and invited her to come with me.</p>
+<p class="denis-texting">She made me repeat.</p>
+<p class="denis-texting">Straight away, she whipped out her attendance card and gave it to me.</p>
+<p class="coralie-texting">It's all yours, sir.</p>
 
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f2/00/08/f200080ba0ebe9f2ad6b66ca4df55334.jpg" />Is she not pretty? 😍<br />Yes, I innovated and created a special flower holder for the event. It's from a foam model jet.</p>
 
