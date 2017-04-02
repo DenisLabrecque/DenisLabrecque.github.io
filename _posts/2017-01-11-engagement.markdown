@@ -18,6 +18,9 @@ lang: en
 categories: announcement
 tags: announcement wedding engagement photos Pensacola Christian College
 ref: denisandcoralieengagement
+co-author: Coralie Lemasson
+co-author-url: "https://www.pinterest.com/sundarabheriya/"
+co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_1468177840_280.jpg"
 ---
 <p class="coralie-texting">The first time I saw Denis, I was having supper at Varsity (one of our two dining halls) with my roommate Olivia and one of her friends. This friend said, "Don't look now, but there he is!" She proceeded to sigh, adoringly.</p>
 <p class="coralie-texting">I briefly turned to see whom she was speaking of, and Olivia guided my gaze to the "fine-looking man with flaming red hair." I didn't care to look for long. This "fine man" was sitting with several girls, and the girls with whom I was sitting seemed to want to join them. That annoyed me.</p>
