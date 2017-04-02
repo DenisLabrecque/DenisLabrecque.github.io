@@ -49,6 +49,8 @@ From that time on, we knew each other casually, but never met between groups. Ho
 
 <p class="coralie-texting">From that incident onward, my sentiments toward him rapidly evolved. I didn't recognize my feelings until my roommate Olivia elicited them from me. We were finishing supper at Four Winds when I noticed Denis sitting alone a few tables away. We joined Denis at his table and I began chatting with him in French, while Olivia listened, though our conversation was incoherent to her. Olivia and I departed, and on our way out, she commented, "Marry the boy. He's the nicest man, and you guys are cute when you talk in French." "Well, tell HIM that." My impulsive reply surprised both me and Olivia. She had made her comment somewhat in jest, and though I had tried to answer likewise, I unwittingly answered in earnest. "So," Olivia began, thoughtfully, "you do like him?" I paused, contemplating my feelings. With a shrug, I then confessed: "Yes."</p>
 
+<p class="coralie-texting"> TESTING TESTING 123</p>
+
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f4/52/de/f452de2dfa1cb2c2d480db27394b0e85.jpg" />I sneaked this picture of Coralie at our breakfast table 😉</p>
 
 <h4>Harmonious Strings of São Paulo</h4>
@@ -65,22 +67,6 @@ From that time on, we knew each other casually, but never met between groups. Ho
 <h4>Palms Grille</h4>
 <h5>November 14, 2016</h5>
 <p><em>We almost broke up.</em></p>
-
-<p class="coralie-texting">But I also need to correct you on this one point: I never said that our paths were irreconcilable. In fact, that is the very opposite of what I believe. I believe in a God of the impossible Who reconciles the irreconcilable, Who plans that two incredibly similar people of the same nationality, with agreeing philosophies, and with the same interests, should meet at the same place at the same time, a time when they both needed such a meeting. I took a chance on you because I was wholly convicted that my God's favourite pastime is to perform miracles, small and large. I was so confident that I never thought of taking that chance as taking a risk. There are no risks in trusting God. Maybe I was—and still remain—naive to believe in all of that. But the Lord has always carried out His Will in my life through miracles in the past; consequently, it's difficult for me to give up on you so easily. You were one of God's miracles in my life—and you had become my new dream.</p>
- 
-<p class="coralie-texting">I was stubborn in letting you into my life, and I will be equally stubborn in letting you go. But because I love you and care more about what is best for you, I will not let my stubbornness get in the way of respecting your convictions or your need for distance. Of course, you can still have confidence that I won't turn you away if you ever need a friend to confide in. But I won't cling to you, even if my heart does.</p>
- 
-<p class="denis-texting">So don't take everything too seriously. You will gain a clearer mind, and will smile again. As you will notice eventually, love makes us a little blind and overpositive. Also, don't give up on me. This morning, as chapel interrupted my writing you, I fell in tears over the song
-<br />   "As the deer panteth for the waters
-<br />    So my soul longeth after thee;
-<br />    You alone are my heart's desire..."
-<br />Honestly, I'm just confused at the moment. I'm looking for quiet and friendship and love all at the same, so that I'm both very much at peace and very much haywire altogether. So please forgive my disarray; the day will come when my mind is at peace with you.
-Hopefully you don't feel the need to distance yourself too much.</p>
-
-<p class="denis-texting">The next day, as reconciliation, I grabbed a just finished post card painting, project, wrote on it,
-<br /><q>I'll take a risk,
-<br />or two,</q>
-<br />shoved my Fine Arts ticket and Thanksgiving meal card, and sent it up to Coralie's room through Olivia, her rommate, along with red roses.</p>
 
 <p class="coralie-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/cb/91/3c/cb913c756e983fcb2122c7ad63b01972.jpg" />*The Gift*
 <br />Roses:
