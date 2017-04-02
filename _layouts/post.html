@@ -41,10 +41,16 @@ layout: default
 
   <div class="page-feed">
     <p class="headline" itemprop="description">{{ page.headline }}</p>
-    {% if page.author != "Denis G. Labrecque" %}
-      <p class="article-author">{% if page.lang == "en" %}By{% elsif page.lang == "fr" %}Par{% endif %} <a href="https://plus.google.com/+BrandonPetaccio" target="_new">{{ page.author }}</a></p>
+    {% if page.co-author %}
+      {% if page.lang == "en" %}
+          <p class="article-author">By <a href="{{ page.author-url }}" target="_new">{{ page.author }}</a> and <a href="{{ page.co-author-url }}" target="_new">{{ page.co-author }}</a></p>
+      {% elsif page.lang == "fr" %}
+          <p class="article-author">Par <a href="{{ page.author-url }}" target="_new">{{ page.author }}</a> et <a href="{{ page.co-author-url }}" target="_new">{{ page.co-author }}</a></p>
+      {% endif %}
+    {% else %}
+           <p class="article-author">{% if page.lang == "en" %}By{% elsif page.lang == "fr" %}Par{% endif %} <a href="{{ page.author-url }}" target="_new">{{ page.author }}</a></p>
     {% endif %}
-
+    
     <span itemprop="articleBody">
       {{ content }}
     </span>
