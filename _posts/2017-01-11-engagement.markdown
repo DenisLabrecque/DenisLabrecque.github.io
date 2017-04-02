@@ -26,7 +26,7 @@ ref: denisandcoralieengagement
 <h4>Parade of Nations</h4>
 <h5>February 13, 2016</h5>
 <p><em>We met.</em></p>
-We met at Pensacola Christian College during the practice day for Parade of Nations, an missions-oriented event which underlines the international attendance at PCC. As each nationality represented was placed in a separate separate row of seats, the whole Canadian group sat together. As we were a couple of seats across, we got to see each other a little and spoke briefly.
+We met at Pensacola Christian College during the practice day for Parade of Nations, a missions-oriented event which underlines the international attendance at PCC. As each nationality represented was placed in a separate separate row of seats, the whole Canadian group sat together. As we were a couple of seats across, we got to see each other a little and spoke briefly.
 
 <p class="coralie-texting">I have learned that whenever I say "never," God changes my heart towards that idea I am so opposed to. The change started a few weeks later in the Visual and Performing Arts Center.</p>
 <p class="coralie-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/7f/d6/76/7fd6765b6c1e35b38a2920ceff0d0517.jpg">One evening, Denis and I happened to be drawing in the same classroom. As I walked about the room, perusing the works-in-progress of my peers, I noticed Denis's drawing of a beetle. I found his attention to detail remarkable, and started to feel some respect for him as an artist.</p>
@@ -70,7 +70,5 @@ From that time on, we knew each other casually, but never met between groups. Ho
 <br />Velvet kisses
 <br />Gently caress my soul.
 <be />Hoping, daring, reassuring&mdash;Loving.</p>
-
-<p class="coralie-texting">Starting text here.</p>
 
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/39/d3/37/39d337f6742add2b5086aacec4692e1f.jpg" />We had a wonderful evening together at the Concert at the Green.<br />Coralie gave me some of her pizza, and let me drink from her cup, which was very cute.</p>
