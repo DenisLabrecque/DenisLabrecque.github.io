@@ -41,9 +41,10 @@ From that time on, we knew each other casually, but never met between groups. Ho
 <p class="denis-texting">I did notice Coralie's breakfast spot, and thought it would be great to get to know her; so I texted her, asking whether she would want to have breakfast together and speak French.</p>
 
 <p class="denis-texting">From the first couple of days we ate together, I quickly evaluated Coralie, and discounted her because our life plans were not likely to match, and because her character was somewhat more extremely orderly and proper than mine.</p>
-<p class="denis-texting">The two following semesters, I attempted to date someone; that finally did not work out. Coralie and I did, however, continue to have breakfast together every now and then, as friends.</p>
 
 <p class="coralie-texting">During those first few weeks of getting to know Denis, I didn't consider him as a potential life partner. Though other girls found him attractive, I wasn't particularly drawn; my vision was set on my plans for the future, and I could see nothing else. That was ironic, considering that the handsome man sitting across from me at breakfast WAS my future.</p>
+
+<p class="denis-texting">The two following semesters, I attempted to date someone; that finally did not work out. Coralie and I did, however, continue to have breakfast together every now and then, as friends.</p>
 
 <p class="coralie-texting">Another incident changed my view of Denis—and like the last, it occurred at the VPA. As I was searching for the electric eraser one afternoon, I met Denis in the hallway. I told him that I was looking for the eraser, and continued on. Just as I was about to leave, unsuccessful in my search, Denis appeared with the electric eraser in hand. He had found it for me. Until that point, I had regarded him as a nice person, but this "chivalrous" act elevated him in my esteem. His act of kindness set him apart.</p>
 
