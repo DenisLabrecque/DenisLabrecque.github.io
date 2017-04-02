@@ -110,6 +110,7 @@ ga('send', 'pageview');
     <footer class="site-footer author-snippet">
       <div class="width-control" markdown="1">
         {% include {{ page.author | slugify }}.html %}
+        {% include {{ page.co-author | slugify }}.html %}
       </div>
     </footer>
 
