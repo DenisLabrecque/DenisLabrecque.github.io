@@ -48,11 +48,33 @@ From that time on, we knew each other casually, but never met between groups. Ho
 
 <p class="coralie-texting">From that incident onward, my sentiments toward him rapidly evolved. I didn't recognize my feelings until my roommate Olivia elicited them from me. We were finishing supper at Four Winds when I noticed Denis sitting alone a few tables away. We joined Denis at his table and I began chatting with him in French, while Olivia listened, though our conversation was incoherent to her. Olivia and I departed, and on our way out, she commented, "Marry the boy. He's the nicest man, and you guys are cute when you talk in French." "Well, tell HIM that." My impulsive reply surprised both me and Olivia. She had made her comment somewhat in jest, and though I had tried to answer likewise, I unwittingly answered in earnest. "So," Olivia began, thoughtfully, "you do like him?" I paused, contemplating my feelings. With a shrug, I then confessed: "Yes."</p>
 
+<p class="coralie-texting">"I don't want to admit that my heart admires Denis, . . ." I had written in my prayer journal. I didn't want the affections I was developing toward him; but to my frustration, I couldn't stop them.</p>
+
+<p class="coralie-texting">"What happened to 'Thy Will not mine,' O Lord?" I wrote in a later entry. "I used to be guided by my love for Hungary. . . . But this past semester I have been led astray by my own heart's yearning . . . . I'm living in a fantasy and I must wake up. . . . Relinquishing my affections for Denis hurts—but I must do it."</p>
+
+<p class="coralie-texting">"How long will it take me to get over Denis?" I cried out to the Lord, in another entry. "Every time I think that he disappears from my life, he reappears."</p>
+
+<p class="coralie-texting">In hindsight, I wonder at God's graciousness toward me, in how He answered my prayers. I reaffirmed to the Lord that I would follow Him wherever He would lead me, but I was compelled to confess a fear: "I fear doing it on my own. Of course You would be with me, and You would be, and are enough. But what about a human heart that loves what I love, and dreams as I dream? Is there no man on this planet who passionately loves You, . . . and can admire and cherish me—the true me?"</p>
+
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f4/52/de/f452de2dfa1cb2c2d480db27394b0e85.jpg" />I sneaked this picture of Coralie at our breakfast table 😉</p>
 
 <h4>Summer</h4>
+
+<p class="coralie-texting">I had hoped that summer vacation, the distance from PCC and from Denis, would help my affections to fade away. But they didn't—they grew.</p>
+
+<p class="coralie-texting">Trying to relinquish my affections didn't seem to work very well; thus, I tried a new approach. I wouldn't distance myself from him. I would love him—as a friend. "I really want to help him," I wrote to the Lord, "inspire him, and see him succeed. Yet I cannot overstep my welcome. . . . What, then, is my role as his friend? To be there for him, to have and to express confidence in him, and to edify him Christ Jesus—such are my duties."</p>
+
+<p class="coralie-texting">So, I exercised my "brotherly love" and prayed for Denis, often in the middle of the night, when burdens on my heart would prevent me from sleeping. I prayed, specifically, that the Lord would give Denis a dream, an aspiration . . . </p>
+
 <p class="denis-texting">During my trips to work, my mother convinced me I should follow my dreams and strive to become a pilot if that was something I truly wanted to do.</p>
+
 <p class="denis-texting">As we were thinking to whom we could speak, Coralie's father came to mind, as I knew from our breakfast discussions that her father was a pilot. So I messaged her to ask for information.</p>
+
+<p class="coralie-lemasson">He messaged me. To my surprise, as we corresponded, I didn't feel the affections that had previously plagued me; I felt only amity when I offered him my father's phone number.</p>
+
+Over the phone, Denis and Coralie's father discussed aviation and Denis's dreams. After that, Denis and Coralie only communicated once or twice the rest of the summer.
+
+<p class="coralie-lemasson">As my summer vacation was drawing to a close, I found myself very pensive. My affections had not completely gone away, as I had hoped. Yes, I was determined to be nothing more than a supportive friend to Denis—but was my determination enough to keep me from hurting myself? That didn't matter. I was resolved. I would love him for his sake, not mine.</p>
 
 <p class="denis-texting">The two following semesters, I attempted to date someone; that finally did not work out. Coralie and I did, however, continue to have breakfast together every now and then, as friends.</p>
 
