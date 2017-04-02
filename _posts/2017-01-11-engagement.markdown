@@ -6,19 +6,14 @@ subtitle: Denis and Coralie are getting engaged!
 headline: We thought you'd like to read our story and see our pictures.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/1e/d7/da/1ed7dad094f2a26e7096baee66dd7f37.jpg
 image-by: Denis and Coralie at the American Brass Quintet Fine Arts production
-
-gallery:
-    - url: https://s-media-cache-ak0.pinimg.com/originals/64/b7/88/64b788ff138375f994780fc644d6cd90.jpg
-      description: Part of the problems of developing a jet-powered hovering aircraft is heat buildup. Although 26% shielded by heat-resistant titanium, graphite, and composites, the aircraft could not safely hover for more than 2½ minutes due to heat limitations.
-      by: "<a href='http://weaponstechnology.blogspot.ca/2011/06/yakovlev-yak-141-nato-code-freestyle.html' target='_new'>WEAPONS TECHNOLOGY</a>"
-    - url: https://s-media-cache-ak0.pinimg.com/originals/ac/f4/33/acf433d17f4ae749aca170452fcc8f4c.jpg
-      description: Yak-141 VTOL aircraft during hover at 1992 Farnborough Airshow, displayed through a partnership with Lockheed Martin.
-      
 lang: en
 categories: announcement
 tags: announcement wedding engagement photos Pensacola Christian College
 ref: denisandcoralieengagement
 lastmod: 2017-04-01
+co-author: Coralie Lemasson
+co-author-url: "https://www.facebook.com/coralie.lemasson.7"
+co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_1468177840_280.jpg"
 ---
 <p class="coralie-texting">The first time I saw Denis, I was having supper at Varsity (one of our two dining halls) with my roommate Olivia and one of her friends. This friend said, "Don't look now, but there he is!" She proceeded to sigh, adoringly.</p>
 <p class="coralie-texting">I briefly turned to see whom she was speaking of, and Olivia guided my gaze to the "fine-looking man with flaming red hair." I didn't care to look for long. This "fine man" was sitting with several girls, and the girls with whom I was sitting seemed to want to join them. That annoyed me.</p>
