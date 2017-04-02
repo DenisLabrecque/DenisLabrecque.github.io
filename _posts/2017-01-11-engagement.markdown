@@ -54,7 +54,7 @@ From that time on, we knew each other casually, but never met between groups. Ho
 
 <p class="coralie-texting">Another incident changed my view of Denis—and like the last, it occurred at the VPA. As I was searching for the electric eraser one afternoon, I met Denis in the hallway. After telling him about my search, I went on my way. Just as I was about to leave, unsuccessful in my search, Denis appeared with the electric eraser in hand. He had found  Until that point, I had regarded him as a nice person, but this "chivalrous" act elevated him in my esteem. His act of kindness set him apart.</p>
 
-<p class="coralie-texting">From that incident onward, my sentiments toward him </p>
+<p class="coralie-texting">From that incident onward, my sentiments toward him rapidly evolved. I didn't recognize my feelings until my roommate Olivia elicited them from me. We were finishing supper at Four Winds when I noticed Denis sitting alone a few tables away. Some girls had been sitting with him, but they had just left. After finishing supper, I joined Denis at his table and chatted with him in French. Olivia joined us and listened, though our conversation was incoherent to her. My roommate and I departed, and on our way out, Olivia commented, "Marry the boy. He's the nicest man, and you guys are cute when you talk in French." "Well, tell HIM that." My impulsive reply surprised both me and Olivia. She had made her comment somewhat in jest, and though I had tried to answer likewise, I unwittingly answered in earnest. "So," Olivia began, thoughtfully, "you do like him?" I paused, contemplating my feelings. With a shrug, I then confessed: "Yes."</p>
 
 <h4>Palms Grille</h4>
 <h5>??</h5>
