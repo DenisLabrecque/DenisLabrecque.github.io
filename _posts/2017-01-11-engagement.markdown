@@ -77,6 +77,11 @@ From that time on, we knew each other casually, but never met between groups. Ho
 <br />Honestly, I'm just confused at the moment. I'm looking for quiet and friendship and love all at the same, so that I'm both very much at peace and very much haywire altogether. So please forgive my disarray; the day will come when my mind is at peace with you.
 Hopefully you don't feel the need to distance yourself too much.</p>
 
+<p class="denis-texting">The next day, as reconciliation, I grabbed a just finished post card painting, project, wrote on it,
+<br /><q>I'll take a risk,
+<br />or two,</q>
+and sent it up to Coralie's room through Olivia, her rommate, along with red roses.</p>
+
 <p class="coralie-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/cb/91/3c/cb913c756e983fcb2122c7ad63b01972.jpg" />*The Gift*
 <br />Roses:
 <br />Velvet kisses
