@@ -44,16 +44,18 @@ From that time on, we knew each other casually, but never met between groups. Ho
 
 <p class="coralie-texting">During those first few weeks of getting to know Denis, I didn't consider him as a potential life partner. Though other girls found him attractive, I wasn't particularly drawn; my vision was set on my plans for the future, and I could see nothing else. That was ironic, considering that the handsome man sitting across from me at breakfast WAS my future.</p>
 
-<p class="denis-texting">The two following semesters, I attempted to date someone; that finally did not work out. Coralie and I did, however, continue to have breakfast together every now and then, as friends.</p>
-
 <p class="coralie-texting">Another incident changed my view of Denis—and like the last, it occurred at the VPA. As I was searching for the electric eraser one afternoon, I met Denis in the hallway. I told him that I was looking for the eraser, and continued on. Just as I was about to leave, unsuccessful in my search, Denis appeared with the electric eraser in hand. He had found it for me. Until that point, I had regarded him as a nice person, but this "chivalrous" act elevated him in my esteem. His act of kindness set him apart.</p>
 
 <p class="coralie-texting">From that incident onward, my sentiments toward him rapidly evolved. I didn't recognize my feelings until my roommate Olivia elicited them from me. We were finishing supper at Four Winds when I noticed Denis sitting alone a few tables away. We joined Denis at his table and I began chatting with him in French, while Olivia listened, though our conversation was incoherent to her. Olivia and I departed, and on our way out, she commented, "Marry the boy. He's the nicest man, and you guys are cute when you talk in French." "Well, tell HIM that." My impulsive reply surprised both me and Olivia. She had made her comment somewhat in jest, and though I had tried to answer likewise, I unwittingly answered in earnest. "So," Olivia began, thoughtfully, "you do like him?" I paused, contemplating my feelings. With a shrug, I then confessed: "Yes."</p>
 
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f4/52/de/f452de2dfa1cb2c2d480db27394b0e85.jpg" />I sneaked this picture of Coralie at our breakfast table 😉</p>
 
+<p class="denis-texting">The two following semesters, I attempted to date someone; that finally did not work out. Coralie and I did, however, continue to have breakfast together every now and then, as friends.</p>
+
 <h4>Harmonious Strings of São Paulo</h4>
 <h5>October 8, 2016</h5>
+<p><em>Our first event together.</em></p>
+The first few weeks of the school year, we went to church together a couple of times. However, there were some struggles.
 
 <p class="denis-texting">When in line for lunch, I mentioned I had no plans for Fine Arts: Olivia was almost offended. "Go out with Coralie!" she said.</p>
 <p class="denis-texting">So far, I had resisted the idea, because I didn't want to give off the impression I wanted a relationship. Even, someone else had asked me whether Coralie was available for Fine Arts, and I had already honestly declared having no intention to invite her.</p>
