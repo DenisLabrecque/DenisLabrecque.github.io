@@ -82,6 +82,10 @@ So don't take everything too seriously. You will gain a clearer mind, and will s
 Honestly, I'm just confused at the moment. I'm looking for quiet and friendship and love all at the same, so that I'm both very much at peace and very much haywire altogether. So please forgive my disarray; the day will come when my mind is at peace with you.
 Hopefully you don't feel the need to distance yourself too much.
 
+<p class="denis-texting">As a reconciliation, I took a recent watercolour post card project, stuffed my Fine Arts ticket and my Thanksgiving dinner attendance card into it, and sent it up to Coralie's room with red roses through her rommate Olivia. Inside the card was written
+<br /><q>I'll take a risk
+<br />Or two.</q></p>
+
 <p class="coralie-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/cb/91/3c/cb913c756e983fcb2122c7ad63b01972.jpg" />*The Gift*
 <br />Roses:
 <br />Velvet kisses
