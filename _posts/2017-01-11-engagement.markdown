@@ -28,7 +28,7 @@ We met at Pensacola Christian College during the practice day for Parade of Nati
 <p class="coralie-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/7f/d6/76/7fd6765b6c1e35b38a2920ceff0d0517.jpg">One evening, Denis and I happened to be drawing in the same classroom. As I walked about the room, perusing the works-in-progress of my peers, I noticed Denis's drawing of a beetle. I found his attention to detail remarkable, and started to feel some respect for him as an artist.</p>
 <p class="coralie-texting">This was the incident which prompted me to introduce myself to Denis at the rehearsal for the Parade of Nations. In fact, my first words to him were, "You are taking art classes, correct?"</p>
 
-<p class="denis-texting">She spoke fluent French and was born in Québec, which was quite exceptional.</p>
+<p class="denis-texting">She spoke fluent French and was raised in Québec, which was quite exceptional.</p>
 <p class="denis-texting">However, though I certainly realized she was pretty, I didn't know her personally, and therefore didn't think more of it. But I did make the smart move of offering to take a picture of our group and text it to everyone. I thereby harvested each person's number, including Coralie's.</p>
 
 Our first text was therefore very simple. It just contained a few pictures of our group, with the name of the picture-taker:
@@ -56,7 +56,7 @@ From that time on, we knew each other casually, but never met between groups. Ho
 <h5>October 8, 2016</h5>
 <p><em>Our first event together.</em></p>
 The first few weeks of the school year, we went to church together a couple of times. However, there were some struggles.
-
+<p class="coralie-texting">I had resolved at the beginning of the semester to be Denis's friend.</p>
 <p class="denis-texting">When in line for lunch, I mentioned I had no plans for Fine Arts: Olivia was almost offended. "Go out with Coralie!" she said.</p>
 <p class="denis-texting">So far, I had resisted the idea, because I didn't want to give off the impression I wanted a relationship. Even, someone else had asked me whether Coralie was available for Fine Arts, and I had already honestly declared having no intention to invite her.</p>
 <p class="denis-texting">However, thinking about it more, to attend with a friend who actually enjoyed classical music seemed far more interesting, rather than&mdash;alone.</p>
