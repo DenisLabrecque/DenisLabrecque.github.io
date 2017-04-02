@@ -49,12 +49,6 @@ From that time on, we knew each other casually, but never met between groups. Ho
 
 <p class="coralie-texting">From that incident onward, my sentiments toward him rapidly evolved. I didn't recognize my feelings until my roommate Olivia elicited them from me. We were finishing supper at Four Winds when I noticed Denis sitting alone a few tables away. We joined Denis at his table and I began chatting with him in French, while Olivia listened, though our conversation was incoherent to her. Olivia and I departed, and on our way out, she commented, "Marry the boy. He's the nicest man, and you guys are cute when you talk in French." "Well, tell HIM that." My impulsive reply surprised both me and Olivia. She had made her comment somewhat in jest, and though I had tried to answer likewise, I unwittingly answered in earnest. "So," Olivia began, thoughtfully, "you do like him?" I paused, contemplating my feelings. With a shrug, I then confessed: "Yes."</p>
 
-<h4>Palms Grille</h4>
-<h5>??</h5>
-<p><em>We almost broke up.</em></p>
-
-<p class="denis-texting"></p>
-
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f4/52/de/f452de2dfa1cb2c2d480db27394b0e85.jpg" />I sneaked this picture of Coralie at our breakfast table 😉</p>
 
 <h4>Harmonious Strings of São Paulo</h4>
@@ -62,13 +56,22 @@ From that time on, we knew each other casually, but never met between groups. Ho
 
 <h4>First Invited Coralie as a Date</h4>
 <h5>February</h5>
+<p><em>We began seeing each other more frequently.</em></p>
 
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f2/00/08/f200080ba0ebe9f2ad6b66ca4df55334.jpg" />Is she not pretty? 😍<br />Yes, I innovated and created a special flower holder for the event. It's from a foam model jet.</p>
 
+<h4>Palms Grille</h4>
+<h5>November 14, 2016</h5>
+<p><em>We almost broke up.</em></p>
+
 <p class="coralie-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/cb/91/3c/cb913c756e983fcb2122c7ad63b01972.jpg" />*The Gift*
-Roses:
-Velvet kisses
-Gently caress my soul.
-Hoping, daring, reassuring&mdash;Loving.</p>
+<br />Roses:
+<br />Velvet kisses
+<br />Gently caress my soul.
+<br />Hoping, daring, reassuring&mdash;Loving.</p>
 
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/39/d3/37/39d337f6742add2b5086aacec4692e1f.jpg" />We had a wonderful evening together at the Concert at the Green.<br />Coralie gave me some of her pizza, and let me drink from her cup, which was very cute.</p>
+
+<h4>Became Official</h4>
+<h5>January 31, 2017</h5>
+<p><em>We got our parent's permission to date.</em></p>
