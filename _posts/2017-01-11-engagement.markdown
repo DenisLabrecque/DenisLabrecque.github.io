@@ -66,9 +66,11 @@ From that time on, we knew each other casually, but never met between groups. Ho
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f2/00/08/f200080ba0ebe9f2ad6b66ca4df55334.jpg" />Is she not pretty? 😍<br />Yes, I innovated and created a special flower holder for the event. It's from a foam model jet.</p>
 
 <p class="coralie-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/cb/91/3c/cb913c756e983fcb2122c7ad63b01972.jpg" />*The Gift*
-Roses:
-Velvet kisses
-Gently caress my soul.
-Hoping, daring, reassuring&mdash;Loving.</p>
+<br />Roses:
+<br />Velvet kisses
+<br />Gently caress my soul.
+<be />Hoping, daring, reassuring&mdash;Loving.</p>
+
+<p class="coralie-texting">Starting text here.</p>
 
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/39/d3/37/39d337f6742add2b5086aacec4692e1f.jpg" />We had a wonderful evening together at the Concert at the Green.<br />Coralie gave me some of her pizza, and let me drink from her cup, which was very cute.</p>
