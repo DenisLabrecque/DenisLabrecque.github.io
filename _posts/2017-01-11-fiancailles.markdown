@@ -10,6 +10,9 @@ lang: fr
 categories: annonce
 tags: annonce noces fiancailles
 ref: denisandcoralieengagement
+co-author: Coralie Lemasson
+co-author-url: "https://www.facebook.com/coralie.lemasson.7"
+co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_1468177840_280.jpg"
 ---
 <p class="coralie-texting">Quand j'ai vu Denis pour la première fois, je soupais à Varsity (une de nos deux salles à manger) avec ma coloque Olivia et une autre amie. Cet amie a dit, "Ne regarde pas maintenant, mais il est juste là!" Elle soupira ensuite d'admiration.</p>
 <p class="coralie-texting">Je me suis tournée brièvement pour voir de qui elle parlait, et Olivia guida mes yeux vers le "bel homme aux cheveux de flamme." Je ne me suis pas souciée de regarder pour longtemps. Ce "bel homme" était assis avec quelques filles, et les filles avec lesquelles j'étais semblaient vouloir les joindre. Cela m'ennuyait.</p>
