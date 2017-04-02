@@ -50,6 +50,10 @@ From that time on, we knew each other casually, but never met between groups. Ho
 
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f4/52/de/f452de2dfa1cb2c2d480db27394b0e85.jpg" />I sneaked this picture of Coralie at our breakfast table 😉</p>
 
+<h4>Summer</h4>
+<p class="denis-texting">During my trips to work, my mother convinced me I should follow my dreams and strive to become a pilot if that was something I truly wanted to do.</p>
+<p class="denis-texting">As we were thinking to whom we could speak, Coralie's father came to mind, as I knew from our breakfast discussions that her father was a pilot. So I messaged her to ask for information.</p>
+
 <p class="denis-texting">The two following semesters, I attempted to date someone; that finally did not work out. Coralie and I did, however, continue to have breakfast together every now and then, as friends.</p>
 
 <h4>Harmonious Strings of São Paulo</h4>
