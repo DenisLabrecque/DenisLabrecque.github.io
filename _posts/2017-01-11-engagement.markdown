@@ -60,10 +60,11 @@ The first few weeks of the school year, we went to church together a couple of t
 <p class="denis-texting">When in line for lunch, I mentioned I had no plans for Fine Arts: Olivia was almost offended. "Go out with Coralie!" she said.</p>
 <p class="denis-texting">So far, I had resisted the idea, because I didn't want to give off the impression I wanted a relationship. Even, someone else had asked me whether Coralie was available for Fine Arts, and I had already honestly declared having no intention to invite her.</p>
 <p class="denis-texting">However, thinking about it more, to attend with a friend who actually enjoyed classical music seemed far more interesting, rather than&mdash;alone.</p>
+<p class="coralie-texting">Because I had been having a bad week, Olivia decided to tell me that Denis was going to ask me to Fine Arts.</p>
 <p class="denis-texting">So I asked to meet Coralie, and invited her to come with me.</p>
 <p class="denis-texting">She made me repeat.</p>
 <p class="denis-texting">Straight away, she whipped out her attendance card and gave it to me.</p>
-<p class="coralie-texting">It's all yours, sir.</p>
+<p class="coralie-texting">Xxx</p>
 
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f2/00/08/f200080ba0ebe9f2ad6b66ca4df55334.jpg" />Is she not pretty? 😍<br />Yes, I innovated and created a special flower holder for the event. It's from a foam model jet.</p>
 
@@ -72,17 +73,21 @@ The first few weeks of the school year, we went to church together a couple of t
 <h4>Palms Grille</h4>
 <h5>November 14, 2016</h5>
 <p><em>We almost broke up.</em></p>
+President Shoemaker gave us a few dollars to spend at Palms Grille that semester. We went that Sunday evening.
+<p class="denis-texting">As we were eating, I grilled Coralie about understanding God's will, especially at her wanting to go to Hungary. How, I asked, would she know something like that for certain, if God didn't speak to her directly.</p>
+<p class="denis-texting">That had been on my mind for a long time, and in relation, I affirmed, "we've been hanging out too much lately." "Our paths are not convergent: therefore, so that this doesn't get even more difficult for you, and so you can pursue the life goals you have chosen, I don't think it's right to continue leading you on."</p>
+<p class="coralie-texting">"But I also need to correct you on this one point: I never said that our paths were irreconcilable. In fact, that is the very opposite of what I believe. I believe in a God of the impossible Who reconciles the irreconcilable, Who plans that two incredibly similar people of the same nationality, with agreeing philosophies, and with the same interests, should meet at the same place at the same time, a time when they both needed such a meeting. I took a chance on you because I was wholly convicted that my God's favourite pastime is to perform miracles, small and large. I was so confident that I never thought of taking that chance as taking a risk. There are no risks in trusting God. Maybe I was—and still remain—naive to believe in all of that. But the Lord has always carried out His Will in my life through miracles in the past; consequently, it's difficult for me to give up on you so easily. You were one of God's miracles in my life—and you had become my new dream."</p>
+ <p class="coralie-texting">"I was stubborn in letting you into my life, and I will be equally stubborn in letting you go. But because I love you and care more about what is best for you, I will not let my stubbornness get in the way of respecting your convictions or your need for distance. Of course, you can still have confidence that I won't turn you away if you ever need a friend to confide in. But I won't cling to you, even if my heart does."<p>
 
-But I also need to correct you on this one point: I never said that our paths were irreconcilable. In fact, that is the very opposite of what I believe. I believe in a God of the impossible Who reconciles the irreconcilable, Who plans that two incredibly similar people of the same nationality, with agreeing philosophies, and with the same interests, should meet at the same place at the same time, a time when they both needed such a meeting. I took a chance on you because I was wholly convicted that my God's favourite pastime is to perform miracles, small and large. I was so confident that I never thought of taking that chance as taking a risk. There are no risks in trusting God. Maybe I was—and still remain—naive to believe in all of that. But the Lord has always carried out His Will in my life through miracles in the past; consequently, it's difficult for me to give up on you so easily. You were one of God's miracles in my life—and you had become my new dream.
- 
-I was stubborn in letting you into my life, and I will be equally stubborn in letting you go. But because I love you and care more about what is best for you, I will not let my stubbornness get in the way of respecting your convictions or your need for distance. Of course, you can still have confidence that I won't turn you away if you ever need a friend to confide in. But I won't cling to you, even if my heart does.
- 
-So don't take everything too seriously. You will gain a clearer mind, and will smile again. As you will notice eventually, love makes us a little blind and overpositive. Also, don't give up on me. This morning, as chapel interrupted my writing you, I fell in tears over the song
-   "As the deer panteth for the waters
-    So my soul longeth after thee;
-    You alone are my heart's desire..."
-Honestly, I'm just confused at the moment. I'm looking for quiet and friendship and love all at the same, so that I'm both very much at peace and very much haywire altogether. So please forgive my disarray; the day will come when my mind is at peace with you.
-Hopefully you don't feel the need to distance yourself too much.
+<p class="denis-texting">The force of feelings took me by surprise. I didn't expect she'd be so attached. After talking to my mother over the phone and considered how those things happened, I could understand Coralie's train of thought better. But I still wasn't sure what to do.</p>
+ <p class="denis-texting">I was honest, and did write, "don't give up on me. This morning, as chapel interrupted my writing you, I fell in tears over the song
+<br />   <q>As the deer panteth for the waters
+<br />    So my soul longeth after thee;
+<br />    You alone are my heart's desire...</q>
+<br />Hopefully you don't feel the need to distance yourself too much."
+
+<h4>Taking a Chance</h4>
+<h5>November 17, 2016</h5>
 
 <p class="denis-texting">As a reconciliation, I took a recent watercolour post card project, stuffed my Fine Arts ticket and my Thanksgiving dinner attendance card into it, and sent it up to Coralie's room with red roses through her rommate Olivia. Inside the card was written
 <br /><q>I'll take a risk
