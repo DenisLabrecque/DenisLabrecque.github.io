@@ -98,7 +98,7 @@ permalink: /gallery
       /* invisible click areas for moving between pictures */
       .giant-left-move, .giant-right-move {
          position: absolute;
-         width: 30vw;
+         width: 30%;
          height: 100%;
          cursor: pointer;
       }
