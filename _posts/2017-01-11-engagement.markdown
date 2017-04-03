@@ -91,7 +91,8 @@ The first few weeks of the school year, we went to church together a couple of t
 <p class="denis-texting">So far, I had resisted the idea, because I didn't want to give off the impression I wanted a relationship. Even, someone else had asked me whether Coralie was available for Fine Arts, and I had already honestly declared having no intention to invite her.</p>
 <p class="coralie-texting">Another young man came very close to asking me to Fine Arts. In semesters past, I would have been pleased to accompany someone else besides my girlfriends. This time, however, I wasn't so enthusiastic. This young man was kind, and good company—but he wasn't Denis.</p>
 <p class="denis-texting">However, thinking about it more, to attend with a friend who actually enjoyed classical music seemed far more interesting, rather than&mdash;alone.</p>
-<p class="coralie-texting">Because I had been having a bad week, Olivia decided to tell me that Denis was going to ask me to Fine Arts.</p>
+<p class="coralie-texting">To go into detail about the trial I was going through at this time isn't essential to this story, but I mention it for context. My spirit was low, and my roommate, always considerate toward my wellbeing, decided to tell me that Denis would ask me to Fine Arts.</p>
+<p class="coralie-texting">XXX</p>
 <p class="denis-texting">So I asked to meet Coralie, and invited her to come with me.</p>
 <p class="denis-texting">She made me repeat.</p>
 <p class="denis-texting">Straight away, she whipped out her attendance card and gave it to me.</p>
