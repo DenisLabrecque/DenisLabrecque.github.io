@@ -1,0 +1,165 @@
+---
+permalink: /gallery
+---
+<html>
+<head>
+   <title>Gallery JavaScript</title>
+   <script src="https://use.fontawesome.com/4acf3e114b.js"></script>
+   <script>
+      var spinnerOn   = 0; // Spinner loader showing
+      var actualPhoto = 1; // Photo you're looking at
+      var photoArray = [
+         "https://s-media-cache-ak0.pinimg.com/originals/a0/7c/39/a07c392b1930a47d412b96b66e3348cf.jpg",
+         "https://s-media-cache-ak0.pinimg.com/originals/b5/d9/7d/b5d97d0d23383c877535b486835192fd.jpg",
+         "https://s-media-cache-ak0.pinimg.com/originals/d9/2a/0f/d92a0f639e2072b21ea464f2cde3bdad.jpg",
+         "https://s-media-cache-ak0.pinimg.com/originals/d9/e6/aa/d9e6aac3a77c3c0e387f107afbd6f756.jpg",
+         "https://s-media-cache-ak0.pinimg.com/originals/a7/69/36/a769367dd6d55a80a670c67340bbb8d6.jpg",
+         "https://s-media-cache-ak0.pinimg.com/originals/0f/56/1d/0f561dfafa00dcda1785609020272bf3.png",
+         "https://s-media-cache-ak0.pinimg.com/originals/22/b3/d6/22b3d6b0247a24bebc5d180bc4784706.png",
+         "https://s-media-cache-ak0.pinimg.com/originals/1f/ce/e6/1fcee6d8b2e2346b5e0aaee168204560.jpg"
+      ];
+      var gallerySize = photoArray.length;
+
+      // Move forwards in the array of photos
+      function nextPhoto()
+      {
+         if(actualPhoto == gallerySize)
+         {
+            actualPhoto = 1;
+         }
+         else {
+            actualPhoto++;
+         }
+         displayPhoto();
+      }
+
+      // Move backwards in the array of photos
+      function previousPhoto()
+      {
+         if(actualPhoto == 1)
+         {
+            actualPhoto = gallerySize;
+         }
+         else {
+            actualPhoto--;
+         }
+         displayPhoto();
+      }
+
+      // Show a spinner and display a photo by changing source URL
+      function displayPhoto()
+      {
+         // Load the photo through css and show which photo the user is looking at
+         var source = photoArray[actualPhoto -1]; // The source url of an image in the array
+         var CSSphotoURL = "url('" + source + "')"; // The source url CSS background style property
+
+         document.getElementById("PhotoGallery").style.backgroundImage = CSSphotoURL;
+         document.getElementById("GalleryPhotoNumber").innerHTML = actualPhoto + " / " + gallerySize;
+      }
+   </script>
+   <style>
+      body {
+         margin: 0;
+      }
+
+      /* left and right photo gallery navigation arrows */
+      .photo-arrow {
+         transition: ease-in-out .15s;
+         color: white;
+         background-color: transparent;
+         height: 20px;
+         width: 20px;
+         font-size: 30px;
+         line-height: 500px;
+         padding: 5px 5px 5px 5px;
+         margin: 0 0 0 0;
+         text-align: center;
+         position: absolute;
+         user-select: none;
+         cursor: pointer;
+      }
+      .photo-arrow:hover {
+         color: lightgrey;
+      }
+      .photo-arrow:active {
+         transform:scale(1.01);
+      }
+      .photo-left {
+         top: 50%;
+         margin-top: -260px;
+         left: 10px;
+      }
+      .photo-right {
+         top: 50%;
+         margin-top: -260px;
+         right: 10px;
+      }
+
+      /* invisible click areas for moving between pictures */
+      .giant-left-move, .giant-right-move {
+         position: absolute;
+         width: 30vw;
+         height: 100%;
+         cursor: pointer;
+      }
+      .giant-left-move:hover, .giant-right-move:hover {
+         background: lightgrey;
+         opacity: .2;
+      }
+      .giant-left-move {
+         top: 0;
+         left: 0;
+      }
+      .giant-right-move {
+         top: 0;
+         right: 0;
+      }
+
+      .gallery-backdrop {
+         width: 100%;
+         height: 80vh;
+         background-color: black;
+         position: relative;
+      }
+      #PhotoGallery {
+         height: 80vh;
+         width: 100%;
+         background-size: contain;
+         background-position: center;
+         background-repeat: no-repeat;
+         user-select: none;
+         position: relative;
+      }
+      #spinner-font-awesome {
+         color: grey;
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         font-size: 40px;
+         margin-left: -20px;
+         margin-top: -20px;
+         user-select: none;
+      }
+   </style>
+</head>
+<body onload="displayPhoto()">
+
+   <p>Random stuff here...</p>
+
+   <div class="gallery-backdrop">
+      <i class="fa fa-circle-o-notch fa-spin fa-3x fa-fw" id="spinner-font-awesome"></i>
+      <div id="PhotoGallery">
+         <div class="photo-arrow photo-left" onclick="previousPhoto()">❮</div>
+         <div class="photo-arrow photo-right" onclick="nextPhoto()">❯</div>
+         <div class="giant-left-move" onclick="previousPhoto()"></div>
+         <div class="giant-right-move" onclick="nextPhoto()"></div>
+         <!-- photos appear in div background through CSS -->
+         <figcaption id="GalleryPhotoNumber" style="color: white;"><!-- JavaScript writes photo # of # here --></figcaption>
+      </div>
+   </div>
+
+      <p>This is junk</p>
+      <h1>Just to test</h1>
+      <p>How this rests on a page.</p>
+</body>
+</html>
