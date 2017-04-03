@@ -70,11 +70,11 @@ From that time on, we knew each other casually, but never met between groups. Ho
 
 <p class="denis-texting">As we were thinking to whom we could speak, Coralie's father came to mind, as I knew from our breakfast discussions that her father was a pilot. So I messaged her to ask for information.</p>
 
-<p class="coralie-lemasson">He messaged me. To my surprise, as we corresponded, I didn't feel the affections that had previously plagued me; I felt only amity when I offered him my father's phone number.</p>
+<p class="coralie-texting">He messaged me. To my surprise, as we corresponded, I didn't feel the affections that had previously plagued me; I felt only amity when I offered him my father's phone number. He accepted it, and did call my father.</p>
 
-Over the phone, Denis and Coralie's father discussed aviation and Denis's dreams. After that, Denis and Coralie only communicated once or twice the rest of the summer.
+After that, we only communicated once or twice the rest of the summer.
 
-<p class="coralie-lemasson">As my summer vacation was drawing to a close, I found myself very pensive. My affections had not completely gone away, as I had hoped. Yes, I was determined to be nothing more than a supportive friend to Denis—but was my determination enough to keep me from hurting myself? That didn't matter. I was resolved. I would love him for his sake, not mine.</p>
+<p class="coralie-texting">As my summer vacation was drawing to a close, I found myself very pensive. My affections had not completely gone away, as I had hoped. Yes, I was determined to be nothing more than a supportive friend to Denis—but was my determination enough to keep me from hurting myself? That didn't matter. I was resolved. I would love him for his sake, not mine.</p>
 
 <p class="denis-texting">The two following semesters, I attempted to date someone; that finally did not work out. Coralie and I did, however, continue to have breakfast together every now and then, as friends.</p>
 
