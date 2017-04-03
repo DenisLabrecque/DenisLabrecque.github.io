@@ -82,9 +82,14 @@ After that, we only communicated once or twice the rest of the summer.
 <h5>October 8, 2016</h5>
 <p><em>Our first event together.</em></p>
 The first few weeks of the school year, we went to church together a couple of times. However, there were some struggles.
-<p class="coralie-texting">I had resolved at the beginning of the semester to be Denis's friend.</p>
+<p class="coralie-texting">We spent more time together than I had expected, during the first two months of school. I had braced myself for some emotional attachment, but not enough for the closeness, as friends, that we were developing. But just as I was planning to surrender and repent of my affections again, I had an epiphany.</p>
+
+<p class="coralie-texting">[Paraphrase this:] "Who am I, that I should constrain the power of the Omnipotent God? Who am I, to assume His role and decide my own destiny? He who created the complex universe with His breath, who penned the perfect history in His son's perfect blood, and who, for some reason, chose to make me a part of His Creation and History—He deserves all glory, glory which is best received when I do nothing but say "yes" to Him. And if two seemingly contradictory destinies—gifts, which have proven themselves true—bid me to choose between them, a choice whose results are either a broken spirit or a broken heart, then I should not try to choose. If the gifts are indeed Heaven-sent, then my commission is not to negotiate them; the Lord alone holds that prerogative! My place is merely to watch the Lord perform a miracle, and to praise Him for it."</p>
+
+<p class="coralie-texting">For the first time, I had complete peace about Denis, and that he did indeed have a place in my life; the Lord wanted me to let him in. As Fine Arts approached, I hoped that Denis would invite me to the event.</p>
 <p class="denis-texting">When in line for lunch, I mentioned I had no plans for Fine Arts: Olivia was almost offended. "Go out with Coralie!" she said.</p>
 <p class="denis-texting">So far, I had resisted the idea, because I didn't want to give off the impression I wanted a relationship. Even, someone else had asked me whether Coralie was available for Fine Arts, and I had already honestly declared having no intention to invite her.</p>
+<p class="coralie-texting">Another young man came very close to asking me to Fine Arts. In semesters past, I would have been pleased to accompany someone else besides my girlfriends. This time, however, I wasn't so enthusiastic. This young man was kind, and good company—but he wasn't Denis.</p>
 <p class="denis-texting">However, thinking about it more, to attend with a friend who actually enjoyed classical music seemed far more interesting, rather than&mdash;alone.</p>
 <p class="coralie-texting">Because I had been having a bad week, Olivia decided to tell me that Denis was going to ask me to Fine Arts.</p>
 <p class="denis-texting">So I asked to meet Coralie, and invited her to come with me.</p>
