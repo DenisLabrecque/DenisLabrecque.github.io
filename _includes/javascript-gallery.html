@@ -1,0 +1,257 @@
+<html>
+<head>
+   <title>Gallery JavaScript</title>
+   <script src="https://use.fontawesome.com/4acf3e114b.js"></script>
+   <script>
+      var spinnerOn   = 0; // Spinner loader showing
+      var actualPhoto = 1; // Photo you're looking at
+      var expanded = 0; // Photo gallery is/or not expanded to a popup
+      var photoArray = [
+         {
+            url: "https://s-media-cache-ak0.pinimg.com/originals/c3/78/df/c378df1d905f23425da4c06d3bd56d51.jpg",
+            title: "Coralie facing Perdido Bay at West Campus",
+            description: "We loved going to West Campus together as an outing provided by the school."
+         },
+         {
+            url: "https://s-media-cache-ak0.pinimg.com/originals/e7/e6/1d/e7e61db67b6af56ba1050129274b3f4f.jpg",
+            title: "Denis and Coralie before the Scrooge play"
+         },
+         {
+            url: "https://s-media-cache-ak0.pinimg.com/originals/86/02/26/860226017cecd56507ebc83d39268af6.jpg",
+            title: "Denis and Coralie out of Varsity"
+         },
+         {
+            url: "https://s-media-cache-ak0.pinimg.com/originals/70/e3/ca/70e3cab9acfa7c1d27570b7eb0d785e9.jpg",
+            title: "Denis and Coralie at their first Fine Arts together"
+         }
+      ];
+      var gallerySize = photoArray.length;
+
+      // Move forwards in the array of photos
+      function nextPhoto()
+      {
+         if(actualPhoto == gallerySize)
+         {
+            actualPhoto = 1;
+         }
+         else {
+            actualPhoto++;
+         }
+         displayPhoto();
+      }
+
+      // Move backwards in the array of photos
+      function previousPhoto()
+      {
+         if(actualPhoto == 1)
+         {
+            actualPhoto = gallerySize;
+         }
+         else {
+            actualPhoto--;
+         }
+         displayPhoto();
+      }
+
+      // Make the photo gallery its own window
+      function expandOrRetract()
+      {
+         if (expanded == 0)
+         {
+            expanded = 1;
+            document.getElementById("gallery-backdrop").style.position = "fixed";
+            document.getElementById("gallery-backdrop").style.height = "100vh";
+            document.getElementById("gallery-backdrop").style.top = "0";
+            document.getElementById("gallery-backdrop").style.left = "0";
+         }
+         else {
+            expanded = 0;
+            document.getElementById("gallery-backdrop").style.position = "relative";
+            document.getElementById("gallery-backdrop").style.height = "80vh";
+            document.getElementById("gallery-backdrop").style.top = "unset";
+            document.getElementById("gallery-backdrop").style.left = "unset";
+         }
+      }
+
+      // Get the title of an image if it exists
+      function getImageTitle()
+      {
+         var imageTitle; // The title of an image
+
+         if (photoArray[actualPhoto - 1].title)
+         {
+            imageTitle = photoArray[actualPhoto - 1].title
+         }
+         else 
+         {
+            imageTitle = "<span lang='en'>Untitled</span>";
+         }
+
+         return imageTitle;
+      }
+
+      // Get the description of an image
+      function getImageDescription()
+      {
+         var imageDescription; // The description of an image
+         var imageBy;          // Who created the image
+
+         if (photoArray[actualPhoto - 1].description)
+         {
+            imageDescription = "<div class='image-description'>" + photoArray[actualPhoto - 1].description + "</div>";
+         }
+         else
+         {
+            imageDescription = "";
+         }
+
+         if (photoArray[actualPhoto - 1].by)
+         {
+            imageBy = "<div class='image-by'>" + photoArray[actualPhoto - 1].by + "</div>";
+         }
+         else
+         {
+            imageBy = "";
+         }
+
+         return imageBy + imageDescription;
+      }
+
+      // Show a spinner and display a photo by changing source URL
+      function displayPhoto()
+      {
+         // Load the photo through css and show which photo the user is looking at
+         var source = photoArray[actualPhoto - 1].url; // The source url of an image in the array
+         var CSSphotoURL = "url('" + source + "')";    // The source url CSS background style property
+
+         document.getElementById("PhotoGallery").style.backgroundImage = CSSphotoURL;
+         document.getElementById("GalleryPhotoNumber").innerHTML = actualPhoto + " / " + gallerySize + " • " + getImageTitle();
+         document.getElementById("PhotoDescription").innerHTML = getImageDescription();
+      }
+   </script>
+   <style>
+      body {
+         margin: 0;
+         margin-left: 15%;
+         margin-right: 15%;
+      }
+
+      /* left and right photo gallery navigation arrows */
+      .photo-arrow, .photo-expand {
+         transition: ease-in-out .15s;
+         color: white;
+         background-color: transparent;
+         height: 20px;
+         width: 20px;
+         font-size: 30px;
+         padding: 5px 5px 5px 5px;
+         margin: 0 0 0 0;
+         text-align: center;
+         position: absolute;
+         user-select: none;
+         cursor: pointer;
+      }
+      .photo-arrow:hover, .photo-expand:hover {
+         color: lightgrey;
+      }
+      .photo-arrow:active, .photo-expand:active {
+         transform:scale(1.01);
+      }
+      .photo-left {
+         top: 50%;
+         margin-top: -17px;
+         left: 10px;
+      }
+      .photo-right {
+         top: 50%;
+         margin-top: -17px;
+         right: 10px;
+      }
+      .photo-expand {
+         position: absolute;
+         top: 0%;
+         cursor: ne-resize;
+         right: 10px;
+         z-index: 5;
+      }
+
+      /* Shows picture # of # */
+      #GalleryPhotoNumber {
+         position: absolute;
+         left: 10px;
+         top: 10px;
+         font-size: 14px;
+         color: white;
+      }
+
+      /* invisible click areas for moving between pictures */
+      .giant-left-move, .giant-right-move {
+         position: absolute;
+         width: 30%;
+         height: 33.33%;
+         cursor: pointer;
+      }
+      .giant-left-move:hover, .giant-right-move:hover {
+         background: lightgrey;
+         opacity: .2;
+      }
+      .giant-left-move {
+         top: 33.33%;
+         left: 0;
+      }
+      .giant-right-move {
+         top: 33.33%;
+         right: 0;
+      }
+
+      .gallery-backdrop {
+         width: 100%;
+         height: 80vh;
+         background-color: black;
+         position: relative;
+         transition: all ease-in-out .15s; /* transitions height, but must find way to transition position */
+      }
+      #PhotoGallery {
+         height: 100%;
+         width: 100%;
+         background-size: contain;
+         background-position: center;
+         background-repeat: no-repeat;
+         user-select: none;
+         position: relative;
+      }
+      #spinner-font-awesome {
+         color: grey;
+         position: absolute;
+         top: 50%;
+         left: 50%;
+         font-size: 40px;
+         margin-left: -20px;
+         margin-top: -20px;
+         user-select: none;
+      }
+   </style>
+</head>
+<body onload="displayPhoto()">
+
+   <p>Random stuff here...</p>
+
+   <div class="gallery-backdrop" id="gallery-backdrop">
+      <i class="fa fa-circle-o-notch fa-spin fa-3x fa-fw" id="spinner-font-awesome"></i>
+      <div id="PhotoGallery">
+         <div class="photo-expand" onclick="expandOrRetract()">⤢</div>
+         <div class="photo-arrow photo-left" onclick="previousPhoto()">❮</div>
+         <div class="photo-arrow photo-right" onclick="nextPhoto()">❯</div>
+         <div class="giant-left-move" onclick="previousPhoto()"></div>
+         <div class="giant-right-move" onclick="nextPhoto()"></div>
+         <!-- photos appear in div background through CSS -->
+         <figcaption id="GalleryPhotoNumber"><!-- JavaScript writes photo # of # here --></figcaption>
+      </div>
+   </div>
+   <div id="PhotoDescription"><!-- Photo titles and descriptions appear here --></div>
+
+      <p>This is junk</p>
+      <h1>Just to test</h1>
+      <p>How this rests on a page.</p>
+</body>
+</html>
