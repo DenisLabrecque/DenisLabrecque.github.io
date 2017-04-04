@@ -15,6 +15,28 @@ co-author: Coralie Lemasson
 co-author-url: "https://www.facebook.com/coralie.lemasson.7"
 co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_1468177840_280.jpg"
 ---
+<script>
+   var photoArray = [
+      {
+         url: "https://s-media-cache-ak0.pinimg.com/originals/c3/78/df/c378df1d905f23425da4c06d3bd56d51.jpg",
+         title: "Coralie facing Perdido Bay at West Campus",
+         description: "We loved going to West Campus together as an outing provided by the school."
+      },
+      {
+         url: "https://s-media-cache-ak0.pinimg.com/originals/e7/e6/1d/e7e61db67b6af56ba1050129274b3f4f.jpg",
+         title: "Denis and Coralie before the Scrooge play"
+      },
+      {
+         url: "https://s-media-cache-ak0.pinimg.com/originals/86/02/26/860226017cecd56507ebc83d39268af6.jpg",
+         title: "Denis and Coralie out of Varsity"
+      },
+      {
+         url: "https://s-media-cache-ak0.pinimg.com/originals/70/e3/ca/70e3cab9acfa7c1d27570b7eb0d785e9.jpg",
+         title: "Denis and Coralie at their first Fine Arts together"
+      }
+   ];
+</script>
+
 <p class="coralie-texting">The first time I saw Denis, I was having supper at Varsity (one of our two dining halls) with my roommate Olivia and one of her friends. This friend said, "Don't look now, but there he is!" She proceeded to sigh, adoringly.</p>
 <p class="coralie-texting">I briefly turned to see whom she was speaking of, and Olivia guided my gaze to the "fine-looking man with flaming red hair." I didn't care to look for long. This "fine man" was sitting with several girls, and the girls with whom I was sitting seemed to want to join them. That annoyed me.</p>
 <p class="coralie-texting">Olivia then explained to me who Denis was: an artist, a Canadian, and her favourite chapel buddy. She suggested that, seeing as I was a Canadian, too, I should befriend him. "Never," I replied. "I have friends. I don't need more."</p>
