@@ -1,4 +1,0 @@
----
-permalink: /gallery
----
-{% include javascript-gallery.html %}
