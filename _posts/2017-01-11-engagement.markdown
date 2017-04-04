@@ -18,19 +18,23 @@ co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_14
 <script>
    var photoArray = [
       {
+         pinurl: "c3/78/df/c378df1d905f23425da4c06d3bd56d51.jpg",
          url: "https://s-media-cache-ak0.pinimg.com/originals/c3/78/df/c378df1d905f23425da4c06d3bd56d51.jpg",
          title: "Coralie facing Perdido Bay at West Campus",
          description: "We loved going to West Campus together as an outing provided by the school."
       },
       {
+         pinurl: "e7/e6/1d/e7e61db67b6af56ba1050129274b3f4f.jpg",
          url: "https://s-media-cache-ak0.pinimg.com/originals/e7/e6/1d/e7e61db67b6af56ba1050129274b3f4f.jpg",
          title: "Denis and Coralie before the Scrooge play"
       },
       {
+         pinurl: "86/02/26/860226017cecd56507ebc83d39268af6.jpg",
          url: "https://s-media-cache-ak0.pinimg.com/originals/86/02/26/860226017cecd56507ebc83d39268af6.jpg",
          title: "Denis and Coralie out of Varsity"
       },
       {
+         pinurl: "70/e3/ca/70e3cab9acfa7c1d27570b7eb0d785e9.jpg",
          url: "https://s-media-cache-ak0.pinimg.com/originals/70/e3/ca/70e3cab9acfa7c1d27570b7eb0d785e9.jpg",
          title: "Denis and Coralie at their first Fine Arts together"
       }

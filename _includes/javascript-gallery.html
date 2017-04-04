@@ -51,6 +51,31 @@
       }
    }
 
+   // Get the image source
+   function getImageSource(source)
+   {
+      var imageSource; // The source of an image
+      var pinLargeImageUrl = "https://s-media-cache-ak0.pinimg.com/originals/";
+      var pinSmallImageUrl = "https://s-media-cache-ak0.pinimg.com/564x/";
+
+      // Return a large source image
+      if (source == "source")
+      {
+         imageSource = photoArray[actualPhoto - 1].url;
+      }
+      else { // source == "thumb"
+         if (photoArray[actualPhoto - 1].pinurl)
+         {
+            imageSource = pinSmallImageUrl + photoArray[actualPhoto - 1].pinurl;
+         }
+         else {
+            imageSource = photoArray[actualPhoto - 1].url;
+         }
+      }
+
+      return imageSource;
+   }
+
    // Get the title of an image if it exists
    function getImageTitle()
    {
@@ -99,27 +124,33 @@
    function displayPhoto()
    {
       // Load the photo through css and show which photo the user is looking at
-      var source = photoArray[actualPhoto - 1].url; // The source url of an image in the array
-      var CSSphotoURL = "url('" + source + "')";    // The source url CSS background style property
+      var imageSource = getImageSource("source"); // The source url of an image in the array
+      var imageThumb = getImageSource("thumb"); // The thumbnail url of an image in the array
+      var sourceUrl = photoArray[actualPhoto - 1].url; // The largest image URL
+      var CssSourceUrl = "url('" + imageSource + "')";
+      var CssThumbUrl = "url('" + imageThumb + "')";
 
-      document.getElementById("PhotoGallery").style.backgroundImage = CSSphotoURL;
-      document.getElementById("photoLink").setAttribute("href", source);
+      document.getElementById("PhotoGalleryPreview").style.backgroundImage = CssThumbUrl;
+      document.getElementById("photoLink").setAttribute("href", imageSource);
       document.getElementById("GalleryPhotoNumber").innerHTML = actualPhoto + " / " + gallerySize + " • " + getImageTitle();
       document.getElementById("PhotoDescription").innerHTML = getImageDescription();
+      document.getElementById("PhotoGallery").style.backgroundImage = CssSourceUrl;
    }
 </script>
 
 <div class="gallery-backdrop" id="gallery-backdrop">
    <i class="fa fa-circle-o-notch fa-spin fa-3x fa-fw" id="spinner-font-awesome"></i>
-   <div id="PhotoGallery">
-      <div class="photo-expand" onclick="expandOrRetract()">⤢</div>
-      <a class="photo-link" id="photoLink" target="_new">◳</a>
-      <div class="photo-arrow photo-left" onclick="previousPhoto()">❮</div>
-      <div class="photo-arrow photo-right" onclick="nextPhoto()">❯</div>
-      <div class="giant-left-move" onclick="previousPhoto()"></div>
-      <div class="giant-right-move" onclick="nextPhoto()"></div>
-      <!-- photos appear in div background through CSS -->
-      <figcaption id="GalleryPhotoNumber"><!-- JavaScript writes photo # of # here --></figcaption>
+   <div id="PhotoGalleryPreview">
+      <div id="PhotoGallery">
+         <div class="photo-expand" onclick="expandOrRetract()">⤢</div>
+         <a class="photo-link" id="photoLink" target="_new">◳</a>
+         <div class="photo-arrow photo-left" onclick="previousPhoto()">❮</div>
+         <div class="photo-arrow photo-right" onclick="nextPhoto()">❯</div>
+         <div class="giant-left-move" onclick="previousPhoto()"></div>
+         <div class="giant-right-move" onclick="nextPhoto()"></div>
+         <!-- photos appear in div background through CSS -->
+         <figcaption id="GalleryPhotoNumber"><!-- JavaScript writes photo # of # here --></figcaption>
+      </div>
    </div>
 </div>
-<p class="note" id="PhotoDescription"><!-- Photo titles and descriptions appear here --></p>
+<p class="javascript-gallery-caption" id="PhotoDescription"><!-- Photo titles and descriptions appear here --></p>

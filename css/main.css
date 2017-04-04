@@ -24,7 +24,7 @@ body {
     color: white;
 }
 
-blockquote, .note {
+blockquote, .note, .javascript-gallery-caption {
     margin-left: 15pt;
     border-left: 5pt solid rgb(16, 186, 205);
     padding-left: 15pt;
@@ -1012,7 +1012,7 @@ label.image-popout:hover {
     cursor: zoom-in;
 }
 
-.note {
+.note, javascript-gallery-caption {
     color: white;
     background: rgb(0,176,240);
     padding-top: 10pt;
@@ -1605,7 +1605,7 @@ p.coralie-texting:after {
          transition: all ease-in-out .15s; /* transitions height, but must find way to transition position */
 	 z-index: 5000;
       }
-      #PhotoGallery {
+      #PhotoGallery, #PhotoGalleryPreview {
          height: 100%;
          width: 100%;
          background-size: contain;
@@ -1625,4 +1625,15 @@ p.coralie-texting:after {
          margin-top: -20px;
          user-select: none;
 	 z-index: inherit;
+      }
+
+      .javascript-gallery-caption {
+         font-size: 90%;
+         margin-top: 0;
+         margin-left: 0;
+         border-left-color: grey;
+         background-color: black;
+         color: white;
+         padding-top: 5pt;
+         padding-bottom: 5pt;
       }
