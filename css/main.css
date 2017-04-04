@@ -1556,10 +1556,13 @@ p.coralie-texting:after {
       }
 .photo-link {
    position: absolute;
-   top: 40px;
+   top: 50px;
    cursor: url;
    right: 10px;
    z-index: 5;
+}
+.photo-link:link {
+	color: white;
 }
 
       /* Shows picture # of # */
