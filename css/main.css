@@ -1561,6 +1561,7 @@ p.coralie-texting:after {
          top: 10px;
          font-size: 14px;
          color: white;
+	      text-shadow: 1px 2px 3px #666;
       }
 
       /* invisible click areas for moving between pictures */
