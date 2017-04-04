@@ -1,142 +1,141 @@
-
-   <script>
-      var spinnerOn   = 0; // Spinner loader showing
-      var actualPhoto = 1; // Photo you're looking at
-      var expanded = 0; // Photo gallery is/or not expanded to a popup
-      var photoArray = [
-         {
-            url: "https://s-media-cache-ak0.pinimg.com/originals/c3/78/df/c378df1d905f23425da4c06d3bd56d51.jpg",
-            title: "Coralie facing Perdido Bay at West Campus",
-            description: "We loved going to West Campus together as an outing provided by the school."
-         },
-         {
-            url: "https://s-media-cache-ak0.pinimg.com/originals/e7/e6/1d/e7e61db67b6af56ba1050129274b3f4f.jpg",
-            title: "Denis and Coralie before the Scrooge play"
-         },
-         {
-            url: "https://s-media-cache-ak0.pinimg.com/originals/86/02/26/860226017cecd56507ebc83d39268af6.jpg",
-            title: "Denis and Coralie out of Varsity"
-         },
-         {
-            url: "https://s-media-cache-ak0.pinimg.com/originals/70/e3/ca/70e3cab9acfa7c1d27570b7eb0d785e9.jpg",
-            title: "Denis and Coralie at their first Fine Arts together"
-         }
-      ];
-      var gallerySize = photoArray.length;
-
-      // Move forwards in the array of photos
-      function nextPhoto()
+<script>
+   var spinnerOn   = 0; // Spinner loader showing
+   var actualPhoto = 1; // Photo you're looking at
+   var expanded = 0; // Photo gallery is/or not expanded to a popup
+   var photoArray = [
       {
-         if(actualPhoto == gallerySize)
-         {
-            actualPhoto = 1;
-         }
-         else {
-            actualPhoto++;
-         }
-         displayPhoto();
+         url: "https://s-media-cache-ak0.pinimg.com/originals/c3/78/df/c378df1d905f23425da4c06d3bd56d51.jpg",
+         title: "Coralie facing Perdido Bay at West Campus",
+         description: "We loved going to West Campus together as an outing provided by the school."
+      },
+      {
+         url: "https://s-media-cache-ak0.pinimg.com/originals/e7/e6/1d/e7e61db67b6af56ba1050129274b3f4f.jpg",
+         title: "Denis and Coralie before the Scrooge play"
+      },
+      {
+         url: "https://s-media-cache-ak0.pinimg.com/originals/86/02/26/860226017cecd56507ebc83d39268af6.jpg",
+         title: "Denis and Coralie out of Varsity"
+      },
+      {
+         url: "https://s-media-cache-ak0.pinimg.com/originals/70/e3/ca/70e3cab9acfa7c1d27570b7eb0d785e9.jpg",
+         title: "Denis and Coralie at their first Fine Arts together"
+      }
+   ];
+   var gallerySize = photoArray.length;
+
+   // Move forwards in the array of photos
+   function nextPhoto()
+   {
+      if(actualPhoto == gallerySize)
+      {
+         actualPhoto = 1;
+      }
+      else {
+         actualPhoto++;
+      }
+      displayPhoto();
+   }
+
+   // Move backwards in the array of photos
+   function previousPhoto()
+   {
+      if(actualPhoto == 1)
+      {
+         actualPhoto = gallerySize;
+      }
+      else {
+         actualPhoto--;
+      }
+      displayPhoto();
+   }
+
+   // Make the photo gallery its own window
+   function expandOrRetract()
+   {
+      if (expanded == 0)
+      {
+         expanded = 1;
+         document.getElementById("gallery-backdrop").style.position = "fixed";
+         document.getElementById("gallery-backdrop").style.height = "100vh";
+         document.getElementById("gallery-backdrop").style.top = "0";
+         document.getElementById("gallery-backdrop").style.left = "0";
+      }
+      else {
+         expanded = 0;
+         document.getElementById("gallery-backdrop").style.position = "relative";
+         document.getElementById("gallery-backdrop").style.height = "80vh";
+         document.getElementById("gallery-backdrop").style.top = "unset";
+         document.getElementById("gallery-backdrop").style.left = "unset";
+      }
+   }
+
+   // Get the title of an image if it exists
+   function getImageTitle()
+   {
+      var imageTitle; // The title of an image
+
+      if (photoArray[actualPhoto - 1].title)
+      {
+         imageTitle = photoArray[actualPhoto - 1].title
+      }
+      else 
+      {
+         imageTitle = "<span lang='en'>Untitled</span>";
       }
 
-      // Move backwards in the array of photos
-      function previousPhoto()
+      return imageTitle;
+   }
+
+   // Get the description of an image
+   function getImageDescription()
+   {
+      var imageDescription; // The description of an image
+      var imageBy;          // Who created the image
+
+      if (photoArray[actualPhoto - 1].description)
       {
-         if(actualPhoto == 1)
-         {
-            actualPhoto = gallerySize;
-         }
-         else {
-            actualPhoto--;
-         }
-         displayPhoto();
+         imageDescription = "<div class='image-description'>" + photoArray[actualPhoto - 1].description + "</div>";
+      }
+      else
+      {
+         imageDescription = "";
       }
 
-      // Make the photo gallery its own window
-      function expandOrRetract()
+      if (photoArray[actualPhoto - 1].by)
       {
-         if (expanded == 0)
-         {
-            expanded = 1;
-            document.getElementById("gallery-backdrop").style.position = "fixed";
-            document.getElementById("gallery-backdrop").style.height = "100vh";
-            document.getElementById("gallery-backdrop").style.top = "0";
-            document.getElementById("gallery-backdrop").style.left = "0";
-         }
-         else {
-            expanded = 0;
-            document.getElementById("gallery-backdrop").style.position = "relative";
-            document.getElementById("gallery-backdrop").style.height = "80vh";
-            document.getElementById("gallery-backdrop").style.top = "unset";
-            document.getElementById("gallery-backdrop").style.left = "unset";
-         }
+         imageBy = "<div class='image-by'>" + photoArray[actualPhoto - 1].by + "</div>";
+      }
+      else
+      {
+         imageBy = "";
       }
 
-      // Get the title of an image if it exists
-      function getImageTitle()
-      {
-         var imageTitle; // The title of an image
+      return imageBy + imageDescription;
+   }
 
-         if (photoArray[actualPhoto - 1].title)
-         {
-            imageTitle = photoArray[actualPhoto - 1].title
-         }
-         else 
-         {
-            imageTitle = "<span lang='en'>Untitled</span>";
-         }
+   // Show a spinner and display a photo by changing source URL
+   function displayPhoto()
+   {
+      // Load the photo through css and show which photo the user is looking at
+      var source = photoArray[actualPhoto - 1].url; // The source url of an image in the array
+      var CSSphotoURL = "url('" + source + "')";    // The source url CSS background style property
 
-         return imageTitle;
-      }
+      document.getElementById("PhotoGallery").style.backgroundImage = CSSphotoURL;
+      document.getElementById("GalleryPhotoNumber").innerHTML = actualPhoto + " / " + gallerySize + " • " + getImageTitle();
+      document.getElementById("PhotoDescription").innerHTML = getImageDescription();
+   }
+</script>
 
-      // Get the description of an image
-      function getImageDescription()
-      {
-         var imageDescription; // The description of an image
-         var imageBy;          // Who created the image
-
-         if (photoArray[actualPhoto - 1].description)
-         {
-            imageDescription = "<div class='image-description'>" + photoArray[actualPhoto - 1].description + "</div>";
-         }
-         else
-         {
-            imageDescription = "";
-         }
-
-         if (photoArray[actualPhoto - 1].by)
-         {
-            imageBy = "<div class='image-by'>" + photoArray[actualPhoto - 1].by + "</div>";
-         }
-         else
-         {
-            imageBy = "";
-         }
-
-         return imageBy + imageDescription;
-      }
-
-      // Show a spinner and display a photo by changing source URL
-      function displayPhoto()
-      {
-         // Load the photo through css and show which photo the user is looking at
-         var source = photoArray[actualPhoto - 1].url; // The source url of an image in the array
-         var CSSphotoURL = "url('" + source + "')";    // The source url CSS background style property
-
-         document.getElementById("PhotoGallery").style.backgroundImage = CSSphotoURL;
-         document.getElementById("GalleryPhotoNumber").innerHTML = actualPhoto + " / " + gallerySize + " • " + getImageTitle();
-         document.getElementById("PhotoDescription").innerHTML = getImageDescription();
-      }
-   </script>
-
-   <div class="gallery-backdrop" id="gallery-backdrop">
-      <i class="fa fa-circle-o-notch fa-spin fa-3x fa-fw" id="spinner-font-awesome"></i>
-      <div id="PhotoGallery">
-         <div class="photo-expand" onclick="expandOrRetract()">⤢</div>
-         <div class="photo-arrow photo-left" onclick="previousPhoto()">❮</div>
-         <div class="photo-arrow photo-right" onclick="nextPhoto()">❯</div>
-         <div class="giant-left-move" onclick="previousPhoto()"></div>
-         <div class="giant-right-move" onclick="nextPhoto()"></div>
-         <!-- photos appear in div background through CSS -->
-         <figcaption id="GalleryPhotoNumber"><!-- JavaScript writes photo # of # here --></figcaption>
-      </div>
+<div class="gallery-backdrop" id="gallery-backdrop">
+   <i class="fa fa-circle-o-notch fa-spin fa-3x fa-fw" id="spinner-font-awesome"></i>
+   <div id="PhotoGallery">
+      <div class="photo-expand" onclick="expandOrRetract()">⤢</div>
+      <div class="photo-arrow photo-left" onclick="previousPhoto()">❮</div>
+      <div class="photo-arrow photo-right" onclick="nextPhoto()">❯</div>
+      <div class="giant-left-move" onclick="previousPhoto()"></div>
+      <div class="giant-right-move" onclick="nextPhoto()"></div>
+      <!-- photos appear in div background through CSS -->
+      <figcaption id="GalleryPhotoNumber"><!-- JavaScript writes photo # of # here --></figcaption>
    </div>
-   <div id="PhotoDescription"><!-- Photo titles and descriptions appear here --></div>
+</div>
+<div id="PhotoDescription"><!-- Photo titles and descriptions appear here --></div>
