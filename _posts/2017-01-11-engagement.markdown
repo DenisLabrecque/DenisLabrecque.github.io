@@ -134,3 +134,5 @@ President Shoemaker gave us a few dollars to spend at Palms Grille that semester
 <h4>Became Official</h4>
 <h5>January 31, 2017</h5>
 <p><em>We got our parent's permission to date.</em></p>
+
+{% include javascript-gallery.html %}
