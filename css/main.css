@@ -1516,7 +1516,7 @@ p.coralie-texting:after {
 
 
       /* left and right photo gallery navigation arrows */
-      .photo-arrow, .photo-expand {
+      .photo-arrow, .photo-expand, .photo-link {
          transition: ease-in-out .15s;
          color: white;
          background-color: transparent;
@@ -1549,17 +1549,24 @@ p.coralie-texting:after {
       }
       .photo-expand {
          position: absolute;
-         top: 0%;
+         top: 10px;
          cursor: ne-resize;
          right: 10px;
          z-index: 5;
       }
+.photo-link {
+   position: absolute;
+   top: 40px;
+   cursor: url;
+   right: 10px;
+   z-index: 5;
+}
 
       /* Shows picture # of # */
       #GalleryPhotoNumber {
          position: absolute;
          left: 10px;
-         top: 20px;
+         top: 10px;
          font-size: 14px;
          color: white;
 	 text-shadow: 1px 2px 3px #666;
