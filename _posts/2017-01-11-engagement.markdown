@@ -26,17 +26,20 @@ co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_14
       {
          pinurl: "e7/e6/1d/e7e61db67b6af56ba1050129274b3f4f.jpg",
          url: "https://s-media-cache-ak0.pinimg.com/originals/e7/e6/1d/e7e61db67b6af56ba1050129274b3f4f.jpg",
-         title: "Denis and Coralie before the Scrooge play"
+         title: "Denis and Coralie before the Scrooge play",
+         description: "At this event, Coralie pinned a flower to my vest."
       },
       {
          pinurl: "86/02/26/860226017cecd56507ebc83d39268af6.jpg",
          url: "https://s-media-cache-ak0.pinimg.com/originals/86/02/26/860226017cecd56507ebc83d39268af6.jpg",
-         title: "Denis and Coralie out of Varsity"
+         title: "Denis and Coralie out of Varsity",
+         description: "By comical chance, we look like celebreties in this picture."
       },
       {
          pinurl: "70/e3/ca/70e3cab9acfa7c1d27570b7eb0d785e9.jpg",
          url: "https://s-media-cache-ak0.pinimg.com/originals/70/e3/ca/70e3cab9acfa7c1d27570b7eb0d785e9.jpg",
-         title: "Denis and Coralie at their first Fine Arts together"
+         title: "Denis and Coralie at their first Fine Arts together",
+         description: "The presentation by the Strings of Sao Paulo was excellent."
       }
    ];
 </script>

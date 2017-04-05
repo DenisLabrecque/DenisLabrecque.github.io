@@ -15,7 +15,7 @@
       else {
          actualPhoto++;
       }
-      displayPhoto();
+      displayPhoto(actualPhoto - 1);
    }
 
    // Move backwards in the array of photos
@@ -28,7 +28,32 @@
       else {
          actualPhoto--;
       }
-      displayPhoto();
+      displayPhoto(actualPhoto - 1);
+   }
+
+   // Display a certain photo
+   function displayAnyPhoto(photoNumber)
+   {
+      actualPhoto = photoNumber;
+      displayPhoto(actualPhoto - 1);
+   }
+
+   // Create a photo list of the gallery photos
+   function displayPhotoList()
+   {
+      for(i = 0; i < gallerySize; i++)
+      {
+         var call = "displayAnyPhoto(" + (i + 1) + ")";
+         var source = getImageSource("source", i);
+         var image = document.createElement("img");
+         image.setAttribute("src", source);
+         image.setAttribute("title", getImageTitle(i));
+         image.setAttribute("alt", getImageDescription("plain", i));
+         image.setAttribute("class", "metaImageGallery");
+         image.setAttribute("onclick", call);
+         image.setAttribute("id", ("image" + i));
+         document.getElementById("photoList").appendChild(image);
+      }
    }
 
    // Make the photo gallery its own window
@@ -52,7 +77,7 @@
    }
 
    // Get the image source
-   function getImageSource(source)
+   function getImageSource(source, arrayPosition)
    {
       var imageSource; // The source of an image
       var pinLargeImageUrl = "https://s-media-cache-ak0.pinimg.com/originals/";
@@ -61,15 +86,15 @@
       // Return a large source image
       if (source == "source")
       {
-         imageSource = photoArray[actualPhoto - 1].url;
+         imageSource = photoArray[arrayPosition].url;
       }
       else { // source == "thumb"
-         if (photoArray[actualPhoto - 1].pinurl)
+         if (photoArray[arrayPosition].pinurl)
          {
-            imageSource = pinSmallImageUrl + photoArray[actualPhoto - 1].pinurl;
+            imageSource = pinSmallImageUrl + photoArray[arrayPosition].pinurl;
          }
          else {
-            imageSource = photoArray[actualPhoto - 1].url;
+            imageSource = photoArray[arrayPosition].url;
          }
       }
 
@@ -77,64 +102,69 @@
    }
 
    // Get the title of an image if it exists
-   function getImageTitle()
+   function getImageTitle(arrayPosition)
    {
       var imageTitle; // The title of an image
 
-      if (photoArray[actualPhoto - 1].title)
+      if (photoArray[arrayPosition].title)
       {
-         imageTitle = photoArray[actualPhoto - 1].title
+         imageTitle = photoArray[arrayPosition].title
       }
       else 
       {
-         imageTitle = "<span lang='en'>Untitled</span>";
+         imageTitle = "";
       }
 
       return imageTitle;
    }
 
-   // Get the description of an image
-   function getImageDescription()
+   // Get the description of an image; use "html" or "plain" for "style"
+   function getImageDescription(style, arrayPosition)
    {
       var imageDescription; // The description of an image
-      var imageBy;          // Who created the image
 
-      if (photoArray[actualPhoto - 1].description)
+      if (photoArray[arrayPosition].description)
       {
-         imageDescription = "<div class='image-description'>" + photoArray[actualPhoto - 1].description + "</div>";
+         if (style == "html")
+         {
+            imageDescription = "<div class='image-description'>" + photoArray[arrayPosition].description + "</div>";
+         }
+         if (style == "plain")
+         {
+            imageDescription = photoArray[arrayPosition].description;
+         }
       }
       else
       {
          imageDescription = "";
       }
 
-      if (photoArray[actualPhoto - 1].by)
-      {
-         imageBy = "<div class='image-by'>" + photoArray[actualPhoto - 1].by + "</div>";
-      }
-      else
-      {
-         imageBy = "";
-      }
-
-      return imageBy + imageDescription;
+      return imageDescription;
    }
 
    // Show a spinner and display a photo by changing source URL
-   function displayPhoto()
+   function displayPhoto(arrayPosition)
    {
-      // Load the photo through css and show which photo the user is looking at
-      var imageSource = getImageSource("source"); // The source url of an image in the array
-      var imageThumb = getImageSource("thumb"); // The thumbnail url of an image in the array
-      var sourceUrl = photoArray[actualPhoto - 1].url; // The largest image URL
+      var imageSource = getImageSource("source", (arrayPosition)); // The source url of an image in the array
+      var imageThumb = getImageSource("thumb", (arrayPosition)); // The thumbnail url of an image in the array
+      var sourceUrl = photoArray[arrayPosition].url; // The largest image URL
       var CssSourceUrl = "url('" + imageSource + "')";
       var CssThumbUrl = "url('" + imageThumb + "')";
 
+      // Set the gallery image and buttons
       document.getElementById("PhotoGalleryPreview").style.backgroundImage = CssThumbUrl;
       document.getElementById("photoLink").setAttribute("href", imageSource);
-      document.getElementById("GalleryPhotoNumber").innerHTML = actualPhoto + " / " + gallerySize + " • " + getImageTitle();
-      document.getElementById("PhotoDescription").innerHTML = getImageDescription();
+      document.getElementById("GalleryPhotoNumber").innerHTML = actualPhoto + " / " + gallerySize + " • " + getImageTitle(actualPhoto - 1);
+      document.getElementById("PhotoDescription").innerHTML = getImageDescription("html", (actualPhoto - 1));
       document.getElementById("PhotoGallery").style.backgroundImage = CssSourceUrl;
+      //document.getElementById(("image" + arrayPosition)).setAttribute("class", "metaImageGallery selected");
+   }
+
+   // Main function
+   function main()
+   {
+      displayPhotoList();
+      displayPhoto(actualPhoto - 1);
    }
 </script>
 
@@ -153,4 +183,5 @@
       </div>
    </div>
 </div>
+<div id="photoList"></div>
 <p class="javascript-gallery-caption" id="PhotoDescription"><!-- Photo titles and descriptions appear here --></p>
