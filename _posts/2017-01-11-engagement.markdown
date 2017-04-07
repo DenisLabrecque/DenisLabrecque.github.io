@@ -103,7 +103,7 @@ From that time on, we knew each other casually, but never met between groups. Ho
 
 After that, we only communicated once or twice the rest of the summer.
 
-<p class="coralie-texting">As my summer vacation was drawing to a close, I found myself very pensive. My affections had not completely gone away, as I had hoped. Yes, I was determined to be nothing more than a supportive friend to Denis—but was my determination enough to keep me from hurting myself? That didn't matter. I was resolved. I would love him for his sake, not mine.</p>
+<p class="coralie-texting">As my summer vacation was drawing to a close, I found myself very pensive. My affections had not completely gone away, as I had hoped. Yes, I considered myself nothing more than a supportive friend to Denis—but was my determination enough to keep me from hurting myself? That didn't matter. I was resolved. I would love him for his sake, not mine.</p>
 
 <p class="denis-texting">The two following semesters, I attempted to date someone; that finally did not work out. Coralie and I did, however, continue to have breakfast together every now and then, as friends.</p>
 
@@ -120,12 +120,11 @@ The first few weeks of the school year, we went to church together a couple of t
 <p class="denis-texting">So far, I had resisted the idea, because I didn't want to give off the impression I wanted a relationship. Even, someone else had asked me whether Coralie was available for Fine Arts, and I had already honestly declared having no intention to invite her.</p>
 <p class="coralie-texting">Another young man came very close to asking me to Fine Arts. In semesters past, I would have been pleased to accompany someone else besides my girlfriends. This time, however, I wasn't so enthusiastic. This young man was kind, and good company—but he wasn't Denis.</p>
 <p class="denis-texting">However, thinking about it more, to attend with a friend who actually enjoyed classical music seemed far more interesting, rather than&mdash;alone.</p>
-<p class="coralie-texting">To go into detail about the trial I was going through at this time isn't essential to this story, but I mention it for context. My spirit was low, and my roommate, always considerate toward my wellbeing, decided to tell me that Denis would ask me to Fine Arts.</p>
-<p class="coralie-texting">XXX</p>
+<p class="coralie-texting">To go into detail about the trial I was going through at this time isn't essential to this story, but I mention it for context. My spirit was low, and my roommate, always considerate toward my wellbeing, decided to tell me that Denis would ask me to Fine Arts. Simultaneously, I felt peace about my trial, and relief about my friendship with Denis. </p>
 <p class="denis-texting">So I asked to meet Coralie, and invited her to come with me.</p>
 <p class="denis-texting">She made me repeat.</p>
 <p class="denis-texting">Straight away, she whipped out her attendance card and gave it to me.</p>
-<p class="coralie-texting">Xxx</p>
+<p class="coralie-texting">At first, I thought that he might have changed his mind, and doubted what he was asking me. I made him repeat. He did, confirming my hopes.</p>
 
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f2/00/08/f200080ba0ebe9f2ad6b66ca4df55334.jpg" />Is she not pretty? 😍<br />Yes, I innovated and created a special flower holder for the event. It's from a foam model jet.</p>
 
@@ -135,6 +134,8 @@ The first few weeks of the school year, we went to church together a couple of t
 <h5>November 14, 2016</h5>
 <p><em>We almost broke up.</em></p>
 President Shoemaker gave us a few dollars to spend at Palms Grille that semester. We went that Sunday evening.
+
+<p class="coralie-texting">For those last few days, I had been perceiving that something was bothering Denis. His reticence made me nervous, especially on that Sunday, when he invited me to supper at the Palmes Grille after hardly speaking a word to me all day.</p>
 <p class="denis-texting">As we were eating, I grilled Coralie about understanding God's will, especially at her wanting to go to Hungary. How, I asked, would she know something like that for certain, if God didn't speak to her directly.</p>
 <p class="denis-texting">That had been on my mind for a long time, and in relation, I affirmed, "we've been hanging out too much lately." "Our paths are not convergent: therefore, so that this doesn't get even more difficult for you, and so you can pursue the life goals you have chosen, I don't think it's right to continue leading you on."</p>
 <p class="coralie-texting">"But I also need to correct you on this one point: I never said that our paths were irreconcilable. In fact, that is the very opposite of what I believe. I believe in a God of the impossible Who reconciles the irreconcilable, Who plans that two incredibly similar people of the same nationality, with agreeing philosophies, and with the same interests, should meet at the same place at the same time, a time when they both needed such a meeting. I took a chance on you because I was wholly convicted that my God's favourite pastime is to perform miracles, small and large. I was so confident that I never thought of taking that chance as taking a risk. There are no risks in trusting God. Maybe I was—and still remain—naive to believe in all of that. But the Lord has always carried out His Will in my life through miracles in the past; consequently, it's difficult for me to give up on you so easily. You were one of God's miracles in my life—and you had become my new dream."</p>
