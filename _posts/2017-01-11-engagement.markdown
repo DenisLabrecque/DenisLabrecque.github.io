@@ -138,21 +138,22 @@ President Shoemaker gave us a few dollars to spend at Palms Grille that semester
 <p class="coralie-texting">For those last few days, I had been perceiving that something was bothering Denis. His reticence made me nervous, especially on that Sunday, when he invited me to supper at the Palms Grille after hardly speaking a word to me all day.</p>
 <p class="denis-texting">As we were eating, I grilled Coralie about understanding God's will, especially at her wanting to go to Hungary. How, I asked, would she know something like that for certain, if God didn't speak to her directly.</p>
 <p class="denis-texting">That had been on my mind for a long time, and in relation, I affirmed, "we've been hanging out too much lately." "Our paths are not convergent: therefore, so that this doesn't get even more difficult for you, and so you can pursue the life goals you have chosen, I don't think it's right to continue leading you on."</p>
-<p class="coralie-texting">His blunt statement took me aback. I was at loss for words, but I tried to maintain my composure for as long as I could. I gave him some thoughtless, incoherent answer, as best as my failing mind could produce. We left the Palms and made Denis walk with me once around the Loop. He humored me, and talked a little as we strolled, but by the end of the Loop I still wasn't satisfied. I made him walk the Loop with me again, to tell me exactly what the nature of our relationship was.</p>
+<p class="coralie-texting">His blunt statement took me aback. I was at loss for words, but I tried to maintain my composure for as long as I could. I gave him some thoughtless, incoherent answer, as best as my failing mind could produce. We left the Palms and I made Denis walk with me once around the Loop. He humored me, and talked a little as we strolled, but by the end of the Loop I still wasn't satisfied. I made him walk the Loop with me again, and urged him to tell me exactly what the nature of our relationship was.</p>
 <p class="coralie-texting">In the middle of the night, I received and responded to his text. "But I also need to correct you on this one point: I never said that our paths were irreconcilable. In fact, that is the very opposite of what I believe. I believe in a God of the impossible Who reconciles the irreconcilable, Who plans that two incredibly similar people of the same nationality, with agreeing philosophies, and with the same interests, should meet at the same place at the same time, a time when they both needed such a meeting. I took a chance on you because I was wholly convicted that my God's favourite pastime is to perform miracles, small and large. I was so confident that I never thought of taking that chance as taking a risk. There are no risks in trusting God. Maybe I was—and still remain—naive to believe in all of that. But the Lord has always carried out His Will in my life through miracles in the past; consequently, it's difficult for me to give up on you so easily. You were one of God's miracles in my life—and you had become my new dream."</p>
- <p class="coralie-texting">"I was stubborn in letting you into my life, and I will be equally stubborn in letting you go. But because I love you and care more about what is best for you, I will not let my stubbornness get in the way of respecting your convictions or your need for distance. Of course, you can still have confidence that I won't turn you away if you ever need a friend to confide in. But I won't cling to you, even if my heart does."<p>
-
+<p class="coralie-texting">"I was stubborn in letting you into my life, and I will be equally stubborn in letting you go. But because I love you and care more about what is best for you, I will not let my stubbornness get in the way of respecting your convictions or your need for distance. Of course, you can still have confidence that I won't turn you away if you ever need a friend to confide in. But I won't cling to you, even if my heart does."<p>
 <p class="denis-texting">The force of feelings took me by surprise. I didn't expect she'd be so attached. After talking to my mother over the phone and considered how those things happened, I could understand Coralie's train of thought better. But I still wasn't sure what to do.</p>
  <p class="denis-texting">I was honest, and did write, "don't give up on me. This morning, as chapel interrupted my writing you, I fell in tears over the song
 <br />   <q>As the deer panteth for the waters
 <br />    So my soul longeth after thee;
 <br />    You alone are my heart's desire...</q>
 <br />Hopefully you don't feel the need to distance yourself too much."
+<p class="coralie-texting">The next couple of days—especially after Denis texted me, telling me that he didn't want to lead me on, my heart ached and my mind felt numb. But on Tuesday, after chapel, Denis sent me a lengthy, heartfelt text explaining what was on his mind. His text brought me some peace...<p>
+<p class="coralie-texting">...Yes, I had peace, but I didn't have a date for the next Fine Arts Series. For the second time in my college career, I wasn't excited for Fine Arts, because I didn't want to go with anybody but Denis.<p>
 
 <h4>Taking a Chance</h4>
 <h5>November 17, 2016</h5>
 
-<p class="denis-texting">As a reconciliation, I took a recent watercolour post card project, stuffed my Fine Arts ticket and my Thanksgiving dinner attendance card into it, and sent it up to Coralie's room with red roses through her rommate Olivia. Inside the card was written
+<p class="denis-texting">As a reconciliation, I took a recent watercolour post card project, stuffed my Fine Arts ticket and my Thanksgiving dinner attendance card into it, and sent it up to Coralie's room with red roses through her roommate Olivia. Inside the card was written
 <br /><q>I'll take a risk
 <br />Or two.</q></p>
 
@@ -161,6 +162,8 @@ President Shoemaker gave us a few dollars to spend at Palms Grille that semester
 <br />Velvet kisses
 <br />Gently caress my soul.
 <br />Hoping, daring, reassuring&mdash;Loving.</p>
+
+<p class="coralie-texting">Upon returning to my room after my classes, I was shocked to find roses and an envelope on my bed. I thought they were from Olivia. "Olivia, what did you do?" I asked, thinking that she had spent a small fortune on roses just to cheer me up. My roommate insisted that the roses weren't from her. I wondered at the flowers, and gingerly opened the envelope. Immediately, I recognized the familiar watercolour flower, which I had watched Denis paint. Finding his attendance cards for Fine Arts and Thanksgiving and reading his message surprised me.</p>
 
 <h4>Became Official</h4>
 <h5>January 31, 2017</h5>
