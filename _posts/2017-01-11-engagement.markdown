@@ -123,6 +123,7 @@ The first few weeks of the school year, we went to church together a couple of t
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f2/00/08/f200080ba0ebe9f2ad6b66ca4df55334.jpg" />Is she not pretty? 😍<br />Yes, I innovated and created a special flower holder for the event. It's from a foam model jet.</p>
 
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/39/d3/37/39d337f6742add2b5086aacec4692e1f.jpg" />We had a wonderful evening together at the Concert at the Green.<br />Coralie gave me some of her pizza, and let me drink from her cup, which was very cute.</p><!-- 28 october 2016 -->
+<p class="coralie-texting">As we grew closer as friends, we participated in many activities scattered throughout the semester. At the beginning of the semester, Denis invited me to go skating with him; he loaned me his hoodie for the first time, when I got cold—and I've been stealing it from him ever since. Later in the semester, we attended a few concerts, including the Concert on the Green. Every time he invited me to such events, I was pleased, but nonetheless surprised that he wanted to spend time with me, exclusively...</p>
 
 <h4>Palms Grille</h4>
 <h5>November 14, 2016</h5>
@@ -162,5 +163,9 @@ President Shoemaker gave us a few dollars to spend at Palms Grille that semester
 <h4>Became Official</h4>
 <h5>January 31, 2017</h5>
 <p><em>We got our parent's permission to date.</em></p>
+
+<p class="coralie-texting">Starting into the spring semester, I had no idea what to expect about my undefinable relationship with Denis. It never occurred to me that he would want to start dating—I didn't think that he was ready.</p>
+<p class="coralie-texting">But one day, Denis asked if he could meet me, to discuss a matter with me. I braced myself for him to say "we've been hanging out too much lately" again. I arranged for us to meet for coffee in the morning—coffee would put my nerves at ease.</p>
+<p class="coralie-texting">I couldn't have been more wrong in my expectations. We sat on the Varsity terrace with our coffees, and with little delay, Denis asked me if we could call my parents to request their permission to date.</p>
 
 {% include javascript-gallery.html %}
