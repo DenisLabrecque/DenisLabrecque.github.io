@@ -79,12 +79,6 @@ From that time on, we knew each other casually, but never met between groups. Ho
 
 <p class="coralie-texting">"I don't want to admit that my heart admires Denis, . . ." I had written in my prayer journal. I didn't want the affections I was developing toward him; but to my frustration, I couldn't stop them.</p>
 
-<p class="coralie-texting">"What happened to 'Thy Will not mine,' O Lord?" I wrote in a later entry. "I used to be guided by my love for Hungary. . . . But this past semester I have been led astray by my own heart's yearning . . . . I'm living in a fantasy and I must wake up. . . . Relinquishing my affections for Denis hurts—but I must do it."</p>
-
-<p class="coralie-texting">"How long will it take me to get over Denis?" I cried out to the Lord, in another entry. "Every time I think that he disappears from my life, he reappears."</p>
-
-<p class="coralie-texting">In hindsight, I wonder at God's graciousness toward me, in how He answered my prayers. I reaffirmed to the Lord that I would follow Him wherever He would lead me, but I was compelled to confess a fear: "I fear doing it on my own. Of course You would be with me, and You would be, and are enough. But what about a human heart that loves what I love, and dreams as I dream? Is there no man on this planet who passionately loves You, . . . and can admire and cherish me—the true me?"</p>
-
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f4/52/de/f452de2dfa1cb2c2d480db27394b0e85.jpg" />I sneaked this picture of Coralie at our breakfast table 😉</p>
 
 <h4>Summer</h4>
