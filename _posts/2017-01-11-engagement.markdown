@@ -159,6 +159,7 @@ President Shoemaker gave us a few dollars to spend at Palms Grille that semester
 <br />Hoping, daring, reassuring&mdash;Loving.</p>
 
 <p class="coralie-texting">Upon returning to my room after my classes, I was shocked to find roses and an envelope on my bed. I thought they were from Olivia. "Olivia, what did you do?" I asked, thinking that she had spent a small fortune on roses just to cheer me up. My roommate insisted that the roses weren't from her. I wondered at the flowers, and gingerly opened the envelope. Immediately, I recognized the familiar watercolour flower, which I had watched Denis paint. Finding his attendance cards for Fine Arts and Thanksgiving and reading his message surprised me.</p>
+<p class="coralie-texting">I accepted Denis's thoughtful tokens of reconciliation, and accompanied him to the Thanksgiving activities and to Fine Arts Series.</p>
 
 <h4>Became Official</h4>
 <h5>January 31, 2017</h5>
@@ -166,6 +167,7 @@ President Shoemaker gave us a few dollars to spend at Palms Grille that semester
 
 <p class="coralie-texting">Starting into the spring semester, I had no idea what to expect about my undefinable relationship with Denis. It never occurred to me that he would want to start dating—I didn't think that he was ready.</p>
 <p class="coralie-texting">But one day, Denis asked if he could meet me, to discuss a matter with me. I braced myself for him to say "we've been hanging out too much lately" again. I arranged for us to meet for coffee in the morning—coffee would put my nerves at ease.</p>
-<p class="coralie-texting">I couldn't have been more wrong in my expectations. We sat on the Varsity terrace with our coffees, and with little delay, Denis asked me if we could call my parents to request their permission to date.</p>
+<p class="coralie-texting">I couldn't have been more wrong in my expectations. We sat on the Varsity terrace with our coffees, and with little delay, Denis asked me if we could phone my parents to request their permission to date.</p>
+Not only was I relieved, but also honoured. The next day, we phoned my parents and Denis asked my father persmission for us to date. My father and mother gave us their blessing, and thus we became official!</p>
 
 {% include javascript-gallery.html %}
