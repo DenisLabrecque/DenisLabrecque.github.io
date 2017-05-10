@@ -10,7 +10,7 @@ lang: en
 categories: announcement
 tags: announcement wedding engagement photos Pensacola Christian College
 ref: denisandcoralieengagement
-lastmod: 2017-04-01
+lastmod: 2017-05-10
 co-author: Coralie Lemasson
 co-author-url: "https://www.facebook.com/coralie.lemasson.7"
 co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_1468177840_280.jpg"
