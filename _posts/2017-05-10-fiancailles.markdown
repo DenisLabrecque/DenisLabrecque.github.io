@@ -66,6 +66,11 @@ co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_14
          description: "Nous avons passé une très belle journée."
       },
       {
+         pinurl: "96/17/2c/96172cb92f70e53cf39741b6d5513810.jpg",
+         url: "https://s-media-cache-ak0.pinimg.com/originals/96/17/2c/96172cb92f70e53cf39741b6d5513810.jpg",
+         title: "Échange des bagues."
+      },
+      {
          pinurl: "a9/76/10/a976103a6a740de200cefafad5f9be43.jpg",
          url: "https://s-media-cache-ak0.pinimg.com/originals/a9/76/10/a976103a6a740de200cefafad5f9be43.jpg",
          title: "Denis et Coralie"
