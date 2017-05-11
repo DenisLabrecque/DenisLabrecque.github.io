@@ -20,26 +20,60 @@ co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_14
       {
          pinurl: "c3/78/df/c378df1d905f23425da4c06d3bd56d51.jpg",
          url: "https://s-media-cache-ak0.pinimg.com/originals/c3/78/df/c378df1d905f23425da4c06d3bd56d51.jpg",
-         title: "Coralie facing Perdido Bay at West Campus",
-         description: "We loved going to West Campus together as an outing provided by the school."
+         title: "Coralie face à Perdido Bay à West Campus",
+         description: "Nous avons aimé aller à West Campus ensemble comme sortie prévue par l'école."
       },
       {
          pinurl: "e7/e6/1d/e7e61db67b6af56ba1050129274b3f4f.jpg",
          url: "https://s-media-cache-ak0.pinimg.com/originals/e7/e6/1d/e7e61db67b6af56ba1050129274b3f4f.jpg",
-         title: "Denis and Coralie before the Scrooge play",
-         description: "At this event, Coralie pinned a flower to my vest."
-      },
-      {
-         pinurl: "86/02/26/860226017cecd56507ebc83d39268af6.jpg",
-         url: "https://s-media-cache-ak0.pinimg.com/originals/86/02/26/860226017cecd56507ebc83d39268af6.jpg",
-         title: "Denis and Coralie out of Varsity",
-         description: "By comical chance, we look like celebreties in this picture."
+         title: "Denis et Coralie à l'événement des beaux-arts A Christmas Charol",
+         description: "Coralie mit une fleur sur mon veston."
       },
       {
          pinurl: "70/e3/ca/70e3cab9acfa7c1d27570b7eb0d785e9.jpg",
          url: "https://s-media-cache-ak0.pinimg.com/originals/70/e3/ca/70e3cab9acfa7c1d27570b7eb0d785e9.jpg",
-         title: "Denis and Coralie at their first Fine Arts together",
-         description: "The presentation by the Strings of Sao Paulo was excellent."
+         title: "Denis et Coralie à leur premier événement des beaux-arts ensemble",
+         description: "La présentation par the Strings of Sao Paulo fut excellente."
+      },
+      {
+         pinurl: "95/f1/00/95f1008896491440354a784ab44b394d.jpg",
+         url: "https://s-media-cache-ak0.pinimg.com/originals/95/f1/00/95f1008896491440354a784ab44b394d.jpg",
+         title: "Nos bagues",
+         description: "Nous avons mutuellement consenti de faire échange, mais c'est le premier jour où nous avons vu notre bague à nous."
+      },
+      {
+         pinurl: "ec/59/bb/ec59bbecc588c2f3563a43d13382d049.jpg",
+         url: "https://s-media-cache-ak0.pinimg.com/originals/ec/59/bb/ec59bbecc588c2f3563a43d13382d049.jpg",
+         title: "Debout ensemble et joyeux avant l'échange",
+         description: "Merci à M. Lemasson pour le belles photos"
+      },
+      {
+         pinurl: "1d/83/49/1d8349735d4bd01e025c4de787a444a6.jpg",
+         url: "https://s-media-cache-ak0.pinimg.com/originals/1d/83/49/1d8349735d4bd01e025c4de787a444a6.jpg",
+         title: "À la fontaine",
+         description: "Le park où nous sommes allés se trouve directement en face du restorant où nous avons mangé."
+      },
+      {
+         pinurl: "8c/d9/35/8cd9353711385a0946e9061a355d7d70.jpg",
+         url: "https://s-media-cache-ak0.pinimg.com/originals/8c/d9/35/8cd9353711385a0946e9061a355d7d70.jpg",
+         title: "Chez Jackson's Grille",
+         description: "Monsieur Lemasson nous as invités, et nous en sommes très reconnaissants d'avoir pu manger ensemble à un restorant de si haut calibre. La nourriture était exceptionnelle."
+      },
+      {
+         pinurl: "e1/2b/d1/e12bd1080a785f67f2436b9b4cedcedc.jpg",
+         url: "https://s-media-cache-ak0.pinimg.com/originals/e1/2b/d1/e12bd1080a785f67f2436b9b4cedcedc.jpg",
+         title: "Notre photo officielle",
+         description: "Nous avons passé une très belle journée."
+      },
+      {
+         pinurl: "a9/76/10/a976103a6a740de200cefafad5f9be43.jpg",
+         url: "https://s-media-cache-ak0.pinimg.com/originals/a9/76/10/a976103a6a740de200cefafad5f9be43.jpg",
+         title: "Denis et Coralie"
+      },
+      {
+         pinurl: "5b/42/42/5b424220e0dfe93ed666a285a392331a.jpg",
+         url: "https://s-media-cache-ak0.pinimg.com/originals/5b/42/42/5b424220e0dfe93ed666a285a392331a.jpg",
+         title: "Denis et Coralie"
       }
    ];
 </script>
