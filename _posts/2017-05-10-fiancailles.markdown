@@ -148,26 +148,26 @@ Le président, M. Shoemaker, nous donna quelques dollars à dépenser au Palms G
 <h4>Prendre une chance</h4>
 <h5>17 novembre 2016</h5>
 
-<p class="denis-texting">As a reconciliation, I took a recent watercolour post card project, stuffed my Fine Arts ticket and my Thanksgiving dinner attendance card into it, and sent it up to Coralie's room with red roses through her roommate Olivia. Inside the card was written
-<br /><q>I'll take a risk
-<br />Or two.</q></p>
+<p class="denis-texting">Comme réconciliation, je pris un projet de carte postale en aquarelle récent, remplis la carte de mon billet pour les beaux-arts et pour le souper d’Actions de grâce, et l’envoyai à la chambre de Coralie par Olivia, son coloc. La carte disait
+<br /><q>Je prendrai un risque
+<br />Ou deux.</q></p>
 
-<p class="coralie-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/cb/91/3c/cb913c756e983fcb2122c7ad63b01972.jpg" />*The Gift*
-<br />Roses:
-<br />Velvet kisses
-<br />Gently caress my soul.
-<br />Hoping, daring, reassuring&mdash;Loving.</p>
+<p class="coralie-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/cb/91/3c/cb913c756e983fcb2122c7ad63b01972.jpg" />*Le cadeau*
+<br />Roses :
+<br />Bisous velours
+<br />Caressant doucement mon âme.
+<br />Espérant, voulant, rassurant—aimant.</p>
 
-<p class="coralie-texting">Upon returning to my room after my classes, I was shocked to find roses and an envelope on my bed. I thought they were from Olivia. "Olivia, what did you do?" I asked, thinking that she had spent a small fortune on roses just to cheer me up. My roommate insisted that the roses weren't from her. I wondered at the flowers, and gingerly opened the envelope. Immediately, I recognized the familiar watercolour flower, which I had watched Denis paint. Finding his attendance cards for Fine Arts and Thanksgiving and reading his message surprised me.</p>
-<p class="coralie-texting">I accepted Denis's thoughtful tokens of reconciliation, and accompanied him to the Thanksgiving activities and to Fine Arts Series.</p>
+<p class="coralie-texting">Retournant dans ma chambre après mes classes, je fus choquée de trouver des roses et une enveloppe sur mon lit. J’ai cru qu’elles venaient d’Olivia. « Olivia, qu’as-tu fait? » je demandai, pensant quelle avait dépensé une petite fortune sur des roses juste pour me réconforter. Elle insista pour me dire que les roses n’étaient pas d’elle. Je regardai les fleurs, et j’ouvris l’enveloppe avec précaution. Immédiatement, je reconnus la fleur d’aquarelle, que j’avais vue quand Denis la peignait. De trouver ses billets pour les beaux-arts et pour l’Action de grâces et de lire son message m’a surprise.</p>
+<p class="coralie-texting">J’ai accepté ses désirs sincères de réconciliation, et je l’ai accompagnée aux activités d’Action de Grâces et des beaux-arts.</p>
 
-<h4>Became Official</h4>
-<h5>January 31, 2017</h5>
-<p><em>We got our parent's permission to date.</em></p>
+<h4>Nous sommes devenus un couple officiel</h4>
+<h5>31 janvier 2017</h5>
+<p><em>Nous avons obtenu la permission de nos parents de sortir ensemble</em></p>
 
-<p class="coralie-texting">Starting into the spring semester, I had no idea what to expect about my undefinable relationship with Denis. It never occurred to me that he would want to start dating—I didn't think that he was ready.</p>
-<p class="coralie-texting">But one day, Denis asked if he could meet me, to discuss a matter with me. I braced myself for him to say "we've been hanging out too much lately" again. I arranged for us to meet for coffee in the morning—coffee would put my nerves at ease.</p>
-<p class="coralie-texting">I couldn't have been more wrong in my expectations. We sat on the Varsity terrace with our coffees, and with little delay, Denis asked me if we could phone my parents to request their permission to date.</p>
-Not only was I relieved, but also honoured. The next day, we phoned my parents and Denis asked my father persmission for us to date. My father and mother gave us their blessing, and thus we became official!</p>
+<p class="coralie-texting">Entamant le semestre du printemps, je n’avais aucune idée de ce qui allait ressortir de ma relation indéfinissable avec Denis. Il ne m’arriva jamais de penser qu’il voudrait sortir ensemble—je ne croyais pas qu’il était prêt.</p>
+<p class="coralie-texting">Mais un jour, Denis m’a demandée si je pouvais le rencontrer, pour discuter d’une certaine chose. Je me suis préparée à ce qu’il dise encore « nous avons récemment été trop ensemble. » Je me suis arrangée pour qu’on se rencontre la matin avec un café—le café calmerait mes nerfs.</p>
+<p class="coralie-texting">Je ne pouvais pas m’être plus trompée. Nous nous sommes assis sur la terrasse devant Varsity avec nos cafés, et après peu de délai, Denis m’a demandée si nous pouvions appeler nos parents pour demander leur permission afin de sortir ensemble.</p>
+<p class="coralie-texting">J’étais non seulement soulagée, mais aussi honorée. Le jour d’après, nous avons appelé nos parents et Denis a demandé permission à mon père. Mon père et ma mère nous ont donné leur accord, et ainsi nous sommes devenus couple officiel!</p>
 
 {% include javascript-gallery.html %}
