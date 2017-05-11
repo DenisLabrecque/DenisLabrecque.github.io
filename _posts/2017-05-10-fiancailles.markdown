@@ -75,36 +75,36 @@ Dès ce temps et par la suite, nous nous connaissions amicalement, mais pas entr
 
 <p class="coralie-texting">Un autre incident changea ma vue de Denis—et comme le dernier, celui-ci survint aux Centre des Arts. Comme je cherchais l’efface électrique un après midi, je rencontrai Denis dans le couloir et lui dit que je cherchais l’efface, avant de continuer. Comme j’étais tout juste pour partir, sans succès dans ma recherche, Denis réapparut avec l’efface électrique dans sa main. Il l’avait trouvée pour moi. Jusqu’à ce point là, je l’avais considéré une gentille personne, mais cet acte « cavalier » l’éleva à mon estime. Son acte de gentillesse le mit à part.</p>
 
-<p class="coralie-texting">From that incident onward, my sentiments toward him rapidly evolved, but I didn't recognize my feelings until my roommate Olivia elicited them from me. We were finishing supper at Four Winds when I noticed Denis sitting alone a few tables away. We joined Denis at his table and I began chatting with him in French, while Olivia listened, though our conversation was incoherent to her. Olivia and I departed, and on our way out, she commented, "Marry the boy. He's the nicest man, and you guys are cute when you talk in French." "Well, tell HIM that." My impulsive reply surprised both me and Olivia. She had made her comment somewhat in jest, and though I had tried to answer likewise, I unwittingly answered in earnest. "So," Olivia began, thoughtfully, "you do like him?" I paused, contemplating my feelings. With a shrug, I then confessed: "Yes."</p>
+<p class="coralie-texting">Dès cet incident et par la suite, mes sentiments envers lui continuèrent à évoluer rapidement, mes je ne reconnaissais pas ce que je sentais jusqu’à ce que ma coloc Olivia me les fit admettre. Nous finissions le souper à Four Winds quand j’aperçus Denis assis seul à quelques tables. Nous sommes donc allés le joindre à sa table et je commençai à discuter avec lui en français, tandis qu’Olivia écoutait, même si notre conversation lui était incohérente. Olivia et moi partirent, et en sortant, elle commenta, « Marie le garçon. Il est gentil, et vous êtes mignons quand vous parlez en français. » « Eh bien, dis LUI ça. » Ma remarque impulsive nous surprit tous deux. Elle avait fait son commentaire plutôt en plaisantant, et bien que j’avais voulu répondre de la même manière, je m’étais exposée. « Donc, » Olivia dit, pensivement : « est-ce que tu l’aimes bien? » Je pris un pause pour contempler mes sentiments. D’un haussement des épaules, je confessai alors : « Oui. »</p>
 
-<p class="coralie-texting">"I don't want to admit that my heart admires Denis, . . ." I had written in my prayer journal. I didn't want the affections I was developing toward him; but to my frustration, I couldn't stop them.</p>
+<p class="coralie-texting">« Je ne veux pas admettre que mon cœur admire Denis,… » avais-je écrit dans mon journal de prière. Je ne voulais pas des affections que je développais envers lui; mais frustrée, je ne pouvais pas les empêcher.</p>
 
-<p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f4/52/de/f452de2dfa1cb2c2d480db27394b0e85.jpg" />I sneaked this picture of Coralie at our breakfast table 😉</p>
+<p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/f4/52/de/f452de2dfa1cb2c2d480db27394b0e85.jpg" />J’ai pris cette photo à notre table de déjeuner 😉</p>
 
-<h4>Summer</h4>
+<h4>Été</h4>
 
-<p class="coralie-texting">I had hoped that summer vacation, the distance from PCC and from Denis, would subdue my affections. But they didn't—they grew.</p>
+<p class="coralie-texting">J’avais espéré que la vacance d’été, ainsi que la distance de PCC et de Denis, atténueraient mes affections. Mais ils ne diminuèrent pas—ils grandirent.</p>
 
-<p class="coralie-texting">Trying to relinquish my affections didn't seem to work very well; thus, I tried a new approach. I wouldn't distance myself from him. I would love him—as a friend. "I really want to help him," I wrote to the Lord, "inspire him, and see him succeed. Yet I cannot overstep my welcome. . . . What, then, is my role as his friend? To be there for him, to have and to express confidence in him, and to edify him Christ Jesus—such are my duties."</p>
+<p class="coralie-texting">De renoncer à mes affections ne semblait pas très bien fonctionner; ainsi, j’ai choisi d’essayer une nouvelle approche. Au lieu de me distancer, je l’aimerais, comme un ami. « Je veux vraiment l'aider », avais-je écrit au Seigneur, « l’inspirer et le voir réussir. Pourtant, je ne peux pas me dépasser…. Alors, quel est mon rôle d'ami? Être là pour lui, d’avoir et d'exprimer ma confiance en lui, et de l’édifier Jésus-Christ—tels sont mes devoirs. »</p>
 
-<p class="coralie-texting">So, I exercised my "brotherly love" and prayed for Denis, often in the middle of the night, when burdens on my heart would prevent me from sleeping. I prayed, specifically, that the Lord would give Denis a dream, an aspiration . . . </p>
+<p class="coralie-texting">Ainsi, j’exerçai mon « amour fraternel » et priai pour Denis, souvent au milieu de la nuit, quand les fardeaux de mon cœur me prévenaient de dormir. Je priai, spécifiquement, que le seigneur donne à Denis un rêve, une aspiration…</p>
 
-<p class="denis-texting">During my trips to work, my mother convinced me I should follow my dreams and strive to become a pilot if that was something I truly wanted to do.</p>
+<p class="denis-texting">Au cours de mes voyages au travail, ma mère m’a convaincu que je devais suivre mes rêves et m’efforcer de devenir un pilote si c’était une chose que je désirais vraiment.</p>
 
-<p class="denis-texting">As we were thinking to whom we could speak, Coralie's father came to mind, as I knew from our breakfast discussions that her father was a pilot. So I messaged her to ask for information.</p>
+<p class="denis-texting">Comme nous pensions à qui contacter, le père de Coralie nous est venu à l'esprit, puisque je savais, grâce de nos discussions du déjeuner, que son père était pilote. Je lui ai donc envoyé un message pour demander des informations.</p>
 
-<p class="coralie-texting">He messaged me. To my surprise, as we corresponded, I didn't feel the affections that had previously plagued me; I felt only amity when I offered him my father's phone number. He accepted it, and did call my father.</p>
+<p class="coralie-texting">Il m’envoya un message. À ma surprise, comme nous correspondions, je ne sentais pas les affections qui m’avaient auparavant tracassées; je ne sentis que de l’amitié quand je lui offris le numéro à mon père. Il l’accepta, et appela mon père.</p>
 
-After that, we only communicated once or twice the rest of the summer.
+Après cela, nous n’avons communiqué qu’une ou deux fois pour le reste de l’été.
 
-<p class="coralie-texting">As my summer vacation was drawing to a close, I found myself very pensive. My affections had not completely gone away, as I had hoped. Yes, I considered myself nothing more than a supportive friend to Denis—but was my determination enough to keep me from hurting myself? That didn't matter. I was resolved. I would love him for his sake, not mine.</p>
+<p class="coralie-texting">Comme la fin de mes vacances d’été se rapprochait, je me trouvai très pensive. Mes affections n’étaient pas complètement disparues, tel que je l’avais espéré. Oui, je ne me considérais pas plus qu’une amie qui supportait Denis—mais ma détermination était-elle suffisante pour m’empêcher de me faire du mal? Cela n’était pas grave. J’étais résolue. Je l’aimerais pour son bien, pas pour le mien.</p>
 
-<p class="denis-texting">The two following semesters, I attempted to date someone; that finally did not work out. Coralie and I did, however, continue to have breakfast together every now and then, as friends.</p>
+<p class="denis-texting">Les deux semestres suivants, j’essayai de sortir avec quelqu’un; cela ne fonctionna finalement pas. Coralie et moi continuèrent néanmoins à déjeuner ensemble de temps à autre, en tant qu’amis.</p>
 
 <h4>Harmonious Strings of São Paulo</h4>
-<h5>October 8, 2016</h5>
-<p><em>Our first event together.</em></p>
-The first few weeks of the school year, we went to church together a couple of times. However, there were some struggles.
+<h5>8 octobre 2016</h5>
+<p><em>Notre premier événement ensemble</em></p>
+Les deux premières semaines de l’année scolaire, nous sommes allés ensemble à l’église à une couple de reprises. Mais il y eut des luttes.
 <p class="coralie-texting">We spent more time together than I had expected, during the first two months of school. I had braced myself for some emotional attachment, but not enough for the closeness, as friends, that we were developing. But just as I was planning to surrender and repent of my affections again, I had an epiphany.</p>
 
 <p class="coralie-texting">"Who am I, that I should constrain the power of the Omnipotent God?" I mused in a freewrite for Creative Writing class. "Who am I, to assume His role and decide my own destiny?" I acknowledged that the Lord had brought Denis into my life, and that it was the Lord who was keeping him there, though I had surrendered him over and over in deference to my dreams. Although both Denis and my dreams were gifts, in my finite understanding I couldn't reconcile the two. But then I realized that "[i]f the gifts are indeed Heaven-sent, then my commission is not to negotiate them; the Lord alone holds that prerogative! My place is merely to watch the Lord perform a miracle, and to praise Him for it."</p>
