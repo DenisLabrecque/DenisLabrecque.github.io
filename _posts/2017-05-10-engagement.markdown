@@ -5,8 +5,8 @@ layout: post
 title: Our Story
 subtitle: Denis and Coralie are getting engaged!
 headline: We thought you'd like to read our story and see our pictures.
-hero-image: https://s-media-cache-ak0.pinimg.com/originals/1e/d7/da/1ed7dad094f2a26e7096baee66dd7f37.jpg
-image-by: Denis and Coralie at the American Brass Quintet Fine Arts production
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/e1/2b/d1/e12bd1080a785f67f2436b9b4cedcedc.jpg
+image-by: Denis and Coralie on the day of their engagement
 lang: en
 categories: blog
 tags: announcement wedding engagement photos Pensacola Christian College
