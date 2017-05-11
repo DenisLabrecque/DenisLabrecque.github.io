@@ -1,15 +1,15 @@
-﻿---
+---
 permalink: /fiancailles
+ref: denisandcoralieengagement
 layout: post
 title: Notre histoire
-subtitle: Denis et Coralie s’engagent
-headline: We thought you'd like to read our story and see our pictures.
-hero-image: https://s-media-cache-ak0.pinimg.com/originals/1e/d7/da/1ed7dad094f2a26e7096baee66dd7f37.jpg
-image-by: Denis and Coralie at the American Brass Quintet Fine Arts production
-lang: en
-categories: blog
-tags: announcement wedding engagement photos Pensacola Christian College
-ref: denisandcoralieengagement
+subtitle: Denis et Coralie se sont fiancés!
+headline: Nous avons pensé que vous aimeriez peut-être lire notre histoire et voir nos photos.
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/e1/2b/d1/e12bd1080a785f67f2436b9b4cedcedc.jpg
+image-by: Denis et Coralie la journée de leurs fiançailles
+lang: fr
+categories: blogue
+tags: annonce marriage fiançailles photographie Pensacola
 lastmod: 2017-05-01
 co-author: Coralie Lemasson
 co-author-url: "https://www.facebook.com/coralie.lemasson.7"
@@ -48,7 +48,7 @@ co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_14
 <p class="coralie-texting">Je me suis retournée brièvement pour voir de qui elle parlait, et Olivia guida mon regard vers « l’homme bien aux cheveux de flamme. » Je n’ai pas voulu regarder longtemps. Cet « homme bien » était assis avec plusieurs filles, et celles avec lesquelles j’étais assise semblaient vouloir les joindre. Cela m’agaça.</p>
 <p class="coralie-texting">Olivia m’expliqua alors qui Denis était : un artiste, un Canadien, et son copain de chapelle favori. Elle suggéra que, vu le fait que j’étais aussi Canadienne, je devienne aussi son ami. « Jamais, » je répliquai. « J’ai des amis. Je n’ai pas besoin d’en avoir plus. »</p>
 
-<h4>Parade des Nations</h4>
+<h4>Parade of Nations</h4>
 <h5>13 février 2016</h5>
 <p><em>Nous nous sommes rencontrés</em></p>
 Nous nous sommes rencontrés à Pensacola Christian College pendant la journée de pratique pour la Parade des Nations, un événement missionnaire qui souligne l’aspect international de PCC. Comme chaque personne de chaque nationalité représentée était placée dans une certaine rangée de sièges, le groupe Canadien était assis ensemble. Comme nous étions placés à deux sièges l’un de l’autre, nous avons pu nous rencontrer et parler brièvement.
@@ -64,12 +64,12 @@ Notre premier texto fut donc très simple. Il ne contenait que quelques photos d
 
 <p class="denis-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/1b/4b/89/1b4b898d9c09b4531672c535f1ee9148.jpg" />Salut de Denis Labrecque</p>
 
-From that time on, we knew each other casually, but never met between groups. However, we both happened to be in the habit of eating breakfast very early in Four Winds, at a similar spot.
+Dès ce temps et par la suite, nous nous connaissions amicalement, mais pas entre groupes. Par contre, nous avions tous deux l’habitude de manger tôt le matin à Four Winds, à un endroit semblable.
 
-<p class="denis-texting">At that time, I tried to get in touch with a few people who could speak French, so I could keep in touch with my home identity; this allowed me to meet another Canadian friend, and a few Hatians.</p>
-<p class="denis-texting">I did notice Coralie's breakfast spot, and thought it would be great to get to know her; so I texted her, asking whether she would want to have breakfast together and speak French.</p>
+<p class="denis-texting">En ce temps-là, j’essayai de me rapprocher de quelques personnes qui parlaient le français, afin de rester avec les habitudes de chez nous; cela m’a permis de rencontrer d’autres amis Canadiens, ainsi que quelques Haïtiens.</p>
+<p class="denis-texting">J’aperçus le coin déjeuner de Coralie, en pensai qu’il serait bien de la connaître; je la textai ainsi, lui demandant si elle voulait déjeuner ensemble pour parler le français.</p>
 
-<p class="denis-texting">From the first couple of days we ate together, I quickly evaluated Coralie, and discounted her because our life plans were not likely to match, and because her character was somewhat more extremely orderly and proper than mine.</p>
+<p class="denis-texting">Dès le premier couple de jours que nous avons mangé ensemble, j’évaluai rapidement Coralie en l’éliminant parce que nos plans de vie n’étaient pas rapprochés, et parce que son caractère était plus ordonné et propice que le mien.</p>
 
 <p class="coralie-texting">During those first few weeks of getting to know Denis, I didn't consider him as a potential life partner. Though other girls found him attractive, I wasn't particularly drawn; my vision was set on my plans for the future, and I could see nothing else. That was ironic, considering that the handsome man sitting across from me at breakfast WAS my future.</p>
 
