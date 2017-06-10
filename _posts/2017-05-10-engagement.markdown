@@ -9,7 +9,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/e1/2b/d1/e12bd1080a78
 image-by: Denis and Coralie on the day of their engagement
 lang: en
 categories: blog
-tags: announcements wedding engagement photos Pensacola Christian College
+tags: events announcement wedding engagement photos Pensacola Christian College
 lastmod: 2017-05-01
 co-author: Coralie Lemasson
 co-author-url: "https://www.facebook.com/coralie.lemasson.7"
