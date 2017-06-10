@@ -12,9 +12,9 @@ tags: university PCC blog StHyacinthe poem prayer
 With that, I am also leaving my assembly for a while. This Sunday was my last attendance until the winter holidays. Many of my souvenirs and acquaintances will remain there for a long, long time (if the Lord does not come sooner).
 
 For those who may be interested, here is the vlog I am taking on my trip from St-Denis-sur-Richelieu to Pensacola -- a little way, to say the least. But we will have an interesting stop at the Creation Museum in Cincinnati on the way to break the monotony!
-https://www.youtube.com/playlist?list=PLq7M1cOtTjn0HHuRjSBsQqY9YgN75cZpD
+<iframe src="https://www.youtube.com/embed/videoseries?list=PLq7M1cOtTjn0HHuRjSBsQqY9YgN75cZpD" frameborder="0" allowfullscreen></iframe>
 Just this evening, I have completed the bed shelf explained in the second video. It will be useful for me as living on campus with only bunks gives us no night table for our bible/clock/lamp/etc.
-<h2>A Prayer on St-Hyacinthe</h2>
+<h3>A Prayer on St-Hyacinthe</h3>
 My Father and my Lord<br />
 Who vanquishes by your word:<br />
 Act upon the burden of your people;<br />

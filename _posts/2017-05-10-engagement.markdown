@@ -99,7 +99,7 @@ co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_14
 We met at Pensacola Christian College during the practice day for Parade of Nations, an missions-oriented event which underlines the international attendance at PCC. As each nationality represented was placed in a separate separate row of seats, the whole Canadian group sat together. As we were a couple of seats across, we got to see each other a little and spoke briefly.
 
 <p class="coralie-texting">I have learned that whenever I say "never," God changes my heart towards that idea I am so opposed to. The change started a few weeks later in the Visual and Performing Arts Center.</p>
-<p class="coralie-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/7f/d6/76/7fd6765b6c1e35b38a2920ceff0d0517.jpg">One evening, Denis and I happened to be drawing in the same classroom. As I walked about the room, perusing the works-in-progress of my peers, I noticed Denis's drawing of a beetle. I found his attention to detail remarkable, and started to feel some respect for him as an artist.</p>
+<p class="coralie-texting"><img src="https://s-media-cache-ak0.pinimg.com/originals/7f/d6/76/7fd6765b6c1e35b38a2920ceff0d0517.jpg">One evening, Denis and I happened to be drawing in the same classroom. As I walked about the room, perusing the works-in-progress of my peers, I noticed <a href="{{ site.baseurl }}{% post_url 2015-11-28-rhinoceros-beetle %}">Denis's drawing of a beetle.</a> I found his attention to detail remarkable, and started to feel some respect for him as an artist.</p>
 <p class="coralie-texting">This was the incident which prompted me to introduce myself to Denis at the rehearsal for the Parade of Nations. In fact, my first words to him were, "You are taking art classes, correct?"</p>
 
 <p class="denis-texting">She spoke fluent French and was raised in Québec, which was quite exceptional.</p>
@@ -193,7 +193,7 @@ President Shoemaker gave us a few dollars to spend at Palms Grille that semester
 <h4>Taking a Chance</h4>
 <h5>November 17, 2016</h5>
 
-<p class="denis-texting">As a reconciliation, I took a recent watercolour post card project, stuffed my Fine Arts ticket and my Thanksgiving dinner attendance card into it, and sent it up to Coralie's room with red roses through her roommate Olivia. Inside the card was written
+<p class="denis-texting">As a reconciliation, I took a recent <a href="{{ site.baseurl }}{% post_url 2016-11-01-watercolour-post-card-flower %}">watercolour post card project,</a> stuffed my Fine Arts ticket and my Thanksgiving dinner attendance card into it, and sent it up to Coralie's room with red roses through her roommate Olivia. Inside the card was written
 <br /><q>I'll take a risk
 <br />Or two.</q></p>
 

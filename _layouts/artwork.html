@@ -2,21 +2,13 @@
 layout: default
 ---
 <article class="post" itemscope itemtype="https://schema.org/CreativeWork">
-    <div class="art-wrapper">
-        <img class="artwork-hero-image" src="{{ page.hero-image }}" />
-    </div>
-  <figure class="artwork-hero-image" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
-    <meta itemprop="url" content="{{ page.hero-image }}" />
-    <meta itemprop="width" content="1600">
-    <meta itemprop="height" content="900">
-    <h1 class="title"><span itemprop="headline">{{ page.title }}</span></h1>
-    <div>
-      <h1 class="subtitle"><span itemprop="alternateName">{{ page.subtitle }}</span></h1>
-    </div>
- 
-  </figure>
+   <div class="art-wrapper">
+      <img class="artwork-hero-image" src="{{ page.hero-image }}" />
+   </div>
 
   <div class="page-feed">
+    <h2 itemprop="headline">{{ page.title }}</h1>
+    <h3 itemprop="alternateName">{{ page.subtitle }}</h2>
     <p class="headline" itemprop="description">{{ page.headline }}</p>
 
     <span itemprop="description">
