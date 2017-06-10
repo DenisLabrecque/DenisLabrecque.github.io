@@ -1,7 +1,7 @@
 {% assign posts = site.posts | where: "lang", page.lang %}
 
 {% if page.lang == 'en' %}
-   <h4>Events</h4>
+   <h3>Events</h3>
    <ul class="post-stream-container">
    {% for post in site.categories.blog limit: include.stream-limit %}
      {% if post.tags contains 'events' %}
@@ -19,7 +19,7 @@
    {% endfor %}
    </ul>
 
-   <h4>Jet Fighters Current and Past</h4>
+   <h3>Jet Fighters Current and Past</h3>
    <ul class="post-stream-container">
    {% for post in site.categories.blog limit: include.stream-limit %}
      {% if post.tags contains 'jetFightersCurrentandPast' %}
@@ -37,7 +37,7 @@
    {% endfor %}
    </ul>
 
-   <h4>Pensacola Christian College</h4>
+   <h3>Pensacola Christian College</h3>
    <ul class="post-stream-container">
    {% for post in site.categories.blog limit: include.stream-limit %}
      {% if post.tags contains 'PCC' %}
