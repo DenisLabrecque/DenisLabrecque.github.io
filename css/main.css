@@ -612,12 +612,10 @@ footer {
     }
 }
 footer.author-snippet {
-    background: rgb(242, 242, 242);
-    margin-top: 20px;
 }
 footer.contact-how-to {
-    background: rgb(16, 186, 205);
-    color: white;
+    background: rgb(242, 242, 242);
+    margin-top: 20px;
 }
 
 label.popdown {
