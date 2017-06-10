@@ -104,10 +104,15 @@ ga('send', 'pageview');
       
         {{ content }}
         
-        {% include share.html %}
-        
       </div>
     </section>
+    
+    
+    <footer class="site-footer contact-how-to">
+      <div class="width-control">
+        {% include contact-how-to.html %}
+      </div>
+    </footer>
     
     <footer class="site-footer author-snippet">
       <div class="width-control" markdown="1">
@@ -115,12 +120,6 @@ ga('send', 'pageview');
         {% if page.co-author %}
           {% include {{ page.co-author | slugify }}.html %}
         {% endif %}
-      </div>
-    </footer>
-    
-    <footer class="site-footer contact-how-to">
-      <div class="width-control">
-        {% include contact-how-to.html %}
       </div>
     </footer>
 
