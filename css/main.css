@@ -615,6 +615,10 @@ footer.author-snippet {
     background: rgb(242, 242, 242);
     margin-top: 20px;
 }
+footer.contact-how-to {
+    background: aqua;
+    color: white;
+}
 
 label.popdown {
     transition: ease-in-out, .1s;
