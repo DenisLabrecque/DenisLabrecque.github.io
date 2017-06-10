@@ -13,7 +13,7 @@ gallery:
 
 lang: en
 categories: blog
-tags: jet fighterPlane Gloster Meteor
+tags: jet fighterPlane Gloster Meteor jetFightersCurrentandPast
 ref: glostermeteor
 ---
 Although almost four thousand Meteors would be built through the decades, they only saw action by the end of World War II, killing 14 V-1 flying bombs in air and 46 Germain aircraft through ground attack. But because of fear that the bird would fall to the enemy, the Meteor never confronted German jet aircraft during the war.

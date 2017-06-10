@@ -1,50 +1,71 @@
 {% assign posts = site.posts | where: "lang", page.lang %}
 
 {% if page.lang == 'en' %}
-<ul class="post-stream-container">
-{% for post in site.categories.blog limit: include.stream-limit %}
-  {% if post.tags contains 'jetFightersCurrentandPast' %}
-  {% else %}
-      <li title="{{ post.title }}: {{ post.subtitle }}">
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          <div class="hero-article-thumbnail"
-               style="background-image: url( {{ post.hero-image }} )">
-            <strong class="article-title"><span>{{ post.title }}</span></strong>
-            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
-          </div>
-          <div class="hero-article-headline">{{ post.headline }}</div>
-        </a>
-      </li>
-      {% if include.more == 'more' %}
-      <li class="go-to-complete-stream">
-        <a href="/blog" class="post-stream-card">
-          <div class="hero-article-headline">
-            <h4>View the complete blogroll <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
-          </div>
-        </a>
-      </li>
-      {% endif %}
-  {% endif %}
-{% endfor %}
-</ul>
+   <h4>Announcements</h4>
+   <ul class="post-stream-container">
+   {% for post in site.categories.blog limit: include.stream-limit %}
+     {% if post.tags contains 'announcements' %}
+     <li title="{{ post.title }}: {{ post.subtitle }}">
+       <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+         <div class="hero-article-thumbnail"
+              style="background-image: url( {{ post.hero-image }} )">
+           <strong class="article-title"><span>{{ post.title }}</span></strong>
+           <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+         </div>
+         <div class="hero-article-headline">{{ post.headline }}</div>
+       </a>
+     </li>
+     {% endif %}
+   {% endfor %}
+   </ul>
 
-<p class="headline">Jet Fighters Current and Past</p>
-<ul class="post-stream-container">
-{% for post in site.categories.blog limit: include.stream-limit %}
-  {% if post.tags contains 'jetFightersCurrentandPast' %}
-  <li title="{{ post.title }}: {{ post.subtitle }}">
-    <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-      <div class="hero-article-thumbnail"
-           style="background-image: url( {{ post.hero-image }} )">
-        <strong class="article-title"><span>{{ post.title }}</span></strong>
-        <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
-      </div>
-      <div class="hero-article-headline">{{ post.headline }}</div>
-    </a>
-  </li>
-  {% endif %}
-{% endfor %}
-</ul>
+   <h4>Jet Fighters Current and Past</h4>
+   <ul class="post-stream-container">
+   {% for post in site.categories.blog limit: include.stream-limit %}
+     {% if post.tags contains 'jetFightersCurrentandPast' %}
+     <li title="{{ post.title }}: {{ post.subtitle }}">
+       <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+         <div class="hero-article-thumbnail"
+              style="background-image: url( {{ post.hero-image }} )">
+           <strong class="article-title"><span>{{ post.title }}</span></strong>
+           <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+         </div>
+         <div class="hero-article-headline">{{ post.headline }}</div>
+       </a>
+     </li>
+     {% endif %}
+   {% endfor %}
+   </ul>
+
+   <h4>Pensacola Christian College</h4>
+   <ul class="post-stream-container">
+   {% for post in site.categories.blog limit: include.stream-limit %}
+     {% if post.tags contains 'PCC' %}
+     <li title="{{ post.title }}: {{ post.subtitle }}">
+       <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+         <div class="hero-article-thumbnail"
+              style="background-image: url( {{ post.hero-image }} )">
+           <strong class="article-title"><span>{{ post.title }}</span></strong>
+           <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+         </div>
+         <div class="hero-article-headline">{{ post.headline }}</div>
+       </a>
+     </li>
+     {% endif %}
+   {% endfor %}
+   </ul>
+
+   <ul class="post-stream-container">
+   {% if include.more == 'more' %}
+   <li class="go-to-complete-stream">
+      <a href="/blog" class="post-stream-card">
+         <div class="hero-article-headline">
+         <h4>View the complete blogroll <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
+         </div>
+      </a>
+   </li>
+   {% endif %}
+   </ul>
 {% endif %}
 
 
