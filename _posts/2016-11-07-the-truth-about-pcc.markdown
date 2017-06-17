@@ -9,6 +9,7 @@ thumbnail: https://s-media-cache-ak0.pinimg.com/564x/b5/d9/7d/b5d97d0d23383c8775
 categories: blog
 tags: Pensacola Christian College student PCC university collegeLife rules
 lastmod: 2016-11-07
+lastmod: 2017-06-17
 
 gallery:
   - url: https://s-media-cache-ak0.pinimg.com/originals/8c/b5/dd/8cb5dd0c6c3ae43673ad93a39d735ab8.jpg
