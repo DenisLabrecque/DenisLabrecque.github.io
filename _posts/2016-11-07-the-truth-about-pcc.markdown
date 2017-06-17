@@ -52,6 +52,16 @@ Once the day is over, a student must be sure to close his blinds before dark in 
 
 In-room time is 11:00 p.m. Lights out is 11:15 during the week and midnight on Fridays and Saturdays. Lights out is enforced by RA's.
 
+<h3>My Perspective on PCC Being Strict</h3>
+
+Much of the rules have less to do with the college being Baptist and more to do with having control over what happens on one’s property. Without rules, I’m sure sone students would love to have sex illicitly, or do drugs, or do any other stupid thing that is at once against the Lord’s will and also destroys the college’s reputation. In the end, we pay for those people.
+
+Do I find the rules excessive? Sometimes. Most of the rules I live by anyway, because God conveys some of their principles. However, as I’m 21, it does get annoying to have someone walk in my room to check every night to see whether I’m in bed, as though I were a child – while I’m paying to stay there in the first place. But I accept it, because I know it impeaches some kids who wouldn’t control themselves and would keep us awake all night, or would go off to do things they shouldn’t do. Such a measure also helps to know who’s missing or not in the case of an emergency.
+
+Does it get difficult that I’m engaged, yet I cannot go off campus much with my fiancée, for lack of proper chaperones? Yes, but again, I must accept it. Is the no touch rule, which forbids us to hold hands, an irritant? Yes, but I’d rather that than to see so-called Christian students make out when they’re unmarried. That’s basically the perspective I try to hold.
+
+At college, I’ve found many friends to hang out with that I can get along with on a level that wouldn’t compare to outsiders. So I’d rather accept a few inconveniences, and be thankful, rather than be bitter about the less agreeable things. It makes all the difference. I’m glad there’s a place like PCC.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/https://youtu.be/7CTyT9mjhcE?list=PLq7M1cOtTjn0A1jrny_7HVzAsGdCzHFbK" frameborder="0" allowfullscreen></iframe>
 
 {% include image-gallery.html %}
