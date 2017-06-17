@@ -24,14 +24,14 @@ gallery:
     description: Interior of the Crowne Center during Stringspiration, an event including strings players of all levels.
     by: Image by <a href='https://plus.google.com/u/0/+pensacolachristiancollege/posts/2Cum2zTcHVy' target='_new'>Pensacola Christian College</a>
 ---
-<h2>Deregulation</h2>
+<h3>Deregulation</h3>
 Pensacola Christian College (or PCC, as we prefer calling it) attempts to implement a conservative Christian atmosphere in a way that is both practicable and biblical. For the college, adding more rules is not useful both to the potential growth of the college and for public image. Therefore, as much as possible, rules are being "cleaned out". However, as much of the founding faculty is still present, it remains difficult, out of respect, to change certain "sticky" rules.
 
 With the advent of Mr. Shoemaker as president over the last few years, things are getting somewhat laxer. For instance, couples may now sit together in the library, and casual clothes may include non-offensive writing or logos. Also, on game days, students may wear non-collared team shirts sporting the PCC Eagles teams.
 
 Yet, many things stay the same -- and are not likely to change soon. For example, wearing or possessing earbuds is still forbidden and results in demerits. There are perpetually rumours about that rule changing sometime soon, but that must yet happen.
 
-<h2>Regulations throughout a Typical Day</h2>
+<h3>Rules throughout a Typical Day</h3>
 Dress code attempts to make us look professional so we might gain a competitive edge in a world that dresses down. If a guy, when one gets up, one must dress according to class dress. For guys, that means a collared shirt, a belt, pants, socks, and shoes. The shirt must be free of any non-sewn-in graphics or writing (pocket-sized is acceptable). The pants may not be jeans or cargo-style, must reach to the ankle, and have belt straps. The shoes must not be athletic nor have caps. For women, that means a shirt which covers the shoulders and does not show underwear or cleavage, a knee-length skirt, and shoes. Once again, clothes must not have graphics or writing, and denimn material is not acceptable. Also, shoes must be casual, not recreational.
 
 Guys must remain clean shaven and keep their hair above their ears and their sideburns midway across their ears. Girls have rather imprecise hair length requirements (oddly enough), though they must of course adhere to the general rule of sticking to hair dyes of natural colour.
