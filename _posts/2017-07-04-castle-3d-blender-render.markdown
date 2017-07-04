@@ -1,7 +1,7 @@
 ---
 layout: artwork
-title: Castle
-subtitle: 3D Render
+title: Castle on Island
+subtitle: 3D Render of a Castle on Water at Night
 headline: Made as a portfolio piece using Blender.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/55/df/7e/55df7e0b0bd13ab00ea2bfff3ce58cc3.jpg
 image-by: By Denis Labrecque under Attribution-NonCommercial 4.0 International
