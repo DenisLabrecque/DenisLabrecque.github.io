@@ -3,7 +3,7 @@ layout: artwork
 title: Castle on Island
 subtitle: 3D Render of a Castle on Water at Night
 headline: Made as a portfolio piece using Blender.
-hero-image: https://s-media-cache-ak0.pinimg.com/originals/55/df/7e/55df7e0b0bd13ab00ea2bfff3ce58cc3.jpg
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/cd/62/43/cd6243b25dccf5ec46990b32ba271e20.gif
 image-by: By Denis Labrecque under Attribution-NonCommercial 4.0 International
 
 ref: chateaulabrecqueblenderrender
@@ -16,5 +16,6 @@ This render, made in Blender 3D software, took about three days to create. It wa
 
 The terrain was sculpted and simplified Dissolve. Then, to that terrain a weighted particle system was added with 2D planes of tree pictures with an alpha channel. The water uses the Ocean modifier set to a high resolution to simulate smaller waves. The trees in the forefront were created in higher detail using the Sapling Tree Gen add-on. They are illuminated by specially modeled exterior spotlights.
 
-Blender (a free and open source 3D creation suite) rendered this scene after all night using the Cycles engine set at 1024 samples.
-{% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/bd/a8/7e/bda87efdb037002541061edb83ff731d.png" image-description="Part of the Blender 3D scene as it looks during creation" %}
+{% include image-superwide.html image-url="https://s-media-cache-ak0.pinimg.com/originals/bd/a8/7e/bda87efdb037002541061edb83ff731d.png" image-description="Part of the Blender 3D scene as it looks during creation" %}
+
+{% include image-superwide.html image-url="https://s-media-cache-ak0.pinimg.com/originals/55/df/7e/55df7e0b0bd13ab00ea2bfff3ce58cc3.jpg" image-description="The final render after the computer ran all night using the Cycles engine set at 1024 samples." %}
