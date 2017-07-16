@@ -12,6 +12,8 @@ tags: portfolio castle 3d Blender CG computerGraphics model night
 lang: en
 ---
 {% include image.html image-url='https://s-media-cache-ak0.pinimg.com/originals/69/0a/87/690a87078eee6f4e4c29921c60b67152.jpg' image-description='Pencil sketch of the castle' %}
+*Credits:* by Denis Labrecque under <a href='https://creativecommons.org/licenses/by-nc/4.0/'>Attribution-NonCommercial 4.0 International</a>, using <a href='https://www.blendswap.com/blends/view/81298'>Tree Textures</a> by <a href='https://www.blendswap.com/user/jlnh'>jlnh</a> under <a href='https://creativecommons.org/licenses/by/3.0/'>Attribution 3.0 Unported</a>
+
 This render, made in Blender 3D software, took about three days to create. It was inspired by a previous pencil sketch, and its goal was to create a night scene with an imaginary house-sized castle to be illuminated on a river island. The goal is to create a short movie with  shimmering water and changing lights, as the moon crosses the sky overhead.
 
 The terrain was sculpted and simplified Dissolve. Then, to that terrain a weighted particle system was added with 2D planes of tree pictures with an alpha channel. The water uses the Ocean modifier set to a high resolution to simulate smaller waves. The trees in the forefront were created in higher detail using the Sapling Tree Gen add-on. They are illuminated by specially modeled exterior spotlights.
