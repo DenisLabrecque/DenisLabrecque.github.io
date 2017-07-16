@@ -1,10 +1,10 @@
 ---
 layout: artwork
-title: Castle on Island
+title: Illuminated Castle on Island
 subtitle: 3D Render of a Castle on Water at Night
 headline: Made as a portfolio piece using Blender.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/cd/62/43/cd6243b25dccf5ec46990b32ba271e20.gif
-image-by: By Denis Labrecque under Attribution-NonCommercial 4.0 International
+image-by: By Denis Labrecque under <a href='https://creativecommons.org/licenses/by-nc/4.0/'>Attribution-NonCommercial 4.0 International</a>, using <a href='https://www.blendswap.com/blends/view/81298'>Tree Textures</a> by <a href='https://www.blendswap.com/user/jlnh'>jlnh</a> under <a href='https://creativecommons.org/licenses/by/3.0/'>Attribution 3.0 Unported</a>
 
 ref: chateaulabrecqueblenderrender
 categories: artwork
