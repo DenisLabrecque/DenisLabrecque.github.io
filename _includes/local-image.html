@@ -1,16 +1,16 @@
 
 <figure itemscope itemtype="http://schema.org/ImageObject" class="image-figure">
    <!--<h2 itemprop="name">Image Heading</h2>-->
-   <a href="{{ site.baseurl }}/{{ include.url }}">
-      <img src="{{ site.baseurl }}/{{ include.url }}" alt="{{ include.url | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
+   <a href="{{ site.baseurl }}/images/{{ include.url }}">
+      <img src="{{ site.baseurl }}/images/{{ include.url }}" alt="{{ include.url | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
    </a>
    <figcaption>
       <span itemprop="description">{{ include.image-description || include.description }}</span>
    </figcaption>
 
    {% if include.url2 %}
-      <a href="{{ site.baseurl }}/{{ include.url2 }}">
-         <img src="{{ site.baseurl }}/{{ include.url2 }}" alt="{{ include.url2 | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
+      <a href="{{ site.baseurl }}/images/{{ include.url2 }}">
+         <img src="{{ site.baseurl }}/images/{{ include.url2 }}" alt="{{ include.url2 | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
       </a>
       <figcaption>
          <span itemprop="description">{{ include.image-description2 || include.description2 }}</span>
@@ -18,8 +18,8 @@
    {% endif %}
 
    {% if include.url3 %}
-      <a href="{{ site.baseurl }}/{{ include.url3 }}">
-         <img src="{{ site.baseurl }}/{{ include.url3 }}" alt="{{ include.url3 | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
+      <a href="{{ site.baseurl }}/images/{{ include.url3 }}">
+         <img src="{{ site.baseurl }}/images/{{ include.url3 }}" alt="{{ include.url3 | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
       </a>
       <figcaption>
          <span itemprop="description">{{ include.image-description3 || include.description3 }}</span>
@@ -27,8 +27,8 @@
    {% endif %}
 
    {% if include.url4 %}
-      <a href="{{ site.baseurl }}/{{ include.url4 }}">
-         <img src="{{ site.baseurl }}/{{ include.url4 }}" alt="{{ include.url4 | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
+      <a href="{{ site.baseurl }}/images/{{ include.url4 }}">
+         <img src="{{ site.baseurl }}/images/{{ include.url4 }}" alt="{{ include.url4 | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
       </a>
       <figcaption>
          <span itemprop="description">{{ include.image-description4 || include.description4 }}</span>
