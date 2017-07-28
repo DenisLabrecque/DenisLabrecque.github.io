@@ -5,7 +5,7 @@
       <img src="{{ site.baseurl }}/images/{{ include.url }}" alt="{{ include.url | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
    </a>
    <figcaption>
-      <span itemprop="description">{{ include.image-description || include.description }}</span>
+      <span itemprop="description">{{ include.description }}</span>
    </figcaption>
 
    {% if include.url2 %}
@@ -13,7 +13,7 @@
          <img src="{{ site.baseurl }}/images/{{ include.url2 }}" alt="{{ include.url2 | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
       </a>
       <figcaption>
-         <span itemprop="description">{{ include.image-description2 || include.description2 }}</span>
+         <span itemprop="description">{{ include.description2 }}</span>
       </figcaption>
    {% endif %}
 
@@ -22,7 +22,7 @@
          <img src="{{ site.baseurl }}/images/{{ include.url3 }}" alt="{{ include.url3 | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
       </a>
       <figcaption>
-         <span itemprop="description">{{ include.image-description3 || include.description3 }}</span>
+         <span itemprop="description">{{ include.description3 }}</span>
       </figcaption>
    {% endif %}
 
@@ -31,7 +31,7 @@
          <img src="{{ site.baseurl }}/images/{{ include.url4 }}" alt="{{ include.url4 | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
       </a>
       <figcaption>
-         <span itemprop="description">{{ include.image-description4 || include.description4 }}</span>
+         <span itemprop="description">{{ include.description4 }}</span>
       </figcaption>
    {% endif %}
 </figure>
