@@ -18,4 +18,6 @@ lang: en
 - [fire extinguisher matafuegos](https://www.blendswap.com/blends/view/25332) by [utopianqn](https://www.blendswap.com/user/utopianqn) under Public Domain
 - [Procedural Grungy Metal Shader](https://www.blendswap.com/blends/view/80114) by [CgAlpha](https://www.blendswap.com/user/CgAlpha) under Attribution 3.0</small>
 
+This image was created over many weeks of weekend work that took all night, as my job was a night shift job.
+
 {% include image.html image-url="http://www.hottail.nl/special/vintage/Museum/GoteborgAeroseum/images/J35F-00-1.jpg" image-description="The Blender scene was very much inspired by this photo of the Aeroseum, Göteborg-Säve, Göteborg, Sweden <small>from [Hottail Military Aviation Photography](http://www.hottail.nl/special/vintage/Museum/GoteborgAeroseum/Index.html)</small>" %}
