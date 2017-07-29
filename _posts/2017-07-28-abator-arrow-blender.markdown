@@ -10,9 +10,10 @@ categories: artwork
 tags: portfolio 3d blender jet fighterJet filmicBlender
 lang: en
 ---
-This work is licensed to [Denis Labrecque]({% post_url 2016-11-03-about-me %}) under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+<small>This work is licensed to [Denis Labrecque]({% post_url 2016-11-03-about-me %}) under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+
 *Credits:*
-- [Procedural Grungy Metal Shader](https://www.blendswap.com/blends/view/80114) by [CgAlpha](https://www.blendswap.com/user/CgAlpha) under Creative Commons Attribution 3.0
+- [Procedural Grungy Metal Shader](https://www.blendswap.com/blends/view/80114) by [CgAlpha](https://www.blendswap.com/user/CgAlpha) under Creative Commons Attribution 3.0<small>
 
 
 {% include local-image-superwide.html url="Abator-Arrow-Front.png" description="The Abator Arrow uses chines and a lifting body concept." %}
