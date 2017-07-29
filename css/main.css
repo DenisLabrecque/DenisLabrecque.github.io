@@ -15,6 +15,12 @@ body {
     overflow-x: hidden;
 }
 
+figcaption {
+   font-size: 14pt;
+   line-height: 120%;
+   margin-bottom: 10pt;
+}
+
 ::selection {
     background: rgba(82, 72, 45, .8);
     color: white;
@@ -70,7 +76,7 @@ span.citation {
     }
 }
 
-small {
+small, div.credits {
     display: block;
     text-align: justify;
     font-size: 13pt;
@@ -967,17 +973,19 @@ img.full-bleed-image {
 */
 figure.image-figure {
     background: rgba(0,0,0,0.8);
-    margin: 7pt 0 15pt 15pt;
+    margin: 7pt 0 0 15pt;
     padding: 10pt;
+    padding-bottom: 0;
     color: white;
-    max-width: 300px;
+    width: 50%;
+    max-width: 800px;
     float: right;
     box-sizing: border-box;
 }
-@media(max-width: 1000px) {
+@media(max-width: 1200px) {
     figure.image-figure {
         display: block;
-        width: 640px;
+        width: 100%;
         margin-left: 0;
         float: none;
     }
