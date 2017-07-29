@@ -31,6 +31,7 @@ github_username:  DenisLabrecque
 
 # Build settings
 markdown: kramdown
+encoding: UTF-8
 
 defaults:
   -
