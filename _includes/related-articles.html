@@ -6,6 +6,10 @@
 <h3>Articles semblables</h3>
 {% endif %}
 
+{% for keyword in page.tags %}
+   {{ keyword | prepend: '#' | append: ' ' }}
+{% endfor %}
+
 <ul class="post-stream-container no-span">
 {% comment %}---> the maximum number of related to posts 
                   to be printed {% endcomment %}
