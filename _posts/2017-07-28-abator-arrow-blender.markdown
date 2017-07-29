@@ -10,10 +10,10 @@ categories: artwork
 tags: portfolio 3d blender jet fighterJet filmicBlender Avro Arrow Canada
 lang: en
 ---
-<small>This work is licensed to [Denis Labrecque]({% post_url 2016-11-03-about-me %}) under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+<small>This work is licensed to [Denis Labrecque]({% post_url 2016-11-03-about-me %}) under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)</small>
 
-*Credits:*
-- [Procedural Grungy Metal Shader](https://www.blendswap.com/blends/view/80114) by [CgAlpha](https://www.blendswap.com/user/CgAlpha) under Creative Commons Attribution 3.0<small>
+<small>*Credits:*
+- [Procedural Grungy Metal Shader](https://www.blendswap.com/blends/view/80114) by [CgAlpha](https://www.blendswap.com/user/CgAlpha) under Creative Commons Attribution 3.0</small>
 
 The Abator Arrow is an imaginary and updated version of the Canadian Avro Arrow of the 1950s. The idea for the Abator Arrow comes from the [Beaverworks Super Avro Arrow](http://www.superarrow.ca/) fan site; it is my personal interpretation of what the Avro Arrow might look like today, when taking into consideration stealth and maneuverability.
 
