@@ -26,7 +26,7 @@ lang: en
 
 This image was created over many weeks of weekend work that took all night, as my job is a night shift job.
 
-This render was made to support my [Abator Arrow design](post_url 2017-07-28-abator-arrow-blender).
+This render was made to support my [Abator Arrow design]({{ site.baseurl }}{% post_url 2017-07-28-abator-arrow-blender %}).
 
 {% include local-image.html 
    url="Test-Render-Old-Hangar.jpg" description="The first hangar was ugly and had to be remade completely."
