@@ -3,7 +3,7 @@ layout: artwork
 title: Underground Hangar
 subtitle: 3D render of a tunnel with jets
 headline: Made as a portfolio piece using Blender.
-hero-image: http://denislabrecque.ca/images/Abator-Hangar-three-Jets.jpg
+hero-image: http://denislabrecque.ca/images/Abator-Hangar-three-Jets-Last.jpg
 ref: hangarundergroundblenderrender
 categories: artwork
 tags: portfolio 3d blender jet fighterJet filmicBlender Avro Arrow

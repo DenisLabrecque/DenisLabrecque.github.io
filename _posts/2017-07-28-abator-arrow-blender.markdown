@@ -10,10 +10,10 @@ categories: artwork
 tags: portfolio 3d blender jet fighterJet filmicBlender Avro Arrow Canada
 lang: en
 ---
-<small>This work is licensed to [Denis Labrecque]({% post_url 2016-11-03-about-me %}) under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)</small>
+<div class="small" markdown="1">This work is licensed to [Denis Labrecque]({% post_url 2016-11-03-about-me %}) under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-<small>*Credits:*
-- [Procedural Grungy Metal Shader](https://www.blendswap.com/blends/view/80114) by [CgAlpha](https://www.blendswap.com/user/CgAlpha) under Creative Commons Attribution 3.0</small>
+*Credits:*
+- [Procedural Grungy Metal Shader](https://www.blendswap.com/blends/view/80114) by [CgAlpha](https://www.blendswap.com/user/CgAlpha) under Creative Commons Attribution 3.0</div>
 
 The Abator Arrow is an imaginary and updated version of the Canadian Avro Arrow of the 1950s. The idea for the Abator Arrow comes from the [Beaverworks Super Avro Arrow](http://www.superarrow.ca/) fan site; it is my personal interpretation of what the Avro Arrow might look like today, when taking into consideration stealth and maneuverability.
 
@@ -27,4 +27,4 @@ A specific emphasis of my model is the integration of the engine inlets to the t
 
 The wings of the model follow the original, but are tilted to an anhedral for increased maneuverability. A double, all-moving tail improves yaw control at supersonic speeds. Like the F-22 Raptor, the Abator has bi-directional vectoring exhaust surfaces. Its camouflage is inspired by that of the Viggen.
 
-This model went through many iterations and variants before the final product. It was built through many days of patient figuring, and was in fact rebuilt later with a simpler mesh to help improve computed smoothing.
+This model went through many iterations and variants before the final product. It was built through many days of patient figuring, and was in fact rebuilt later with a simpler mesh to help improve computed smoothing. It goes together with the [Underground Hangar Scene]({% post_url 2017-07-29-underground-hangar-blender %}) render.
