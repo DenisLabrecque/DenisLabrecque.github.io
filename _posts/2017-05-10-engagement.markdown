@@ -144,7 +144,7 @@ After that, we only communicated once or twice the rest of the summer.
 
 <p class="coralie-texting">As my summer vacation was drawing to a close, I found myself very pensive. My affections had not completely gone away, as I had hoped. Yes, I considered myself nothing more than a supportive friend to Denis—but was my determination enough to keep me from hurting myself? That didn't matter. I was resolved. I would love him for his sake, not mine.</p>
 
-<p class="denis-texting">The two following semesters, I attempted to date someone; that finally did not work out. Coralie and I did, however, continue to have breakfast together every now and then, as friends.</p>
+<p class="denis-texting">The two following semesters, I attempted to date someone; that finally did not work out. Nevertheless, that event taught me that love, offered to a person, is a blessing of rarity. It demonstrated that whatever my value, to love and be loved was not deserved. Coralie and I did, however, continue to have breakfast together every now and then, as friends.</p>
 
 <h4>Harmonious Strings of São Paulo</h4>
 <h5>October 8, 2016</h5>
