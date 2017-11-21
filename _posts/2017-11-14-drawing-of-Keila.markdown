@@ -15,3 +15,5 @@ year: 2015
 ---
 {% include artwork-metadata.html %}
 Before this drawing, I studied how to draw the figure accurately. I did not know many tricks at the time, but this definitely looked good to me when finished.
+
+This was my second portrait ever made.
