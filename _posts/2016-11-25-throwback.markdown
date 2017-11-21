@@ -25,6 +25,10 @@ gallery:
    description: Keila Biddington
 
 ---
+{% include image-gallery-by-tag.html tag="DesignFundamentalsII" %}
+
+
+
 <div style="float: none; clear: both;">
 
    {% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/1b/f6/07/1bf6078a2605f2cbe1b21c5a8fb72d62.jpg" image-description="Master copy, for Principles of Drawing, 2015" %}
