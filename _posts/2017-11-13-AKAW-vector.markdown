@@ -14,4 +14,4 @@ width: 8.5 in.
 height: 11 in.
 ---
 {% include artwork-metadata.html %}
-{% include image.html url="http://denislabrecque.ca/images/AKAW-letterhead.png" %}
+{% include image.html image-url="http://denislabrecque.ca/images/AKAW-letterhead.png" %}
