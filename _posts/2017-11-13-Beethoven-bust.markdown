@@ -1,4 +1,5 @@
 ---
+display: noinclude
 layout: artwork
 title: Beethoven Still Life
 subtitle: Three-dimensional study
