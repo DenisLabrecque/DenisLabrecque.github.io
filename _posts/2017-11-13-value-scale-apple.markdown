@@ -1,4 +1,5 @@
 ---
+display: nodisplay
 layout: artwork
 title: Warm and Cool Apple
 subtitle: Value scale
