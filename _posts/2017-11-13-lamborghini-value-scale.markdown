@@ -3,7 +3,7 @@ layout: artwork
 title: Lamborghini
 subtitle: Value scale
 headline: Made at Pensacola Christian College for Design Fundamentals II
-hero-image: http://denislabrecque.ca/images/coralie-value-scale.jpg
+hero-image: http://denislabrecque.ca/images/lamborghini-value-scale.jpg
 categories: artwork
 lang: en
 tags: artworkDetail DesignFundamentalsII
