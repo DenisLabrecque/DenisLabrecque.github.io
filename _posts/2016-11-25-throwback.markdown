@@ -25,7 +25,7 @@ gallery:
    description: Keila Biddington
 
 ---
-{% include image-gallery-by-tag.html tag="DesignFundamentalsII" %}
+{% include image-gallery-by-tag.html tag="artwork" %}
 
 
 
