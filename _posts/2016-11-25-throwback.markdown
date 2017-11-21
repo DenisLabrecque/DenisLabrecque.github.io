@@ -27,6 +27,7 @@ gallery:
 
 ---
 {% include image-gallery-by-tag.html tag="PrinciplesofDrawing" %}
+{% include image-gallery-by-tag.html tag="DesignFundamentalsI" %}
 {% include image-gallery-by-tag.html tag="DesignFundamentalsII" %}
 {% include image-gallery-by-tag.html tag="DigitalGraphics" %}
 {% include image-gallery-by-tag.html tag="PrinciplesofPainting" %}
