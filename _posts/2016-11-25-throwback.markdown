@@ -9,6 +9,7 @@ categories: artwork
 tags: acrylic watercolour pencil graphicDesign PCC PensacolaChristianCollege art throwback timeline portfolio
 lastmod: 2016-11-25
 lastmod: 2017-03-24
+lastmod: 2017-11-13
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/c7/36/1d/c7361de4dd13cb2506eed591e3eb1a2a.jpg
 
 gallery:
@@ -25,7 +26,11 @@ gallery:
    description: Keila Biddington
 
 ---
+{% include image-gallery-by-tag.html tag="PrinciplesofDrawing" %}
 {% include image-gallery-by-tag.html tag="DesignFundamentalsII" %}
+{% include image-gallery-by-tag.html tag="DigitalGraphics" %}
+{% include image-gallery-by-tag.html tag="PrinciplesofPainting" %}
+{% include image-gallery-by-tag.html tag="GraphicDesignI" %}
 
 
 
