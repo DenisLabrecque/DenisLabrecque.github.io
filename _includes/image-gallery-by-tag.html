@@ -5,22 +5,24 @@
 <h6>{{ tagWanted }}</h6>
 
 <ul class="post-stream-container no-span">
-  {% for post in site.posts %}
-    {% if post.tags contains tagWanted %}
-      <li title="{{ post.title }}: {{ post.subtitle }}">
-        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-          {% if post.thumbnail %}
-          <img src=" {{ post.thumbnail }}" nopin="nopin" />
-          {% elsif post.hero-image %}
-          <img src=" {{ post.hero-image }}" />
-          {% endif %}
-          <div class="hero-article-headline">
-            <h4>{{ post.title }}</h4>
-            <h5>{{ post.subtitle }}</h5>
-            {{ post.headline }}
-          </div>
-        </a>
-      </li>
-    {% endif %}
+  {% for tag in site.tags %}
+    {% for post in site.posts %}
+      {% if post.tag == tagWanted %}
+        <li title="{{ post.title }}: {{ post.subtitle }}">
+          <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+            {% if post.thumbnail %}
+            <img src=" {{ post.thumbnail }}" nopin="nopin" />
+            {% elsif post.hero-image %}
+            <img src=" {{ post.hero-image }}" />
+            {% endif %}
+            <div class="hero-article-headline">
+              <h4>{{ post.title }}</h4>
+              <h5>{{ post.subtitle }}</h5>
+              {{ post.headline }}
+            </div>
+          </a>
+        </li>
+      {% endif %}
+    {% endfor %}
   {% endfor %}
 </ul>
