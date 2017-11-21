@@ -1,0 +1,24 @@
+<!-- This requires a tag in the include called "tag" -->
+
+{% assign tagWanted = include.tag %}
+
+<ul class="post-stream-container no-span">
+  {% for post in site.posts %}
+    {% if post.tags contains tagWanted %}
+      <li title="{{ post.title }}: {{ post.subtitle }}">
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+          {% if post.thumbnail %}
+          <img src=" {{ post.thumbnail }}" nopin="nopin" />
+          {% elsif post.hero-image %}
+          <img src=" {{ post.hero-image }}" />
+          {% endif %}
+          <div class="hero-article-headline">
+            <h4>{{ post.title }}</h4>
+            <h5>{{ post.subtitle }}</h5>
+            {{ post.headline }}
+          </div>
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+</ul>
