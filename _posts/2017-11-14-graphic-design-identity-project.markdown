@@ -7,7 +7,7 @@ headline: Made at Pensacola Christian College for Graphic Design I
 hero-image: http://denislabrecque.ca/images/identity-envelope-back.jpg
 categories: artwork
 lang: en
-tags: artworkDetail GraphicDesign identity
+tags: artworkDetail GraphicDesignI identity
 medium: print
 surface: paper
 ---
