@@ -4,8 +4,6 @@
 
 {% assign tagWanted = include.tag %}
 
-<h6>{{ tagWanted }}</h6>
-
 <ul class="post-stream-container no-span">
   {% for post in site.posts %}
     {% if post.tags contains tagWanted %}
