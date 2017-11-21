@@ -7,7 +7,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/3e/8e/bd/3e8ebdfb141c
 thumbnail: https://s-media-cache-ak0.pinimg.com/564x/3e/8e/bd/3e8ebdfb141c8228ed18bdcc739dd33f.jpg
 ref: suyeonlee
 categories: artwork
-tags: portfolio pencilDrawing portrait pencil
+tags: portfolio pencilDrawing portrait pencil PrinciplesofDrawing
 lang: en
 
 medium: pencil
