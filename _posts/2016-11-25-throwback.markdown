@@ -46,4 +46,4 @@ gallery:
 {% include image-gallery-by-tag.html tag="GraphicDesignI" %}
 
 <h3>Before I knew Anything</h3>
-{% include gallery.html %}
+{% include image-gallery.html %}
