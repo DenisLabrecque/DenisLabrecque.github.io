@@ -1,4 +1,5 @@
 ---
+display: nodisplay
 layout: artwork
 title: Lamborghini
 subtitle: Value scale
