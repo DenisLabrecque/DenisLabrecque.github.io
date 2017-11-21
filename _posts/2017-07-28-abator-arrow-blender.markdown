@@ -4,6 +4,7 @@ title: Abator Arrow
 subtitle: 3D render of a fighter jet
 headline: Made as a portfolio piece using Blender.
 hero-image: http://denislabrecque.ca/images/Super-Avro-Arrow.png
+display: nodisplay
 
 ref: abatorarrowblenderrender
 categories: artwork
