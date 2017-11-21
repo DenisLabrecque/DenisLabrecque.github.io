@@ -7,7 +7,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/7f/d6/76/7fd6765b6c1e
 thumbnail: https://s-media-cache-ak0.pinimg.com/564x/7f/d6/76/7fd6765b6c1e35b38a2920ceff0d0517.jpg
 ref: rhinocerosbeetle
 categories: artwork
-tags: portfolio pencilDrawing animal insect nature Pensacola Christian College
+tags: portfolio pencilDrawing animal insect nature Pensacola Christian College PrinciplesofDrawing
 lang: en
 
 medium: pencil
