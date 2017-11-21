@@ -7,7 +7,7 @@ hero-image: "https://s-media-cache-ak0.pinimg.com/originals/76/63/aa/7663aa6b814
 thumbnail: https://s-media-cache-ak0.pinimg.com/564x/76/63/aa/7663aa6b8148a6fb848d4da29f79af61.jpg
 ref: jhoanalfaro
 categories: artwork
-tags: portrait pencilDrawing portfolio Pensacola Christian College drawing
+tags: portrait pencilDrawing portfolio Pensacola Christian College drawing PrinciplesofDrawing
 lang: en
 
 medium: pencil
