@@ -11,6 +11,7 @@ medium: pencil
 surface: paper
 width: 8.5 in.
 height: 11 in.
+year: 2015
 ---
 {% include artwork-metadata.html %}
 Before this drawing, I studied how to draw the figure accurately. I did not know many tricks at the time, but this definitely looked good to me when finished.
