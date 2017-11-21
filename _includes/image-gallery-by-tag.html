@@ -2,13 +2,13 @@
 
 
 
-{% capture tagWanted %}{{ include.tag }}{% endcapture %}
+{% assign tagWanted = include.tag %}
 
 <h6>{{ tagWanted }}</h6>
 
 <ul class="post-stream-container no-span">
   {% for post in site.posts %}
-    {% if post.tags contains include.tag %}
+    {% if post.tags contains tagWanted %}
         <li title="{{ post.title }}: {{ post.subtitle }}">
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
             {% if post.thumbnail %}
