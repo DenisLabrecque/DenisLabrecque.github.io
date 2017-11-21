@@ -1,20 +1,22 @@
 <ul class="post-stream-container no-span">
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in site.categories.artwork limit: include.stream-limit %}
-  <li title="{{ post.title }}: {{ post.subtitle }}">
-    <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-      {% if post.thumbnail %}
-      <img src=" {{ post.thumbnail }}" nopin="nopin" />
-      {% elsif post.hero-image %}
-      <img src=" {{ post.hero-image }}" />
-      {% endif %}
-      <div class="hero-article-headline">
-        <h4>{{ post.title }}</h4>
-        <h5>{{ post.subtitle }}</h5>
-        {{ post.headline }}
-      </div>
-    </a>
-  </li>
+  {% if post.display != "nodisplay" %}
+    <li title="{{ post.title }}: {{ post.subtitle }}">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+        {% if post.thumbnail %}
+        <img src=" {{ post.thumbnail }}" nopin="nopin" />
+        {% elsif post.hero-image %}
+        <img src=" {{ post.hero-image }}" />
+        {% endif %}
+        <div class="hero-article-headline">
+          <h4>{{ post.title }}</h4>
+          <h5>{{ post.subtitle }}</h5>
+          {{ post.headline }}
+        </div>
+      </a>
+    </li>
+  {% endif %}
   {% endfor %}
   {% if include.more == 'more' %}
   <li class="go-to-complete-stream">
