@@ -1,4 +1,5 @@
 ---
+display: nodisplay
 layout: artwork
 title: Ladybug
 subtitle: Value scale
