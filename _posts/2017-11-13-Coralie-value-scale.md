@@ -6,7 +6,7 @@ headline: Made at Pensacola Christian College for Design Fundamentals II
 hero-image: 
 categories: artwork
 lang: en
-tags: artworkDetail DesignFundamentals II
+tags: artworkDetail DesignFundamentalsII
 medium: acrylic
 surface: cold pressed board
 width: 8.5 in.
