@@ -7,7 +7,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/1f/ce/e6/1fcee6d8b2e2
 
 ref: mixedmediabutterfly
 categories: artwork
-tags: watercolour portfolio Pensacola Christian College butterfly Baroque
+tags: watercolour portfolio Pensacola Christian College butterfly Baroque PrinciplesofPainting
 lang: en
 medium: watercolour and pencil
 surface: paper
