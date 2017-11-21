@@ -7,7 +7,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/e8/d6/09/e8d609d4fcd7
 thumbnail: https://s-media-cache-ak0.pinimg.com/564x/e8/d6/09/e8d609d4fcd72492d8a95243c3791d5d.jpg
 ref: postcardwatercolour
 categories: artwork
-tags: watercolour portfolio Pensacola Christian College flower
+tags: watercolour portfolio PensacolaChristianCollege flower PrinciplesofPainting
 lang: en
 medium: watercolour
 surface: paper
