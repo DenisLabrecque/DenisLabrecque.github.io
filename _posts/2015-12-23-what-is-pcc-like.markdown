@@ -54,19 +54,25 @@ Female students have more liberty concerning collars and belts, yet must always 
 
 Every church service at 10 a.m. and 6 p.m. Sunday and 7 p.m. Wednesday requires formal ware. For guys, that means polishable shoes, clean pants, shirt and tie, and vest. For girls, that essentially means no jeans and formal shoes.
 <h3>Chaperones</h3>
-Most areas are chaperoned in various ways. Chaperones and RA's ensure that students adhere to rules such as not touching the opposite sex, wearing the appropriate attire, and general respect of the rules.
+Most areas are chaperoned in various ways. Chaperones and RA's ensure that students adhere to rules such as not touching the opposite sex, wearing the appropriate attire, and generally respect the rules.
 
 Chaperones stand in the <a href="https://www.google.com/maps/place/Campus+Church/@30.4709544,-87.2340694,18z/data=!4m6!1m3!3m2!1s0x0000000000000000:0xd0e8faa751859501!2sSports+Center!3m1!1s0x0000000000000000:0x0c7915baf1dc51fa" target="_blank">Crowne Center</a> during chapel to ensure that entering and exiting students are dressed appropriately and do not use their cellphones inside. Either infraction means ten demerits.
+<b>Update:<b> cell phone use is now disallowed only in the sanctuary itself. Other infractions not proscecuted.
 <h3>Wi-Fi</h3>
 The college only allows student internet through its own server called Eagle's Nest. Access is monitored and blocks certain website categories like entertainment or streaming. That leads to many quirks that we gradually learned to surmount over the beginning of the semester.
 
 Most notably, YouTube is blocked -- probably for data overload reasons. Image search on Google and Bing is also blocked under <em>search engines and portals</em>. Nonetheless, Pinterest has been unblocked as social media such as Facebook, Google+, Twitter, and Instagram are generally available. However, blogging sites under domains such as BlogSpot.com and WordPress.com are blocked, which makes updating my blog impossible on campus.
+
+<b>Update November 2017:</b> image search and blogs are now unblocked. This seems to be a permanent purposeful change; categories like blogs are now allowed as well. Lights out has now been cancelled, with the WiFi remaining on all night for the remainder of the semester, to aid in research (late-night study hall, available to students 21-years and older or seniors, also had WiFi cut at 11:15 p.m.)
 
 Certain URL's are blocked, even on allowed websites, because of <em>student denied keywords</em>. Those would of course include any suggestion to erotic content. One humorous example of this was when the new Prime Minister of Canada did not immediately move into his new residence because it needed renovation. However innocent that piece of news might seem, it was forbidden by Eagle's Nest because the Canadian Prime Minister lives at 24 Sussex Drive, which unfortunately happens to contain a denied keyword.
 
 {% include image.html image-url="https://s-media-cache-ak0.pinimg.com/originals/e6/11/7e/e6117e798beedf83d69680c63d8e61ef.jpg" image-description="Yep, we're all familiar with this error message." %}
 
 One annoying quirk of the WiFi is that many apps do not function properly because their underlying URL's have been blocked. For that reason, PCC does have rooms reserved for Skype calls.
+
+<p class="note"><b>Update November 2017:</b> the situation has improved, with my being able to obtain a new computer and install Visual Studio with Xamarin, Android Studio for Android development, Unity game engine (a hotspot being needed to sign in), plus Universal Windows Apps without needing to go off campus.</p>
+
 <h4>The Drowsy Poet Phenomenon</h4>
 Working Wi-Fi being the bane of every student who tries to access the internet through Eagle's Nest, many are led to periodically walk over to <a href="https://www.google.com/maps/place/The+Drowsy+Poet+Coffee+Company/@30.4685871,-87.2409529,17z/data=!3m1!4b1!4m2!3m1!1s0x8890bf96ed4c0ebb:0x173a88c792766440" target="_blank">The Drowsy Poet</a> café, where they can obtain Wi-Fi after buying a beverage. Many also take a walk to the mall to access free Starbucks Wi-Fi.
 <h3>Dorm Life</h3>
