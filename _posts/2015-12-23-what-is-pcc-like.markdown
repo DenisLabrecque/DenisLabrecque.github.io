@@ -57,7 +57,7 @@ Every church service at 10 a.m. and 6 p.m. Sunday and 7 p.m. Wednesday requires 
 Most areas are chaperoned in various ways. Chaperones and RA's ensure that students adhere to rules such as not touching the opposite sex, wearing the appropriate attire, and generally respect the rules.
 
 Chaperones stand in the <a href="https://www.google.com/maps/place/Campus+Church/@30.4709544,-87.2340694,18z/data=!4m6!1m3!3m2!1s0x0000000000000000:0xd0e8faa751859501!2sSports+Center!3m1!1s0x0000000000000000:0x0c7915baf1dc51fa" target="_blank">Crowne Center</a> during chapel to ensure that entering and exiting students are dressed appropriately and do not use their cellphones inside. Either infraction means ten demerits.
-<b>Update:<b> cell phone use is now disallowed only in the sanctuary itself. Other infractions not proscecuted.
+<b>Update:</b> cell phone use is now disallowed only in the sanctuary itself. Other infractions not proscecuted.
 <h3>Wi-Fi</h3>
 The college only allows student internet through its own server called Eagle's Nest. Access is monitored and blocks certain website categories like entertainment or streaming. That leads to many quirks that we gradually learned to surmount over the beginning of the semester.
 
