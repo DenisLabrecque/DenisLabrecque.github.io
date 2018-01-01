@@ -1,3 +1,19 @@
 ---
+layout: artwork
+title: "Wood Duck"
+subtitle: Colour pencil drawing
+headline: Personal artwork
+hero-image: https://i.pinimg.com/originals/3d/2c/84/3d2c84227e7d5f570d6df91d54cd5f96.jpg
+ref: woodduckcolourpencil
+categories: artwork
+tags: bird pencilDrawing portfolio drawing colour
+lang: en
 
+medium: coloured pencil
+surface: paper
+width: 9 in.
+height: 12 in.
 ---
+{% include artwork-metadata.html %}
+
+This duck was a personal project for the pleasure of my mother, who enjoys ducks and geese with coloured plumage. This is my first most successful piece using coloured crayons. The result is quite satisfying; only, one important bug, which would prevent this drawing from being successful, is the fact that the right-side wing does not extend correctly towards the crossed feathers just below: that defect annoys me a lot.
