@@ -1,5 +1,4 @@
 ---
-display: nodisplay
 layout: artwork
 title: Travel Tea Set
 subtitle: Food packaging design
