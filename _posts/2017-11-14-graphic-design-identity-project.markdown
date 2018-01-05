@@ -23,3 +23,4 @@ gallery:
       description: Combination mark logo
 ---
 {% include artwork-metadata.html %}
+{% include image-gallery.html %}
