@@ -12,7 +12,7 @@ lang: fr
 medium: Crayon couleur
 surface: papier
 width: 8 pouces
-height: 12 pouches
+height: 12 pouces
 ---
 {% include artwork-metadata.html %}
 
