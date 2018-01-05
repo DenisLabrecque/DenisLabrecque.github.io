@@ -20,6 +20,6 @@ gallery:
     - url: https://s-media-cache-ak0.pinimg.com/originals/06/f1/92/06f19264c34ecaf9986752eb2b5702ef.png
       description: Letterhead (back)
     - url: https://s-media-cache-ak0.pinimg.com/originals/54/83/c0/5483c027b840a88828e97be59f649c7a.png
-      description: Logo
+      description: Combination mark logo
 ---
 {% include artwork-metadata.html %}
