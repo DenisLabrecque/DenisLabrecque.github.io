@@ -7,7 +7,7 @@
 {% endif %}
 {% if page.lang == 'fr' %}
 <p itemscope itemtype="https://schema.org/VisualArtwork">
-    <strong>Completé: <span itemprop="dateCreated" datetime="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00" content="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00">{{ page.date | date: '%d/%m/%Y' }}</span><br />
+    <strong>Completé: </strong><span itemprop="dateCreated" datetime="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00" content="{{ page.date | date: '%Y-%m-%d' }}T00:00:00+00:00">{{ page.date | date: '%d/%m/%Y' }}</span><br />
     <strong>Média: </strong><span itemprop="artMedium">{{ page.medium }}</span> on <span itemprop="artworkSurface">{{ page.surface }}</span><br />
     <strong>Taille: </strong><span itemprop="width">{{ page.width }}</span> × <span itemprop="height">{{ page.height }}</span>
 </p>
