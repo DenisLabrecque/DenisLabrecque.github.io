@@ -7,6 +7,7 @@
 <ul class="post-stream-container no-span">
   {% for post in site.posts %}
     {% if post.tags contains tagWanted %}
+      {% if post.lang == page.lang %}
         <li title="{{ post.title }}: {{ post.subtitle }}">
           <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
             {% if post.thumbnail %}
@@ -21,6 +22,7 @@
             </div>
           </a>
         </li>
+      {% endif %}
     {% endif %}
   {% endfor %}
 </ul>
