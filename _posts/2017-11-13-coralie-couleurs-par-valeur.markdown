@@ -1,0 +1,16 @@
+---
+layout: artwork
+title: Coralie
+subtitle: Couleurs par valeur
+headline: Fait à Pensacola Christian College pour Design Fundamentals II
+hero-image: http://denislabrecque.ca/images/coralie-value-scale.jpg
+categories: art
+lang: fr
+tags: détailArt DesignFundamentalsII
+medium: acrylique
+surface: carton pressé à froid
+width: 8.5 in.
+height: 11 in.
+---
+{% include artwork-metadata.html %}
+
