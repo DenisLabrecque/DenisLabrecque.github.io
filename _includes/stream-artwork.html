@@ -1,3 +1,4 @@
+{% if page.lang == 'en' %}
 <ul class="post-stream-container no-span">
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in site.categories.artwork limit: include.stream-limit %}
@@ -28,3 +29,38 @@
   </li>
   {% endif %}
 </ul>
+{% endif %}
+
+
+{% if page.lang == 'fr' %}
+<ul class="post-stream-container no-span">
+  {% assign posts=site.posts | where:"lang", page.lang %}
+  {% for post in site.categories.art limit: include.stream-limit %}
+  {% if post.display != "nodisplay" %}
+    <li title="{{ post.title }}: {{ post.subtitle }}">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+        {% if post.thumbnail %}
+        <img src=" {{ post.thumbnail }}" nopin="nopin" />
+        {% elsif post.hero-image %}
+        <img src=" {{ post.hero-image }}" />
+        {% endif %}
+        <div class="hero-article-headline">
+          <h4>{{ post.title }}</h4>
+          <h5>{{ post.subtitle }}</h5>
+          {{ post.headline }}
+        </div>
+      </a>
+    </li>
+  {% endif %}
+  {% endfor %}
+  {% if include.more == 'more' %}
+  <li class="go-to-complete-stream">
+    <a href="/art" class="post-stream-card">
+      <div class="hero-article-headline">
+        <h4>Mon portfolio d’art <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
+      </div>
+    </a>
+  </li>
+  {% endif %}
+</ul>
+{% endif %}
