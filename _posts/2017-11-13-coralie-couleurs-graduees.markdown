@@ -1,7 +1,7 @@
 ---
 layout: artwork
 title: Coralie
-subtitle: Couleurs par valeur
+subtitle: Couleurs graduées
 headline: Fait à Pensacola Christian College pour Design Fundamentals II
 hero-image: http://denislabrecque.ca/images/coralie-value-scale.jpg
 categories: art
