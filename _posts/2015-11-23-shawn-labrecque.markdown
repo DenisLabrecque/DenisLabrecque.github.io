@@ -7,7 +7,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/90/c9/62/90c962620e4d
 thumbnail: https://s-media-cache-ak0.pinimg.com/564x/90/c9/62/90c962620e4de52453351452aadb7327.jpg
 ref: shawnlabrecque
 categories: artwork
-tags: pencilDrawing portrait portfolio drawing Pensacola Christian College
+tags: pencilDrawing portrait portfolio drawing Pensacola Christian College PrinciplesofDrawing
 lang: en
 
 medium: pencil
