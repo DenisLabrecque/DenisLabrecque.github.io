@@ -19,6 +19,6 @@ height: 13 pouces
 
 {% include artwork-metadata.html %}
 
-Suivant notre <a href="http://denislabrecque.ca/artwork/2015/11/23/shawn-crayon.html">premier portrait</a>, un requis du cours était de dessiner soit un portrait ou un animal. Bien que mon choix était un portrait, mon image de référence n'a pas été acceptée; je l'ai donc dessinée <a href="http://denislabrecque.ca/artwork/2015/11/24/dessin-su-yeon.html">comme travail personnel.</a>
+Suivant notre <a href="http://denislabrecque.ca/art/2015/11/23/shawn-crayon.html">premier portrait</a>, un requis du cours était de dessiner soit un portrait ou un animal. Bien que mon choix était un portrait, mon image de référence n'a pas été acceptée; je l'ai donc dessinée <a href="http://denislabrecque.ca/art/2015/11/24/dessin-su-yeon.html">comme travail personnel.</a>
 
 Une partie interessante de cette référence est le flou à l'arrière-plan. Un autre aspect interessant est la texture lisse de l'insecte lui-même. Le professeur fut impressionné et me donna un A+, avec la remarque que les dessins d'insectes semblaient me convenir.
