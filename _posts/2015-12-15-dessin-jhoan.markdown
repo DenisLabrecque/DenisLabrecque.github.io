@@ -19,7 +19,7 @@ height: 13 pouces
 
 {% include artwork-metadata.html %}
 
-En voyant <a href="http://denislabrecque.ca/artwork/2015/11/24/dessin-su-yeon.html">mon portrait de Su Yeon Lee</a>, Jhoan a demandé s'il pouvait lui-même avoir un portrait. Cela ne posait pas vraiment de problème, puisque je désirait faire un portrait pour le projet final, et que je n'avais pas encore choisi de modèle. Ma seule condition était de prendre moi-même les photos de référence, vu mon expérience défavorable du projet antérieur.
+En voyant <a href="http://denislabrecque.ca/art/2015/11/24/dessin-su-yeon.html">mon portrait de Su Yeon Lee</a>, Jhoan a demandé s'il pouvait lui-même avoir un portrait. Cela ne posait pas vraiment de problème, puisque je désirait faire un portrait pour le projet final, et que je n'avais pas encore choisi de modèle. Ma seule condition était de prendre moi-même les photos de référence, vu mon expérience défavorable du projet antérieur.
 
 L'expérience aidant, j'ai mis beaucoup d'effort dans ce dessin, surtout dans les proportions. Le résultât a été heureux, gagnant un A+ aux yeux du professeur.
 
