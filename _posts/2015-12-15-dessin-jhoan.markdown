@@ -2,7 +2,7 @@
 layout: artwork
 title: Jhoan Alfaro
 subtitle: Dessin au crayon
-headline: Fait à Pensacola Christian College comme projet final pour Princples of Drawing
+headline: Fait à Pensacola Christian College comme projet final pour Principles of Drawing
 hero-image: "https://s-media-cache-ak0.pinimg.com/originals/76/63/aa/7663aa6b8148a6fb848d4da29f79af61.jpg"
 thumbnail: https://s-media-cache-ak0.pinimg.com/564x/76/63/aa/7663aa6b8148a6fb848d4da29f79af61.jpg
 ref: jhoanalfaro
