@@ -17,7 +17,7 @@ height: 17 pouces
 ---
 {% include artwork-metadata.html %}
 
-Dans le cours de dessin à Pensacola Christian College, nous avons eu l'option de dessiner soit un animal ou un portrait. J'ai voulu faire un portrait, mais j'eus de l'hésitation sur qui. Comme le temps pressait, j'ai décider de proposer <a href="http://denislabrecque.ca/artwork/2015/11/28/dessin-scarabee.html">une image de référence temporaire</a> que mon professeur pouvait approuver.
+Dans le cours de dessin à Pensacola Christian College, nous avons eu l'option de dessiner soit un animal ou un portrait. J'ai voulu faire un portrait, mais j'eus de l'hésitation sur qui. Comme le temps pressait, j'ai décider de proposer <a href="http://denislabrecque.ca/art/2015/11/28/dessin-scarabee.html">une image de référence temporaire</a> que mon professeur pouvait approuver.
 
 Finalement, j'ai décidé de faire le portrait d'un étranger. Voulant qu'il soit original, j'ai obtenu la référence d'une étudiante. Malheureusement, cette photo n'a pas été acceptée du professeur à cause de son manque de contraste. Voulant suivre ma promesse, j'ai choisi de ne pas abandonner le projet, et de mener à terme les deux dessins. Cela m'a permis d'utiliser la taille complète du papier pour le portrait, n'étant pas obligé d'y ajouter une bordure blanche de deux pouces tout autour.
 
