@@ -31,11 +31,13 @@
     {% comment %}---> Only compare if post is 
                       not same as current page {% endcomment %}
     {% if post.url != page.url %}
-      {% if page.tags contains tag %}
-        {% assign sameTagCount = sameTagCount | plus: 1 %}
-        {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
-        {% assign commonTags = commonTags | append: tagmarkup %}
-      {% endif %}
+       {% if post.lang == page.lang %}
+         {% if page.tags contains tag %}
+           {% assign sameTagCount = sameTagCount | plus: 1 %}
+           {% capture tagmarkup %} <span class="label label-default">{{ tag }}</span> {% endcapture %}
+           {% assign commonTags = commonTags | append: tagmarkup %}
+         {% endif %}
+       {% endif %}
     {% endif %}
   {% endfor %}
 
