@@ -2,12 +2,12 @@
 layout: artwork
 title: Shawn Labrecque
 subtitle: Dessin au crayon
-headline: Fait à Pensacola Christian College comme portrait pour Principles of Drawing (AR 111).
+headline: Fait à Pensacola Christian College comme portrait pour Principles of Drawing (AR 111)
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/90/c9/62/90c962620e4de52453351452aadb7327.jpg
 thumbnail: https://s-media-cache-ak0.pinimg.com/564x/90/c9/62/90c962620e4de52453351452aadb7327.jpg
 ref: shawnlabrecque
 categories: art
-tags: dessinCrayon portrait portfolio
+tags: dessinCrayon portrait portfolio PrinciplesofDrawing
 lang: fr
 
 medium: crayon
