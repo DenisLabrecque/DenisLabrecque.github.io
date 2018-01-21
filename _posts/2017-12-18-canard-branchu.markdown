@@ -6,7 +6,7 @@ headline: Projet personnel
 hero-image: https://i.pinimg.com/originals/3d/2c/84/3d2c84227e7d5f570d6df91d54cd5f96.jpg
 ref: woodduckcolourpencil
 categories: art
-tags: oiseau dessinAuCrayon dessin couleur
+tags: oiseau dessinAuCrayon dessin couleur personalProject
 lang: fr
 
 medium: Crayon couleur
