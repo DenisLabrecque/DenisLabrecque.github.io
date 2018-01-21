@@ -14,7 +14,26 @@ tags: art
 <div class="page-feed">
 <h1>Art</h1>
       
-      {% include stream-artwork.html stream-limit="500" %}
+      <h3>Principes du dessin</h3>
+      {% include image-gallery-by-tag.html tag="PrinciplesofDrawing" %}
+
+      <h3>Fondamentaux du design I</h3>
+      {% include image-gallery-by-tag.html tag="DesignFundamentalsI" %}
+
+      <h3>Fondamentaux du design II</h3>
+      {% include image-gallery-by-tag.html tag="DesignFundamentalsII" %}
+
+      <h3>Graphiques digitaux</h3>
+      {% include image-gallery-by-tag.html tag="DigitalGraphics" %}
+
+      <h3>Principes de la peinture</h3>
+      {% include image-gallery-by-tag.html tag="PrinciplesofPainting" %}
+
+      <h3>Design graphique I</h3>
+      {% include image-gallery-by-tag.html tag="GraphicDesignI" %}
+
+      <h3>Projets personnels</h3>
+      {% include image-gallery-by-tag.html tag="personalProject" %}
       
       {% include website-topics.html %}
       
