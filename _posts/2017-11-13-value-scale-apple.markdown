@@ -6,6 +6,7 @@ subtitle: Value scale
 headline: Made at Pensacola Christian College for Design Fundamentals II
 hero-image: http://denislabrecque.ca/images/flat-apple.jpg
 categories: artwork
+ref: applesvaluescales
 lang: en
 tags: artworkDetail DesignFundamentalsII
 medium: acrylic
