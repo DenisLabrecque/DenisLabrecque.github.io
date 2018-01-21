@@ -6,7 +6,7 @@ subtitle: Value scale
 headline: Made at Pensacola Christian College for Design Fundamentals II
 hero-image: http://denislabrecque.ca/images/flat-ladybug.jpg
 categories: artwork
-ref: valuescaleladybug
+ref: cocinellevaluescale
 lang: en
 tags: artworkDetail DesignFundamentalsII
 medium: acrylic
