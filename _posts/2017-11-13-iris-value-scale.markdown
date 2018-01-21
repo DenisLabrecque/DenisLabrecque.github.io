@@ -5,6 +5,7 @@ subtitle: Value scale
 headline: Made at Pensacola Christian College for Design Fundamentals II
 hero-image: http://denislabrecque.ca/images/iris-value-scale.jpg
 categories: artwork
+ref: irisvaluescale
 lang: en
 tags: artworkDetail DesignFundamentalsII
 medium: acrylic
