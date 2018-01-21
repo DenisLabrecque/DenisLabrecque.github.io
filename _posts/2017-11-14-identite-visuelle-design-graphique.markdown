@@ -7,7 +7,7 @@ headline: Fait à Pensacola Christian College pour Graphic Design I
 hero-image: http://denislabrecque.ca/images/identity-envelope-back.png
 categories: art
 lang: fr
-tags: détailArt designGraphique identité
+tags: détailArt designGraphique identité GraphicDesignI
 medium: impression
 surface: paper
 gallery:
