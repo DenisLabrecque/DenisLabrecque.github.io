@@ -6,7 +6,7 @@ headline: Personal artwork
 hero-image: https://i.pinimg.com/originals/3d/2c/84/3d2c84227e7d5f570d6df91d54cd5f96.jpg
 ref: woodduckcolourpencil
 categories: artwork
-tags: bird pencilDrawing portfolio drawing colour
+tags: bird pencilDrawing portfolio drawing colour personalProject
 lang: en
 
 medium: coloured pencil
