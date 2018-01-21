@@ -28,3 +28,6 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/c7/36/1d/c7361de4dd13
 
 <h3>Graphic Design I</h3>
 {% include image-gallery-by-tag.html tag="GraphicDesignI" %}
+
+<h3>Projets Personnels</h3>
+{% include image-gallery-by-tag.html tag="personalProject" %}
