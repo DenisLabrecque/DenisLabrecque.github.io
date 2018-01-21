@@ -1,4 +1,5 @@
 ---
+permalink: /BAC-design-graphique
 lang: fr
 ref: graphicdesigncoursework
 layout: post
