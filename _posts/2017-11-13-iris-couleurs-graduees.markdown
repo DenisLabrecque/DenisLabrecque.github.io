@@ -5,6 +5,7 @@ subtitle: Couleurs graduées
 headline: Fait à Pensacola Christian College pour Design Fundamentals II.
 hero-image: http://denislabrecque.ca/images/iris-value-scale.jpg
 categories: art
+ref: irisvaluescale
 lang: fr
 tags: détailArt DesignFundamentalsII acrylique
 medium: acrylique
