@@ -6,7 +6,7 @@ subtitle: Couleurs graduées
 headline: Fait à Pensacola Christian College pour Design Fundamentals II.
 hero-image: http://denislabrecque.ca/images/flat-ladybug.jpg
 categories: art
-ref: applesvaluescales
+ref: coccinellevaluescale
 lang: fr
 tags: détailArt DesignFundamentalsII acrylique
 medium: acrylique
