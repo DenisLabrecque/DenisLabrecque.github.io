@@ -1,8 +1,8 @@
 ---
 layout: artwork
 title: Oasis
-subtitle: Ministry logo
-headline: Made at Pensacola Christian College for Graphic Design I
+subtitle: Logo de ministère
+headline: Fait à Pensacola Christian College pour Graphic Design I
 hero-image: https://i.pinimg.com/originals/78/db/9c/78db9cb71f9664f3907b3707592a22c5.png
 ref: oasislogo
 categories: art
