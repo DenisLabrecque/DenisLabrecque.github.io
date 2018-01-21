@@ -7,7 +7,7 @@ hero-image: https://s-media-cache-ak0.pinimg.com/originals/3e/8e/bd/3e8ebdfb141c
 thumbnail: https://s-media-cache-ak0.pinimg.com/564x/3e/8e/bd/3e8ebdfb141c8228ed18bdcc739dd33f.jpg
 ref: suyeonlee
 categories: art
-tags: portfolio dessinCrayon portrait crayon PrinciplesofDrawing
+tags: portfolio dessinCrayon portrait crayon personalProject
 lang: fr
 
 medium: crayon
