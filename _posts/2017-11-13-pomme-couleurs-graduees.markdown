@@ -6,6 +6,7 @@ subtitle: Couleurs graduées
 headline: Fait à Pensacola Christian College pour Design Fundamentals II.
 hero-image: http://denislabrecque.ca/images/flat-apple.jpg
 categories: art
+ref: applesvaluescales
 lang: fr
 tags: détailArt DesignFundamentalsII acrylique
 medium: acrylique
