@@ -7,6 +7,7 @@ hero-image: http://denislabrecque.ca/images/magazine-cover.png
 thumbnail: https://i.pinimg.com/564x/22/b3/d6/22b3d6b0247a24bebc5d180bc4784706.jpg
 categories: artwork
 lang: en
+ref: fullthrottleairplane
 tags: artworkDetail DigitalGraphics
 medium: print
 surface: digital
