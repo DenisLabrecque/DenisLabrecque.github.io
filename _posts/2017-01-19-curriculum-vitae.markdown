@@ -60,7 +60,7 @@ Used pencil to draw realistically and learn visual modelling, shading, and propo
 <p>I programmed my own blog using my HTML and CSS experience to learn the Jekyll templating language on GitHub. That demonstrates my capacity of learning on my own wherewhile creating a unique space for my graphical creations.</p>
 <h5>Programming Languages</h5>
 <em>comfortable using:</em> C#, C++, C, JavaScript, XML, HTML, CSS
-<em>have also used</em> XAML, PHP, JSON
+<br/><em>have also used:</em> XAML, PHP, JSON
 <h5>Experience in Applications</h5>
 Blender, VisualStudio, Illustrator, InDesign, Photoshop, Finale, Office Suite
 
