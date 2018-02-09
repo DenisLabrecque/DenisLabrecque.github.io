@@ -37,10 +37,9 @@ Examined and understood the principles of objet-oriented programming in C++ when
 <h6>Computer Graphics Programming</h6>
 Created computer games in teams using Unity, and assessed topics such as 2D sprites, 3D modelling, animation, shaders, and QBasic.
 
-  
 <li>{% include cite.html title="Bachelor’s Degree in Graphic Design" description="“Commercial advertising/graphic design firms, businesses, and Christian ministries need creative and efficient designers who can produce clear, visual communication using advanced technology. With abundant hands-on instruction, students begin by developing fundamental drawing and design skills using traditional media, while also learning essential computer application skills using Apple iMac computers and Adobe® Creative Cloud software. Advanced training in creative problem solving, as well as two semesters each of web design and multimedia production, helps fully prepare students to design practical, useful solutions to common graphic problems.
 The program includes internships in the field and courses to develop digital portfolios and self-promotional materials for potential employers. With the senior portfolio exhibit, students complete the program and showcase their best work.”" href="http://www.pcci.edu/academics/divisions/visualandperformingarts/visualarts/GraphicDesign.aspx" date="January 22, 2017" %}</li>
-</ul>
+
 
 <h6>Graphic Design I & II</h6>
 Exercised problem-solving skills while creating logos and combination marks, a company identity, vector illustrations, brochures, and food packaging, along with other regular assignments.
@@ -48,6 +47,7 @@ Exercised problem-solving skills while creating logos and combination marks, a c
 Learned to paint realistically in watercolour, acrylic, and mixed media.
 <h6>Principles of Drawing</h6>
 Used pencil to draw realistically and learn visual modelling, shading, and proportion. Extreme scrutiny in correct values and exact negative space.
+</ul>
 
 
 <p>These two degrees are in progress at Pensacola Christian College, Florida. In my concentration, I have followed courses on programming, in graphic production software, in drawing, and in painting. Studying in a rule-strict environment allowed me to adapt to life on campus, to follow a regular schedule, and to keep a regular performance. I am presently in my junior year, each semester being completed with Dean’s list honours.</p>
