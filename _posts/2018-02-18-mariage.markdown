@@ -15,7 +15,7 @@ tags: annonce marriage fiançailles photographie Pensacola
 
 
 <!-- Display the countdown timer in an element -->
-<p id="demo"></p>
+<p><span id="wedding-day"></span> jours <span id="wedding-hour"></span> heures <span id="wedding-minute"></span>:<span id="wedding-second"></span></p>
 
 <script>
 // Set the date we're counting down to
@@ -36,14 +36,19 @@ var x = setInterval(function() {
   var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
   var seconds = Math.floor((distance % (1000 * 60)) / 1000);
 
-  // Display the result in the element with id="demo"
-  document.getElementById("demo").innerHTML = days + "d " + hours + "h "
-  + minutes + "m " + seconds + "s ";
+  // Display the result
+  document.getElementById("wedding-day").innerHTML = days;
+  document.getElementById("wedding-hour").innerHTML = hours;
+  document.getElementById("wedding-minute").innerHTML = minutes;
+  document.getElementById("wedding-second").innerHTML = seconds;
 
   // If the count down is finished, write some text 
   if (distance < 0) {
     clearInterval(x);
-    document.getElementById("demo").innerHTML = "EXPIRED";
+    document.getElementById("wedding-day").innerHTML = "0";
+    document.getElementById("wedding-hour").innerHTML = "00";
+    document.getElementById("wedding-minute").innerHTML = "00";
+    document.getElementById("wedding-second").innerHTML = "00";
   }
 }, 1000);
 </script>
