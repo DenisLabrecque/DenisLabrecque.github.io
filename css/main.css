@@ -1652,3 +1652,17 @@ p.coralie-texting:after {
          font-size: 0; /* remove extra spaces */
          line-height: 0; /* to fix inline-block problem */
       }
+
+
+/* wedding day announbcement */
+.date-mark {
+	font-family: 'Lato', sans-serif;
+}
+#wedding-day {
+	font-size: 84pt;
+}
+#wedding-hour {
+	font-size: 42pt;
+}
+
+
