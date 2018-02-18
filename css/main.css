@@ -1659,10 +1659,16 @@ p.coralie-texting:after {
 	font-family: 'Lato', sans-serif;
 }
 #wedding-day {
-	font-size: 84pt;
+	font-size: 168pt;
 }
 #wedding-hour {
-	font-size: 42pt;
+	font-size: 84pt;
 }
-
-
+.day {
+	height: 190pt;
+	min-width: 200pt;
+	display: block;
+}
+.hour {
+	display: block;
+}
