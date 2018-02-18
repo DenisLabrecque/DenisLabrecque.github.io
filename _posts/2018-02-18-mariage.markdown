@@ -1,0 +1,49 @@
+---
+permalink: /mariage
+ref: denisetcoraliemariage
+layout: post
+title: Annonce de mariage
+subtitle: Denis et Coralie
+headline: C'est notre plaisir d'annoncer notre mariage le jeudi 26 juillet à 13:00.
+hero-image: https://i.pinimg.com/originals/7c/2b/02/7c2b02b1b7a1fc4e62f13afd1329af19.jpg
+thumbnail: https://i.pinimg.com/564x/7c/2b/02/7c2b02b1b7a1fc4e62f13afd1329af19.jpg
+image-by:
+lang: fr
+categories: blogue
+tags: annonce marriage fiançailles photographie Pensacola
+---
+<!-- Display the countdown timer in an element -->
+<p id="demo"></p>
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Jul 26, 2018 13:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get todays date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now an the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result in the element with id="demo"
+  document.getElementById("date-to").innerHTML = days + "d " + hours + "h "
+  + minutes + "m " + seconds + "s ";
+
+  // If the count down is finished, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("demo").innerHTML = "EXPIRED";
+  }
+}, 1000);
+</script>
+
+<h1 class="date-to"></h1>
