@@ -12,12 +12,9 @@ lang: fr
 categories: blogue
 tags: annonce marriage fiançailles photographie Pensacola
 ---
-<!-- Display the countdown timer in an element -->
-<p id="demo"></p>
-
 <script>
 // Set the date we're counting down to
-var countDownDate = new Date("Jul 26, 2018 13:00:00").getTime();
+var countDownDate = new Date("Sep 26, 2018 13:00:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
