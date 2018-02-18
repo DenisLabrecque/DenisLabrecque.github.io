@@ -18,7 +18,7 @@ tags: annonce marriage fiançailles photographie Pensacola
 <link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet"> 
 
 <!-- Display the countdown timer in an element -->
-<p><span id="wedding-day"></span> jours <span id="wedding-hour"></span> heures <span id="wedding-minute"></span>:<span id="wedding-second"></span></p>
+<p class="date-mark"><span id="wedding-day"></span> jours <span id="wedding-hour"></span> heures <span id="wedding-minute"></span>:<span id="wedding-second"></span></p>
 
 <script>
 // Set the date we're counting down to
