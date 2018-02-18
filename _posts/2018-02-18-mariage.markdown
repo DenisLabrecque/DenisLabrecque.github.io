@@ -7,6 +7,9 @@ subtitle: Denis et Coralie
 headline: C'est notre plaisir d'annoncer notre mariage le jeudi 26 juillet à 13:00.
 hero-image: https://i.pinimg.com/originals/7c/2b/02/7c2b02b1b7a1fc4e62f13afd1329af19.jpg
 thumbnail: https://i.pinimg.com/564x/7c/2b/02/7c2b02b1b7a1fc4e62f13afd1329af19.jpg
+co-author: Coralie Lemasson
+co-author-url: "https://www.facebook.com/coralie.lemasson.7"
+co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_1468177840_280.jpg"
 image-by:
 lang: fr
 categories: blogue
