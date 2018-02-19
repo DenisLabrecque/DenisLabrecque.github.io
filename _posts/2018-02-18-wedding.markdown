@@ -1,0 +1,65 @@
+---
+permalink: /wedding
+ref: denisetcoraliemariage
+layout: post
+title: Wedding Announcement
+subtitle: Denis and Coralie
+headline: It is our pleasure to announce our wedding on Thursday, July 26 2018, at 1:00 p.m.
+hero-image: https://i.pinimg.com/originals/e5/9f/d8/e59fd824d7884bec7d6895909c3261f8.jpg
+thumbnail-image: https://i.pinimg.com/564x/e5/9f/d8/e59fd824d7884bec7d6895909c3261f8.jpg
+co-author: Coralie Lemasson
+co-author-url: "https://www.facebook.com/coralie.lemasson.7"
+co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_1468177840_280.jpg"
+image-by:
+lang: en
+categories: blog
+tags: announcement wedding engagement Pensacola
+---
+<link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet"> 
+
+<!-- Display the countdown timer in an element -->
+<div class="date-mark"><span id="wedding-day"></span> days
+  <span id="wedding-hour"></span> hours
+  <span id="wedding-minute"></span>:<span id="wedding-second"></span>
+</div>
+
+<script>
+// Set the date we're counting down to
+var countDownDate = new Date("Jul 26, 2018 13:00:00").getTime();
+
+// Update the count down every 1 second
+var x = setInterval(function() {
+
+  // Get todays date and time
+  var now = new Date().getTime();
+
+  // Find the distance between now an the count down date
+  var distance = countDownDate - now;
+
+  // Time calculations for days, hours, minutes and seconds
+  var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  // Display the result
+  document.getElementById("wedding-day").innerHTML = days;
+  document.getElementById("wedding-hour").innerHTML = hours;
+  document.getElementById("wedding-minute").innerHTML = minutes;
+  document.getElementById("wedding-second").innerHTML = seconds;
+
+  // If the count down is finished, write some text 
+  if (distance < 0) {
+    clearInterval(x);
+    document.getElementById("wedding-day").innerHTML = "0";
+    document.getElementById("wedding-hour").innerHTML = "00";
+    document.getElementById("wedding-minute").innerHTML = "00";
+    document.getElementById("wedding-second").innerHTML = "00";
+  }
+}, 1000);
+</script>
+
+
+
+Denis and Coralie invite family and friends to their wedding, on Thursday, July 26th at 1:00 p.m. The ceremony will take place in the Labrecque family home at 140 Chemin des Patriotes, St-Denis-surRichelieu. Refreshments will be available aft er the celebration. It would be our pleasure to have you at our wedding.
+
