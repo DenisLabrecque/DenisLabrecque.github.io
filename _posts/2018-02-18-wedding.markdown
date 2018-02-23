@@ -13,7 +13,7 @@ co-author-photo: "https://s-media-cache-ak0.pinimg.com/avatars/sundarabheriya_14
 image-by:
 lang: en
 categories: blog
-tags: announcement wedding engagement Pensacola
+tags: announcement wedding engagement Pensacola events
 ---
 <link href="https://fonts.googleapis.com/css?family=Lato:300" rel="stylesheet"> 
 
