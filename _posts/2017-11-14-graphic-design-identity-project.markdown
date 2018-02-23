@@ -14,4 +14,3 @@ medium: print
 surface: paper
 ---
 {% include artwork-metadata.html %}
-{% include image-gallery.html %}
