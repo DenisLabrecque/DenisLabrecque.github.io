@@ -1,7 +1,7 @@
 ---
 display: nodisplay
 layout: artwork
-title: Identité de Mathes Electric
+title: Image de marque de Mathes Electric
 subtitle: Logo, en-tête, carte d’affaires, et envelope
 headline: Fait à Pensacola Christian College pour Graphic Design I
 hero-image: https://i.pinimg.com/originals/36/8f/b1/368fb1bb59e94a9135bba3037ddddb46.png
