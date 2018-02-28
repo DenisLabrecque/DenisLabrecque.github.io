@@ -1,7 +1,7 @@
 ---
 layout: artwork
 title: Manicouagan 5
-subtitle: Illustration vectorisée d'emplacement
+subtitle: Illustration d'emplacement vectorisée
 headline: Fait à Pensacola Christian College pour Graphic Design I
 hero-image: https://i.pinimg.com/originals/bb/12/ba/bb12ba24ec8188e3a0eecbb558b08be4.png
 thumbnail: https://i.pinimg.com/564x/bb/12/ba/bb12ba24ec8188e3a0eecbb558b08be4.jpg
@@ -17,4 +17,4 @@ height: 17 pouces
 ---
 {% include artwork-metadata.html %}
 
-Ce projet devait publiciser un endroit et être fait entièrement de vecteurs bâtis dans Illustrator.
+Ce projet devait promouvoir un endroit et être fait entièrement de vecteurs conçus avec Illustrator.
