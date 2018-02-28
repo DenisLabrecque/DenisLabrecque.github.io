@@ -8,7 +8,7 @@ thumbnail: https://i.pinimg.com/564x/22/b3/d6/22b3d6b0247a24bebc5d180bc4784706.j
 categories: art
 lang: fr
 ref: fullthrottleairplane
-tags: détailArt DigitalGraphics
+tags: détailArt DigitalGraphics avionDeChasse
 medium: impression
 surface: digital
 width: 8.5 pouces
