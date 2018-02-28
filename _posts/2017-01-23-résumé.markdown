@@ -7,31 +7,38 @@ image-by: Denis Labrecque
 headline: Je suis présentement étudiant universitaire avec une double spécialisation en systèmes informatiques et en design graphique.
 permalink: /resume
 pdf-link: https://drive.google.com/open?id=0Bx_NYlmd2EuoTm9SejliRjk3N00
-pdf-link-text: Voir ou imprimer mon résumé
+pdf-link-description: Format standard
 ref: curvitae
 lang: fr
 lastmod: 2016-11-03
 lastmod: 2017-01-23
 lastmod: 2017-01-27
+lastmod: 2018-02-28
 tags: cv curriculumVitae aPropos Denis Labrecque travail expérience résumé biographie université étudiant systèmesInformatiques designGraphique
 ---
 <div class="resume-wrapper">
+  
+<h4><table><tr><td>Études universitaires</td><td>2015&ndash;2020 (en cours)</td></tr></table></h4>
+<h5 class="workplace">Pensacola Christian College, Floride</h5>
+<h6>Baccalauréat en science des systèmes informatiques</h6>
+<h6>Baccalauréat en design graphique</h6>
+<p class="note"><strong>Programmation mobile</strong><br />Dévéloppement pour Android en Java et en C#, programmation d’une application multi-plateforme, étude de faisabilité d’une application pour le marché immobilier; travail seul et en équipe selon le standard modèle-vue-contrôlleur.
+  <p class="note"><strong>Programmation .NET</strong> Création d’applications de plateforme Windows universelle en C# avec .NET.</p>
+  <p class="note"><strong>Programmation et conception orientée objet</strong><br />Examin et compréhension des principes de la programmation orientée objet en C++ lorsque évalué selon des critères sévères et la capacité de suivre un format rigide.</p>
+<p class="note"><strong>Programmation en infographie</strong><br />Création de jeux vidéo utilisant Unity, et examin de sujets tels que les sprites 2D, la modélisation 3D, l’animation, les nuanceurs de pixels, et QBasic.</p>
+<p class="note"><strong>Design graphique I & II</strong><br />Exercice de la résolution de problèmes visuels en créant des logos, l’identité visuelle d’une compagnie, des illustrations vectorisées, des brochures, et un emballage de nourriture, ainsi qu’en accomplissant des travaux réguliers.</p>
+<p class="note"><strong>Principes de la peinture</strong>Compréhension et exécution de la peinture réaliste en aquarelle et en acrylique.</p>
+<p class="note"><strong>Principes du dessin</strong><br />Utilisation du crayon comme médium pour apprendre le modelé visuel, l’ombrage, et la proportion. Attention extrème aux valeurs et à l’espace négatif.</p>
+<p>Ces deux baccalauréats sont en cours d’étude à Pensacola Christian College, Floride. Dans ma concentration, j’ai suivi des cours en programmation, en logiciel de production graphique, en dessin et en peinture. L’étude dans un lieu aux règles sévères m’a permis de m’adapter à la vie sur le campus, de suivre un horaire régulier, et de garder un performance régulière. Je suis présentement en seconde année d’étude, chaque semestre ayant été complétée avec mention du doyen.</p>
+
+<h4><table><tr><td>Préparateur de commandes</td><td>2016, 2017 (travail d’été)</td></tr></table></h4>
+<h5 class="workplace">Colabor, Boucherville</h5>
+<p>Remplissage des commandes des clients en utilisant le système de cueillette vocale Vocollect et de transpalettes électriques. Jamais manqué au travail, et invité à revenir ainsi que recommandé par le superviseur pour travail dur et discipliné. Vitesse moyenne de cueillette excédée.</p>
+<p>Ce travail m’a permis de prendre l’initiative en travaillant seul, m’a habitué au quart de nuit, et m’a demandé d’être responsable de ma production. J’y suis toujours arrivé à l’heure, et y ai travaillé des heures supplémentaires quand nécessaire. Je me suis bien intégré avec l’équipe, et mes patrons se sont montrés entièrement satisfaits du travail que j’avais fait pour eux.</p>
+  
   <h4>Études secondaires</h4>
   <h5 class="workplace">A Beka Academy</h5>
   <p>Ces études générales en Anglais, en mathématiques, et en humanités m’ont préparé pour les études universitaires en me donnant une bonne maîtrise des sujets de base avec une compréhension globale des sciences et du monde.</p>
-
-<h4><table><tr><td>Études universitaires</td><td>2015&ndash;2020 (en cours)</td></tr></table></h4>
-<h5 class="workplace">Pensacola Christian College, Floride</h5>
-<ul>
-<li>{% include cite.html title="Baccalauréat en science des systèmes informatiques" description="“In PCC’s computer information systems major, students prepare for a variety of industry positions by learning to plan, program, and manage computer information systems, networks, databases, and websites. Students receive hands-on experience in a broad range of technologies and programming languages, gaining the logical thinking and disciplined documentation necessary to work with computer information systems.
-Because the emphasis is on programming, students learn computer languages such as Java, COBOL, HTML, JavaScript, and SQL, with optional electives providing experience in PHP and other languages. Students also receive database, networking, and computer hardware experience. In the capstone course, Systems Design, students collaborate to develop a small business computer application from the initial design stage to final implementation.”" href="http://www.pcci.edu/academics/divisions/professionalstudies/business/ComputerInformationSystems.aspx" date="22 janvier 2017" %}</li>
-<li>{% include cite.html title="Baccalauréat en design graphique" description="“Commercial advertising/graphic design firms, businesses, and Christian ministries need creative and efficient designers who can produce clear, visual communication using advanced technology. With abundant hands-on instruction, students begin by developing fundamental drawing and design skills using traditional media, while also learning essential computer application skills using Apple iMac computers and Adobe® Creative Cloud software. Advanced training in creative problem solving, as well as two semesters each of web design and multimedia production, helps fully prepare students to design practical, useful solutions to common graphic problems.
-The program includes internships in the field and courses to develop digital portfolios and self-promotional materials for potential employers. With the senior portfolio exhibit, students complete the program and showcase their best work.”" href="http://www.pcci.edu/academics/divisions/visualandperformingarts/visualarts/GraphicDesign.aspx" date="22 janvier 2017" %}</li>
-</ul>
-<p>Ces deux baccalauréats sont en cours d’étude à Pensacola Christian College, Floride. Dans ma concentration, j’ai suivi des cours en programmation, en logiciel de production graphique, en dessin et en peinture. L’étude dans un lieu aux règles sévères m’a permis de m’adapter à la vie sur le campus, de suivre un horaire régulier, et de garder un performance régulière. Je suis présentement en seconde année d’étude, chaque semestre ayant été complétée avec mention du doyen.</p>
-<h4><table><tr><td>Préparateur de commandes</td><td>2016 (travail d’été)</td></tr></table></h4>
-<h5 class="workplace">Colabor, Boucherville</h5>
-<p>Ce travail m’a permis de prendre l’initiative en travaillant seul, m’a habitué au quart de nuit, et m’a demandé d’être responsable de ma production. J’y suis toujours arrivé à l’heure, et y ai travaillé des heures supplémentaires quand nécessaire. Je me suis bien intégré avec l’équipe, et mes patrons se sont montrés entièrement satisfaits du travail que j’avais fait pour eux.</p>
 
 <h4>Autres expériences</h4>
 <p>J’ai participé à des travaux de rénovation pour des amis, faisant des remplacements de toiture, des finitions de mur, et des poses de plancher.</p>
@@ -46,3 +53,14 @@ The program includes internships in the field and courses to develop digital por
 <li><strong>Inquisitif,</strong> j’aime lire, écouter, poser des questions, et entendre les deux côtés d’un débat.</li>
 </ul>
 </div>
+
+
+
+<!--
+<ul>
+<li>{% include cite.html title="Baccalauréat en science des systèmes informatiques" description="“In PCC’s computer information systems major, students prepare for a variety of industry positions by learning to plan, program, and manage computer information systems, networks, databases, and websites. Students receive hands-on experience in a broad range of technologies and programming languages, gaining the logical thinking and disciplined documentation necessary to work with computer information systems.
+Because the emphasis is on programming, students learn computer languages such as Java, COBOL, HTML, JavaScript, and SQL, with optional electives providing experience in PHP and other languages. Students also receive database, networking, and computer hardware experience. In the capstone course, Systems Design, students collaborate to develop a small business computer application from the initial design stage to final implementation.”" href="http://www.pcci.edu/academics/divisions/professionalstudies/business/ComputerInformationSystems.aspx" date="22 janvier 2017" %}</li>
+<li>{% include cite.html title="Baccalauréat en design graphique" description="“Commercial advertising/graphic design firms, businesses, and Christian ministries need creative and efficient designers who can produce clear, visual communication using advanced technology. With abundant hands-on instruction, students begin by developing fundamental drawing and design skills using traditional media, while also learning essential computer application skills using Apple iMac computers and Adobe® Creative Cloud software. Advanced training in creative problem solving, as well as two semesters each of web design and multimedia production, helps fully prepare students to design practical, useful solutions to common graphic problems.
+The program includes internships in the field and courses to develop digital portfolios and self-promotional materials for potential employers. With the senior portfolio exhibit, students complete the program and showcase their best work.”" href="http://www.pcci.edu/academics/divisions/visualandperformingarts/visualarts/GraphicDesign.aspx" date="22 janvier 2017" %}</li>
+</ul>
+-->
