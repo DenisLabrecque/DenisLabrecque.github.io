@@ -22,7 +22,7 @@ tags: art
       <h3>Fondements du design II</h3>
       {% include image-gallery-by-tag.html tag="DesignFundamentalsII" %}
       
-      <h3>Graphiques digitaux</h3>
+      <h3>Graphisme digital</h3>
       {% include image-gallery-by-tag.html tag="DigitalGraphics" %}
       
       <h3>Principes du dessin</h3>
