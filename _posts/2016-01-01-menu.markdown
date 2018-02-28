@@ -1,0 +1,18 @@
+---
+layout: artwork
+title: Menu
+subtitle: Brochure-type restaurant menu
+headline: Made at Pensacola Christian College for Digital Graphics
+hero-image: https://i.pinimg.com/originals/e2/c8/ca/e2c8ca7eb0fb8e2663acda907d40d1e5.png
+thumbnail: https://i.pinimg.com/564x/e2/c8/ca/e2c8ca7eb0fb8e2663acda907d40d1e5.jpg
+categories: art
+lang: en
+ref: restomenu
+tags: artDetail DigitalGraphics
+medium: print
+surface: digital
+width: 8.5 inches
+height: 11 inches
+---
+{% include artwork-metadata.html %}
+{% include image-superwide.html image-url='https://i.pinimg.com/originals/08/00/97/080097ad6daa47a5678b5a9c5d03e010.png' image-description='Menu flipside' %}
