@@ -8,7 +8,7 @@ image-by: Par Denis Labrecque sous <a href='https://creativecommons.org/licenses
 
 ref: chateaulabrecqueblenderrender
 categories: artwork
-tags: portfolio château 3d Blender CG graphiques modélisation nuit
+tags: portfolio château 3d Blender CG graphiques modélisation nuit personalProject
 lang: fr
 ---
 {% include image.html image-url='https://s-media-cache-ak0.pinimg.com/originals/69/0a/87/690a87078eee6f4e4c29921c60b67152.jpg' image-description='Croquis crayon du château' %}
