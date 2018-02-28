@@ -52,7 +52,6 @@ tags: cv curriculumVitae aPropos Denis Labrecque travail expérience résumé bi
 <li><strong>Créatif,</strong> je joue le piano et le violon, participe à des compétitions de composition littéraire et musicale, dessine, maintiens mon propre jardin fleuri, code entre amis, et commence (trop!) souvent de nouveaux projets.</li>
 <li><strong>Inquisitif,</strong> j’aime lire, écouter, poser des questions, et entendre les deux côtés d’un débat.</li>
 </ul>
-</div>
 
 
 
