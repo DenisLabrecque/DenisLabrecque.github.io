@@ -1,13 +1,13 @@
 ---
 display: nodisplay
 layout: art
-title: Swiss Fighterpower
+title: Avions de combat Suisses
 subtitle: Peinture à l’acrylique
-headline: Fait à Pensacola Christian College pour Principles of Painting.
+headline: Fait à Pensacola Christian College pour Principles of Painting
 hero-image: http://denislabrecque.ca/images/Swiss-fighterpower-acrylic.jpg
 categories: art
 lang: fr
-tags: détailArt PrinciplesofPainting
+tags: détailArt PrinciplesofPainting avionsDeChasse
 medium: acrylique
 surface: carton pressé à froid
 width: 18 pouces
