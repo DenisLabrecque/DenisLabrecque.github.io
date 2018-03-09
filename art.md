@@ -13,6 +13,9 @@ tags: art
 ---
 <div class="page-feed">
 <h1>Art</h1>
+      <h3>Design graphique II</h3>
+      {% include image-gallery-by-tag.html tag="GraphicDesignII" %}
+      
       <h3>Design graphique I</h3>
       {% include image-gallery-by-tag.html tag="GraphicDesignI" %}
       
