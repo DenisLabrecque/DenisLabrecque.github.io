@@ -7,7 +7,7 @@ hero-image: https://i.pinimg.com/originals/8e/34/83/8e3483225d6979e34ca63c8d535a
 categories: artwork
 ref: traveltea
 lang: en
-tags: artworkDetail GraphicDesignI packaging
+tags: artworkDetail GraphicDesignI packaging graphicDesign portfolio
 medium: print
 surface: plastified cardboard
 gallery:
