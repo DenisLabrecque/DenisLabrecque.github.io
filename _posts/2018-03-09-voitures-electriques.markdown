@@ -8,7 +8,7 @@ thumbnail-image: https://i.pinimg.com/564x/44/e8/97/44e897415f678d1b6545d1e4424a
 categories: artwork
 ref: fuelversuselectricinfographic
 lang: fr
-tags: artworkDetail GraphicDesignII infographique infographie changementClimatique pollution électrique électricité débât
+tags: artworkDetail GraphicDesignII infographique infographie changementClimatique pollution électrique électricité débât designGraphique
 medium: imprimé
 surface: papier
 height: 17.5 pouces
