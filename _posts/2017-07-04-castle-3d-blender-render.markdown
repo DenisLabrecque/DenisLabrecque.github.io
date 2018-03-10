@@ -8,7 +8,7 @@ image-by: By Denis Labrecque under <a href='https://creativecommons.org/licenses
 
 ref: chateaulabrecqueblenderrender
 categories: artwork
-tags: portfolio castle 3d Blender CG computerGraphics model night
+tags: portfolio castle 3d Blender CG computerGraphics model night personalProject
 lang: en
 ---
 {% include image.html image-url='https://s-media-cache-ak0.pinimg.com/originals/69/0a/87/690a87078eee6f4e4c29921c60b67152.jpg' image-description='Pencil sketch of the castle' %}
