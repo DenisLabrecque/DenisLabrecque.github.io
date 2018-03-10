@@ -8,7 +8,7 @@ thumbnail-image: https://i.pinimg.com/564x/44/e8/97/44e897415f678d1b6545d1e4424a
 categories: artwork
 ref: fuelversuselectricinfographic
 lang: en
-tags: artworkDetail GraphicDesignII infographic climateChange pollution electric electricity debate carbonDioxide Green debunk graphicDesign
+tags: artworkDetail GraphicDesignII infographic climateChange pollution electric electricity debate carbonDioxide Green debunk graphicDesign portfolio
 medium: print
 surface: paper
 height: 17.5 in.
