@@ -62,3 +62,5 @@ var x = setInterval(function() {
 
 
 Denis and Coralie invite family and friends to their wedding, on Thursday, July 26th at 1:00 p.m. The ceremony will take place in the Labrecque family home at 140 Chemin des Patriotes, St-Denis-sur-Richelieu. Refreshments will be available after the celebration.
+
+**Invited guests will receive invitations by mail.**
