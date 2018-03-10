@@ -62,3 +62,5 @@ var x = setInterval(function() {
 
 
 Denis et Coralie invitent la famille proche à leur mariage, qui aura lieu le jeudi 26 juillet 2018 à 13:00. La cérémonie se déroulera à la maison de  la famille Labrecque au  140 Chemin des Patriotes, à St-Denis-sur-Richelieu. Des rafraîchissements seront disponibles après la célébration.
+
+**Les invités reçevront une invitation par la poste.**
