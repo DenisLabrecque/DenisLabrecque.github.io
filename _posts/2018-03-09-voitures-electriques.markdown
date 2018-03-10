@@ -5,7 +5,7 @@ subtitle: Infographie
 headline: Fait à Pensacola Christian College pour Graphic Design II
 hero-image: https://i.pinimg.com/originals/44/e8/97/44e897415f678d1b6545d1e4424a035f.png
 thumbnail-image: https://i.pinimg.com/564x/44/e8/97/44e897415f678d1b6545d1e4424a035f.jpg
-categories: artwork
+categories: art
 ref: fuelversuselectricinfographic
 lang: fr
 tags: artworkDetail GraphicDesignII infographique infographie changementClimatique pollution électrique électricité débât designGraphique
