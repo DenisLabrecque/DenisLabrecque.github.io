@@ -14,5 +14,6 @@ surface: digital
 width: 11 inches
 height: 8.5 inches
 ---
+This brochure was made in InDesign, with photos illustrated in Photoshop and graphics made in Illustrator. It explains the wildlife, outdoor activities, landmarks, history, shipwrecks, and planning of a visit at Isle Royale national park.
 {% include artwork-metadata.html %}
 {% include image-superwide.html image-url='https://i.pinimg.com/originals/79/89/ca/7989ca7c24375682db3a7bdc2b57d5ca.png' image-description='Brochure inside' %}
