@@ -4,7 +4,7 @@ title: Isle Royale
 subtitle: Brochure du park national de l'Isle Royale
 headline: Fait à Pensacola Christian College pour Graphic Design II
 hero-image: https://i.pinimg.com/originals/b7/dc/91/b7dc91cc01681401c904b86a46ded375.png
-image-thumbnail: https://i.pinimg.com/564x/b7/dc/91/b7dc91cc01681401c904b86a46ded375.jpg
+thumbnail-image: https://i.pinimg.com/564x/b7/dc/91/b7dc91cc01681401c904b86a46ded375.jpg
 categories: art
 lang: fr
 ref: isleroyalebrochure
