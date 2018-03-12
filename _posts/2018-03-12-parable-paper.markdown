@@ -3,7 +3,9 @@ layout: post
 title: Explanation of the Parable of the Pounds
 subtitle: A parable paper for <i>Teachings of Jesus</i> at Pensacola Christian College
 headline: In the parable of the Pounds, Jesus taught that Christians should work while awaiting His kingdom, according to the talents and resources God grants them.
-hero-image: https://s-media-cache-ak0.pinimg.com/originals/47/49/85/474985670502b9b605b6977e6e6a26b6.jpg
+hero-image: https://i.pinimg.com/originals/fc/f0/cf/fcf0cfc7519097551b0a809139766d07.jpg
+thumbnail: https://i.pinimg.com/564x/fc/f0/cf/fcf0cfc7519097551b0a809139766d07.jpg
+image-by: <a href='https://www.flickr.com/photos/86530412@N02/8264921767/in/photolist-dAkTia-5rPWSj-eqD99h-kkZB6B-ndhtMM-iWA9zT-cprQ8m-23QqUk9-e5G9Vo-dVeLZx-dzXGsu-cEjCh5-VrkmSo-oGGWwn-bM9EKB-7gXVsG-f3neJv-7v967-dk3PcT-acYpNQ-38uU9o-acVukB-r9gARy-k3pC62-acYq9N-2Bnuzy-V8r3rc-oHRSnH-mWSSFj-eGJv5i-Jikm5n-hczdSr-9sbmti-XfUNKB-7RtsAV-6Ntc4Y-dAkVCT-cn7rAo-pmGn7r-mWNbwE-hQ6SLs-e5G9Xd-jY5ysa-8vr2jJ-4LLTh1-HznHm3-q9xzJv-4qeSan-owveem-8MpwbA'>Vintage Dollar Coins</a> by Chris Potter, attributed to <a href='http://www.ccpixs.com/'>ccPics.com</a>
 image-by:
 ref: poundsparablepaper
 categories: bibletalk
