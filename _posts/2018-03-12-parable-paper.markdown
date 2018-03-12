@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Explanation of the Parable of the Pounds
-subtitle: Luke 5
+subtitle: A parable paper for <i>Teachings of Jesus</i> at Pensacola Christian College
 headline: In the parable of the Pounds, Jesus taught that Christians should work while awaiting His kingdom, according to the talents and resources God grants them.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/47/49/85/474985670502b9b605b6977e6e6a26b6.jpg
 image-by:
@@ -35,8 +35,8 @@ This parable is for me a challenge against laziness in being a Christian. To bec
 ## Bibliography
 
 
-Bruce, Alexander B. The Training of the Twelve. Grand Rapids, MI: Kregel Publications, 1971.
+Bruce, Alexander B. *The Training of the Twelve.* Grand Rapids, MI: Kregel Publications, 1971.
 
-Edersheim, Alfred. The Life and Times of Jesus the Messiah: New Updated Edition. USA: Hendrickson Publishers, Inc., 2004.
+Edersheim, Alfred. *The Life and Times of Jesus the Messiah: New Updated Edition.* USA: Hendrickson Publishers, Inc., 2004.
 
-Lockyer, Herbert. All the Parables of the Bible. Grand Rapids, MI: Zondervan, 1963.
+Lockyer, Herbert. *All the Parables of the Bible.* Grand Rapids, MI: Zondervan, 1963.
