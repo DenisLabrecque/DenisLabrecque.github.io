@@ -4,6 +4,7 @@ title: Questions about Pensacola Christian College
 subtitle: FAQ
 headline: People have many questions about PCC that are either rumors or are easy to clarify. Many have to do about that rules, which have changed with time.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/8c/b5/dd/8cb5dd0c6c3ae43673ad93a39d735ab8.jpg
+thumbnail: https://i.pinimg.com/564x/8c/b5/dd/8cb5dd0c6c3ae43673ad93a39d735ab8.jpg
 ref: pccquestionsFAQ
 categories: blog
 tags: Pensacola Christian College rules
