@@ -91,6 +91,7 @@ Chapel services are held every weekday morning from 10:05 to 10:45. Every studen
 In each residence hall, three or four rooms are assigned a prayer leader (PL) and assistant prayer leader (APL). Every Monday, Tuesday, and Thursday, those rooms gather for prayer group from 10:30 to 10:45.
 <h4>Electronics and Media</h4>
 Although cell phones with data are allowed, hotspots are not. Because world music is not allowed, earbuds are not either. RA's must therefore seize hundreds of earbuds each semester, to be returned by the semester's end, resulting in 10 demerits. Movies are not allowed either, although watching clips on YouTube or sporting events is acceptable.
+**Update:** headphones are now allowed in the dorm, library, Sports Center, while exercising, and off campus.
 <h3>Dating</h3>
 Contrary to popular conception off campus, dating between students is strongly encouraged. However, because mixed groups are limited to on-campus activities, unless chaperoned, that may happen in college-sanctioned activities only. One favourite example is Fine Arts, which happens four times per year. Such productions are formal musical and theatrical events in which it is traditional (not required) to invite a date and give small gifts and flowers. Attendance is mandatory, with formal dress required.
 <h3>Walking about Campus</h3>
