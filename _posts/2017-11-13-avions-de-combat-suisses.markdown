@@ -1,5 +1,5 @@
 ---
-layout: art
+layout: artwork
 title: Avions de combat Suisses
 subtitle: Peinture à l’acrylique
 headline: Fait à Pensacola Christian College pour Principles of Painting
