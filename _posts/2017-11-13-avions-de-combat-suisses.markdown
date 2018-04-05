@@ -1,5 +1,4 @@
 ---
-display: nodisplay
 layout: art
 title: Avions de combat Suisses
 subtitle: Peinture à l’acrylique
