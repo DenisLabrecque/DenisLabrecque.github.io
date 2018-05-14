@@ -12,7 +12,7 @@ lang: en
 categories: blog
 tags: announcement programming C# Windows Store app application game program minesweeper project UWP Windows10
 ---
-I am excited to announce my development of a new application for the Windows Store!
+I am excited to announce my development of a <a href="https://www.microsoft.com/en-us/store/p/minesweeper-basic/9plmlc1pkc6g">new minesweeper application for the Windows Store!</a>
 
 This program is a fruit of my labour in computer information systems at Pensacola Christian College. One .NET programming course final project was to create a game such as connect four, tic-tac-toe 3D, an adventure game, or minesweeper. Therefore, this program was made in C#, and was principally programmed by me, plus a teammate (wishes to remain anonymous) who helped with some of the statistics. Now updated with objective badges, this app is my first on the Windows Store!
 
@@ -20,3 +20,4 @@ Making a functional draft of the game took me a day. However, getting the win si
 
 Another challenge was updating the list of objectives after each game. The list of objectives would grow stale, and would not update according to those badges which were earned in an app session; this required the user to restart the app before seeing his badges marked as accomplished. Thanks to <a href="https://stackoverflow.com/users/600698/simon">Simon</a> for his wonderful "TrulyObservableCollection" type, which allowed me to solve this problem after about eight hours of failed solutions.
 
+<a href="ms-windows-store://pdp/?productid=9PLMLC1PKC6G&referrer=unistoreweb&scenario=click&webig=8a4ea2d0-cc9c-4433-97cd-319769278f2f&muid=0831DF6573A66FF31949D4F772046E31&websession=03e5c35fbadd4b599630212d88ced6fc">Get my app now!</a> It's free!
