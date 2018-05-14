@@ -18,6 +18,7 @@ Je suis excité d'annoncer le dévéloppement d'une <a href="https://www.microso
 
 Ce programme est le fruit de mes labeurs en programmation à Pensacola Christian College. Notre projet final .NET était de récréer un jeu classique. Ce programme a ainsi été fait en C# par moi plus une collègue (désirant rester anonyme) qui m'a aidée avec les statistiques. Incluant maintenant des objectifs, cette application est ma première sur le Windows Store!
 
+Bâtir un projet fonctionnel du jeu m’a pris seulement un jour. Cependant, faire fonctionner la situation gagnante a pris un peu plus de travail. La partie la plus difficile de la programmation de ce jeu a été de créér la méthode qui révèle les carreaux vides aux côtés adjacents. J’ai du la réécrire avec un esprit reposé, et cela m’a pris trois heures et demi de travail, même avec mon expérience précédente.
 
 Une autre difficulté a été de faire fonctionner la liste des objectifs en temps réel. La liste devenait dépassée, et ne se renouvelait pas selon les objectifs réussis en une session; cela obligeait alors l'utilisateur à redémarrer l'application pour voir ses objectifs comme étant accomplis. Un grand merci à <a href="https://stackoverflow.com/users/600698/simon">Simon</a> pour son type merveilleur "TrulyObservableCollection," qui m'a permis de résoudre ce problème après huit heures de solutions non-fonctionelles.
 
