@@ -10,7 +10,7 @@ thumbnail-image: https://i.pinimg.com/564x/4d/a6/e9/4da6e95c1e9df7a32c30be1072e6
 image-by:
 lang: en
 categories: blog
-tags: announcement programming C# Windows Store app application game program minesweeper project UWP Windows10
+tags: announcement programming C# Windows Store app application game program minesweeper project UWP Windows10 events
 ---
 I am excited to announce my development of a <a href="https://www.microsoft.com/en-us/store/p/minesweeper-basic/9plmlc1pkc6g">new minesweeper application for the Windows Store!</a>
 
