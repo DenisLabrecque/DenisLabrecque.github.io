@@ -18,6 +18,8 @@ This program is a fruit of my labour in computer information systems at Pensacol
 
 Making a functional draft of the game took me a day. However, getting the win situation to register correctly took further work. The most difficult part of programming this game was creating the method to reveal connected blank tiles. I had to rewrite it on a fresh mind, and this took three and a half hours while working based on previous knowledge.
 
+{% include image.html image-url='https://i.pinimg.com/originals/d3/5f/a6/d35fa6d39bdcb5b99c99a7e1a71c494b.png' image-description='The objective badges and statistics app section in all its glory' %}
+
 Another challenge was updating the list of objectives after each game. The list of objectives would grow stale, and would not update according to those badges which were earned in an app session; this required the user to restart the app before seeing his badges marked as accomplished. Thanks to <a href="https://stackoverflow.com/users/600698/simon">Simon</a> for his wonderful "TrulyObservableCollection" type, which allowed me to solve this problem after about eight hours of failed solutions.
 
-<a href="ms-windows-store://pdp/?productid=9PLMLC1PKC6G&referrer=unistoreweb&scenario=click&webig=8a4ea2d0-cc9c-4433-97cd-319769278f2f&muid=0831DF6573A66FF31949D4F772046E31&websession=03e5c35fbadd4b599630212d88ced6fc">Get my app now!</a> It's free!
+<a href="https://www.microsoft.com/en-us/store/p/minesweeper-basic/9plmlc1pkc6g">Get my app now!</a> It's free!
