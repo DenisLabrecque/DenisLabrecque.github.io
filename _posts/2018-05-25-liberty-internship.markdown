@@ -9,3 +9,6 @@ ref: libertybaptistinternship
 lang: en
 tags: graphicDesign internship university studies
 ---
+{% include image.html image-url='https://i.pinimg.com/originals/8a/ab/91/8aab91176105f705c99f5d7cc6c9942d.jpg' image-description='Super Freezed youth activity flier' %}
+
+{% include image.html image-url='https://i.pinimg.com/originals/8a/ab/91/8aab91176105f705c99f5d7cc6c9942d.jpg' image-description='Super Freezed youth activity flier' %}
