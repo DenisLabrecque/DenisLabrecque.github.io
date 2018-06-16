@@ -1,53 +1,44 @@
 ---
-layout: default
+layout: post
 date: 2016-06-25
 lastmod: 2016-06-25
 lastmod: 2018-02-28
+lastmod: 2018-06-16
 ref: index
 lang: fr
 
-hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c02917f3ce4b558113853ed9.jpg
+title: Denis Labrecque
+subtitle: Étudiant universitaire en programmation et en design graphique
+
+hero-image: https://i.pinimg.com/originals/a9/76/10/a976103a6a740de200cefafad5f9be43.jpg
+hero-image-thumbnail: https://i.pinimg.com/564x/a9/76/10/a976103a6a740de200cefafad5f9be43.jpg
 permalink: /accueil
+main-page: true
+pdf-link: http://denislabrecque.ca/Denis-Labrecque-en.pdf
+pdf-link-description: Résumé et Portfolio
 ---
 
-<div class="home">
-  <figure class="hero-image"  style="background-image: url( {{ page.hero-image }} );" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
-    <meta itemprop="url" content="{{ page.hero-image }}" />
-    <meta itemprop="width" content="1600">
-    <meta itemprop="height" content="900">
-    <div class="hero-image">
-      <h1 class="title"><span>Allô!</span></h1>
-      <div>
-        <h1 class="subtitle"><span>Je suis Denis Labrecque</span></h1>
-      </div>
-      <p class="image-headline">{{ post.image-by }}</p>
-      {% include popdown.html id="call-to-action" title="Qui suis-je?" contents="<iframe src='http://denislabrecque.ca/Denis-Labrecque.pdf' style='width: 100%; height: 100%;'></iframe>" %}
-    </div>
-  </figure>
-  
-  <div class="page-feed" markdown="1">
-    
-    <p class="headline">Mes études en design graphique et des projets personnels me poussent à créer de l'<strong><a href="/art">art</a>.</strong></p>
-    
-    {% include stream-artwork.html stream-limit="6" more="more" %}
+<p class="headline">Mes études en design graphique et des projets personnels me poussent à créer de l'<strong><a href="/art">art</a>.</strong></p>
 
-    
-    <p class="headline">J'ai des cheveux cool, mais je fais aussi des choses cool! Une chose intéressante que je fais est de jouer et composer de la <strong><a href="/musique">musique</a></strong> au piano et au violon.</p>
-    
-    {% include stream-compositions.html stream-limit="6" more="more" %}
-    
-    
-    <p class="headline">Une autre bonne chose que je fais est de <strong><a href="/biblique">penser bibliquement</a></strong>.</p>
-    
-    {% include stream-bibletalk.html stream-limit="6" more="more" %}
-    
-    
-    <p class="headline">Et je <strong><a href="/blogue">blogue</a></strong> d'autres histoires, pensées, et activités.</p>
-    
-    {% include stream-blog.html stream-limit="6" more="more" %}
-    
-    {% include website-topics.html %}
-    
+{% include stream-artwork.html stream-limit="6" more="more" %}
+
+
+<p class="headline">J'ai des cheveux cool, mais je fais aussi des choses cool! Une chose intéressante que je fais est de jouer et composer de la <strong><a href="/musique">musique</a></strong> au piano et au violon.</p>
+
+{% include stream-compositions.html stream-limit="6" more="more" %}
+
+
+<p class="headline">Une autre bonne chose que je fais est de <strong><a href="/biblique">penser bibliquement</a></strong>.</p>
+
+{% include stream-bibletalk.html stream-limit="6" more="more" %}
+
+
+<p class="headline">Et je <strong><a href="/blogue">blogue</a></strong> d'autres histoires, pensées, et activités.</p>
+
+{% include stream-blog.html stream-limit="6" more="more" %}
+
+{% include website-topics.html %}
+
 <!--
     <h3>Que concerne ce site?</h3>
     <p><strong>Ce site web est mon portfolio virtuel.</strong> J'ai travaillé des heures innombrables à des compositions musicales, à des déssins, et à des livres courts et des articles que je désire partager avec vous.</p>
@@ -56,5 +47,4 @@ permalink: /accueil
     <p>À cause de cette connaissance, j'ai aussi un intérêt dans l'apologétique et dans la question des origines. J'ai ainsi écrit ma réflection sur la question des origines, nommée <em>Pas à pas vers la vérité</em>, dans laquelle j'expose le sentier logique pris dans la découverte de mon Seigneur.</p>
 -->
   </div><!-- page-feed -->
-
 </div>

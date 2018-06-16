@@ -46,6 +46,7 @@ layout: default
 
   <div class="page-feed">
     <p class="headline" itemprop="description">{{ page.headline }}</p>
+   {% if page.main-page != true %}
     {% if page.co-author %}
       {% if page.lang == "en" %}
           <p class="article-author">By <a href="{{ page.author-url }}" target="_new">{{ page.author }}</a> and <a href="{{ page.co-author-url }}" target="_new">{{ page.co-author }}</a></p>
@@ -55,14 +56,18 @@ layout: default
     {% else %}
            <p class="article-author">{% if page.lang == "en" %}By{% elsif page.lang == "fr" %}Par{% endif %} <a href="{{ page.author-url }}" target="_new">{{ page.author }}</a></p>
     {% endif %}
+   {% endif %}
     
     <span itemprop="articleBody">
       {{ content }}
     </span>
     
+   <!-- main pages do not have commenting and author-->
+   {% if page.main-page != true %}
     {% include social-area.html %}
     
     {% include related-articles.html %}
+   {% endif %}
     
   </div><!-- page feed -->
 

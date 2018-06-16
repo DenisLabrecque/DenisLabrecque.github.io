@@ -196,10 +196,14 @@ a:hover {
     color: rgb(19, 135, 148);
     letter-spacing: 1.2pt;
 }
+p a:hover {
+   letter-spacing: unset;
+}
 a:active {
     letter-spacing: 0pt;
 }
 
+/* Logo circles 3-4 */
 label.sandwitch-menu, a.site-home-button {
     -webkit-user-select: none;  /* Chrome all / Safari all */
     -moz-user-select: none;     /* Firefox all */
@@ -211,7 +215,6 @@ label.sandwitch-menu, a.site-home-button {
     height: 40pt;
     width: 40pt;
     transition: ease-in-out, .1s;
-    background: rgba(0,0,0,.8);
     color: white;
     line-height: 100%;
     font-size: 18pt;
@@ -221,12 +224,32 @@ label.sandwitch-menu, a.site-home-button {
     box-sizing: border-box;
     text-align: center;
 }
-a.site-home-button {
-    top: 70pt;
+
+/* Blue logo circle */
+label.sandwitch-menu {
+   height: 35pt;
+   width: 35pt;
+   padding: 4pt;
+   padding-top: 10pt;
+   font-size: 16pt;
+   right: 50px;
+   background-color: rgba(0, 176, 240, 0.8);
+}
+label.sandwitch-menu:hover {
+   background-color: rgba(0, 176, 240, 0.5);
 }
 
+/* Pale light brown logo circle */
+a.site-home-button {
+   background-color: rgba(237, 229, 203, 0.8);
+    top: 50pt;
+}
+a.site-home-button:hover {
+   background-color: rgba(237, 229, 203, 0.5);
+}
+
+
 label.sandwitch-menu:hover, a.site-home-button:hover {
-    background: rgba(0,0,0,.5);
     transform: scale(1.1);
 }
 label.sandwitch-menu:active, a.site-home-button:active {
@@ -1106,13 +1129,13 @@ div.home-banner {
     font-size: 14pt;
     line-height: 125%;
 }
-div.language-banner {
+/*div.language-banner {
     position: fixed;
     top: 23pt;
     right: 65pt;
     font-size: 14pt;
     line-height: 125%;
-}
+}*/
 div.language-choice {
     display: inline-block;
     margin-left: 5pt;
@@ -1134,6 +1157,40 @@ div.language-choice a:hover {
 div.language-choice a:active {
     transform: scale(.9);
 }
+
+
+/* language selection and menu logo */
+/* Logo circle English */
+.language-choice:nth-of-type(1) {
+   position: fixed;
+   right: 72pt;
+   top: 37pt;
+}
+.language-choice .en {
+   width: 22pt;
+   height: 22pt;
+   background-color: rgba(138, 181, 186, 0.8);
+   line-height: 120%;
+}
+.language-choice .en:hover {
+   background-color: rgba(138, 181, 186, 0.5);
+}
+
+/* French logo circle */
+.language-choice:nth-of-type(2) {
+   position: fixed;
+   right: 58pt;
+   top: 65pt;
+}
+.language-choice .fr {
+   background-color: rgba(82, 72, 45, .8);
+}
+.language-choice .fr:hover {
+   background-color: rgba(82, 72, 45, .5);
+}
+
+
+
 
 a.share-link {
     transition: ease-in-out, .1s;

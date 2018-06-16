@@ -1,0 +1,20 @@
+<!-- receives a request to display a blog article thumbnail and decides which layout to include for the thumbnail-->
+
+<!-- blog 'post' layout -->
+{% if include.type == 'post' %}
+<li title="{{ include.title }}: {{ include.subtitle }}">
+   <a href="{{ include.url }}" class="post-stream-card">
+      <div class="hero-article-thumbnail"
+           style="background-image: url( {{ include.hero-image }} )">
+         <strong class="article-title"><span>{{ include.title }}</span></strong>
+         <em class="article-subtitle"><span>{{ include.subtitle }}</span></em>
+      </div>
+      <div class="hero-article-headline">{{ include.headline }}</div>
+   </a>
+</li>
+
+<!-- art layout -->
+
+<!-- music layout -->
+
+{% endif %}

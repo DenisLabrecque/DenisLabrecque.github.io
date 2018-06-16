@@ -8,8 +8,10 @@ headline: Nouveau jeu pour le magasin Microsoft!
 hero-image: https://i.pinimg.com/originals/4d/a6/e9/4da6e95c1e9df7a32c30be1072e6d803.png
 thumbnail-image: https://i.pinimg.com/564x/4d/a6/e9/4da6e95c1e9df7a32c30be1072e6d803.jpg
 image-by:
+cta-link-title: Obtenir l'application
+cta-link: https://www.microsoft.com/en-us/store/p/minesweeper-basic/9plmlc1pkc6g
 lang: fr
-categories: blog
+categories: blogue
 tags: annonce programmation C# Windows Store application jeu programme minesweeper projet UWP Windows10 annonce
 ---
 Je suis excité d'annoncer le dévéloppement d'une <a href="https://www.microsoft.com/en-us/store/p/minesweeper-basic/9plmlc1pkc6g">nouvelle application minesweeper pour le Windows Store!</a>
