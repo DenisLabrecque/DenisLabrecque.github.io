@@ -1,63 +1,42 @@
 ---
-layout: default
+layout: post
 date: 2016-06-18
 lastmod: 2016-11-3
 lastmod: 2017-11-13
+lastmod: 2018-05-16
 ref: index
 lang: en
 
-hero-image: https://s-media-cache-ak0.pinimg.com/originals/fe/8d/c7/fe8dc7a2c02917f3ce4b558113853ed9.jpg
+title: Denis Labrecque
+subtitle: University student in computer information systems and graphic design
+
+hero-image: https://i.pinimg.com/originals/a9/76/10/a976103a6a740de200cefafad5f9be43.jpg
+thumbnail-image: https://i.pinimg.com/564x/a9/76/10/a976103a6a740de200cefafad5f9be43.jpg
+main-page: true
+pdf-link: http://denislabrecque.ca/Denis-Labrecque-en.pdf
+pdf-link-description: Resumé and Portfolio
 ---
-<div class="home">
-  <figure class="hero-image"  style="background-image: url( {{ page.hero-image }} );" itemprop="image" itemscope itemtype="http://schema.org/ImageObject">
-    <meta itemprop="url" content="{{ page.hero-image }}" />
-    <meta itemprop="width" content="1600">
-    <meta itemprop="height" content="900">
-    <div class="hero-image">
-      <h1 class="title"><span>Hi!</span></h1>
-      <div>
-        <h2 class="subtitle"><span>I'm Denis Labrecque</span></h2>
-      </div>
-      <p class="image-headline">{{ post.image-by }}</p>
-      {% include popdown.html id="call-to-action" title="Who am I?" contents="<p class='headline'>Here are a few fun facts about me:</p>
-    <p><em>If you are interested in my work history, please visit my <a href='/cv'>Curriculum Vitae</a> for more information. To know more about me, just visit <a href='/short-bio'>my author short biography</a> page.</em></p>
-    <p><strong>My quick tagline</strong> is that I enjoy apologetics, composing neoclassical music, and eating with chopsticks.</p>
-    <p><strong>Vocationally,</strong> I'm presently a student at <a href='http://www.pcci.edu/' target='_new'>Pensacola Christian College</a> with a double major in Computer Information Systems and Graphic Design. I do, of course, draw, write music, and program as well, this blog being the fruit of such exercises.</p>
-    <p><strong>Philosophically,</strong> I am a Lord-loving Christian -- by vocation a prophet of the Gospel, by understanding a Premillinnialist, by wisdom an Evangelical, and by predestination an inheritor of heaven; a Canadian, yet a son of Abraham through faith; a Conservative Unionist and anti-Socialist; a Conservative Christian and Conservative Eater and Speaker too; a computerphiliac and strong-pepper lover; a son of man and a son of God, both a sinner and made holy; a musician and composer, both pianist and violinist. <em>Compris?</em></p>
-    <p><strong>My bragging right</strong> is of having two fathers, both legitimate: an earthly father of my blood, and a heavenly Father who gave me His.</p>
-    <p><strong>My social context</strong> is Québec, Canada: I live in a village named St-Denis-sur-Richelieu, and can communicate in English and French natively.</p>" %}
-    </div>
-  </figure>
-  
-  
-  <div class="page-feed" markdown="1">
+<p class="headline">I do have cool hair, but I also I also create <strong><a href="/artwork">artwork:</a></strong> here are some of my best selections.</p>
 
-    
-    <p class="headline">I do have cool hair, but I also I also create <strong><a href="/artwork">artwork:</a></strong> here are some of my best selections.</p>
-    
-    {% include image-gallery-by-tag.html tag="portfolio" %}
+{% include image-gallery-by-tag.html tag="portfolio" %}
 
-    
-    <p class="headline">Another cool thing I do is play and compose <strong><a href="/music">music</a></strong> on the piano and violin.</p>
-    
-    {% include stream-compositions.html stream-limit="10" more="more" %}
-    
 
-    <p class="headline">Another great thing I do is <strong><a href="/bibletalk">think biblically.</a></strong></p>
-    
-    {% include stream-bibletalk.html stream-limit="6" more="more" %}
-    
-    
-    <p class="headline">I also <strong><a href="/blog">blog</a></strong> other stories, thoughts, and activities.</p>
-    
-    {% include stream-blog.html stream-limit="20" more="more" %}
-    
-    
-    {% include website-topics.html %}
+<p class="headline">Another cool thing I do is play and compose <strong><a href="/music">music</a></strong> on the piano and violin.</p>
 
-    <h3>What is this Website about?</h3>
-    <p><strong>This site is my virtual portfolio.</strong> I have worked countless hours making musical compositions, drawings, short books and articles that I wish to share with you.</p><p><strong>It is also a sounding board</strong> to the defense of the truth and the life, found in Jesus-Christ, the God of Heaven and the Saviour of our evil actions. And He is the Word, and His word is the Bible (John 1).</p><p>The news following the Bible's veracity is this — as the Christ the Messiah has said, “He that overcomes shall inherit all things; and I will be his God, and he shall be my son. But the fearful, and unbelieving, and the abominable, and murderers, and fornicators, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burns with fire and brimstone: which is the second death.” It therefore follows that “He that believes on him is not condemned: but he that believes not is condemned already, because he has not believed in the name of the only begotten Son of God.”</p><p>Because of this knowledge, I also have an interest in apologetics and in the question of origins. I have hence written out my reflection on the question of origins, named <a href='http://denislabrecque.ca/step-by-step-towards-the-truth.html'><em>Step by Step Towards the Truth</em></a>, in which I expound the logical path taken in the discovery of my Lord.</p>
-    
-  </div><!-- page-feed -->
+{% include stream-compositions.html stream-limit="10" more="more" %}
 
-</div>
+
+<p class="headline">Another great thing I do is <strong><a href="/bibletalk">think biblically.</a></strong></p>
+
+{% include stream-bibletalk.html stream-limit="6" more="more" %}
+
+
+<p class="headline">I also <strong><a href="/blog">blog</a></strong> other stories, thoughts, and activities.</p>
+
+{% include stream-blog.html stream-limit="20" more="more" %}
+
+
+{% include website-topics.html %}
+
+<h3>What is this Website about?</h3>
+<p><strong>This site is my virtual portfolio.</strong> I have worked countless hours making musical compositions, drawings, short books and articles that I wish to share with you.</p><p><strong>It is also a sounding board</strong> to the defense of the truth and the life, found in Jesus-Christ, the God of Heaven and the Saviour of our evil actions. And He is the Word, and His word is the Bible (John 1).</p><p>The news following the Bible's veracity is this — as the Christ the Messiah has said, “He that overcomes shall inherit all things; and I will be his God, and he shall be my son. But the fearful, and unbelieving, and the abominable, and murderers, and fornicators, and sorcerers, and idolaters, and all liars, shall have their part in the lake which burns with fire and brimstone: which is the second death.” It therefore follows that “He that believes on him is not condemned: but he that believes not is condemned already, because he has not believed in the name of the only begotten Son of God.”</p><p>Because of this knowledge, I also have an interest in apologetics and in the question of origins. I have hence written out my reflection on the question of origins, named <a href='http://denislabrecque.ca/step-by-step-towards-the-truth.html'><em>Step by Step Towards the Truth</em></a>, in which I expound the logical path taken in the discovery of my Lord.</p>

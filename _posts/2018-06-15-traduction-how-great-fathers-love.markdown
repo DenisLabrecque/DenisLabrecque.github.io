@@ -5,7 +5,7 @@ subtitle: Traduction française du chant « How Deep the Father’s Love for Us
 headline: J’ai traduit ce chant anglais—mon favori—pour pour le chanter à notre mariage.
 hero-image: https://i.pinimg.com/originals/4f/8b/c5/4f8bc56b44e305778b9c913e27da2b66.jpg
 thumbnail-image: https://i.pinimg.com/564x/4f/8b/c5/4f8bc56b44e305778b9c913e27da2b66.jpg
-image-by: Calvary Crosses by Waiting for the Word on Flickr
+image-by: Calvary Crosses, by Waiting for the Word on Flickr
 lang: fr
 categories: blogue
 tags: traduction chant cantique hymne Chrétien mots calvaire adoration poème
