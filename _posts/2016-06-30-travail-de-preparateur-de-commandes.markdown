@@ -1,15 +1,18 @@
 ---
 layout: post
-title: Le travail de préparateur de commandes
-subtitle: Comment ça se fait et comment ça se vit
+title: Préparateur de commandes
+subtitle: Travail d'été en 2015 et 2016
 headline: Comme mon premier travail, j'ai été engagé comme préparateur de commandes à Colabor, Boucherville. Colabor est un entrepôt alimentaire qui distribue des caisses d'aliments en gros pour des clients comme les dépanneurs et les petits marchands. Mon travail s'agit d'un travail de nuit à temps plein durant l'été pour remplir des palettes de produits alimentaires.
 hero-image: https://s-media-cache-ak0.pinimg.com/originals/65/a3/bd/65a3bd79e522358fde69c3e5d0b2912f.jpg
 image-by: Colabor à Boucherville au coucher du soleil
 
+pdf-link: unknown
+pdf-link-description: Recommendation reçue
+
 lang: fr
 ref: preparateurdecommandes
 categories: blogue
-tags: travail préparateurDeCommandes vieDeTousLesJours blogue Colabor entrepôt serviceAlimentaire
+tags: travail préparateurDeCommandes résumé blogue Colabor entrepôt serviceAlimentaire
 ---
 <h3>Comment fait-on ce travail?</h3>
 

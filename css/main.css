@@ -196,7 +196,7 @@ a:hover {
     color: rgb(19, 135, 148);
     letter-spacing: 1.2pt;
 }
-p a:hover {
+p a:hover, a[rel="author"]:hover, small a:hover {
    letter-spacing: unset;
 }
 a:active {
@@ -641,6 +641,7 @@ footer {
     }
 }
 footer.author-snippet {
+   background: rgba(0,0,0,.05);
 }
 footer.contact-how-to {
     background: rgb(242, 242, 242);

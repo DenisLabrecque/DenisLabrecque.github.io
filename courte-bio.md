@@ -22,25 +22,25 @@ Pour mon résumé en ligne, veuillez visiter <a href="https://www.linkedin.com/i
             <h5>Vouz linker à moi, c'est votre affaire</h5>
           </div>
         </a>
-      </li>
-      <li>
-        <a rel="me" href="https://plus.google.com/+DenisGLabrecque" target="_new" class="post-stream-card">
-          <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/8f/52/c9/8f52c9221933a5885464cf4eef63cbe5.png)"></div>
-          <div class="hero-article-headline music">
-            <h4>Google+</h4>
-            <h5>Ajoutez-moi à votre cercle!</h5>
-          </div>
-        </a>
-    </li>
-    <li>
-        <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new" class="post-stream-card">
-          <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/21/fb/b9/21fbb9a0184c500ef5c67f2738eff20f.png)"></div>
-          <div class="hero-article-headline music">
-            <h4>Pinterest</h4>
-            <h5>Parce-que mes Pinterests sont vos intérêts</h5>
-          </div>
-        </a>
-      </li>
+   </li>
+   <li>
+      <a rel="me" href="https://plus.google.com/+DenisGLabrecque" target="_new" class="post-stream-card">
+         <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/8f/52/c9/8f52c9221933a5885464cf4eef63cbe5.png)"></div>
+         <div class="hero-article-headline music">
+         <h4>Google+</h4>
+         <h5>Ajoutez-moi à votre cercle!</h5>
+         </div>
+      </a>
+   </li>
+   <li>
+      <a href="https://www.pinterest.com/DenisGLabrecque/" target="_new" class="post-stream-card">
+         <div class="music-article-thumbnail" style="background-image: url(https://s-media-cache-ak0.pinimg.com/originals/21/fb/b9/21fbb9a0184c500ef5c67f2738eff20f.png)"></div>
+         <div class="hero-article-headline music">
+         <h4>Pinterest</h4>
+         <h5>Parce-que mes Pinterests sont vos intérêts</h5>
+         </div>
+      </a>
+   </li>
 </ul>
 
 <h2>Bio</h2>
