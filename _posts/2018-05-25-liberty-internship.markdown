@@ -10,7 +10,7 @@ pdf-link: unknown
 pdf-link-description: Recommendation received
 ref: libertybaptistinternship
 lang: en
-tags: graphicDesign internship university studies events
+tags: graphicDesign internship university studies events poster flyer brochure InDesign Photoshop Illustrator
 ---
 
 One main project produced for Pastor Berkey was the design of 115&nbsp;000 summer flyers, to be distributed in town by the summer missionaries. There were quite a few boxes of these!
