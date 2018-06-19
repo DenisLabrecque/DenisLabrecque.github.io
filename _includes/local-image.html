@@ -1,37 +1,45 @@
 
-<figure itemscope itemtype="http://schema.org/ImageObject" class="image-figure">
+<figure itemscope itemtype="http://schema.org/ImageObject" class="image-figure wide {% if include.tight %}tight{% endif %}">
    <!--<h2 itemprop="name">Image Heading</h2>-->
-   <a href="{{ site.baseurl }}/images/{{ include.url }}">
-      <img src="{{ site.baseurl }}/images/{{ include.url }}" alt="{{ include.url | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
-   </a>
-   <figcaption>
-      <span itemprop="description">{{ include.description }}</span>
-   </figcaption>
+   <div class="image-separator">
+      <a href="{{ site.baseurl }}/images/{{ include.url }}">
+         <img src="{{ site.baseurl }}/images/{{ include.url }}" alt="{{ include.url | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
+      </a>
+      <figcaption>
+         <span itemprop="description">{{ include.description }}</span>
+      </figcaption>
+   </div>
 
    {% if include.url2 %}
+   <div class="image-separator">
       <a href="{{ site.baseurl }}/images/{{ include.url2 }}">
          <img src="{{ site.baseurl }}/images/{{ include.url2 }}" alt="{{ include.url2 | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
       </a>
       <figcaption>
          <span itemprop="description">{{ include.description2 }}</span>
       </figcaption>
+   </div>
    {% endif %}
 
    {% if include.url3 %}
+   <div class="image-separator">
       <a href="{{ site.baseurl }}/images/{{ include.url3 }}">
          <img src="{{ site.baseurl }}/images/{{ include.url3 }}" alt="{{ include.url3 | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
       </a>
       <figcaption>
          <span itemprop="description">{{ include.description3 }}</span>
       </figcaption>
+   </div>
    {% endif %}
 
    {% if include.url4 %}
+   <div class="image-separator">
       <a href="{{ site.baseurl }}/images/{{ include.url4 }}">
          <img src="{{ site.baseurl }}/images/{{ include.url4 }}" alt="{{ include.url4 | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" itemprop="contentURL" class="image-figure-main" />
       </a>
       <figcaption>
          <span itemprop="description">{{ include.description4 }}</span>
       </figcaption>
-   {% endif %}
+    </div>
+    {% endif %}
 </figure>

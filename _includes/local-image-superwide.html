@@ -1,5 +1,10 @@
+<!-- to include images from the images folder, just use the name of the image -->
+
 <figure class="image-superwide">
    <img src="{{ site.baseurl }}/images/{{ include.url }}" alt="{{ include.url | replace: '-', ' ' | remove: ".jpg" | remove: ".png" }}" />
    <figcaption><em>{{ include.description }}</em></figcaption>
+
+   {% if include.credit %}
    <small>{{ include.credit }}</small>
+   {% endif %}
 </figure>

@@ -996,15 +996,35 @@ img.full-bleed-image {
 } 
 */
 figure.image-figure {
-    background: rgba(0,0,0,0.8);
-    margin: 7pt 0 0 15pt;
-    padding: 10pt;
+    margin: 7pt 0 0 0;
+    padding: 0;
     padding-bottom: 0;
-    color: white;
+    color: dimgrey;
     width: 50%;
     max-width: 800px;
     float: right;
     box-sizing: border-box;
+}
+figure.wide, figure.tight {
+   width: 100%;
+   max-width: none;
+   column-count: 2;
+   column-gap: 15px;
+}
+@media(min-width: 800px) {
+   figure.tight {
+      width: 100%;
+      max-width: none;
+      column-count: 4;
+      column-gap: 15px;
+   }
+}
+div.image-separator {
+   width: 100%;
+   max-width: 800px;
+   box-sizing: padding-box;
+   display: block;
+   break-inside: avoid-column;
 }
 @media(max-width: 1200px) {
     figure.image-figure {
@@ -1392,6 +1412,8 @@ li.go-to-complete-stream h4 {
 
 li.go-to-complete-stream a.post-stream-card {
     background: rgb(16, 186, 205);
+    border-radius: 20pt;
+    padding-left: 10pt;
 }
 
 div.social-area {

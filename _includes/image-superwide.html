@@ -1,5 +1,8 @@
 <figure class="image-superwide">
     <img src="{{ include.image-url }}" alt="{{ include.image-description }}"/>
     <figcaption><em>{{ include.image-description }}</em></figcaption>
+
+   {% if include.image-credit %}
     <small>{{ include.image-credit }}</small>
+   {% endif %}
 </figure>
