@@ -43,4 +43,8 @@ As part of the youth program, much of my time was spent working on promotional m
 
 {% include local-image.html url="flyer-liberty-2019.jpg" description="Camp Liberty 2019 flyer design" url2="workbook-2019.jpg" description2="Camp Liberty Workbook cover design for 2019" url3="printer-liberty.jpg" description3="Workbooks being printed as booklets" url4="postcard-liberty-kids.jpg" description4="Thank you for coming post card from Liberty Kids" tight="true" %}
 
+Finally, I got a request from First Choice to design a billboard according to an idea given me. I had no idea whether it will actually be displayed, and don't know its exact final size, but it was an interesting project. If anyone sees it, please send me a picture!
+
+{% include local-image.html url="billboard-pregnancy-woman.jpg" description="Preferred and humanized billboard according to Coralie's suggestions" url2="billboard-pregnancy-goodness.jpg" description2="Original 'oh my goodness!' idea with a pregnancy test graphic" %}
+
 That pretty much wraps up the highlights of my internship work at Liberty!
