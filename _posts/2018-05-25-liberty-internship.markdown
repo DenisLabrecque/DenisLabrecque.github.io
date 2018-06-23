@@ -6,7 +6,7 @@ headline: My studies led me to do a graphic design internship in Las Vegas at Li
 hero-image: https://i.pinimg.com/originals/fb/e5/19/fbe519517be809c080061d0cdc898c6a.jpg
 thumbnail: https://i.pinimg.com/564x/fb/e5/19/fbe519517be809c080061d0cdc898c6a.jpg
 categories: blog
-pdf-link: unknown
+pdf-link: ../../../../images/recommendation-liberty-baptist.jpg
 pdf-link-description: Recommendation received
 ref: libertybaptistinternship
 lang: en
