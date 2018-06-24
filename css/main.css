@@ -754,6 +754,7 @@ input[type=checkbox].no-display:checked ~ a.image-link {
 }
 
 ul.post-stream-container {
+   break-inside: avoid;
     margin: 10pt 0 0 0;
     padding: 0 0 0 0;
 }
@@ -809,10 +810,11 @@ ul.post-stream-container {
 }
 ul.post-stream-container li {
     margin: 0 0 0 0;
-    display: inline-block;
+    display: block;
     justify-content: space-between;
     width: 100%;
     margin-bottom: 20pt;
+    break-inside:avoid;
 }
 a.post-stream-card {
     color: white;
@@ -1734,7 +1736,7 @@ p.coralie-texting:after {
       }
 
 
-/* wedding day announbcement */
+/* wedding day announcement */
 .date-mark {
 	font-family: 'Lato', sans-serif;
 }
@@ -1744,4 +1746,77 @@ p.coralie-texting:after {
 }
 #wedding-hour {
 	font-size: 84pt;
+}
+
+
+/* section which scrolls colours to highlight my achievements */
+.hero-accomplishment-green {
+   color: white;
+   background: linear-gradient(225deg, #35cfa7, #2aa3cb);
+   background-size: 400% 400%;
+}
+
+
+-webkit-animation: hero-background-green 7s ease infinite;
+-moz-animation: hero-background-green 7s ease infinite;
+-o-animation: hero-background-green 7s ease infinite;
+animation: hero-background-green 7s ease infinite;
+
+@-webkit-keyframes hero-background-green {
+   0%
+
+{
+   background-position: 0% 50%
+}
+
+50% {
+   background-position: 100% 50%
+}
+
+100% {
+   background-position: 0% 50%
+}
+
+}
+
+@-moz-keyframes hero-background-green {
+   0% {
+      background-position: 0% 50%
+   }
+
+   50% {
+      background-position: 100% 50%
+   }
+
+   100% {
+      background-position: 0% 50%
+   }
+}
+
+@-o-keyframes hero-background-green {
+   0% {
+      background-position: 0% 50%
+   }
+
+   50% {
+      background-position: 100% 50%
+   }
+
+   100% {
+      background-position: 0% 50%
+   }
+}
+
+@keyframes hero-background-green {
+   0% {
+      background-position: 0% 50%
+   }
+
+   50% {
+      background-position: 100% 50%
+   }
+
+   100% {
+      background-position: 0% 50%
+   }
 }
