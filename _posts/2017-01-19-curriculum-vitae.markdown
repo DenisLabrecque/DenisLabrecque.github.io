@@ -1,8 +1,10 @@
 ---
 layout: post
-title: Curriculum Vitae
-subtitle: A résumé of my work skills and experience
-hero-image: https://s-media-cache-ak0.pinimg.com/originals/dc/c8/bb/dcc8bbdd1b01ad29cfb098394e36d901.jpg
+main-page: true
+title: Resum&eacute;
+subtitle: Denis Labrecque
+hero-image: https://s-media-cache-ak0.pinimg.com/originals/e1/2b/d1/e12bd1080a785f67f2436b9b4cedcedc.jpg
+thumbnail: https://i.pinimg.com/564x/a9/76/10/a976103a6a740de200cefafad5f9be43.jpg
 image-by: Denis Labrecque
 headline: I am presently a university student double majoring in Computer Information Systems and Graphic Design.
 permalink: /cv
@@ -15,13 +17,13 @@ lastmod: 2016-11-03
 lastmod: 2017-01-23
 lastmod: 2017-03-18
 lastmod: 2018-02-08
+lastmod: 2018-07-09
 tags: cv curriculumVitae about Denis Labrecque work
 ---
-<div class="resume-wrapper">
 <!--  <h4>Secondary Studies</h4>
   <h5>A Beka Academy</h5>
   <p>These general studies in English, mathematics, and the humanities prepared me for university by giving me a mastery of the basic subjects with a global comprehension of the sciences and of the world.</p>-->
-
+<!--
 <h4><table><tr><td>University Studies</td><td>2015&ndash;2020 (current)</td></tr></table></h4>
 <h5>Pensacola Christian College, Florida</h5>
 <ul>
@@ -50,10 +52,36 @@ Used pencil to draw realistically and learn visual modelling, shading, and propo
 </ul>
 
 
-<p>These two degrees are in progress at Pensacola Christian College, Florida. In my concentration, I have followed courses on programming, in graphic production software, in drawing, and in painting. Studying in a rule-strict environment allowed me to adapt to life on campus, to follow a regular schedule, and to keep a regular performance. I am presently in my junior year, each semester being completed with Dean’s list honours.</p>
-<h4><table><tr><td>Order Picker</td><td>2016 (summer job)</td></tr></table></h4>
-<h5 class="workplace">Colabor, Boucherville</h5>
-<p>This work allowed me to take initiative by working alone, got me used to the night shift, and required that I be responsible of my production. I always arrived on time, and worked overtime when necessary. I integrated very well with the team, and my bosses showed themselves very satisfied with the work done for them.</p>
+<p>These two degrees are in progress at Pensacola Christian College, Florida. In my concentration, I have followed courses on programming, in graphic production software, in drawing, and in painting. Studying in a rule-strict environment allowed me to adapt to life on campus, to follow a regular schedule, and to keep a regular performance. I am presently in my junior year, each semester being completed with Dean’s list honours.</p>-->
+
+
+<section class="superwide">
+   <h3>University Student</h3>
+   <h5 class="workplace">2015&ndash;2020 <a href="{% post_url 2016-09-17-reasons-to-love-PCC %}">Computer Information Sciences and Graphic Design at Pensacola Christian College</a>, Florida</h5>
+   <p>A double major, this series of courses is the attainment of bachelor&apos;s degrees in both programming and graphic design. My academic success shows hard work and strong motivation to succeed.</p>
+   <a class="share-link" href="../../../../pdf/2018-1.pdf">President&apos;s List</a>
+</section>
+
+<section class="superwide">
+   <h3>Graphic Designer</h3>
+   <h5 class="workplace">2018 <a href="{% post_url 2018-06-17-stage-studio-grafik %}">summer job at Studio Grafik</a>, Sorel-Tracy</h5>
+   <p>This work, begun as an internship, turned into a summer job aftwards. It allowed me exercise my skills in both web design and paper publishing with an emphasis towards marketing.</p>
+   <!--<a class="share-link" href="../../../../images/recommendation-liberty-baptist.jpg">Recommendation Received</a>-->
+</section>
+
+<section class="superwide">
+   <h3>Graphic Design Intern</h3>
+   <h5 class="workplace">2018 <a href="{% post_url 2018-05-25-liberty-internship %}">three-week internship at Liberty Baptist Church</a>, Las Vegas</h5>
+   <p>This internship introduced me to design work, and to many different projects of various scope. In replacement of the media director, I produced designs for 115 000 summer flyers, hundreds of tracts, booklets, and more.</p>
+   <a class="share-link" href="../../../../images/recommendation-liberty-baptist.jpg">Recommendation Received</a>
+</section>
+
+<section class="superwide">
+   <h3>Order Picker</h3>
+   <h5 class="workplace">2016&ndash;2017 <a href="{% post_url 2016-06-30-travail-de-preparateur-de-commandes %}">summer job at Colabor</a>, Boucherville</h5>
+   <p>This work allowed me to take initiative by working alone, got me used to the night shift, and required that I be responsible of my production. I always arrived on time, and worked overtime when necessary. I integrated very well with the team, and my bosses showed themselves very satisfied with the work done for them.</p>
+   <a class="share-link" href="../../../../images/recommendation-colabor.jpg">Recommendation Received</a>
+</section>
 
 <h4>Personal Qualifications</h4>
 <p>I participated in renovation work for friends, making roof replacements, finishing walls, and installing flooring.</p>
@@ -73,5 +101,4 @@ Blender, VisualStudio, Illustrator, InDesign, Photoshop, Finale, Office Suite
 <li><strong>Creative,</strong> I play the piano and violin, participate in literary and musical competitions, draw, keep my own flower garden, write code between friends, and (too!) often start new projects.</li>
 <li><strong>Inquisitive,</strong> I enjoy reading, listening, asking questions, and hearing both sides of a debate.</li>
 </ul>
-</div>
 

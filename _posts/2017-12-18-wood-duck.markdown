@@ -4,7 +4,7 @@ title: "Wood Duck"
 subtitle: Colour pencil drawing
 headline: Personal artwork
 hero-image: https://i.pinimg.com/originals/ad/af/f2/adaff2aad7cdb006e489dcb6598e7616.jpg
-thumbnail: https://i.pinimg.com/564x/ad/af/f2/adaff2aad7cdb006e489dcb6598e7616.jpg
+thumbnail\: https://i.pinimg.com/564x/ad/af/f2/adaff2aad7cdb006e489dcb6598e7616.jpg
 ref: woodduckcolourpencil
 categories: artwork
 tags: bird pencilDrawing portfolio drawing colour personalProject

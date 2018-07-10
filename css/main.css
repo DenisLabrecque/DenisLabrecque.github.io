@@ -303,11 +303,11 @@ figure.hero-image {
     background-size: cover;
 }
 div.hero-image {
-/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+80,000000+100&0+72,0.8+100 */
-background: -moz-linear-gradient(top,  rgba(0,0,0,0) 72%, rgba(0,0,0,0.23) 80%, rgba(0,0,0,0.8) 100%); /* FF3.6-15 */
-background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 72%,rgba(0,0,0,0.23) 80%,rgba(0,0,0,0.8) 100%); /* Chrome10-25,Safari5.1-6 */
-background: linear-gradient(to bottom,  rgba(0,0,0,0) 72%,rgba(0,0,0,0.23) 80%,rgba(0,0,0,0.8) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#cc000000',GradientType=0 ); /* IE6-9 */
+   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#000000+80,000000+100&0+72,0.8+100 */
+   background: -moz-linear-gradient(top,  rgba(0,0,0,0) 72%, rgba(0,0,0,0.23) 80%, rgba(0,0,0,0.8) 100%); /* FF3.6-15 */
+   background: -webkit-linear-gradient(top,  rgba(0,0,0,0) 72%,rgba(0,0,0,0.23) 80%,rgba(0,0,0,0.8) 100%); /* Chrome10-25,Safari5.1-6 */
+   background: linear-gradient(to bottom,  rgba(0,0,0,0) 72%,rgba(0,0,0,0.23) 80%,rgba(0,0,0,0.8) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00000000', endColorstr='#cc000000',GradientType=0 ); /* IE6-9 */
 
     transition: min-height 0.5s ease-in-out;
     height: inherit;
@@ -755,8 +755,10 @@ input[type=checkbox].no-display:checked ~ a.image-link {
 
 ul.post-stream-container {
    break-inside: avoid;
+   break-inside: avoid-column;
     margin: 10pt 0 0 0;
     padding: 0 0 0 0;
+    display: block;
 }
 @media (min-width: 1000px) {
     ul.post-stream-container {
@@ -814,10 +816,14 @@ ul.post-stream-container li {
     justify-content: space-between;
     width: 100%;
     margin-bottom: 20pt;
-    break-inside:avoid;
+    break-inside: avoid-column;
+    break-after: auto;
+    break-before: auto;
 }
 a.post-stream-card {
     color: white;
+    break-inside: avoid-column;
+    display: block;
 }
 a.post-stream-card:link {
    display: block;
@@ -1064,6 +1070,42 @@ label.image-popout:hover {
     border-left: 5pt solid rgba(82, 72, 45, .8);
 }
 
+/* super wide elements -- break across margins to span the whole page */
+/* asides and figures */
+.superwide {
+   margin: 15pt -20vw 15pt -20vw;
+   padding: 0 0 0 0;
+   width: 100vw;
+   position: relative;
+   box-sizing: border-box;
+   color: white;
+   /* default background */
+   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#00b0f0+0,8ab5ba+100 */
+   background: rgb(0,176,240); /* Old browsers */
+   background: -moz-linear-gradient(45deg, rgb(0,176,240) 0%, rgb(138,181,186) 100%); /* FF3.6-15 */
+   background: -webkit-linear-gradient(45deg, rgb(0,176,240) 0%,rgb(138,181,186) 100%); /* Chrome10-25,Safari5.1-6 */
+   background: linear-gradient(45deg, rgb(0,176,240) 0%,rgb(138,181,186) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00b0f0', endColorstr='#8ab5ba',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+   
+   padding-top: 10pt;
+   padding-bottom: 10pt;
+   padding-left: 20vw;
+   padding-right: 20vw;
+   text-align: center;
+}
+.superwide p {
+   text-align: left;
+}
+.superwide a {
+   color: antiquewhite;
+}
+   .superwide a:visited {
+      color:bisque;
+   }
+   .superwide a:hover {
+      color: beige;
+   }
+
 figure.image-superwide {
     margin: 15pt -20vw 15pt -20vw;
     padding: 0 0 0 0;
@@ -1092,11 +1134,21 @@ figure.image-superwide img {
     padding: 0 0 0 0;
     width: 100%;
 }
+/* superwide elements need to resize at the breakpoint not to extend past the margins on cell and tablets */
 @media(max-width: 600px) {
-    figure.image-superwide {
+    figure.image-superwide, .superwide {
         margin: 15pt -20pt 15pt -20pt;
     }
 }
+.superwide.brown {
+   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#33312b+0,52482d+100 */
+   background: rgb(51,49,43); /* Old browsers */
+   background: -moz-linear-gradient(45deg, rgb(51,49,43) 0%, rgb(82,72,45) 100%); /* FF3.6-15 */
+   background: -webkit-linear-gradient(45deg, rgb(51,49,43) 0%,rgb(82,72,45) 100%); /* Chrome10-25,Safari5.1-6 */
+   background: linear-gradient(45deg, rgb(51,49,43) 0%,rgb(82,72,45) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#33312b', endColorstr='#52482d',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+}
+
 
 figure.image-gallery {
     width: 100%;
@@ -1416,6 +1468,9 @@ li.go-to-complete-stream a.post-stream-card {
     background: rgb(16, 186, 205);
     border-radius: 20pt;
     padding-left: 10pt;
+    display: block;
+    height: auto;
+    break-inside: avoid-column;
 }
 
 div.social-area {
