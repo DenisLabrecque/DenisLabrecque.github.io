@@ -9,7 +9,7 @@ categories: artwork
 tags: portfolio 3d blender jet fighterJet filmicBlender Avro Arrow personalProject
 lang: en
 ---
-<div class="credits" markdown="1">This work is licensed to [Denis Labrecque]({% post_url 2016-11-03-about-me %}) under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+<div class="credits" markdown="1">This work is licensed to [Denis Labrecque]({% post_url 2017-01-19-curriculum-vitae %}) under [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 *Credits:*
 

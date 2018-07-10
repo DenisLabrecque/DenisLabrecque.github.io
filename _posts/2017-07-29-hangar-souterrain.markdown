@@ -9,7 +9,7 @@ categories: artwork
 tags: portfolio 3d Blender avionDeChasse filmicBlender Avro Arrow personalProject
 lang: fr
 ---
-<div class="credits" markdown="1">Cette image appartient à [Denis Labrecque]({% post_url 2016-11-03-about-me %}) sous [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+<div class="credits" markdown="1">Cette image appartient à [Denis Labrecque]({% post_url 2017-01-19-curriculum-vitae %}) sous [Attribution-NonCommercial-ShareAlike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 *Crédits:*
 
