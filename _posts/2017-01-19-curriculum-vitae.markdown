@@ -62,28 +62,28 @@ Used pencil to draw realistically and learn visual modelling, shading, and propo
 <p>These two degrees are in progress at Pensacola Christian College, Florida. In my concentration, I have followed courses on programming, in graphic production software, in drawing, and in painting. Studying in a rule-strict environment allowed me to adapt to life on campus, to follow a regular schedule, and to keep a regular performance. I am presently in my junior year, each semester being completed with Dean’s list honours.</p>-->
 
 
-<section class="superwide">
+<section class="superwide notViewed animBlock">
    <h3>University Student</h3>
    <h5 class="workplace">2015&ndash;2020 <a href="{% post_url 2016-09-17-reasons-to-love-PCC %}">Computer Information Sciences and Graphic Design at Pensacola Christian College</a>, Florida</h5>
    <p>A double major, this series of courses is the attainment of bachelor&apos;s degrees in both programming and graphic design. My academic success shows hard work and strong motivation to succeed.</p>
    <a class="share-link" href="../../../../pdf/2018-1.pdf">President&apos;s List</a>
 </section>
 
-<section class="superwide brown">
+<section class="superwide brown notViewed animBlock">
    <h3>Graphic Designer</h3>
    <h5 class="workplace">2018 <a href="{% post_url 2018-06-17-stage-studio-grafik %}">summer job at Studio Grafik</a>, Sorel-Tracy</h5>
    <p>This work, begun as an internship, turned into a summer job aftwards. It allowed me exercise my skills in both web design and paper publishing with an emphasis towards marketing.</p>
    <!--<a class="share-link" href="../../../../images/recommendation-liberty-baptist.jpg">Recommendation Received</a>-->
 </section>
 
-<section class="superwide">
+<section class="superwide notViewed animBlock">
    <h3>Graphic Design Intern</h3>
    <h5 class="workplace">2018 <a href="{% post_url 2018-05-25-liberty-internship %}">three-week internship at Liberty Baptist Church</a>, Las Vegas</h5>
    <p>This internship introduced me to design work, and to many different projects of various scope. In replacement of the media director, I produced designs for 115 000 summer flyers, hundreds of tracts, booklets, and more.</p>
    <a class="share-link" href="../../../../images/recommendation-liberty-baptist.jpg">Recommendation Received</a>
 </section>
 
-<section class="superwide brown">
+<section class="superwide brown notViewed animBlock">
    <h3>Order Picker</h3>
    <h5 class="workplace">2016&ndash;2017 <a href="{% post_url 2016-06-30-travail-de-preparateur-de-commandes %}">summer job at Colabor</a>, Boucherville</h5>
    <p>This work allowed me to take initiative by working alone, got me used to the night shift, and required that I be responsible of my production. I always arrived on time, and worked overtime when necessary. I integrated very well with the team, and my bosses showed themselves very satisfied with the work done for them.</p>
@@ -103,7 +103,7 @@ WordPress, Blender, VisualStudio, Illustrator, InDesign, Photoshop, Finale, Offi
 
 
 <h4>Personal Qualities</h4>
-<ul class="post-stream-container">
+<ul class="post-stream-container notViewed animBlock">
 <h5>Persistent</h5>
 I like to accomplish my promises, fishing my tasks with minutia.
 <h5>Self-teaching</h5>

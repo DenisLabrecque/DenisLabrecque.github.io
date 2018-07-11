@@ -844,7 +844,10 @@ a.post-stream-card:active {
 }
 
 a.post-stream-card img {
-    width: 100%;
+   width: 100%;
+   max-height: 75vh; /* trying to avoid a jQuery problem where certain thumbnails are not animated to appear */
+   object-fit: contain;
+   overflow: hidden;
 }
 
 div.hero-article-thumbnail {

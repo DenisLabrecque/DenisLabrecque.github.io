@@ -2,7 +2,7 @@
 <ul class="post-stream-container">
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in site.categories.music limit: include.stream-limit %}
-  <li title="{{ post.title }}: {{ post.subtitle }}">
+  <li title="{{ post.title }}: {{ post.subtitle }}" class="notViewed animBlock">
     <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
       <div class="hero-article-thumbnail"
         {% if post.thumbnail %}
@@ -41,7 +41,7 @@
   </li>
   {% endfor %}
   {% if include.more == 'more' %}
-  <li class="go-to-complete-stream">
+  <li class="go-to-complete-stream notViewed animBlock">
     <a href="/music" class="post-stream-card">
       <div class="hero-article-headline">
         <h4>More music, more fun <i class="fa fa-angle-right" aria-hidden="true"></i></h4>
@@ -56,7 +56,7 @@
 <ul class="post-stream-container">
   {% assign posts=site.posts | where:"lang", page.lang %}
   {% for post in site.categories.musique limit: include.stream-limit %}
-  <li title="{{ post.title }}: {{ post.subtitle }}">
+  <li title="{{ post.title }}: {{ post.subtitle }}" class="notViewed animBlock">
     <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
       <div class="hero-article-thumbnail"
         {% if post.thumbnail %}
@@ -95,7 +95,7 @@
   </li>
   {% endfor %}
   {% if include.more == 'more' %}
-  <li class="go-to-complete-stream">
+  <li class="go-to-complete-stream notViewed animBlock">
     <a href="/musique" class="post-stream-card">
       <div class="hero-article-headline">
         <h4>Plus de musique, plus de plaisir <i class="fa fa-angle-right" aria-hidden="true"></i></h4>

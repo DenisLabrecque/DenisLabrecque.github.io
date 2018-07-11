@@ -1,0 +1,23 @@
+/** animated boxes **/
+.animBlock {
+  opacity: 0;
+  right: -15pt;
+  bottom: -30pt;
+  -webkit-transition: all .55s ease-in-out;
+  -moz-transition: all .55s ease-in-out;
+  -ms-transition: all .55s ease-in-out;
+  -o-transition: all .55s ease-in-out;
+  transition: all .55s ease-in-out;
+}
+
+.animBlock.viewed {
+   bottom: 0;
+   right: 0;
+   opacity: 1;
+  border: none;
+}
+.animBlock[data-position="right"].viewed {
+  right: 0%;
+  opacity: 1;
+  filter: alpha(opacity=100);
+}

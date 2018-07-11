@@ -71,28 +71,28 @@ Si une telle opportunit&eacute; est disponible, j&apos;en serais fort reconnaiss
 
 Si vous n&apos;avez pas &agrave; pr&eacute;sent une telle position &agrave; offrir, merci de votre attention courtoise. Croyez-vous qu&apos;une telle occasion pourrait bien se pr&eacute;senter? Si c&apos;est le cas, pr&eacute;servez s&apos;il-vous-pla&icirc;t les informations pour me joindre&thinsp;!
 
-<section class="superwide">
+<section class="superwide notViewed animBlock">
    <h3>&Eacute;tudiant universitaire</h3>
    <h5 class="workplace">2015&ndash;2020 <a href="{% post_url 2016-09-17-reasons-to-love-PCC %}">Syst&egrave;mes informatiques et Design graphique &agrave; Pensacola Christian College</a>, Floride</h5>
    <p>Un double baccalaur&eacute;at, ces deux s&eacute;ries de cours m&egrave;nent &agrave; deux degr&eacute;s distincts en programmation et en infographie. Mon succ&egrave;s acad&eacute;mique d&eacute;montre du travail fort et une motivation pour r&eacute;ussir.</p>
    <a class="share-link" href="../../../../pdf/2018-1.pdf">Liste du pr&eacute;sident</a>
 </section>
 
-<section class="superwide brown">
+<section class="superwide brown notViewed animBlock">
    <h3>Graphiste</h3>
    <h5 class="workplace">2018 <a href="{% post_url 2018-06-17-stage-studio-grafik %}">travail d&apos;&eacute;t&eacute; &agrave; Studio Grafik</a>, Sorel-Tracy</h5>
    <p>Ce travail, commenc&eacute; en stage, s&apos;est termin&eacute; en travail d&apos;&eacute;t&eacute;. Cela m&apos;a permis d&apos;exercer mes comp&eacute;tences en design web et en publications imprim&eacute;es, avec une emphase sur le marketing.</p>
    <!--<a class="share-link" href="../../../../images/recommendation-liberty-baptist.jpg">Recommendation Received</a>-->
 </section>
 
-<section class="superwide">
+<section class="superwide notViewed animBlock">
    <h3>Stagiaire en design graphique</h3>
    <h5 class="workplace">2018 <a href="{% post_url 2018-05-25-liberty-internship %}">stage de trois semaines &agrave; Liberty Baptist Church</a>, Las Vegas</h5>
    <p>Ce stage m&apos;a introduit au travaux en design, et &agrave; plusieurs projets diff&eacute;rents. En remplacement du directeur des m&eacute;dias, j&apos;ai produit des conceptions pour 115&thinsp;000 cartes postales, des d&eacute;pliants, des livrets, et plus encore.</p>
    <a class="share-link" href="../../../../images/recommendation-liberty-baptist.jpg">Recommendation re&ccedil;ue</a>
 </section>
 
-<section class="superwide brown">
+<section class="superwide brown notViewed animBlock">
    <h3>Pr&eacute;parateur de commandes</h3>
    <h5 class="workplace">2016&ndash;2017 <a href="{% post_url 2016-06-30-travail-de-preparateur-de-commandes %}">travail d&apos;&eacute;t&eacute; chez Colabor</a>, Boucherville</h5>
    <p>Ce travail m&apos;a permis de prendre l&apos;initiative en travaillant seul, m&apos;a habitu&eacute; au travail de nuit, et m&apos;a rendu responsable de ma production. J&apos;y suis toujours arriv&eacute; &agrave; l&apos;heure, et j&apos;y travaillais en surtemps si n&eacute;cessaire. Je m&apos;y suis bien int&eacute;gr&eacute;, mes contrema&icirc;tres se montrant tr&egrave;s satisfaits du travail accompli pour eux.</p>
@@ -106,7 +106,7 @@ La programmation mobile a &eacute;t&eacute; une exp&eacute;rience motivante; com
 
 La programmation web est une comp&eacute;tence que j&apos;aime aiguiser, et j&apos;ai cr&eacute;&eacute; plusieurs it&eacute;rations diff&eacute;rentes de mon site personnel dans ce but.
 
-<ul class="post-stream-container">
+<ul class="post-stream-container notViewed animBlock">
 <h5>Langages de programmation</h5>
 C#, C++, C, JavaScript, XML, HTML, CSS, Jekyll; <em>aussi utilis&eacute;es</em> XAML, PHP, JSON
 <h5>Applications</h5>
