@@ -6,6 +6,10 @@ i.quit:before {
     content: "❌";
 }
 
+h1, h2, h3, h4, h5, h6 {
+   break-after: avoid;
+}
+
 body {
     font-family: "Alegreya Sans", sans-serif;
     font-size: 16pt;
@@ -1093,6 +1097,14 @@ label.image-popout:hover {
    padding-right: 20vw;
    text-align: center;
 }
+/* control margins so there is no whitespace between superwide elements */
+.superwide + .superwide {
+   margin-top: -15pt;
+}
+.page-feed .superwide:first-child {
+   margin-top: -20pt;
+}
+
 .superwide p {
    text-align: left;
 }
@@ -1105,16 +1117,34 @@ label.image-popout:hover {
    .superwide a:hover {
       color: beige;
    }
+.superwide.brown a {
+   color: darkcyan;
+}
+   .superwide.brown a:visited {
+      color: cadetblue;
+   }
+   .superwide.brown a:hover {
+      color: cyan;
+   }
+.superwide a.share-link, .superwide.brown a.share-link {
+   color: white;
+}
+   .superwide a.share-link:hover, .superwide.brown a.share-link:hover {
+      color: white;
+   }
+   .superwide a.share-link:visited, .superwide.brown a.share-link:visited {
+      color: white;
+   }
 
 figure.image-superwide {
-    margin: 15pt -20vw 15pt -20vw;
-    padding: 0 0 0 0;
-    width: 100vw;
-    position: relative;
-    left: 0;
-    box-sizing: border-box;
-    background: transparent;
-    color: rgb(80, 80, 80);
+   margin: 15pt -20vw 15pt -20vw;
+   padding: 0 0 0 0;
+   width: 100vw;
+   position: relative;
+   left: 0;
+   box-sizing: border-box;
+   background: transparent;
+   color: rgb(80, 80, 80);
 }
 figure.image-superwide figcaption {
     margin-top: 5pt;
@@ -1141,12 +1171,14 @@ figure.image-superwide img {
     }
 }
 .superwide.brown {
-   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#33312b+0,52482d+100 */
-   background: rgb(51,49,43); /* Old browsers */
-   background: -moz-linear-gradient(45deg, rgb(51,49,43) 0%, rgb(82,72,45) 100%); /* FF3.6-15 */
-   background: -webkit-linear-gradient(45deg, rgb(51,49,43) 0%,rgb(82,72,45) 100%); /* Chrome10-25,Safari5.1-6 */
-   background: linear-gradient(45deg, rgb(51,49,43) 0%,rgb(82,72,45) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#33312b', endColorstr='#52482d',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+   /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ede5cb+0,e6e6e6+100 */
+   background: rgb(237,229,203); /* Old browsers */
+   background: -moz-linear-gradient(45deg, rgb(237,229,203) 0%, rgb(230,230,230) 100%); /* FF3.6-15 */
+   background: -webkit-linear-gradient(45deg, rgb(237,229,203) 0%,rgb(230,230,230) 100%); /* Chrome10-25,Safari5.1-6 */
+   background: linear-gradient(45deg, rgb(237,229,203) 0%,rgb(230,230,230) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ede5cb', endColorstr='#e6e6e6',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
+
+   color: black;
 }
 
 

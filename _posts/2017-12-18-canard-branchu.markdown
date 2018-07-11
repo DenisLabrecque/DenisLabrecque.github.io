@@ -3,7 +3,8 @@ layout: artwork
 title: Canard Branchu
 subtitle: Dessin au crayon couleur
 headline: Projet personnel
-hero-image: https://i.pinimg.com/originals/3d/2c/84/3d2c84227e7d5f570d6df91d54cd5f96.jpg
+hero-image: https://i.pinimg.com/originals/ad/af/f2/adaff2aad7cdb006e489dcb6598e7616.jpg
+thumbnail: https://i.pinimg.com/564x/ad/af/f2/adaff2aad7cdb006e489dcb6598e7616.jpg
 ref: woodduckcolourpencil
 categories: art
 tags: oiseau dessinAuCrayon dessin couleur personalProject
