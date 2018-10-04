@@ -12,11 +12,13 @@ pdf-link: http://denislabrecque.ca/Denis-Labrecque.pdf
 pdf-link-description: Résumé et portfolio
 ref: curvitae
 lang: fr
+main-page: true
 lastmod: 2016-11-03
 lastmod: 2017-01-23
 lastmod: 2017-01-27
 lastmod: 2018-02-28
 lastmod: 2018-07-09
+lastmod: 2018-10-04
 tags: cv curriculumVitae aPropos Denis Labrecque travail expérience résumé biographie université étudiant systèmesInformatiques designGraphique
 ---
 <!--  
@@ -75,27 +77,32 @@ Si vous n&apos;avez pas &agrave; pr&eacute;sent une telle position &agrave; offr
    <h3>&Eacute;tudiant universitaire</h3>
    <h5 class="workplace">2015&ndash;2020 <a href="{% post_url 2016-09-17-reasons-to-love-PCC %}">Syst&egrave;mes informatiques et Design graphique &agrave; Pensacola Christian College</a>, Floride</h5>
    <p>Un double baccalaur&eacute;at, ces deux s&eacute;ries de cours m&egrave;nent &agrave; deux degr&eacute;s distincts en programmation et en infographie. Mon succ&egrave;s acad&eacute;mique d&eacute;montre du travail fort et une motivation pour r&eacute;ussir.</p>
-   <a class="share-link" href="../../../../pdf/2018-1.pdf">Liste du pr&eacute;sident</a>
+   {% include local-image.html url="Rhino-beetle-pencil-drawing.jpg" description="Dessin au crayon" url2="Turkey-Dinner-watercolor.jpg" description2="Peinture &agrave; l'aquarelle" url3="flat-apple.jpg" description3="&Eacute;tude de couleurs" url4="new-buildings-and-trees.jpg" description4="Projet de programmation personnel" %}
+   <a class="share-link" href="../../../../pdf/2018-1.pdf">Liste pr&eacute;sidentielle</a>
 </section>
 
 <section class="superwide brown notViewed animBlock">
    <h3>Graphiste</h3>
    <h5 class="workplace">2018 <a href="{% post_url 2018-06-17-stage-studio-grafik %}">travail d&apos;&eacute;t&eacute; &agrave; Studio Grafik</a>, Sorel-Tracy</h5>
    <p>Ce travail, commenc&eacute; en stage, s&apos;est termin&eacute; en travail d&apos;&eacute;t&eacute;. Cela m&apos;a permis d&apos;exercer mes comp&eacute;tences en design web et en publications imprim&eacute;es, avec une emphase sur le marketing.</p>
-   <!--<a class="share-link" href="../../../../images/recommendation-liberty-baptist.jpg">Recommendation Received</a>-->
+   <blockquote>Si j'avais &agrave; d&eacute;crire Denis en deux mots, je dirais <em>travaillant</em> et <em>cr&eacute;atif</em>. Son d&eacute;sir de vouloir toujours trouver la meilleure solution &agrave; la probl&eacute;matique est clairement un de ses atouts.<cite>Maxime Pronovost, pr&eacute;sident de <a href="http://studiografik.ca">Studio Grafik</a>, Sorel-Tracy</cite></blockquote>
+   <a class="share-link" href="http://studiografik.ca/contact/">Contacter l'employeur</a>
 </section>
 
 <section class="superwide notViewed animBlock">
    <h3>Stagiaire en design graphique</h3>
    <h5 class="workplace">2018 <a href="{% post_url 2018-05-25-liberty-internship %}">stage de trois semaines &agrave; Liberty Baptist Church</a>, Las Vegas</h5>
-   <p>Ce stage m&apos;a introduit au travaux en design, et &agrave; plusieurs projets diff&eacute;rents. En remplacement du directeur des m&eacute;dias, j&apos;ai produit des conceptions pour 115&thinsp;000 cartes postales, des d&eacute;pliants, des livrets, et plus encore.</p>
+   <p>Ce stage m&apos;a introduit au travaux en design, et &agrave; plusieurs projets diff&eacute;rents. En remplacement du directeur des m&eacute;dias, j&apos;ai con&ccedil;u le design de 115&thinsp;000 cartes postales, des d&eacute;pliants, des livrets, et plus encore.</p>
+   <blockquote>Dans quelconque compagnie qu'il servira, il sera un atout important et une valeur pour cette &eacute;quipe. Il s'est assur&eacute; que tout ce qui lui &eacute;tait demand&eacute; soit bien prioris&eacute; et termin&eacute; ponctuellement.<cite>Neal Berkey, pasteur &agrave; Liberty Baptist Church, Las Vegas</cite></blockquote>
+      {% include local-image.html url="flyer-super-freezed.jpg" description="Feuillet d'activit&eacute; jeunesse Super Freezed" url2="flyer-super-games.jpg" description2="Feuillet d'activit&eacute; jeunesse Super Games" url3="flyer-super-powder-games.jpg" description3="Feuillet d'activit&eacute; jeunesse Super Powder Games" tight="true" url4="flyer-dia-del-padre.jpg" description4="Feuillet d'annonce pour la f&ecirc;te des p&egrave;res (Espagnol)" %}
    <a class="share-link" href="../../../../images/recommendation-liberty-baptist.jpg">Recommendation re&ccedil;ue</a>
 </section>
 
 <section class="superwide brown notViewed animBlock">
    <h3>Pr&eacute;parateur de commandes</h3>
    <h5 class="workplace">2016&ndash;2017 <a href="{% post_url 2016-06-30-travail-de-preparateur-de-commandes %}">travail d&apos;&eacute;t&eacute; chez Colabor</a>, Boucherville</h5>
-   <p>Ce travail m&apos;a permis de prendre l&apos;initiative en travaillant seul, m&apos;a habitu&eacute; au travail de nuit, et m&apos;a rendu responsable de ma production. J&apos;y suis toujours arriv&eacute; &agrave; l&apos;heure, et j&apos;y travaillais en surtemps si n&eacute;cessaire. Je m&apos;y suis bien int&eacute;gr&eacute;, mes contrema&icirc;tres se montrant tr&egrave;s satisfaits du travail accompli pour eux.</p>
+   <p>Ce travail m&apos;a permis de prendre l&apos;initiative en travaillant seul, m&apos;a habitu&eacute; au travail de nuit, et m&apos;a rendu responsable de ma production. Je m&apos;y suis bien int&eacute;gr&eacute;, mes contrema&icirc;tres se montrant enti&egrave;rement satisfaits du travail accompli pour eux.</p>
+   <blockquote>Son &eacute;thique du travail, son ardeur, et son d&eacute;vouement ont fait de Denis un tr&egrave;s bon &eacute;l&eacute;ment pour notre organisation.<cite>Robert Hach&eacute;, contrema&icirc;tre, Colabor Boucherville</cite></blockquote>
    <a class="share-link" href="../../../../images/recommendation-colabor.jpg">Recommendation re&ccedil;ue</a>
 </section>
 

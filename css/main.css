@@ -42,8 +42,10 @@ blockquote, .note, .javascript-gallery-caption {
     line-height: 145%;
     font-size: 17pt;
     letter-spacing: .3pt;
+    text-align: left;
 }
 blockquote cite {
+   margin-top: 5pt;
     display: block;
     text-align: right;
     font-size: 12pt;
@@ -1011,7 +1013,7 @@ img.full-bleed-image {
 } 
 */
 figure.image-figure {
-    margin: 7pt 0 0 0;
+    margin-top: 20pt;
     padding: 0;
     padding-bottom: 0;
     color: dimgrey;
@@ -1138,6 +1140,17 @@ label.image-popout:hover {
    .superwide a.share-link:visited, .superwide.brown a.share-link:visited {
       color: white;
    }
+
+.superwide figure.image-figure {
+   color: white;
+}
+.superwide.brown figure.image-figure {
+   color: dimgrey;
+}
+.superwide blockquote {
+   margin-left: 0;
+   margin-right: 0;
+}
 
 figure.image-superwide {
    margin: 15pt -20vw 15pt -20vw;
