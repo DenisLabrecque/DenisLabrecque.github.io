@@ -93,6 +93,8 @@
 
 
 {% if page.lang == 'fr' %}
+
+
 <ul class="post-stream-container">
    {% for post in site.categories.blogue limit: include.stream-limit %}
    <li title="{{ post.title }}: {{ post.subtitle }}" class="notViewed animBlock">

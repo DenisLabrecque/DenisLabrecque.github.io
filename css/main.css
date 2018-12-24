@@ -1923,3 +1923,21 @@ animation: hero-background-green 7s ease infinite;
       background-position: 0% 50%
    }
 }
+
+/* code highlighting */
+span[itemprop='articleBody'] figure.highlight {
+   border-radius: 5px;
+   margin: 0;
+   padding: 0pt 10pt 0pt 10pt;
+   font-size: 9pt;
+   line-height: 130%;
+   overflow-x: scroll;
+}
+
+p code {
+   font-size: 70%;
+   background-color: lightgrey;
+   border-radius: 5px;
+   padding: 2pt 4pt 2pt 4pt;
+   margin: 0 2pt 0 2pt;
+}

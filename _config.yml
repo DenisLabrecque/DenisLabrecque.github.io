@@ -33,6 +33,9 @@ github_username:  DenisLabrecque
 markdown: kramdown
 encoding: UTF-8
 
+# Syntax highlighter
+highlighter: rouge
+
 defaults:
   -
     scope:
