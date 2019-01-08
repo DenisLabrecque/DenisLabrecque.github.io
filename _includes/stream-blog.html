@@ -1,6 +1,24 @@
 {% assign posts = site.posts | where: "lang", page.lang %}
 
 {% if page.lang == 'en' %}
+<h4>Unity C#</h4>
+<ul class="post-stream-container">
+   {% for post in site.categories.blog limit: include.stream-limit %}
+   {% if post.tags contains 'Unity' %}
+   <li title="{{ post.title }}: {{ post.subtitle }}" class="notViewed animBlock">
+      <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+         <div class="hero-article-thumbnail"
+              style="background-image: url( {{ post.hero-image }} )">
+            <strong class="article-title"><span>{{ post.title }}</span></strong>
+            <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+         </div>
+         <div class="hero-article-headline">{{ post.headline }}</div>
+      </a>
+   </li>
+   {% endif %}
+   {% endfor %}
+</ul>
+
 <h4>Events</h4>
 <ul class="post-stream-container">
    {% for post in site.categories.blog limit: include.stream-limit %}

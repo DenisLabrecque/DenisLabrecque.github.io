@@ -1,0 +1,116 @@
+---
+layout: post
+title: Planetary Dogfight
+subtitle: Unity Airplane Simulation
+headline: An airplane and ship battle game in progress.
+hero-image: https://i.pinimg.com/originals/1d/5a/53/1d5a5371af1b1e3f96b66fad2c326ce8.png
+ref: unityrcgamepublish
+categories: blog
+tags: Unity C# game airplane simulation planet
+lang: en
+cta-link: ../../../../zip/PlanetaryDogfight.zip
+cta-link-title: Download for Windows
+---
+<div markdown="1">
+This game's goal is to imitate remote-control electric ducted fan airplanes equipped with first-person-view cameras. They fight with an infrared laser and detection system as guns, and use air-powered missiles that are guided towards the sound other vehicles emit.
+
+One goal for this game is to allow landing airplanes on aircraft carriers and airports. Another goal is networking so two players can battle against each other.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7oSqnHO_2E0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Controls
+<table>
+<thead>
+<tr>
+<th>Function</th>
+<th>Control</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Bank left</td>
+<td>left arrow (and joystick)</td>
+</tr>
+<tr>
+<td>Bank right</td>
+<td>right arrow (and joystick)</td>
+</tr>
+<tr>
+<td>Pull up</td>
+<td>down arrow (and joystick)</td>
+</tr>
+<tr>
+<td>Pull down</td>
+<td>up arrow (and joystick)</td>
+</tr>
+<tr>
+<td>Yaw left</td>
+<td>q (and joystick twist)</td>
+</tr>
+<tr>
+<td>Yaw right</td>
+<td>e (and joystick twist)</td>
+</tr>
+<tr>
+<td>Accelerate</td>
+<td>left shift (and throttle)</td>
+</tr>
+<tr>
+<td>Decelerate</td>
+<td>z (and throttle)</td>
+</tr>
+<tr>
+<td>Cycle cameras</td>
+<td>c</td>
+</tr>
+<tr>
+<td>Planet view</td>
+<td>m</td>
+</tr>
+<tr>
+<td>Shoot laser</td>
+<td>left ctrl</td>
+</tr>
+</tbody>
+</table>
+
+
+### Issues
+This game is a work in progress. Certain elements noted below do not work yet; if it's on the list, I'm eventually fixing it. If I missed a problem, feel free to comment below.
+
+#### Trivial Problems
+- Rudder turns on a weird axis
+- Certain textures flash because of shadow-camera distance
+- The water shader creates lines through the sea
+- Opening screen buttons do not apply hover colours and sounds
+- Translation strings do not work in game mode
+- Airbrakes close too quickly
+- Some airplane parts don't collide with the ground
+- Camera can pass through objects
+- Aircraft wheel bays don't open
+- Aircraft wheels have no suspension
+- Airplane wheels are not correctly set in/out at game start
+- Airplane throttle setting is not correct at game start
+- Flotation does not work
+
+#### Functional Issues
+- The planet view behaves strangely and cannot zoom
+- The airplane will jitter and move continuously when landed
+- The HUD view is still present in planet view
+- Aircraft cannot land on aircraft carrier for lack of a tail hook implementation
+- The FPV camera view is static when it should swivel inside the cockpit
+- There is no flight path marker (FPM)
+- Batteries cannot be recharged
+	
+#### Missing Features
+- Multiplayer playability (waiting for Unity connected games)
+- Decals and flags with country logos
+- The player can change between vehicles
+- Airplanes can mount bombs and missiles
+- Pause screen and credits screen
+- The player can earn new vehicles
+- Include waypoint and city tags
+- Aircraft carriers have elevators and hangars
+- Give the game a goal (or levels)
+
+</div>
