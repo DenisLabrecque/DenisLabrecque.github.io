@@ -1,4 +1,5 @@
 ---
+permalink: /dogfight-planet
 layout: post
 title: Planetary Dogfight
 subtitle: Unity Airplane Simulation
