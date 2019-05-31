@@ -26,7 +26,7 @@ Pendant notre formation, nous apprenons la cueillette sur papier pour nous habit
 
 Cependant, remplir des commandes par papier n'est pas considéré profitable pour la compagnie. Après notre formation, nous apprenons plutôt l'utilisation d'un système vocal, qui nous permet, après une empreinte vocale, de confirmer la localisation et le nombre de caisses sans distraction. Par contre, il faut plus d'expérience parce qu'il n'est plus possible d'évaluer les quantités des produits à l'avance. Ainsi, il faut toujours prévoir un espace plat pour des caisses additionnelles.
 
-{% include image.html image-url='https://s-media-cache-ak0.pinimg.com/originals/53/86/a2/5386a2bbb89bf31196feb5bdb363621e.jpg' image-description='Un système à reconnaissance vocale, bien que parfois irritant dans sa tendance à mal nous comprendre, nous permet d'être plus efficaces.' %}
+{% include image.html image-url='https://s-media-cache-ak0.pinimg.com/originals/53/86/a2/5386a2bbb89bf31196feb5bdb363621e.jpg' image-description='Un système à reconnaissance vocale, bien que parfois irritant dans sa tendance à mal nous comprendre, nous permet d&apos;être plus efficaces.' %}
 
 À la fin de la cueillette, nous emballons chaque palette dans du wrap de plastique, et après les avoir étiquetés, nous les déposons au quai correspondant. Plus tard, un camion viendra transporter les palettes recueillies par les responsables du shipping.
 
