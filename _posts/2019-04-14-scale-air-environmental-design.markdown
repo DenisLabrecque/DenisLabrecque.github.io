@@ -3,7 +3,7 @@ layout: artwork
 title: Scale Air Environmental Design
 subtitle: Event Stage
 headline: A Blender render created for Ad Design class.
-hero-image: http://denislabrecque.ca/images/Scale-Air-stage-design.jpg
+hero-image: ../../../../images/Scale-Air-stage-design.jpg
 ref: scaleairenvironmentaldesign
 categories: artwork
 tags: Blender render graphicDesign stage building hangar RC remoteControl
@@ -11,6 +11,10 @@ lang: en
 ---
 <div markdown="1">
 This project was created as part of a larger campaign for Scale Air, an all-airplane modeling convention happening in Montreal.
+
+{% include image.html image-url='../../../../images/Scale-Air-stage-speaker.jpg' image-description='The catwalk arrangement allows visitors to remain standing to listen to the speaker, while not disturbing those who sit looking at the large screens.' %}
+
+{% include image.html image-url='../../../../images/Scale-Air-stage-wing.jpg' image-description='The stage wings are functional as well because they can serve as displays.' %}
 
 This multipurpose stage is meant primarily for live modeling demonstrations and sponsor product highlights. Secondarily, it will be used during an awards ceremony, and during a prize winner display at the end of the event. The stage is configured so that foot traffic from kiosks can stand momentarily to watch the speaker without breaking the sitting audience’s line of sight. Supplies will be provided so attendees can test sponsor products at the work tables: large projector screens above both catwalk sides show a zoomed-in view of the presenter so they can follow along. The stage itself is made of painted wood, with plywood cutouts, carpet, and spotlight fittings.
 
