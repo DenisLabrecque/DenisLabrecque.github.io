@@ -3,7 +3,7 @@ layout: artwork
 title: Scale Air Poster Design
 subtitle: Rollup Posters
 headline: A Blender render created for Ad Design class.
-hero-image: http://denislabrecque.ca/images/Scale-Air-poster-render.jpg
+hero-image: http://denislabrecque.ca/images/Scale-Air-poster-render.png
 ref: scaleairrollups
 categories: artwork
 tags: Blender render graphicDesign poster rollup sweater RC remoteControl
