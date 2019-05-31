@@ -64,8 +64,13 @@ img {
 }
 
 div.page-feed {
-    margin: 10pt 15% 10pt 20%;
-    transition: ease-in-out .3s;
+   margin: 10pt 15% 10pt 20%;
+   transition: ease-in-out .3s;
+   /*padding: 10pt 15% 10pt 15%;
+   margin-left: auto;
+   margin-right: auto;
+   max-width: 700px;
+   transition: ease-in-out .3s;*/
 }
 span.citation {
     box-sizing: border-box;
@@ -1022,6 +1027,10 @@ figure.image-figure {
     float: right;
     box-sizing: border-box;
 }
+figure.image-figure.wide {
+   margin-left: 0;
+   margin-right: 0;
+}
 figure.wide, figure.tight {
    width: 100%;
    max-width: none;
@@ -1522,7 +1531,9 @@ li.go-to-complete-stream a.post-stream-card {
 }
 
 div.social-area {
-    margin-top: 20pt;
+   clear: both;
+   display: block;
+   margin-top: 20pt;
 }
 
 label.citation {

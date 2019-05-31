@@ -1,7 +1,28 @@
 <div class="social-area">
-  <!-- Place this tag where you want the +1 button to render. -->
-  <div class="g-plusone" data-size="tall" data-annotation="inline" data-width="300"></div>
+   <!--Facebook Comments Script -->
+   {% if page.lang == 'en' %}
+   <!-- en_US -->
+   <div id="fb-root"></div>
+   <script>
+      (function (d, s, id) {
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) return;
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+         fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+   {% else %}
+   <!-- fr_CA -->
+   <div id="fb-root"></div>
+   <script>
+      (function (d, s, id) {
+         var js, fjs = d.getElementsByTagName(s)[0];
+         if (d.getElementById(id)) return;
+         js = d.createElement(s); js.id = id;
+         js.src = "//connect.facebook.net/fr_CA/sdk.js#xfbml=1&version=v2.8";
+         fjs.parentNode.insertBefore(js, fjs);
+      }(document, 'script', 'facebook-jssdk'));</script>
+   {% endif %}
 
-  <!-- facebook comments -->
-  <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%" data-numposts="5"></div>
+   <div class="fb-comments" data-href="{{ site.url }}{{ page.url }}" data-width="100%" data-numposts="5"></div>
 </div>
