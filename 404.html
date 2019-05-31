@@ -9,27 +9,27 @@ lang: en
 ---
 <meta name="robots" content="noindex" />
 <div class="home">
-    <div class="page-feed">
-        <h1>The server is noncognisant of the page you requested</h1>
-        <p><code>404 error:</code> Either you made an error, or the link you accessed no longer exists.</p>
+   <div class="page-feed">
+      <h1>The server is noncognisant of the page you requested</h1>
+      <p><code>404 error:</code> Either you made an error, or the link you accessed no longer exists.</p>
         
-        <p class="headline">Perhaps you'll still be interested by the <strong>blog feed.</strong></p>
+      <p class="headline">Perhaps you'll still be interested by the <strong>blog feed.</strong></p>
         
-        <ul class="post-stream-container">
-          {% assign posts=site.posts | where:"lang", page.lang %}
-          {% for post in site.categories.blog %}
-          <li>
-            <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
-              <div class="hero-article-thumbnail"
-                   style="background-image: url( {{ post.hero-image }} )">
-                <strong class="article-title"><span>{{ post.title }}</span></strong>
-                <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
-              </div>
-              <div class="hero-article-headline">{{ post.headline }}</div>
-            </a>
-          </li>
-          {% endfor %}
-        </ul>
+      <ul class="post-stream-container">
+         {% assign posts=site.posts | where:"lang", page.lang %}
+         {% for post in site.categories.blog %}
+         <li>
+         <a href="{{ post.url | prepend: site.baseurl }}" class="post-stream-card">
+            <div class="hero-article-thumbnail"
+                  style="background-image: url( {{ post.hero-image }} )">
+               <strong class="article-title"><span>{{ post.title }}</span></strong>
+               <em class="article-subtitle"><span>{{ post.subtitle }}</span></em>
+            </div>
+            <div class="hero-article-headline">{{ post.headline }}</div>
+         </a>
+         </li>
+         {% endfor %}
+      </ul>
     
-    </div>
+   </div>
 </div>

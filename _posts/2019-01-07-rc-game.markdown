@@ -9,7 +9,7 @@ ref: unityrcgamepublish
 categories: blog
 tags: Unity C# game airplane simulation planet
 lang: en
-cta-link: ../../../../zip/PlanetaryDogfight.zip
+cta-link: https://denisglabrecque.itch.io/rc-dogfight-sim
 cta-link-title: Download for Windows
 ---
 <div markdown="1">
